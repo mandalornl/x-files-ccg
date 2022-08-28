@@ -22,38 +22,25 @@
               md="3"
             >
               <v-item v-slot="{ active, toggle }">
-                <v-tooltip
-                  top
-                  color="primary"
-                  open-delay="150"
-                  max-width="280"
+                <v-card
+                  :disabled="agent.disabled"
+                  :color="active ? 'primary' : undefined"
+                  flat
+                  outlined
+                  @click="toggle"
                 >
-                  <template #activator="{ on, attrs }">
-                    <v-card
-                      :disabled="agent.disabled"
-                      :color="active ? 'primary' : undefined"
-                      flat
-                      outlined
-                      @click="toggle"
-                    >
-                      <v-img
-                        :src="agent.image"
-                        :alt="agent.name"
-                        :aspect-ratio="750/1050"
-                        class="pa-1"
-                      >
-                        <v-icon
-                          color="primary"
-                          v-bind="attrs"
-                          v-on="on"
-                        >
-                          {{ active ? 'mdi-alien' : 'mdi-alien-outline' }}
-                        </v-icon>
-                      </v-img>
-                    </v-card>
-                  </template>
-                  <agent-game-text :agent="agent" />
-                </v-tooltip>
+                  <v-img
+                    :src="agent.image"
+                    :alt="agent.name"
+                    :aspect-ratio="750/1050"
+                  >
+                    <agent-tooltip
+                      :active="active"
+                      :agent="agent"
+                      content-class="ml-1 mt-1"
+                    />
+                  </v-img>
+                </v-card>
               </v-item>
             </v-col>
           </v-row>
