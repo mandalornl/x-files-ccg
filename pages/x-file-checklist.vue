@@ -17,7 +17,7 @@
       <tbody>
         <template v-for="(xFiles, groupIndex) in groups">
           <tr :key="groupIndex">
-            <th>X-File (left: {{ totalLeft }})</th>
+            <th>X-File ({{ totalLeft }} left)</th>
             <th>Affiliation</th>
             <th>Motive</th>
             <th>Method</th>
