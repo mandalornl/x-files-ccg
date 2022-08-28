@@ -106,7 +106,7 @@ export const xFiles = [
       method: 'Subterfuge',
       result: 'Death'
     },
-    'Centroal Operating Sys./AI': {
+    'Central Operating Sys./AI': {
       affiliation: 'Evolutionary',
       motive: 'Security',
       method: 'Violence',

@@ -246,7 +246,7 @@ export const agents = [
     health: 4,
     res: 1,
     cost: 4,
-    gameEffect: 'Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. in addition, if Janus is in the Field Section, he may "heal" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.'
+    gameEffect: 'Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may "heal" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.'
   },
   {
     name: 'Agent Moe Bocks',
