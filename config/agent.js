@@ -16,7 +16,7 @@ export const stats = {
   longRangeCombat: 'Long Range Combat',
   closeRangeCombat: 'Close Range Combat',
   health: 'Health',
-  res: 'Res',
+  res: 'Resources',
   cost: 'Cost'
 }
 
