@@ -26,7 +26,7 @@
             </v-card-text>
           </v-card>
           <v-expansion-panels
-            :value="[ 0 ]"
+            v-model="panels"
             multiple
           >
             <v-expansion-panel
@@ -204,7 +204,8 @@ export default {
         }
       },
       drawer: false,
-      selectedCard: null
+      selectedCard: null,
+      panels: [ 0 ]
     };
   },
 
