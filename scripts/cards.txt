@@ -6763,7 +6763,7 @@ Episode: Piper Maru
 Event -- Cost: 0 *P
 Keywords: Event
 Activators: Active, Conspiracy
-Game Text: Play this card and flip over the next card on your Bureau Deck. If that card is ploayable this turn you may do so for zero RP or CP. If you do not play it this turn, move the card to your discard pile.
+Game Text: Play this card and flip over the next card on your Bureau Deck. If that card is playable this turn you may do so for zero RP or CP. If you do not play it this turn, move the card to your discard pile.
 
 JE VOIS QUELQUE CHOSE LA AU-DESSOUS
 PR97-0010-FRE
