@@ -515,7 +515,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of thos needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved."
+    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved."
   },
   {
     "title": "Handcuff",
@@ -1800,7 +1800,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to preent one Agent assigned to a Site from contributing the Agentʹs skills to one skill check (your choice) that the Team makes this turn."
+    "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agentʹs skills to one skill check (your choice) that the Team makes this turn."
   },
   {
     "title": "Nasty Surprise",
@@ -1837,7 +1837,7 @@
     "gameText": "Decrease all of the skill levels on one Agent (your choice) by 1 for this turn only."
   },
   {
-    "title": "Radioactve Area",
+    "title": "Radioactive Area",
     "id": "XF96-0107v1",
     "set": "Premiere",
     "rarity": "Uncommon",
@@ -3317,7 +3317,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Change one Keyword to any other one Keyword on a card playd by your opponent."
+    "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent."
   },
   {
     "title": "Byers",
@@ -3538,7 +3538,7 @@
       "Active",
       "Subterfuge"
     ],
-    "gameText": "Adds 2 to one Agentʹs SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, rmove Bill Mulder from the game."
+    "gameText": "Adds 2 to one Agentʹs SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game."
   },
   {
     "title": "Charley Tskany",
@@ -3555,7 +3555,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Attach this Witness to a Team. This Witness will add his skills to the appropriate skill check like an Agent, CRC: 2, LRC: 2, and HEALTH: 3. If he is sent to the Hospital, or at any time there are no Agents in the Team, rmove the card from the game."
+    "gameText": "Attach this Witness to a Team. This Witness will add his skills to the appropriate skill check like an Agent, CRC: 2, LRC: 2, and HEALTH: 3. If he is sent to the Hospital, or at any time there are no Agents in the Team, remove the card from the game."
   },
   {
     "title": "Dr. Osborne",
@@ -3629,7 +3629,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to one Teamʹs SUBTERFUGE skill checkk once per turn. You may have any number of Samantha Mulder cards in play."
+    "gameText": "Adds 1 to one Teamʹs SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play."
   },
   {
     "title": "Max Fenig",
@@ -5479,7 +5479,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addtion has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill."
   },
   {
     "title": "Samuel Hartley",
@@ -5747,7 +5747,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agentʹs BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agentʹs Team when investigating a Site, even when thay would otherwise be barred from doing so."
+    "gameText": "Adds 2 to the Agentʹs BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agentʹs Team when investigating a Site, even when they would otherwise be barred from doing so."
   },
   {
     "title": "Walther PPK 7.65 Hold Out Weapon",
@@ -6049,7 +6049,7 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonout blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Cambat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
+    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Cambat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
   },
   {
     "title": "The Host Attacks",
@@ -6147,7 +6147,7 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat raing on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
+    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
   },
   {
     "title": "Abduction",
@@ -6980,7 +6980,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of thos needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved."
+    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved."
   },
   {
     "title": "Handcuff",
@@ -8246,7 +8246,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to preent one Agent assigned to a Site from contributing the Agentʹs skills to one skill check (your choice) that the Team makes this turn."
+    "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agentʹs skills to one skill check (your choice) that the Team makes this turn."
   },
   {
     "title": "Nasty Surprise",
@@ -8266,7 +8266,7 @@
     "gameText": "Play to add five tokens to your pool."
   },
   {
-    "title": "Radioactve Area",
+    "title": "Radioactive Area",
     "id": "XF97-0107v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
@@ -9817,7 +9817,7 @@
       "Active",
       "Subterfuge"
     ],
-    "gameText": "Adds 2 to one Agentʹs SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, rmove Bill Mulder from the game."
+    "gameText": "Adds 2 to one Agentʹs SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game."
   },
   {
     "title": "Sir Malcolm Marsden",
@@ -9853,7 +9853,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to one Teamʹs SUBTERFUGE skill checkk once per turn. You may have any number of Samantha Mulder cards in play."
+    "gameText": "Adds 1 to one Teamʹs SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play."
   },
   {
     "title": "Max Fenig",
@@ -11383,7 +11383,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addtion has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill."
   },
   {
     "title": "Samuel Hartley",
@@ -11651,7 +11651,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agentʹs BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agentʹs Team when investigating a Site, even when thay would otherwise be barred from doing so."
+    "gameText": "Adds 2 to the Agentʹs BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agentʹs Team when investigating a Site, even when they would otherwise be barred from doing so."
   },
   {
     "title": "Walther PPK 7.65 Hold Out Weapon",
@@ -11929,7 +11929,7 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonout blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Cambat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
+    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Cambat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
   },
   {
     "title": "The Host Attacks",
@@ -12027,7 +12027,7 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat raing on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
+    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
   },
   {
     "title": "Abduction",
@@ -15497,7 +15497,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Play this card and flip over the next card on your Bureau Deck. If that card is ploayable this turn you may do so for zero RP or CP. If you do not play it this turn, move the card to your discard pile."
+    "gameText": "Play this card and flip over the next card on your Bureau Deck. If that card is playable this turn you may do so for zero RP or CP. If you do not play it this turn, move the card to your discard pile."
   },
   {
     "title": "Je Vois Quelque Chose La Au-Dessous",
