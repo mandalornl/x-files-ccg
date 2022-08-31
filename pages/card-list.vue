@@ -25,7 +25,10 @@
               />
             </v-card-text>
           </v-card>
-          <v-expansion-panels multiple>
+          <v-expansion-panels
+            :value="[ 0 ]"
+            multiple
+          >
             <v-expansion-panel
               v-for="(filter, key) in filters"
               :key="key"
@@ -85,27 +88,47 @@
         v-if="selectedCard"
         class="pa-3"
       >
-        <div class="mb-3">
-          <div class="font-weight-medium">
-            {{ selectedCard.title }}
-          </div>
-          <div class="text-body-2 text--secondary">
-            {{ selectedCard.id }}
-          </div>
-        </div>
-        <div
-          v-for="(props, key) in cardProps"
-          :key="key"
-          class="mb-3"
-        >
-          <div class="font-weight-medium">
-            {{ props.label }}
-          </div>
-          <component
-            :is="`CardType${props.type}`"
-            :value="selectedCard[key]"
-          />
-        </div>
+        <v-row>
+          <v-col
+            cols="12"
+            sm="6"
+            class="order-sm-1"
+          >
+            <v-img
+              :src="selectedCard.image"
+              :alt="selectedCard.name"
+              :aspect-ratio="750/1050"
+              class="grey darken-3"
+            />
+          </v-col>
+          <v-col
+            cols="12"
+            sm="6"
+          >
+            <div class="mb-3">
+              <div class="font-weight-medium">
+                {{ selectedCard.title }}
+              </div>
+              <div class="text-body-2 text--secondary">
+                {{ selectedCard.id }}
+              </div>
+            </div>
+            <div
+              v-for="(props, key) in cardProps"
+              :key="key"
+              class="mb-3"
+            >
+              <div class="font-weight-medium">
+                {{ props.label }}
+              </div>
+              <component
+                :is="`CardType${props.type}`"
+                :value="selectedCard[key]"
+                @click="updateFilterValue(key, $event)"
+              />
+            </div>
+          </v-col>
+        </v-row>
       </div>
     </v-navigation-drawer>
   </layout-default>
@@ -206,7 +229,10 @@ export default {
 
           return value.includes(card[key]);
         })
-      ));
+      )).map((card) => ({
+        ...card,
+        image: `/images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+      }));
     },
 
     routeQuery() {
@@ -334,6 +360,22 @@ export default {
     selectCard(item) {
       this.selectedCard = item;
       this.drawer = true;
+    },
+
+    updateFilterValue(key, value) {
+      this.search = '';
+      this.filters = Object.fromEntries(
+        Object.entries(this.filters).map(([
+          filterKey,
+          filter
+        ]) => ([
+          filterKey,
+          {
+            ...filter,
+            value: filterKey === key ? [ value ] : []
+          }
+        ]))
+      );
     }
   }
 }

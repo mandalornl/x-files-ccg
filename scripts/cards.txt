@@ -6598,7 +6598,7 @@ PR96-0001-SCR
 Found in: Scrye #17
 Episode: Die Hand Die Verletzt
 Adversary -- Cost: 10 CP
-LRC: 5; CRC: 8; Health: 10
+LRC: 5 CRC: 8 Health: 10
 Keywords: Adversary, Occult Creature, Phenomena, Master
 Activators: Conspiracy, Affiliation Site
 Game Text: The Dark Angel can play all combat cards for one Conspiracy less.

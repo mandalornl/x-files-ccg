@@ -15163,8 +15163,8 @@
     "type": "Adversary",
     "cost": "10 CP",
     "stats": {
-      "Long Range Combat": null,
-      "Close Range Combat": null,
+      "Long Range Combat": 5,
+      "Close Range Combat": 8,
       "Health": 10
     },
     "keywords": [
