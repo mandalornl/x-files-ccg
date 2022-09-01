@@ -337,6 +337,14 @@ export default {
     }
   },
 
+  mounted() {
+    Object.keys(this.filters).forEach((key) => {
+      this.$watch(`filters.${key}.value`, () => {
+        this.$set(this.options, 'page', 1);
+      });
+    });
+  },
+
   methods: {
     updateOptions({
       page,
