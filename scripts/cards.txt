@@ -5678,8 +5678,7 @@ AGENT BILL PATTERSON
 XF97-0396x1 -- Rare
 Episode: Grotesque
 Agent -- Cost: 6 RP
-Behavioral: 3; Criminal Investigation: 3; Evidence Collection: 3; Observation: 2; Occult Investigation: 1; Subterfuge: 1;
-LRC: 2, CRC: 3; Health: 5; RES: 2
+Stats: Behavioral: 3; Criminal Investigation: 3; Evidence Collection: 3; Observation: 2; Occult Investigation: 1; Subterfuge: 1; LRC: 2; CRC: 3; Health: 5; RES: 2
 Keywords: Agent, FBI, Law, Neutral, Believer
 Game Text: Once per game, Agent Patterson may attack any Team investigating a Site as if he were an Adversary with the appropriate Activators. If a card is played that Negates him he is placed back into his controllerʹs Field. If he is reduced to zero HEALTH, he is removed from the game.
 
@@ -5687,8 +5686,7 @@ AGENT DANNY PENDRELL
 XF97-0397x1 -- Rare
 Episode: 731
 Agent -- Cost: 6 RP
-Computer: 3; Criminal Investigation: 2; Evidence Collection: 3; Medical: 1; Observation: 2; Sciences: 3; LRC: 2, CRC: 2;
-Health: 4; RES: 1
+Stats: Computer: 3; Criminal Investigation: 2; Evidence Collection: 3; Medical: 1; Observation: 2; Sciences: 3; LRC: 2; CRC: 2; Health: 4; RES: 1
 Keywords: Agent, FBI, Law, Believer
 Game Text: Place three tokens on Agent Pendrell. During a skill check, discard one token to add 1 to Agent Pendrellʹs COMPUTER, SCIENCES, or MEDICAL skill.
 
@@ -5696,7 +5694,7 @@ AGENT FRED NEMHAUSER
 XF97-0398x1 -- Common
 Episode: Grotesque
 Agent -- Cost: 2 RP
-Behavioral: 1; Criminal Investigation: 1; Evidence Collection: 1; LRC: 2, CRC: 1; Health: 4; RES: 1
+Stats: Behavioral: 1; Criminal Investigation: 1; Evidence Collection: 1; LRC: 2; CRC: 1; Health: 4; RES: 1
 Keywords: Agent, FBI, Law
 Game Text: Agent Nemhauserʹs BEHAVIORAL and CRIMINAL INVESTIGATION skills are increased by one if he and Agent Patterson are on the same Team.
 
@@ -5704,7 +5702,7 @@ AGENT KRESKI
 XF97-0399x1 -- Common
 Episode: Oubliette
 Agent -- Cost: 1 RP
-Criminal Investigation: 1; LRC: 2, CRC: 2; Health: 4; RES: 0
+Stats: Criminal Investigation: 1; LRC: 2; CRC: 2; Health: 4; RES: 0
 Keywords: Agent, FBI, Law
 Game Text: Place one token on this card. Remove one token to negate a Keyword HEALING card played by your opponent.
 
@@ -5712,9 +5710,7 @@ CLYDE BRUCKMAN
 XF97-0400x1 -- Rare
 Episode: Clyde Bruckmanʹs Final Repose
 Agent -- Cost: 5 RP
-Criminal Investigation: 2; Evidence Collection: 4; Observation: 3; Occult Investigation: 3; LRC: 1, CRC: 1; Health: 3; RES:
-
-1
+Stats: Criminal Investigation: 2; Evidence Collection: 4; Observation: 3; Occult Investigation: 3; LRC: 1; CRC: 1; Health: 3; RES: 1
 Keywords: Agent, Independent, Believer
 Game Text: Place one token on this card. Remove one token to examine an opponentʹs hand and remove one of the cards in his hand from the game.
 
@@ -5722,8 +5718,7 @@ DETECTIVE ANGELA WHITE
 XF97-0401x1 -- Common
 Episode: Syzygy
 Agent -- Cost: 3 RP
-Behavioral: 1; Criminal Investigation: 1; Evidence Collection: 2; Observation: 1; Occult Investigation: 2; LRC: 1, CRC: 1;
-Health: 4; RES: 1
+Stats: Behavioral: 1; Criminal Investigation: 1; Evidence Collection: 2; Observation: 1; Occult Investigation: 2; LRC: 1; CRC: 1; Health: 4; RES: 1
 Keywords: Agent, Law, Independent, Believer
 Game Text: If Detective White is in the same Team as Agent Mulder, they both gain a +1 to their cumulative OCCULT INVESTIGATION and CRIMINAL INVESTIGATION skills, and a -1 to their OBSERVATION and BEHAVIORAL skills.
 
@@ -5731,7 +5726,7 @@ DETECTIVE MANNERS
 XF97-0402x1 -- Common
 Episode: Jose Chungʹs "From Outer Space"
 Agent -- Cost: 2 RP
-Criminal Investigation: 1; Evidence Collection: 1; Observation: 2; LRC: 1, CRC: 1; Health: 3; RES: 0
+Stats: Criminal Investigation: 1; Evidence Collection: 1; Observation: 2; LRC: 1; CRC: 1; Health: 3; RES: 0
 Keywords: Agent, Law, Independent
 Game Text: Place two tokens on Detective Manners. Discarrd one token to search through your Bureau deck and add a Witness to your opponent and shuffle the deck. Bluffs
 

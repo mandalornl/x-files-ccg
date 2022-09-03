@@ -13188,10 +13188,16 @@
     "type": "Agent",
     "cost": "6 RP",
     "stats": {
-      "Long Range Combat": null,
-      "Close Range Combat": null,
-      "Health": null,
-      "RES": 2
+      "Behavioral": 3,
+      "Criminal Investigation": 3,
+      "Evidence Collection": 3,
+      "Observation": 2,
+      "Occult Investigation": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 3,
+      "Health": 5,
+      "Resources": 2
     },
     "keywords": [
       "Agent",
@@ -13210,6 +13216,18 @@
     "episode": "731",
     "type": "Agent",
     "cost": "6 RP",
+    "stats": {
+      "Computer": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 3,
+      "Medical": 1,
+      "Observation": 2,
+      "Sciences": 3,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
     "keywords": [
       "Agent",
       "FBI",
@@ -13226,6 +13244,15 @@
     "episode": "Grotesque",
     "type": "Agent",
     "cost": "2 RP",
+    "stats": {
+      "Behavioral": 1,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
     "keywords": [
       "Agent",
       "FBI",
@@ -13241,6 +13268,13 @@
     "episode": "Oubliette",
     "type": "Agent",
     "cost": "1 RP",
+    "stats": {
+      "Criminal Investigation": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 0
+    },
     "keywords": [
       "Agent",
       "FBI",
@@ -13255,7 +13289,23 @@
     "rarity": "Rare",
     "episode": "Clyde Bruckmanʹs Final Repose",
     "type": "Agent",
-    "cost": "5 RP"
+    "cost": "5 RP",
+    "stats": {
+      "Criminal Investigation": 2,
+      "Evidence Collection": 4,
+      "Observation": 3,
+      "Occult Investigation": 3,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "gameText": "Place one token on this card. Remove one token to examine an opponentʹs hand and remove one of the cards in his hand from the game."
   },
   {
     "title": "Detective Angela White",
@@ -13265,6 +13315,17 @@
     "episode": "Syzygy",
     "type": "Agent",
     "cost": "3 RP",
+    "stats": {
+      "Behavioral": 1,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 2,
+      "Observation": 1,
+      "Occult Investigation": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
     "keywords": [
       "Agent",
       "Law",
@@ -13281,6 +13342,15 @@
     "episode": "Jose Chungʹs \"From Outer Space\"",
     "type": "Agent",
     "cost": "2 RP",
+    "stats": {
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Observation": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 0
+    },
     "keywords": [
       "Agent",
       "Law",
