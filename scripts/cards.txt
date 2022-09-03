@@ -6520,7 +6520,7 @@ PENNY NORTHERN
 XF97-0501x1 -- Common
 Episode: Nisei
 Witness -- Cost: 2 RP
-Keywords: Witness, Alien Investicationk, Sciences
+Keywords: Witness, Alien Investigation, Sciences
 Activators: Active
 Game Text: Adds 1 to one Teamʹs ALIEN INVESTIGATION or SCIENCES skill check.
 
