@@ -83,6 +83,8 @@
       fixed
       temporary
       right
+      disable-route-watcher
+      mobile-breakpoint="0"
     >
       <div
         v-if="selectedCard"
@@ -100,6 +102,24 @@
               :aspect-ratio="750/1050"
               class="grey darken-3"
             />
+            <div class="d-flex justify-space-between mt-1">
+              <v-btn
+                :disabled="cardIndex === -1 || cardIndex === 0"
+                icon
+                title="Previous"
+                @click="selectedCard = items[cardIndex - 1]"
+              >
+                <v-icon>mdi-chevron-left</v-icon>
+              </v-btn>
+              <v-btn
+                :disabled="cardIndex === -1 || cardIndex === items.length - 1"
+                icon
+                title="Next"
+                @click="selectedCard = items[cardIndex + 1]"
+              >
+                <v-icon>mdi-chevron-right</v-icon>
+              </v-btn>
+            </div>
           </v-col>
           <v-col
             cols="12"
@@ -163,7 +183,7 @@ export default {
       search: this.$route.query.q ?? '',
       options: {
         page: Number(this.$route.query.page ?? 1),
-        itemsPerPage: Number(this.$route.query.itemsPerPage ?? 10),
+        itemsPerPage: Number(this.$route.query.itemsPerPage ?? 25),
         sortBy: this.$route.query.sortBy ?? null,
         sortDesc: this.$route.query.sortDesc === 'true'
       },
@@ -205,12 +225,13 @@ export default {
       },
       drawer: false,
       selectedCard: null,
-      panels: [ 0 ]
+      panels: [ 0 ],
+      timeoutId: null
     };
   },
 
   head: () => ({
-    title: 'Cards'
+    title: 'Card List'
   }),
 
   computed: {
@@ -239,6 +260,7 @@ export default {
     routeQuery() {
       return {
         q: this.search || undefined,
+        id: this.selectedCard?.id,
         ...this.options,
         ...Object.fromEntries(
           Object.entries(this.filters).map(([
@@ -309,6 +331,10 @@ export default {
           }
         }).filter(([ key ]) => !!this.selectedCard?.[key])
       );
+    },
+
+    cardIndex() {
+      return this.items.findIndex(({ id }) => id === this.selectedCard?.id);
     }
   },
 
@@ -318,31 +344,49 @@ export default {
     },
 
     routeQuery(value) {
-      const { href } = this.$router.resolve({
-        query: {
-          ...this.$route.query,
-          ...value
-        }
-      });
+      clearTimeout(this.timeoutId);
 
-      if (href !== this.$route.fullPath) {
-        this.$router.replace(href);
-      }
+      this.timeoutId = setTimeout(() => {
+        const { href } = this.$router.resolve({
+          query: {
+            ...this.$route.query,
+            ...value
+          }
+        });
+
+        if (href !== this.$route.fullPath) {
+          this.$router.replace(href);
+        }
+      }, 0);
     },
 
     drawer(value) {
       if (!value) {
         this.selectedCard = null;
       }
+    },
+
+    selectedCard(value) {
+      this.drawer = !!value;
+    },
+
+    cardIndex(value) {
+      this.$set(this.options, 'page', Math.floor(value / this.options.itemsPerPage) + 1);
     }
   },
 
   mounted() {
+    this.selectedCard = this.items.find(({ id }) => id === this.$route.query.id);
+
     Object.keys(this.filters).forEach((key) => {
       this.$watch(`filters.${key}.value`, () => {
         this.$set(this.options, 'page', 1);
       });
     });
+  },
+
+  beforeDestroy () {
+    clearTimeout(this.timeoutId);
   },
 
   methods: {
@@ -368,11 +412,12 @@ export default {
 
     selectCard(item) {
       this.selectedCard = item;
-      this.drawer = true;
     },
 
     updateFilterValue(key, value) {
       this.search = '';
+      this.selectedCard = null;
+
       this.filters = Object.fromEntries(
         Object.entries(this.filters).map(([
           filterKey,
