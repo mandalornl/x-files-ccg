@@ -25,6 +25,18 @@
               />
             </v-card-text>
           </v-card>
+          <v-expand-transition>
+            <div v-if="hasAnyFilters">
+              <v-btn
+                small
+                depressed
+                class="mb-3"
+                @click="clearAllFilters"
+              >
+                Clear filters
+              </v-btn>
+            </div>
+          </v-expand-transition>
           <v-expansion-panels
             v-model="panels"
             multiple
@@ -37,18 +49,62 @@
                 {{ filter.label }} ({{ filter.value.length }})
               </v-expansion-panel-header>
               <v-expansion-panel-content>
+                <v-btn-toggle
+                  v-if="filter.operator !== undefined"
+                  v-model="filters[key].operator"
+                  dense
+                  mandatory
+                  borderless
+                >
+                  <v-btn
+                    small
+                    depressed
+                    value="and"
+                  >
+                    And
+                  </v-btn>
+                  <v-btn
+                    small
+                    depressed
+                    value="or"
+                  >
+                    Or
+                  </v-btn>
+                </v-btn-toggle>
                 <v-checkbox
-                  v-for="(label, index) in filter.items"
+                  v-for="(label, index) in filter.items.slice(0, 6)"
                   :key="label"
                   v-model="filters[key].value"
                   :value="label"
                   :label="label"
                   :hide-details="index !== filter.items.length - 1"
-                  :class="index === 0 ? 'mt-0 pt-0' : undefined"
+                  :class="filter.operator === undefined && index === 0 ? 'mt-0 pt-0' : undefined"
                   multiple
                 />
+                <template v-if="filter.expandable">
+                  <v-expand-transition>
+                    <div v-if="filter.expanded">
+                      <v-checkbox
+                        v-for="(label, index) in filter.items.slice(6)"
+                        :key="label"
+                        v-model="filters[key].value"
+                        :value="label"
+                        :label="label"
+                        :hide-details="index !== filter.items.length - 1"
+                        multiple
+                      />
+                    </div>
+                  </v-expand-transition>
+                  <v-switch
+                    v-model="filters[key].expanded"
+                    :label="filter.expanded ? 'Less' : 'More'"
+                    dense
+                  />
+                </template>
                 <v-btn
                   :disabled="filter.value.length === 0"
+                  small
+                  depressed
                   @click="filters[key].value = []"
                 >
                   Clear
@@ -71,9 +127,10 @@
           :footer-props="footerProps"
           :sort-by="options.sortBy"
           :sort-desc="options.sortDesc"
+          :custom-filter="customFilter"
           mobile-breakpoint="0"
           @update:options="updateOptions"
-          @click:row="selectCard"
+          @click:row="selectedCard = $event"
         />
       </v-col>
     </v-row>
@@ -176,7 +233,7 @@ export default {
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Set', value: 'set', filterable: false },
-        { text: 'Title', value: 'title' },
+        { text: 'Title', value: 'title', filterable: false },
         { text: 'Type', value: 'type', filterable: false },
         { text: 'Rarity', value: 'rarity', filterable: false }
       ],
@@ -196,33 +253,53 @@ export default {
         ],
         showFirstLastPage: true
       },
-      filters: {
-        set: {
-          label: 'Set',
-          value: this.getRouteQueryFilterValue('set'),
-          items: sets
-        },
-        type: {
-          label: 'Type',
-          value: this.getRouteQueryFilterValue('type'),
-          items: types
-        },
-        activators: {
-          label: 'Activators',
-          value: this.getRouteQueryFilterValue('activators'),
-          items: activators
-        },
-        keywords: {
-          label: 'Keywords',
-          value: this.getRouteQueryFilterValue('keywords'),
-          items: keywords
-        },
-        rarity: {
-          label: 'Rarity',
-          value: this.getRouteQueryFilterValue('rarity'),
-          items: rarities
-        }
-      },
+      filters: Object.fromEntries(
+        Object.entries({
+          set: {
+            label: 'Set',
+            items: sets
+          },
+          type: {
+            label: 'Type',
+            items: types
+          },
+          keywords: {
+            label: 'Keywords',
+            items: keywords,
+            operator: 'or'
+          },
+          activators: {
+            label: 'Activators',
+            items: activators
+          },
+          rarity: {
+            label: 'Rarity',
+            items: rarities
+          }
+        }).map(([
+          key,
+          {
+            operator,
+            ...filter
+          }
+        ]) => {
+          const value = this.$route.query[key] ?? '';
+          const and = value.includes('+');
+
+          return [
+            key,
+            {
+              ...filter,
+              value: value
+                .split(and ? '+' : ',')
+                .filter(Boolean),
+              operator: and ? 'and' : operator,
+              expandable: filter.items.length > 6,
+              expanded: false
+            }
+          ];
+        })
+      ),
       drawer: false,
       selectedCard: null,
       panels: [ 0 ],
@@ -239,14 +316,21 @@ export default {
       return cards.filter((card) => (
         Object.entries(this.filters).every(([
           key,
-          { value }
+          {
+            value,
+            operator
+          }
         ]) => {
           if (value.length === 0) {
             return true;
           }
 
           if (Array.isArray(card[key])) {
-            return value.some((str) => card[key].includes(str));
+            if (operator === 'and') {
+              return value.every((value) => card[key].includes(value));
+            }
+
+            return value.some((value) => card[key].includes(value));
           }
 
           return value.includes(card[key]);
@@ -265,10 +349,13 @@ export default {
         ...Object.fromEntries(
           Object.entries(this.filters).map(([
             key,
-            { value }
+            {
+              value,
+              operator
+            }
           ]) => ([
             key,
-            value.length > 0 ? value.join(',') : undefined
+            value.length > 0 ? value.join(operator === 'and' ? '+' : ',') : undefined
           ]))
         )
       };
@@ -335,6 +422,10 @@ export default {
 
     cardIndex() {
       return this.items.findIndex(({ id }) => id === this.selectedCard?.id);
+    },
+
+    hasAnyFilters() {
+      return Object.values(this.filters).some(({ value }) => value.length > 0);
     }
   },
 
@@ -404,16 +495,6 @@ export default {
       };
     },
 
-    getRouteQueryFilterValue(key) {
-      return (this.$route.query[key] ?? '')
-        .split(',')
-        .filter(Boolean);
-    },
-
-    selectCard(item) {
-      this.selectedCard = item;
-    },
-
     updateFilterValue(key, value) {
       this.search = '';
       this.selectedCard = null;
@@ -427,6 +508,29 @@ export default {
           {
             ...filter,
             value: filterKey === key ? [ value ] : []
+          }
+        ]))
+      );
+    },
+
+    customFilter: (value, search, item) => ([
+      value,
+      item.title,
+      item.gameText
+    ].filter(Boolean).some((value) => (
+      value.toLocaleLowerCase().includes(search.toLocaleLowerCase())
+    ))),
+
+    clearAllFilters() {
+      this.filters = Object.fromEntries(
+        Object.entries(this.filters).map(([
+          key,
+          filter
+        ]) => ([
+          key,
+          {
+            ...filter,
+            value: []
           }
         ]))
       );
