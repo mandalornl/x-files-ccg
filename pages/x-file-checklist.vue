@@ -4,12 +4,18 @@
       <v-spacer />
       <v-btn
         :disabled="snapshot.length === 0"
+        small
+        depressed
         class="mr-1"
         @click="undo"
       >
         Undo
       </v-btn>
-      <v-btn @click="reset">
+      <v-btn
+        small
+        depressed
+        @click="reset"
+      >
         Reset
       </v-btn>
     </div>
