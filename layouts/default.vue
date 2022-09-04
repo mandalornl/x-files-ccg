@@ -91,20 +91,14 @@ export default {
         icon: 'mdi-home'
       },
       {
-        label: 'Deck Building',
-        icon: 'mdi-cards',
-        children: [
-          {
-            to: '/agent-selector',
-            label: 'Agent Selector',
-            icon: 'mdi-police-badge'
-          },
-          {
-            to: '/card-list',
-            label: 'Card List',
-            icon: 'mdi-view-list'
-          }
-        ]
+        to: '/card-list',
+        label: 'Card List',
+        icon: 'mdi-cards'
+      },
+      {
+        to: '/agent-selector',
+        label: 'Agent Selector',
+        icon: 'mdi-police-badge'
       },
       {
         to: '/x-file-checklist',
