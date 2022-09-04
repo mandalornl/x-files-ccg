@@ -337,7 +337,7 @@ export default {
         })
       )).map((card) => ({
         ...card,
-        image: `/images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+        image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
       }));
     },
 

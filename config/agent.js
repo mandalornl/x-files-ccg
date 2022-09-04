@@ -23,7 +23,7 @@ export const stats = {
 export const agents = [
   {
     name: 'Agent Henderson',
-    image: '/images/pr96-0006-due-agent-henderson.jpg',
+    image: 'images/pr96-0006-due-agent-henderson.jpg',
     criminalInvestigation: 1,
     evidenceCollection: 3,
     observation: 2,
@@ -37,7 +37,7 @@ export const agents = [
   },
   {
     name: 'Section Chief Scott Blevins',
-    image: '/images/xf97-0160v2-section-chief-scott-blevins.jpg',
+    image: 'images/xf97-0160v2-section-chief-scott-blevins.jpg',
     alienInvestigation: 1,
     bureaucracy: 3,
     criminalInvestigation: 1,
@@ -52,7 +52,7 @@ export const agents = [
   },
   {
     name: 'Albert Hosteen',
-    image: '/images/xf97-0161v2-albert-hosteen.jpg',
+    image: 'images/xf97-0161v2-albert-hosteen.jpg',
     alienInvestigation: 2,
     medical: 2,
     observation: 1,
@@ -67,7 +67,7 @@ export const agents = [
   },
   {
     name: 'Lt. Brian Tillman, Aubry P.D.',
-    image: '/images/xf97-0164v2-lt-brian-tillman-aubry-pd.jpg',
+    image: 'images/xf97-0164v2-lt-brian-tillman-aubry-pd.jpg',
     bureaucracy: 1,
     criminalInvestigation: 2,
     evidenceCollection: 2,
@@ -82,7 +82,7 @@ export const agents = [
   },
   {
     name: 'Agent Rich',
-    image: '/images/xf97-0165v2-agent-rich.jpg',
+    image: 'images/xf97-0165v2-agent-rich.jpg',
     behavioral: 2,
     computer: 1,
     criminalInvestigation: 2,
@@ -97,7 +97,7 @@ export const agents = [
   },
   {
     name: 'Agent Lucy Kazdin',
-    image: '/images/xf97-0166v2-agent-lucy-kazdin.jpg',
+    image: 'images/xf97-0166v2-agent-lucy-kazdin.jpg',
     alienInvestigation: 1,
     behavioral: 3,
     computer: 1,
@@ -113,7 +113,7 @@ export const agents = [
   },
   {
     name: 'Agent Jack Willis',
-    image: '/images/xf97-0167v2-agent-jack-willis.jpg',
+    image: 'images/xf97-0167v2-agent-jack-willis.jpg',
     behavioral: 2,
     criminalInvestigation: 2,
     evidenceCollection: 2,
@@ -128,7 +128,7 @@ export const agents = [
   },
   {
     name: 'Inspector Phoebe Green',
-    image: '/images/xf97-0168v2-inspector-phoebe-green.jpg',
+    image: 'images/xf97-0168v2-inspector-phoebe-green.jpg',
     criminalInvestigation: 3,
     evidenceCollection: 2,
     observation: 3,
@@ -142,7 +142,7 @@ export const agents = [
   },
   {
     name: 'Agent Fox Mulder',
-    image: '/images/xf97-0169v2-agent-fox-mulder.jpg',
+    image: 'images/xf97-0169v2-agent-fox-mulder.jpg',
     alienInvestigation: 4,
     behavioral: 3,
     criminalInvestigation: 2,
@@ -160,7 +160,7 @@ export const agents = [
   },
   {
     name: 'Agent Alex Krycek',
-    image: '/images/xf97-0170v2-agent-alex-krycek.jpg',
+    image: 'images/xf97-0170v2-agent-alex-krycek.jpg',
     alienInvestigation: 3,
     criminalInvestigation: 2,
     evidenceCollection: 2,
@@ -175,7 +175,7 @@ export const agents = [
   },
   {
     name: 'Agent Nancy Spiller',
-    image: '/images/xf97-0171v2-agent-nancy-spiller.jpg',
+    image: 'images/xf97-0171v2-agent-nancy-spiller.jpg',
     bureaucracy: 2,
     computer: 1,
     criminalInvestigation: 1,
@@ -191,7 +191,7 @@ export const agents = [
   },
   {
     name: 'Agent Dana Scully',
-    image: '/images/xf97-0173v2-agent-dana-scully.jpg',
+    image: 'images/xf97-0173v2-agent-dana-scully.jpg',
     behavioral: 1,
     criminalInvestigation: 2,
     evidenceCollection: 2,
@@ -208,7 +208,7 @@ export const agents = [
   },
   {
     name: 'Dr. Charles Burk',
-    image: '/images/xf97-0175v2-dr-charles-burk.jpg',
+    image: 'images/xf97-0175v2-dr-charles-burk.jpg',
     alienInvestigation: 1,
     computer: 4,
     observation: 1,
@@ -223,7 +223,7 @@ export const agents = [
   },
   {
     name: 'Agent Tom Colton',
-    image: '/images/xf97-0176v2-agent-tom-colton.jpg',
+    image: 'images/xf97-0176v2-agent-tom-colton.jpg',
     behavioral: 1,
     bureaucracy: 1,
     criminalInvestigation: 2,
@@ -237,7 +237,7 @@ export const agents = [
   },
   {
     name: 'Agent Janus, Trained Medic',
-    image: '/images/xf97-0177v2-agent-janus-trained-medic.jpg',
+    image: 'images/xf97-0177v2-agent-janus-trained-medic.jpg',
     computer: 2,
     evidenceCollection: 1,
     medical: 3,
@@ -250,7 +250,7 @@ export const agents = [
   },
   {
     name: 'Agent Moe Bocks',
-    image: '/images/xf97-0178v2-agent-moe-bocks.jpg',
+    image: 'images/xf97-0178v2-agent-moe-bocks.jpg',
     alienInvestigation: 2,
     bureaucracy: 1,
     criminalInvestigation: 3,
@@ -266,7 +266,7 @@ export const agents = [
   },
   {
     name: 'Agent Reggie Purdue',
-    image: '/images/xf97-0179v2-agent-reggie-purdue.jpg',
+    image: 'images/xf97-0179v2-agent-reggie-purdue.jpg',
     behavioral: 1,
     computer: 2,
     criminalInvestigation: 2,
@@ -282,7 +282,7 @@ export const agents = [
   },
   {
     name: 'Assistant Director Walter Skinner',
-    image: '/images/xf97-0180v2-assistant-director-walter-skinner.jpg',
+    image: 'images/xf97-0180v2-assistant-director-walter-skinner.jpg',
     bureaucracy: 4,
     criminalInvestigation: 3,
     evidenceCollection: 2,
@@ -296,7 +296,7 @@ export const agents = [
   },
   {
     name: 'Agent Weiss',
-    image: '/images/xf97-0181v2-agent-weiss.jpg',
+    image: 'images/xf97-0181v2-agent-weiss.jpg',
     computer: 1,
     criminalInvestigation: 1,
     observation: 2,
@@ -310,7 +310,7 @@ export const agents = [
   },
   {
     name: 'Agent Jerry Lamana',
-    image: '/images/xf97-0182v2-agent-jerry-lamana.jpg',
+    image: 'images/xf97-0182v2-agent-jerry-lamana.jpg',
     bureaucracy: 2,
     computer: 3,
     criminalInvestigation: 1,
@@ -324,7 +324,7 @@ export const agents = [
   },
   {
     name: 'Agent Karen Kosseff, Counselor',
-    image: '/images/xf97-0183v2-agent-karen-kosseff-counselor.jpg',
+    image: 'images/xf97-0183v2-agent-karen-kosseff-counselor.jpg',
     behavioral: 3,
     criminalInvestigation: 1,
     evidenceCollection: 1,
@@ -339,7 +339,7 @@ export const agents = [
   },
   {
     name: 'Agent Bill Patterson',
-    image: '/images/xf97-0396x1-agent-bill-patterson.jpg',
+    image: 'images/xf97-0396x1-agent-bill-patterson.jpg',
     behavioral: 3,
     criminalInvestigation: 3,
     evidenceCollection: 3,
@@ -355,7 +355,7 @@ export const agents = [
   },
   {
     name: 'Agent Danny Pendrell',
-    image: '/images/xf97-0397x1-agent-danny-pendrell.jpg',
+    image: 'images/xf97-0397x1-agent-danny-pendrell.jpg',
     computer: 3,
     criminalInvestigation: 2,
     evidenceCollection: 3,
@@ -371,7 +371,7 @@ export const agents = [
   },
   {
     name: 'Agent Fred Nemhauser',
-    image: '/images/xf97-0398x1-agent-fred-nemhauser.jpg',
+    image: 'images/xf97-0398x1-agent-fred-nemhauser.jpg',
     behavioral: 1,
     criminalInvestigation: 1,
     evidenceCollection: 1,
@@ -384,7 +384,7 @@ export const agents = [
   },
   {
     name: 'Agent Kreski',
-    image: '/images/xf97-0399x1-agent-kreski.jpg',
+    image: 'images/xf97-0399x1-agent-kreski.jpg',
     criminalInvestigation: 1,
     longRangeCombat: 2,
     closeRangeCombat: 2,
@@ -395,7 +395,7 @@ export const agents = [
   },
   {
     name: 'Clyde Bruckman',
-    image: '/images/xf97-0400x1-clyde-bruckman.jpg',
+    image: 'images/xf97-0400x1-clyde-bruckman.jpg',
     criminalInvestigation: 2,
     evidenceCollection: 4,
     observation: 3,
@@ -409,7 +409,7 @@ export const agents = [
   },
   {
     name: 'Detective Angela White',
-    image: '/images/xf97-0401x1-detective-angela-white.jpg',
+    image: 'images/xf97-0401x1-detective-angela-white.jpg',
     behavioral: 1,
     criminalInvestigation: 1,
     evidenceCollection: 2,
@@ -424,7 +424,7 @@ export const agents = [
   },
   {
     name: 'Detective Manners',
-    image: '/images/xf97-0402x1-detective-manners.jpg',
+    image: 'images/xf97-0402x1-detective-manners.jpg',
     criminalInvestigation: 1,
     evidenceCollection: 1,
     observation: 2,
@@ -437,7 +437,7 @@ export const agents = [
   },
   {
     name: 'Agent Bonnecaze',
-    image: '/images/xf97-0520x2-agent-bonnecaze.jpg',
+    image: 'images/xf97-0520x2-agent-bonnecaze.jpg',
     bureaucracy: 2,
     criminalInvestigation: 2,
     evidenceCollection: 2,
@@ -450,7 +450,7 @@ export const agents = [
   },
   {
     name: 'Detective Glen Chao',
-    image: '/images/xf97-0521x2-detective-glen-chao.jpg',
+    image: 'images/xf97-0521x2-detective-glen-chao.jpg',
     bureaucracy: 1,
     criminalInvestigation: 1,
     evidenceCollection: 1,
@@ -464,7 +464,7 @@ export const agents = [
   },
   {
     name: 'Agent Brian Fuller',
-    image: '/images/xf97-0522x2-agent-brian-fuller.jpg',
+    image: 'images/xf97-0522x2-agent-brian-fuller.jpg',
     criminalInvestigation: 1,
     subterfuge: 1,
     longRangeCombat: 2,
@@ -476,7 +476,7 @@ export const agents = [
   },
   {
     name: 'Agent Frank Burst',
-    image: '/images/xf97-0523x2-agent-frank-burst.jpg',
+    image: 'images/xf97-0523x2-agent-frank-burst.jpg',
     behavioral: 2,
     criminalInvestigation: 3,
     evidenceCollection: 2,
@@ -489,7 +489,7 @@ export const agents = [
   },
   {
     name: 'Agent Linda Caleca',
-    image: '/images/xf97-0524x2-agent-linda-caleca.jpg',
+    image: 'images/xf97-0524x2-agent-linda-caleca.jpg',
     criminalInvestigation: 1,
     evidenceCollection: 1,
     observation: 1,
@@ -502,7 +502,7 @@ export const agents = [
   },
   {
     name: 'Lieutenant Brophy',
-    image: '/images/xf97-0525x2-lieutenant-brophy.jpg',
+    image: 'images/xf97-0525x2-lieutenant-brophy.jpg',
     criminalInvestigation: 2,
     evidenceCollection: 1,
     longRangeCombat: 4,
@@ -514,7 +514,7 @@ export const agents = [
   },
   {
     name: 'Deputy Barney Pastor',
-    image: '/images/xf22-0001x3-deputy-barney-paster.jpg',
+    image: 'images/xf22-0001x3-deputy-barney-paster.jpg',
     behavioral: 1,
     computer: 1,
     criminalInvestigation: 2,
@@ -529,7 +529,7 @@ export const agents = [
   },
   {
     name: 'Mike Millar, NTSB',
-    image: '/images/xf22-0002x3-mike-millar-ntsb.jpg',
+    image: 'images/xf22-0002x3-mike-millar-ntsb.jpg',
     alienInvestigation: 1,
     bureaucracy: 2,
     computer: 3,
@@ -545,7 +545,7 @@ export const agents = [
   },
   {
     name: 'Agent Kautz',
-    image: '/images/xf22-0003x3-agent-kautz.jpg',
+    image: 'images/xf22-0003x3-agent-kautz.jpg',
     bureaucracy: 1,
     computer: 1,
     criminalInvestigation: 2,
@@ -560,7 +560,7 @@ export const agents = [
   },
   {
     name: 'Detective Hudak',
-    image: '/images/xf22-0004x3-detective-hudak.jpg',
+    image: 'images/xf22-0004x3-detective-hudak.jpg',
     behavioral: 2,
     bureaucracy: 1,
     criminalInvestigation: 2,
@@ -575,7 +575,7 @@ export const agents = [
   },
   {
     name: 'Detective John Munch',
-    image: '/images/xf22-0005x3-detective-john-munch.jpg',
+    image: 'images/xf22-0005x3-detective-john-munch.jpg',
     behavioral: 2,
     bureaucracy: 2,
     criminalInvestigation: 3,
@@ -591,7 +591,7 @@ export const agents = [
   },
   {
     name: 'Agent Hedin',
-    image: '/images/xf22-0006x3-agent-hedin.jpg',
+    image: 'images/xf22-0006x3-agent-hedin.jpg',
     computer: 3,
     criminalInvestigation: 1,
     evidenceCollection: 2,
