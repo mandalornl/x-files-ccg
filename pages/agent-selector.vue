@@ -202,14 +202,14 @@ export default {
     selected(values) {
       const selected = [ ...values ].sort((a, b) => a - b);
 
-      const { href } = this.$router.resolve({
+      const { route } = this.$router.resolve({
         query: {
           selected: selected.length > 0 ? selected.join(',') : undefined
         }
       });
 
-      if (href !== this.$route.fullPath) {
-        this.$router.replace(href);
+      if (route.fullPath !== this.$route.fullPath) {
+        this.$router.replace(route);
       }
     }
   },

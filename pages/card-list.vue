@@ -438,15 +438,15 @@ export default {
       clearTimeout(this.timeoutId);
 
       this.timeoutId = setTimeout(() => {
-        const { href } = this.$router.resolve({
+        const { route } = this.$router.resolve({
           query: {
             ...this.$route.query,
             ...value
           }
         });
 
-        if (href !== this.$route.fullPath) {
-          this.$router.replace(href);
+        if (route.fullPath !== this.$route.fullPath) {
+          this.$router.replace(route);
         }
       }, 0);
     },
