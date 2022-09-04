@@ -1,9 +1,15 @@
+const isDev = process.env.NODE_ENV === 'development';
+
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+
+  router: {
+    base: isDev ? '/' : '/x-files-ccg/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
