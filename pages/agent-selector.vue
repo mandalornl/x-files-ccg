@@ -52,8 +52,9 @@
         md="3"
       >
         <v-card
+          :style="`top:${$vuetify.application.top}px`"
           flat
-          :style="`position:sticky;top:${$vuetify.application.top}px`"
+          class="position-sticky"
         >
           <v-card-title>
             Stats

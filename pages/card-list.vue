@@ -5,7 +5,10 @@
         sm="4"
         md="3"
       >
-        <div :style="`position:sticky;top:${$vuetify.application.top}px`">
+        <div
+          :style="`top:${$vuetify.application.top}px`"
+          class="position-sticky"
+        >
           <v-card
             flat
             class="mb-3"
@@ -49,66 +52,17 @@
                 {{ filter.label }} ({{ filter.value.length }})
               </v-expansion-panel-header>
               <v-expansion-panel-content>
-                <v-btn-toggle
+                <card-filter-operator
                   v-if="filter.operator !== undefined"
                   v-model="filters[key].operator"
-                  dense
-                  mandatory
-                  borderless
-                >
-                  <v-btn
-                    small
-                    depressed
-                    value="and"
-                  >
-                    And
-                  </v-btn>
-                  <v-btn
-                    small
-                    depressed
-                    value="or"
-                  >
-                    Or
-                  </v-btn>
-                </v-btn-toggle>
-                <v-checkbox
-                  v-for="(label, index) in filter.items.slice(0, 6)"
-                  :key="label"
-                  v-model="filters[key].value"
-                  :value="label"
-                  :label="label"
-                  :hide-details="index !== filter.items.length - 1"
-                  :class="filter.operator === undefined && index === 0 ? 'mt-0 pt-0' : undefined"
-                  multiple
                 />
-                <template v-if="filter.expandable">
-                  <v-expand-transition>
-                    <div v-if="filter.expanded">
-                      <v-checkbox
-                        v-for="(label, index) in filter.items.slice(6)"
-                        :key="label"
-                        v-model="filters[key].value"
-                        :value="label"
-                        :label="label"
-                        :hide-details="index !== filter.items.length - 1"
-                        multiple
-                      />
-                    </div>
-                  </v-expand-transition>
-                  <v-switch
-                    v-model="filters[key].expanded"
-                    :label="filter.expanded ? 'Less' : 'More'"
-                    dense
-                  />
-                </template>
-                <v-btn
-                  :disabled="filter.value.length === 0"
-                  small
-                  depressed
-                  @click="filters[key].value = []"
-                >
-                  Clear
-                </v-btn>
+                <card-filter-checkbox
+                  v-model="filters[key].value"
+                  :type="key"
+                  :items="filter.items"
+                  :operator="filter.operator"
+                  :cards="cards"
+                />
               </v-expansion-panel-content>
             </v-expansion-panel>
           </v-expansion-panels>
@@ -119,19 +73,37 @@
         md="9"
       >
         <v-data-table
-          :search="search"
+          v-intersect="{
+            handler: onIntersect,
+            options: {
+              rootMargin: `-${$vuetify.application.top}px 0px 0px`
+            }
+          }"
           :headers="headers"
-          :items="items"
+          :items="cards"
           :page="options.page"
           :items-per-page="options.itemsPerPage"
           :footer-props="footerProps"
           :sort-by="options.sortBy"
           :sort-desc="options.sortDesc"
-          :custom-filter="customFilter"
           mobile-breakpoint="0"
           @update:options="updateOptions"
           @click:row="selectedCard = $event"
         />
+        <v-fade-transition>
+          <div
+            v-if="!intersecting"
+            class="position-sticky"
+          >
+            <v-btn
+              depressed
+              class="d-block mx-auto"
+              @click="$vuetify.goTo(0)"
+            >
+              {{ cards.length }} {{ cards.length === 1 ? 'result' : 'results' }} found
+            </v-btn>
+          </div>
+        </v-fade-transition>
       </v-col>
     </v-row>
     <v-navigation-drawer
@@ -164,15 +136,15 @@
                 :disabled="cardIndex === -1 || cardIndex === 0"
                 icon
                 title="Previous"
-                @click="selectedCard = items[cardIndex - 1]"
+                @click="selectedCard = cards[cardIndex - 1]"
               >
                 <v-icon>mdi-chevron-left</v-icon>
               </v-btn>
               <v-btn
-                :disabled="cardIndex === -1 || cardIndex === items.length - 1"
+                :disabled="cardIndex === -1 || cardIndex === cards.length - 1"
                 icon
                 title="Next"
-                @click="selectedCard = items[cardIndex + 1]"
+                @click="selectedCard = cards[cardIndex + 1]"
               >
                 <v-icon>mdi-chevron-right</v-icon>
               </v-btn>
@@ -212,6 +184,8 @@
 </template>
 
 <script>
+import { Intersect } from 'vuetify/lib/directives';
+
 import cards from '~/config/cards.json';
 import {
   sets,
@@ -224,6 +198,10 @@ import {
 export default {
   name: 'PageCardList',
 
+  directives: {
+    Intersect
+  },
+
   middleware({ store }) {
     store.commit('setTitle', 'Card List');
   },
@@ -232,10 +210,10 @@ export default {
     return {
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
-        { text: 'Set', value: 'set', filterable: false },
-        { text: 'Title', value: 'title', filterable: false },
-        { text: 'Type', value: 'type', filterable: false },
-        { text: 'Rarity', value: 'rarity', filterable: false }
+        { text: 'Set', value: 'set' },
+        { text: 'Title', value: 'title' },
+        { text: 'Type', value: 'type' },
+        { text: 'Rarity', value: 'rarity' }
       ],
       search: this.$route.query.q ?? '',
       options: {
@@ -266,11 +244,12 @@ export default {
           keywords: {
             label: 'Keywords',
             items: keywords,
-            operator: 'or'
+            operator: 'and'
           },
           activators: {
             label: 'Activators',
-            items: activators
+            items: activators,
+            operator: 'and'
           },
           rarity: {
             label: 'Rarity',
@@ -293,9 +272,7 @@ export default {
               value: value
                 .split(and ? '+' : ',')
                 .filter(Boolean),
-              operator: and ? 'and' : operator,
-              expandable: filter.items.length > 6,
-              expanded: false
+              operator: and ? 'and' : operator
             }
           ];
         })
@@ -303,7 +280,8 @@ export default {
       drawer: false,
       selectedCard: null,
       panels: [ 0 ],
-      timeoutId: null
+      timeoutId: null,
+      intersecting: true
     };
   },
 
@@ -312,9 +290,25 @@ export default {
   }),
 
   computed: {
-    items() {
-      return cards.filter((card) => (
-        Object.entries(this.filters).every(([
+    cards() {
+      const search = this.search?.toLocaleLowerCase?.();
+
+      return cards.filter((card) => {
+        if (search) {
+          const hit = [
+            card.id,
+            card.title,
+            card.gameText
+          ].filter(Boolean).some((value) => (
+            value.toLocaleLowerCase().includes(search)
+          ));
+
+          if (!hit) {
+            return false;
+          }
+        }
+
+        return Object.entries(this.filters).every(([
           key,
           {
             value,
@@ -334,8 +328,8 @@ export default {
           }
 
           return value.includes(card[key]);
-        })
-      )).map((card) => ({
+        });
+      }).map((card) => ({
         ...card,
         image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
       }));
@@ -400,12 +394,12 @@ export default {
             label: 'Question',
             type: 'String'
           },
-          activators: {
-            label: 'Activators',
-            type: 'Array'
-          },
           keywords: {
             label: 'Keywords',
+            type: 'Array'
+          },
+          activators: {
+            label: 'Activators',
             type: 'Array'
           },
           episode: {
@@ -421,7 +415,7 @@ export default {
     },
 
     cardIndex() {
-      return this.items.findIndex(({ id }) => id === this.selectedCard?.id);
+      return this.cards.findIndex(({ id }) => id === this.selectedCard?.id);
     },
 
     hasAnyFilters() {
@@ -467,7 +461,7 @@ export default {
   },
 
   mounted() {
-    this.selectedCard = this.items.find(({ id }) => id === this.$route.query.id);
+    this.selectedCard = this.cards.find(({ id }) => id === this.$route.query.id);
 
     Object.keys(this.filters).forEach((key) => {
       this.$watch(`filters.${key}.value`, () => {
@@ -513,14 +507,6 @@ export default {
       );
     },
 
-    customFilter: (value, search, item) => ([
-      value,
-      item.title,
-      item.gameText
-    ].filter(Boolean).some((value) => (
-      value.toLocaleLowerCase().includes(search.toLocaleLowerCase())
-    ))),
-
     clearAllFilters() {
       this.filters = Object.fromEntries(
         Object.entries(this.filters).map(([
@@ -534,7 +520,19 @@ export default {
           }
         ]))
       );
+    },
+
+    onIntersect(entries, observer, isIntersecting) {
+      this.intersecting = isIntersecting;
     }
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.position-sticky {
+  top: 50%;
+  left: 0;
+  right: 0;
+}
+</style>
