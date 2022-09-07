@@ -81,13 +81,12 @@
           }"
           :headers="headers"
           :items="cards"
-          :page="options.page"
-          :items-per-page="options.itemsPerPage"
+          :page.sync="options.page"
+          :items-per-page.sync="options.itemsPerPage"
           :footer-props="footerProps"
-          :sort-by="options.sortBy"
-          :sort-desc="options.sortDesc"
+          :sort-by.sync="options.sortBy"
+          :sort-desc.sync="options.sortDesc"
           mobile-breakpoint="0"
-          @update:options="updateOptions"
           @click:row="selectedCard = $event"
         />
         <v-fade-transition>
@@ -219,8 +218,11 @@ export default {
       options: {
         page: Number(this.$route.query.page ?? 1),
         itemsPerPage: Number(this.$route.query.itemsPerPage ?? 25),
-        sortBy: this.$route.query.sortBy ?? null,
-        sortDesc: this.$route.query.sortDesc === 'true'
+        sortBy: this.$route.query.sortBy,
+        sortDesc: {
+          'true': true,
+          'false': false
+        }[this.$route.query.sortDesc]
       },
       footerProps: {
         itemsPerPageOptions: [
@@ -336,10 +338,19 @@ export default {
     },
 
     routeQuery() {
+      const {
+        page,
+        itemsPerPage,
+        sortBy
+      } = this.options;
+
       return {
-        q: this.search || undefined,
         id: this.selectedCard?.id,
-        ...this.options,
+        q: this.search || undefined,
+        page: page > 1 ? page : undefined,
+        itemsPerPage: itemsPerPage !== 25 ? itemsPerPage : undefined,
+        sortBy: typeof sortBy === 'string' ? sortBy : undefined,
+        sortDesc: this.options.sortDesc,
         ...Object.fromEntries(
           Object.entries(this.filters).map(([
             key,
@@ -475,20 +486,6 @@ export default {
   },
 
   methods: {
-    updateOptions({
-      page,
-      itemsPerPage,
-      sortBy,
-      sortDesc
-    }) {
-      this.options = {
-        page,
-        itemsPerPage,
-        sortBy,
-        sortDesc
-      };
-    },
-
     updateFilterValue(key, value) {
       this.search = '';
       this.selectedCard = null;
