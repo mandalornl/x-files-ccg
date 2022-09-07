@@ -237,11 +237,13 @@ export default {
         Object.entries({
           set: {
             label: 'Set',
-            items: sets
+            items: sets,
+            operator: 'or'
           },
           type: {
             label: 'Type',
-            items: types
+            items: types,
+            operator: 'or'
           },
           keywords: {
             label: 'Keywords',
@@ -255,7 +257,8 @@ export default {
           },
           rarity: {
             label: 'Rarity',
-            items: rarities
+            items: rarities,
+            operator: 'or'
           }
         }).map(([
           key,
