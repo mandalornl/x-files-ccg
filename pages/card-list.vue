@@ -238,12 +238,12 @@ export default {
           set: {
             label: 'Set',
             items: sets,
-            operator: 'or'
+            operator: 'and'
           },
           type: {
             label: 'Type',
             items: types,
-            operator: 'or'
+            operator: 'and'
           },
           keywords: {
             label: 'Keywords',
@@ -258,7 +258,7 @@ export default {
           rarity: {
             label: 'Rarity',
             items: rarities,
-            operator: 'or'
+            operator: 'and'
           }
         }).map(([
           key,

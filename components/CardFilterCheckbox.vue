@@ -4,13 +4,16 @@
       v-for="(item, index) in firstItems"
       :key="item.value"
       v-model="internalValue"
-      :disabled="item.disabled"
+      :disabled="item.count === 0 && operator === 'and'"
       :value="item.value"
-      :label="item.value"
       :class="operator === undefined && index === 0 ? 'mt-0 pt-0' : undefined"
       :hide-details="expandable || index !== firstItems.length - 1"
       multiple
-    />
+    >
+      <template #label>
+        {{ item.value }} ({{ item.count }})
+      </template>
+    </v-checkbox>
     <template v-if="expandable">
       <v-expand-transition>
         <div v-if="expanded">
@@ -18,17 +21,20 @@
             v-for="item in lastItems"
             :key="item.value"
             v-model="internalValue"
-            :disabled="item.disabled"
+            :disabled="item.count === 0 && operator === 'and'"
             :value="item.value"
-            :label="item.value"
             multiple
             hide-details
-          />
+          >
+            <template #label>
+              {{ item.value }} ({{ item.count }})
+            </template>
+          </v-checkbox>
         </div>
       </v-expand-transition>
       <v-switch
         v-model="expanded"
-        :label="expanded ? 'Less' : 'More'"
+        :label="expanded ? 'Show less' : `Show ${lastItems.length} more`"
         dense
       />
     </template>
@@ -78,22 +84,15 @@ export default {
 
   computed: {
     firstItems() {
-      return this.items.map(this.mapItems).slice(0, 6);
+      return this.items.map(this.mapItems).slice(0, 5);
     },
 
     lastItems() {
-      return this.items.map(this.mapItems).slice(6);
+      return this.items.map(this.mapItems).slice(5);
     },
 
     expandable() {
-      return this.items.length > 6;
-    },
-
-    availableValues() {
-      return this.cards.reduce((result, { [this.type]:value }) => ([
-        ...result,
-        ...Array.isArray(value) ? value : [ value ]
-      ]), []).filter((value, index, items) => items.indexOf(value) === index);
+      return this.items.length > 5;
     }
   },
 
@@ -109,8 +108,18 @@ export default {
     mapItems(value) {
       return {
         value,
-        disabled: this.operator === 'and' && !this.availableValues.includes(value)
+        count: this.count(value)
       };
+    },
+
+    count(value) {
+      return this.cards.filter(({ [this.type]:filter }) => {
+        if (Array.isArray(filter)) {
+          return filter.includes(value);
+        }
+
+        return filter === value;
+      }).length;
     }
   }
 }
