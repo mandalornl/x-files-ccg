@@ -10,10 +10,6 @@ export default {
 
   middleware({ store }) {
     store.commit('setTitle', null);
-  },
-
-  head: () => ({
-    title: 'Home'
-  })
+  }
 }
 </script>
