@@ -106,10 +106,6 @@ import {
 export default {
   name: 'PageAgentSelector',
 
-  middleware({ store }) {
-    store.commit('setTitle', 'Agent Selector');
-  },
-
   data() {
     return {
       agents,

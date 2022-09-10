@@ -6,10 +6,6 @@
 
 <script>
 export default {
-  name: 'PageIndex',
-
-  middleware({ store }) {
-    store.commit('setTitle', null);
-  }
+  name: 'PageIndex'
 }
 </script>

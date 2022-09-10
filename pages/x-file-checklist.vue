@@ -89,10 +89,6 @@ import { xFiles } from '~/config/x-file';
 export default {
   name: 'PageXFileChecklist',
 
-  middleware({ store }) {
-    store.commit('setTitle', 'X-File Checklist');
-  },
-
   data: () => ({
     groups: xFiles,
     selected: [],

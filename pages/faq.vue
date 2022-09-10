@@ -76,10 +76,6 @@ import {
 export default {
   name: 'PageFAQ',
 
-  middleware({ store }) {
-    store.commit('setTitle', 'FAQ');
-  },
-
   data: () => ({
     oldQuestions,
     newQuestions

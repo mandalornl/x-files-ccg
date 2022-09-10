@@ -1,19 +1,21 @@
 <template>
   <v-app v-scroll="scroll">
-    <v-app-bar app>
+    <v-app-bar
+      app
+      clipped-left
+    >
       <v-app-bar-nav-icon
         class="hidden-sm-and-up"
         @click="leftDrawer = !leftDrawer"
       />
-      <v-toolbar-title v-if="$store.state.title">
-        {{ $store.state.title }}
-      </v-toolbar-title>
+      <app-logo class="pl-5 pl-sm-0" />
     </v-app-bar>
     <v-navigation-drawer
       v-model="leftDrawer"
       :permanent="$vuetify.breakpoint.smAndUp"
       :expand-on-hover="$vuetify.breakpoint.smAndUp"
       :mini-variant="$vuetify.breakpoint.smAndUp"
+      clipped
       app
     >
       <v-list nav>
@@ -135,6 +137,8 @@ p:not(:last-child) {
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
+
+  font-weight: 500;
 }
 
 .position-sticky {

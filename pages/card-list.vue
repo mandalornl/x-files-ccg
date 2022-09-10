@@ -204,10 +204,6 @@ export default {
     Intersect
   },
 
-  middleware({ store }) {
-    store.commit('setTitle', 'Card List');
-  },
-
   data() {
     return {
       headers: [
