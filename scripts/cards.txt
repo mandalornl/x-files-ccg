@@ -2629,7 +2629,7 @@ Adversary -- Cost: 12 CP
 LRC: N/A CRC: 6 HEALTH: 6
 Keywords: Adversary, Alien, Creature, Master
 Activators: Conspiracy, Motive Site
-Game Text: Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Cambat cards. If killed in Combat, place the Hunter back in your deck and shuffle.
+Game Text: Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle.
 
 THE HOST ATTACKS
 XF96-0338v1 -- Rare
@@ -5172,7 +5172,7 @@ Adversary -- Cost: 12 CP
 LRC: N/A CRC: 6 HEALTH: 6
 Keywords: Adversary, Alien, Creature, Master
 Activators: Conspiracy, Motive Site
-Game Text: Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Cambat cards. If killed in Combat, place the Hunter back in your deck and shuffle.
+Game Text: Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle.
 
 THE HOST ATTACKS
 XF97-0338v2 -- Rare
