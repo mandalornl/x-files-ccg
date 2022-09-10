@@ -103,6 +103,11 @@ export default {
         icon: 'mdi-police-badge'
       },
       {
+        to: '/deck-building',
+        label: 'Deck Building',
+        icon: 'mdi-archive'
+      },
+      {
         to: '/x-file-checklist',
         label: 'X-File Checklist',
         icon: 'mdi-format-list-checks'
