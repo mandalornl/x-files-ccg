@@ -52,15 +52,15 @@
                 {{ filter.label }} ({{ filter.value.length }})
               </v-expansion-panel-header>
               <v-expansion-panel-content>
-                <card-filter-operator
-                  v-if="filter.operator !== undefined"
-                  v-model="filters[key].operator"
+                <card-filter-operation
+                  v-if="filter.operation !== undefined"
+                  v-model="filters[key].operation"
                 />
                 <card-filter-checkbox
                   v-model="filters[key].value"
                   :type="key"
                   :items="filter.items"
-                  :operator="filter.operator"
+                  :operation="filter.operation"
                   :cards="cards"
                 />
               </v-expansion-panel-content>
@@ -100,6 +100,9 @@
               @click="$vuetify.goTo(0)"
             >
               {{ cards.length }} {{ cards.length === 1 ? 'result' : 'results' }} found
+              <v-icon right>
+                mdi-arrow-up
+              </v-icon>
             </v-btn>
           </div>
         </v-fade-transition>
@@ -238,32 +241,32 @@ export default {
           set: {
             label: 'Set',
             items: sets,
-            operator: 'and'
+            operation: 'and'
           },
           type: {
             label: 'Type',
             items: types,
-            operator: 'and'
+            operation: 'and'
           },
           keywords: {
             label: 'Keywords',
             items: keywords,
-            operator: 'and'
+            operation: 'and'
           },
           activators: {
             label: 'Activators',
             items: activators,
-            operator: 'and'
+            operation: 'and'
           },
           rarity: {
             label: 'Rarity',
             items: rarities,
-            operator: 'and'
+            operation: 'and'
           }
         }).map(([
           key,
           {
-            operator,
+            operation,
             ...filter
           }
         ]) => {
@@ -277,7 +280,7 @@ export default {
               value: value
                 .split(and ? '+' : ',')
                 .filter(Boolean),
-              operator: and ? 'and' : operator
+              operation: and ? 'and' : operation
             }
           ];
         })
@@ -317,7 +320,7 @@ export default {
           key,
           {
             value,
-            operator
+            operation
           }
         ]) => {
           if (value.length === 0) {
@@ -325,7 +328,7 @@ export default {
           }
 
           if (Array.isArray(card[key])) {
-            if (operator === 'and') {
+            if (operation === 'and') {
               return value.every((value) => card[key].includes(value));
             }
 
@@ -359,11 +362,11 @@ export default {
             key,
             {
               value,
-              operator
+              operation
             }
           ]) => ([
             key,
-            value.length > 0 ? value.join(operator === 'and' ? '+' : ',') : undefined
+            value.length > 0 ? value.join(operation === 'and' ? '+' : ',') : undefined
           ]))
         )
       };

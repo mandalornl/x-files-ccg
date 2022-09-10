@@ -26,7 +26,7 @@
 import { stringValue } from '~/mixins/model';
 
 export default {
-  name: 'CardFilterOperator',
+  name: 'CardFilterOperation',
 
   mixins: [
     stringValue

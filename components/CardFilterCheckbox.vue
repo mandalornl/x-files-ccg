@@ -4,9 +4,9 @@
       v-for="(item, index) in firstItems"
       :key="item.value"
       v-model="internalValue"
-      :disabled="item.count === 0 && operator === 'and'"
+      :disabled="item.disabled"
       :value="item.value"
-      :class="operator === undefined && index === 0 ? 'mt-0 pt-0' : undefined"
+      :class="operation === undefined && index === 0 ? 'mt-0 pt-0' : undefined"
       :hide-details="expandable || index !== firstItems.length - 1"
       multiple
     >
@@ -21,7 +21,7 @@
             v-for="item in lastItems"
             :key="item.value"
             v-model="internalValue"
-            :disabled="item.count === 0 && operator === 'and'"
+            :disabled="item.disabled"
             :value="item.value"
             multiple
             hide-details
@@ -68,7 +68,7 @@ export default {
       type: Array,
       default: () => ([])
     },
-    operator: {
+    operation: {
       type: String,
       default: undefined
     },
@@ -97,7 +97,7 @@ export default {
   },
 
   watch: {
-    operator(value) {
+    operation(value) {
       if (value === 'and') {
         this.internalValue = [];
       }
@@ -106,13 +106,29 @@ export default {
 
   methods: {
     mapItems(value) {
+      const count = this.count(value);
+
       return {
         value,
-        count: this.count(value)
+        count,
+        disabled: count === 0
+          && (this.operation === 'and'
+          || (
+            this.operation === 'or'
+            && !this.internalValue.includes(value)
+          ))
       };
     },
 
     count(value) {
+      if (
+        this.operation === 'or'
+        && this.internalValue.length > 0
+        && !this.internalValue.includes(value)
+      ) {
+        return '…';
+      }
+
       return this.cards.filter(({ [this.type]:filter }) => {
         if (Array.isArray(filter)) {
           return filter.includes(value);
