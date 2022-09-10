@@ -13,8 +13,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - X-Files CCG',
-    title: 'X-Files CCG',
+    titleTemplate: (title) => (
+      title ? `${title} - X-Files CCG` : 'X-Files CCG'
+    ),
     htmlAttrs: {
       lang: 'en'
     },
