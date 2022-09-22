@@ -4274,7 +4274,7 @@ Activators: Active, Sciences
 Game Text: Adds 1 to one Teamʹs SCIENCES skill check.
 
 DR. SHEILA BRAUN
-XF96-0207v2 -- Uncommon
+XF97-0207v2 -- Uncommon
 Episode: Born Again
 Witness -- Cost: 2 RP
 Keywords: Witness, Behavioral
@@ -6761,7 +6761,7 @@ Activators: Active, Conspiracy
 Game Text: Play this card and flip over the next card on your Bureau Deck. If that card is playable this turn you may do so for zero RP or CP. If you do not play it this turn, move the card to your discard pile.
 
 JE VOIS QUELQUE CHOSE LA AU-DESSOUS
-PR97-0010-FRE
+PR97-0010-FRN
 Found in: France and some issues of Scrye 4.3
 Episode: Piper Maru
 Event -- Cost: 2*P
