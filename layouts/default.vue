@@ -104,7 +104,8 @@ export default {
       {
         to: '/deck-building',
         label: 'Deck Building',
-        icon: 'mdi-archive'
+        icon: 'mdi-archive',
+        badgeComponent: 'DeckSize'
       },
       {
         to: '/x-file-checklist',

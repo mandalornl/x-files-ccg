@@ -1,3 +1,10 @@
+import cardList from '~/config/cards.json';
+
+export const cards = cardList.map((card) => ({
+  ...card,
+  image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+}));
+
 export const sets = [
   'Premiere',
   'The Truth is Out There',

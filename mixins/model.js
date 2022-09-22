@@ -75,3 +75,37 @@ export const stringValue = {
     )
   }
 };
+
+export const booleanValue = {
+  props: {
+    value: {
+      type: Boolean,
+      default: false
+    }
+  },
+
+  data() {
+    return {
+      lazyValue: !!this.value
+    };
+  },
+
+  computed: {
+    internalValue: {
+      get() {
+        return this.lazyValue;
+      },
+      set(value) {
+        this.lazyValue = value;
+
+        this.$emit('input', value);
+      }
+    }
+  },
+
+  watch: {
+    value(value) {
+      this.lazyValue = !!value;
+    }
+  }
+};
