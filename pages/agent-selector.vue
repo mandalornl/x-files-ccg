@@ -29,17 +29,12 @@
                   outlined
                   @click="toggle"
                 >
-                  <v-img
-                    :src="agent.image"
-                    :alt="agent.name"
-                    :aspect-ratio="750/1050"
-                  >
+                  <card-img :card="agent">
                     <agent-tooltip
                       :active="active"
                       :agent="agent"
-                      content-class="ml-1 mt-1"
                     />
-                  </v-img>
+                  </card-img>
                 </v-card>
               </v-item>
             </v-col>

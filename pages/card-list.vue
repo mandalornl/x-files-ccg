@@ -88,7 +88,13 @@
           :sort-desc.sync="options.sortDesc"
           mobile-breakpoint="0"
           @click:row="selectedCard = $event"
-        />
+        >
+          <template #[`item.id`]="{ value }">
+            <card-quantity :id="value">
+              {{ value }}
+            </card-quantity>
+          </template>
+        </v-data-table>
         <v-fade-transition>
           <div
             v-if="!intersecting"
@@ -108,88 +114,22 @@
         </v-fade-transition>
       </v-col>
     </v-row>
-    <v-navigation-drawer
-      v-model="drawer"
-      :width="$vuetify.breakpoint.smAndUp ? 512 : undefined"
-      fixed
-      temporary
-      right
-      disable-route-watcher
-      mobile-breakpoint="0"
-    >
-      <div
-        v-if="selectedCard"
-        class="pa-3"
-      >
-        <v-row>
-          <v-col
-            cols="12"
-            sm="6"
-            class="order-sm-1"
-          >
-            <v-img
-              :src="selectedCard.image"
-              :alt="selectedCard.name"
-              :aspect-ratio="750/1050"
-              class="grey darken-3"
-            />
-            <div class="d-flex justify-space-between mt-1">
-              <v-btn
-                :disabled="cardIndex === -1 || cardIndex === 0"
-                icon
-                title="Previous"
-                @click="selectedCard = cards[cardIndex - 1]"
-              >
-                <v-icon>mdi-chevron-left</v-icon>
-              </v-btn>
-              <v-btn
-                :disabled="cardIndex === -1 || cardIndex === cards.length - 1"
-                icon
-                title="Next"
-                @click="selectedCard = cards[cardIndex + 1]"
-              >
-                <v-icon>mdi-chevron-right</v-icon>
-              </v-btn>
-            </div>
-          </v-col>
-          <v-col
-            cols="12"
-            sm="6"
-          >
-            <div class="mb-3">
-              <div class="font-weight-medium">
-                {{ selectedCard.title }}
-              </div>
-              <div class="text-body-2 text--secondary">
-                {{ selectedCard.id }}
-              </div>
-            </div>
-            <div
-              v-for="(props, key) in cardProps"
-              :key="key"
-              class="mb-3"
-            >
-              <div class="font-weight-medium">
-                {{ props.label }}
-              </div>
-              <component
-                :is="`CardType${props.type}`"
-                :value="selectedCard[key]"
-                @click="updateFilterValue(key, $event)"
-              />
-            </div>
-          </v-col>
-        </v-row>
-      </div>
-    </v-navigation-drawer>
+    <card-info
+      v-model="cardInfoVisible"
+      :card="selectedCard"
+      :card-index="selectedCardIndex"
+      :cards-length="cards.length"
+      @click:index="selectedCard = cards[$event]"
+      @click:filter="updateFilterValue"
+    />
   </layout-default>
 </template>
 
 <script>
 import { Intersect } from 'vuetify/lib/directives';
 
-import cards from '~/config/cards.json';
 import {
+  cards,
   sets,
   types,
   activators,
@@ -208,10 +148,10 @@ export default {
     return {
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
-        { text: 'Set', value: 'set' },
+        { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Title', value: 'title' },
-        { text: 'Type', value: 'type' },
-        { text: 'Rarity', value: 'rarity' }
+        { text: 'Type', value: 'type', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
+        { text: 'Rarity', value: 'rarity', class: 'text-no-wrap', cellClass: 'text-no-wrap' }
       ],
       search: this.$route.query.q ?? '',
       options: {
@@ -281,7 +221,7 @@ export default {
           ];
         })
       ),
-      drawer: false,
+      cardInfoVisible: false,
       selectedCard: null,
       panels: [ 0 ],
       timeoutId: null,
@@ -333,10 +273,7 @@ export default {
 
           return value.includes(card[key]);
         });
-      }).map((card) => ({
-        ...card,
-        image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
-      }));
+      });
     },
 
     routeQuery() {
@@ -368,66 +305,7 @@ export default {
       };
     },
 
-    cardProps() {
-      return Object.fromEntries(
-        Object.entries({
-          set: {
-            label: 'Set',
-            type: 'String'
-          },
-          type: {
-            label: 'Type',
-            type: 'String'
-          },
-          rarity: {
-            label: 'Rarity',
-            type: 'String'
-          },
-          cost: {
-            label: 'Cost',
-            type: 'String'
-          },
-          gameText: {
-            label: 'Game Text',
-            type: 'Text'
-          },
-          stats: {
-            label: 'Stats',
-            type: 'Object'
-          },
-          characteristics: {
-            label: 'Characteristics',
-            type: 'Object'
-          },
-          prerequisite: {
-            label: 'Prerequisite',
-            type: 'String'
-          },
-          question: {
-            label: 'Question',
-            type: 'String'
-          },
-          keywords: {
-            label: 'Keywords',
-            type: 'Array'
-          },
-          activators: {
-            label: 'Activators',
-            type: 'Array'
-          },
-          episode: {
-            label: 'Episode',
-            type: 'String'
-          },
-          foundIn: {
-            label: 'Found In',
-            type: 'String'
-          }
-        }).filter(([ key ]) => !!this.selectedCard?.[key])
-      );
-    },
-
-    cardIndex() {
+    selectedCardIndex() {
       return this.cards.findIndex(({ id }) => id === this.selectedCard?.id);
     },
 
@@ -458,18 +336,20 @@ export default {
       }, 0);
     },
 
-    drawer(value) {
+    cardInfoVisible(value) {
       if (!value) {
         this.selectedCard = null;
       }
     },
 
     selectedCard(value) {
-      this.drawer = !!value;
+      this.cardInfoVisible = !!value;
     },
 
-    cardIndex(value) {
-      this.$set(this.options, 'page', Math.floor(value / this.options.itemsPerPage) + 1);
+    selectedCardIndex(value) {
+      if (value !== -1) {
+        this.$set(this.options, 'page', Math.floor(value / this.options.itemsPerPage) + 1);
+      }
     }
   },
 
@@ -488,7 +368,10 @@ export default {
   },
 
   methods: {
-    updateFilterValue(key, value) {
+    updateFilterValue({
+      key,
+      value
+    }) {
       this.search = '';
       this.selectedCard = null;
 

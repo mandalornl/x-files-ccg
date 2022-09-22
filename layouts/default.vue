@@ -19,30 +19,29 @@
       app
     >
       <v-list nav>
-        <template v-for="navItem in navItems">
-          <v-list-group
-            v-if="navItem.children && navItem.children.length > 0"
-            :key="navItem.label"
-            :value="navItem.children.find(({ to }) => to === $route.path)"
-            :prepend-icon="navItem.icon"
-          >
-            <template #activator>
-              <v-list-item-title>
-                {{ navItem.label }}
-              </v-list-item-title>
-            </template>
-            <nav-item
-              v-for="childNavItem in navItem.children"
-              :key="childNavItem.label"
-              :item="childNavItem"
-            />
-          </v-list-group>
-          <nav-item
-            v-else
-            :key="navItem.label"
-            :item="navItem"
-          />
-        </template>
+        <v-list-item
+          v-for="navItem in navItems"
+          :key="navItem.label"
+          :to="navItem.to"
+          color="primary"
+        >
+          <v-list-item-icon>
+            <component
+              :is="navItem.badgeComponent"
+              v-if="navItem.badgeComponent"
+            >
+              <v-icon>{{ navItem.icon }}</v-icon>
+            </component>
+            <v-icon v-else>
+              {{ navItem.icon }}
+            </v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>
+              {{ navItem.label }}
+            </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
     <v-main class="text-body-1">
@@ -105,7 +104,8 @@ export default {
       {
         to: '/deck-building',
         label: 'Deck Building',
-        icon: 'mdi-archive'
+        icon: 'mdi-archive',
+        badgeComponent: 'DeckSize'
       },
       {
         to: '/x-file-checklist',

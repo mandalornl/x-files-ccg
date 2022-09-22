@@ -4,8 +4,12 @@ export default ({ store }) => {
   new VuexPersistence({
     key: 'x-files-ccg',
     storage: localStorage,
-    reducer: (state) => ({
-      agentSelector: state.agentSelector
+    reducer: ({
+      agentSelector,
+      deckBuilding
+    }) => ({
+      agentSelector,
+      deckBuilding
     })
   }).plugin(store);
 };
