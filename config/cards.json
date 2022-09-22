@@ -14190,6 +14190,24 @@
     "gameText": "Place in an Opponentʹs Field with two tokens on the card. Remove a token in this opponentʹs Debriefing Phase. While in play, opponent may only investigate Keyword CRIMINAL INVESTIGATION or EVIDENCE COLLECTION Sites. Discard this card when the last token is removed."
   },
   {
+    "title": "A Near Death Experience",
+    "id": "XF97-0451x1",
+    "set": "101361",
+    "rarity": "Ultra-Rare",
+    "episode": "The Blessing Way",
+    "type": "Event",
+    "cost": "4 RP",
+    "keywords": [
+      "Event",
+      "Occult",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permenantly add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Filesʹ identity without incurring a penalty question. Only one of this card may be in play."
+  },
+  {
     "title": "Hell Money",
     "id": "XF97-0452x1",
     "set": "101361",
