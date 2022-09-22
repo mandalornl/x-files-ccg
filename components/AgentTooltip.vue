@@ -4,6 +4,7 @@
     color="primary"
     open-delay="150"
     max-width="280"
+    content-class="black--text"
   >
     <template #activator="{ on, attrs }">
       <v-icon
@@ -15,29 +16,27 @@
         {{ active ? 'mdi-alien' : 'mdi-alien-outline' }}
       </v-icon>
     </template>
-    <div class="black--text">
-      <h3>{{ agent.name }}</h3>
-      <table>
-        <tbody>
-          <tr
-            v-for="skill in skills"
-            :key="skill.label"
-          >
-            <td>{{ skill.label }}</td>
-            <td>{{ skill.value }}</td>
-          </tr>
-          <tr
-            v-for="stat in stats"
-            :key="stat.label"
-          >
-            <td>{{ stat.label }}</td>
-            <td>{{ stat.value }}</td>
-          </tr>
-        </tbody>
-      </table>
-      <div class="mt-3">
-        <b>Game Effect</b><br><em>{{ agent.gameEffect }}</em>
-      </div>
+    <h3>{{ agent.name }}</h3>
+    <table>
+      <tbody>
+        <tr
+          v-for="skill in skills"
+          :key="skill.label"
+        >
+          <td>{{ skill.label }}</td>
+          <td>{{ skill.value }}</td>
+        </tr>
+        <tr
+          v-for="stat in stats"
+          :key="stat.label"
+        >
+          <td>{{ stat.label }}</td>
+          <td>{{ stat.value }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="mt-3">
+      <b>Game Effect</b><br><em>{{ agent.gameEffect }}</em>
     </div>
   </v-tooltip>
 </template>
