@@ -1,16 +1,12 @@
 <template>
-  <v-responsive
+  <v-img
+    :src="card.image"
+    :alt="card.name"
     :aspect-ratio="5/7"
-    :class="loaded ? 'black' : 'grey darken-3'"
+    class="rounded grey darken-3"
   >
-    <v-img
-      :src="card.image"
-      :alt="card.name"
-      @load="loaded = true"
-    >
-      <slot />
-    </v-img>
-  </v-responsive>
+    <slot />
+  </v-img>
 </template>
 
 <script>
@@ -22,19 +18,6 @@ export default {
       type: Object,
       default: () => ({})
     }
-  },
-
-  data: () => ({
-    loaded: false
-  })
+  }
 }
 </script>
-
-<style lang="scss" scoped>
-.v-responsive:not(.v-image) {
-  padding: 4.315%;
-  border-radius: 4.315%;
-
-  transition: background-color .2s ease-out;
-}
-</style>
