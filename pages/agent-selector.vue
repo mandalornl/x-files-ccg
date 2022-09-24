@@ -61,7 +61,7 @@
               title="Clear selection"
               @click="selected = []"
             >
-              <v-icon>mdi-close</v-icon>
+              <v-icon>mdi-close-circle</v-icon>
             </v-btn>
           </v-card-title>
           <v-simple-table dense>
