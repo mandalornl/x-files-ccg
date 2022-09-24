@@ -1,5 +1,5 @@
 <template>
-  <layout-default>
+  <layout-default fluid>
     <v-row>
       <v-col
         sm="4"
