@@ -618,5 +618,19 @@ export const agents = [
     res: 1,
     cost: 4,
     gameEffect: 'Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck.'
+  },
+  {
+    name: 'Guillaume Saladin',
+    image: 'images/special/xf19-0019x42.jpg',
+    bureaucracy: 2,
+    computer: 2,
+    evidenceCollection: 1,
+    observation: 1,
+    longRangeCombat: 1,
+    closeRangeCombat: 1,
+    health: 4,
+    res: 1,
+    cost: 4,
+    gameEffect: 'Place 1 RP on this card. This RP may be used to pay for any RP card. If you use this RP, replace it during your Briefing Phase.'
   }
 ];
