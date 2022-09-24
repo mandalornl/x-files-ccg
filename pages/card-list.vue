@@ -164,7 +164,7 @@ export default {
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
-        { text: 'Title', value: 'title' },
+        { text: 'Title', value: 'title', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Type', value: 'type', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Rarity', value: 'rarity', class: 'text-no-wrap', cellClass: 'text-no-wrap' }
       ],
