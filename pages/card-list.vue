@@ -35,7 +35,7 @@
               :label="`Show deck (${totalDeckSize})`"
             />
             <v-btn
-              :disabled="totalDeckSize === 0 || !cardsInDeckOnly"
+              :disabled="totalDeckSize === 0"
               icon
               title="Clear deck"
               @click="$store.dispatch('deckBuilding/clear')"
