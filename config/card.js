@@ -9,7 +9,7 @@ export const sets = [
   'Premiere',
   'The Truth is Out There',
   '101361',
-  '040460 (coming soon)',
+  '040460',
   'Promo'
 ];
 

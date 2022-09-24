@@ -15655,5 +15655,457 @@
       "Conspiracy"
     ],
     "gameText": "Play this card immediately after your opponent asks you a question. You may respond with this phrase: \"I can neither confirm nor deny that assumption.\" After playing this card remove it from the game."
+  },
+  {
+    "title": "The Peacock Brothers",
+    "id": "XF22-0007x3",
+    "set": "040460",
+    "episode": "Home",
+    "type": "Adversary",
+    "cost": "8 CP",
+    "stats": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 7,
+      "Health": 10
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive site"
+    ],
+    "gameText": "Apply -1 to any Equipment cards attached to the Team that modify LONG RANGE COMBAT or CLOSE RANGE COMBAT. Damage caused by this Adversary may be split among all opponents (Directed Player's choice)."
+  },
+  {
+    "title": "Samuel Aboah",
+    "id": "XF22-0008x3",
+    "set": "040460",
+    "episode": "Telike",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 4,
+      "Health": 3
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method site"
+    ],
+    "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove token. Aboah may use SUBTERFUGE cards."
+  },
+  {
+    "title": "Gerry Schnauz",
+    "id": "XF22-0009x3",
+    "set": "040460",
+    "episode": "Unruhe",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Abduction",
+      "Killer"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent"
+    ],
+    "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card on top of the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed."
+  },
+  {
+    "title": "Dr. Jack Fraknlin",
+    "id": "XF22-0010x3",
+    "set": "040460",
+    "episode": "Sanguinarium",
+    "type": "Adversary",
+    "cost": "8 CP",
+    "stats": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 2,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Medical"
+    ],
+    "gameText": "If this Adversary is played on a Witness that contributes to a MEDICAL skill check, the Witness is removed from the game. The LRC round is skipped for the opposing Team but not for Dr. Jack Franklin. Agents must use their MEDICAL skill as their value in CRC. If an Agent has no MEDICAL skill, their value is 1."
+  },
+  {
+    "title": "Russian Horsemen",
+    "id": "XF22-0011x3",
+    "set": "040460",
+    "episode": "Tunguska",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "stats": {
+      "Long Range Combat": 3,
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method site"
+    ],
+    "gameText": "If an Agent's HEALTH is reduced to 0 by this Adversary, place the Agent in a section of the table designated The Gulag and discard any Equipment. The Agent remains imprisoned for three full turns or until a Keyword ESCAPE card is played on them. Place three tokens on the Agent and remove one during each of the Agent's Briefing Phases. When the last token is removed, move the Agent to the Bureau (undamaged)."
+  },
+  {
+    "title": "Gulag Commandant",
+    "id": "XF22-0012x3",
+    "set": "040460",
+    "episode": "Tunguska",
+    "type": "Adversary",
+    "cost": "3 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Adversary"
+    ],
+    "gameText": "Play in conjunction with any GOVERNMENT Adversary. If an Agent's HEALTH is reduced to 0, place the Agent in a section of the table designated The Gulag and discard any Equipment. The Agent remains imprisoned for three full turns or until a Keyword ESCAPE card is played on them. Place three tokens on the Agent and remove one during each of the Agent's Briefing Phases. When the last token is removed, move the Agent to the Bureau (undamaged)."
+  },
+  {
+    "title": "Vassily Peskow",
+    "id": "XF22-0013x3",
+    "set": "040460",
+    "episode": "",
+    "type": "Adversary",
+    "cost": "5 CP",
+    "stats": {
+      "Long Range Combat": 2,
+      "Close Range Combat": 3,
+      "Health": 4
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation site"
+    ],
+    "gameText": "Vassily Peskow can attack one Agent (your choice) and is then discarded. If the target Agent has any Equipment cards which modify LRC or CRC, Peskow may steal that Equipment and use it in combat. Discard the Equipment when combat is resolved. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards."
+  },
+  {
+    "title": "John Lee Roche",
+    "id": "XF22-0014x3",
+    "set": "040460",
+    "episode": "Paper Hearts",
+    "type": "Adversary",
+    "cost": "5 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Abduction",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play this card on a Team in the Field that plays a Witness. John Lee Roche abducts the Witness and the Team is forced to make a CRIMINAL INVESTIGATION 5+ skill check. If unsuccessful, the Site skill check is failed and the Witness is removed from the game. If the Team makes the skill check, Roche is negated and removed from the game instead."
+  },
+  {
+    "title": "El Chupacabra",
+    "id": "XF22-0015x3",
+    "set": "040460",
+    "episode": "El Mundo Gira",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "stats": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 2,
+      "Health": 4
+    },
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Phenomena",
+      "Creature",
+      "Killer"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result site"
+    ],
+    "gameText": "Place five tokens on any Agent damaged by El Chupacabra's attack. Discard a token in each of the afflicted Agent's Briefing Phases. When the last token is removed, the Agent is removed from the game. This effect can only be negated by the remaining Field Team making a SCIENCES 3+ skill check or by playing a HEALING card prior to the Agent being removed."
+  },
+  {
+    "title": "Leonard Betts",
+    "id": "XF22-0016x3",
+    "set": "040460",
+    "episode": "Leonard Betts",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "stats": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive site"
+    ],
+    "gameText": "When played on a Keyword CANCER card, this Adversary is free and Activator requirements are ignored. Leonard Betts regenerates 1 point of HEALTH for each Witness discarded from your hand."
+  },
+  {
+    "title": "Ed Jerse & His Talking Tattoo",
+    "id": "XF22-0017x3",
+    "set": "040460",
+    "episode": "Never Again",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Phenomena",
+      "Pawn",
+      "Insanity"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed."
+  },
+  {
+    "title": "The Grey-Haired Man",
+    "id": "XF22-0018x3",
+    "set": "040460",
+    "episode": "Memento Mori",
+    "type": "Adversary",
+    "cost": "8 CP",
+    "stats": {
+      "Long Range Combat": 7,
+      "Close Range Combat": 4,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Evidence Collection"
+    ],
+    "gameText": "All Witness RESOURCE cards are immediately discarded. The Grey-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice)."
+  },
+  {
+    "title": "The Golem Exacts Revenge",
+    "id": "XF22-0019x3",
+    "set": "040460",
+    "episode": "Kaddish",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "stats": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 4,
+      "Health": 3
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Occult Investigation"
+    ],
+    "gameText": "The Golem is unaffected by all Combat attacks. This Adversary will attack for two CLOSE RANGE COMBAT rounds and is then discarded."
+  },
+  {
+    "title": "Nathaniel Teager",
+    "id": "XF22-0020x3",
+    "set": "040460",
+    "episode": "Unrequited",
+    "type": "Adversary",
+    "cost": "8 CP",
+    "stats": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method site"
+    ],
+    "gameText": "Only Agents with OBSERVATION as a skill may apply their LRC and CRC skills in combat. Nathaniel Teager may use SUBTERFUGE cards at no cost."
+  },
+  {
+    "title": "Scott Garrett",
+    "id": "XF22-0021x3",
+    "set": "040460",
+    "episode": "Max",
+    "type": "Adversary",
+    "cost": "3 CP",
+    "stats": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 0,
+      "Health": 4
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Alien Investigation"
+    ],
+    "gameText": "This Adversary can attack one Agent (your choice) and is then discarded. If Agent Pendrell is in the Investigating Team, then he takes the LRC damage instead of the selected Agent. Agents attacked by this Adversary must discard all attached Keyword ALIEN Equipment immediately."
+  },
+  {
+    "title": "Old Man Nichols",
+    "id": "XF22-0022x3",
+    "set": "040460",
+    "episode": "Synchrony",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 4,
+      "Health": 3
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Phenomena",
+      "Creature",
+      "Killer"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Sciences"
+    ],
+    "gameText": "If this Adversary is played on a Keyword SCIENCES Witness, that Witness is negated and removed from the game. The Long Range Combat round is skipped. Any Agent wounded by Nichols is instantly frozen and may not move, contribute their skills and effects, add to the Pools or heal wounds until a HEALING card is played."
+  },
+  {
+    "title": "Eddie Van Blundht",
+    "id": "XF22-0023x3",
+    "set": "040460",
+    "episode": "Small Potatoes",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Phenomena",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent"
+    ],
+    "gameText": "Place this card beneath an opposing Agent (your choice) and place two tokens on the Agent. Remove a token during each of your opponent's Debriefing Phases. While in play, the Agent's skills (except HEALTH) become -1 and all Equipment is discarded. During your opponent's turn, you may deploy the Agent as desired and contribute (negatively) to an Investigating Team's skill checks. Discard this card when the last token is removed."
+  },
+  {
+    "title": "Nurse Innes",
+    "id": "XF22-0024x3",
+    "set": "040460",
+    "episode": "Elegy",
+    "type": "Adversary",
+    "cost": "3 CP",
+    "stats": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 3,
+      "Health": 4
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and one Agent on the Team is attacked (your choice). The LRC round is skipped. For the first round of CRC, the chosen Agent is the only one who may participate in the combat."
+  },
+  {
+    "title": "Scott Ostelhoff",
+    "id": "XF22-0025x3",
+    "set": "040460",
+    "episode": "Gethsemane",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "stats": {
+      "Long Range Combat": 5,
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation site"
+    ],
+    "gameText": "If the Site prerequisite is ALIEN INVESTIGATION, then this card is free. Any Witnesses contributing to the Site skill check are immediately discarded. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards."
   }
 ]
