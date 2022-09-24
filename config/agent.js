@@ -602,5 +602,21 @@ export const agents = [
     res: 1,
     cost: 3,
     gameEffect: 'Agent Hedin has access to the Field Office Crime Lab. Place one token on this card. Remove a token to draw one Keyword EVIDENCE or EVIDENCE COLLECTION card from your Bureau Deck and add it to your hand. Shuffle your deck.'
+  },
+  {
+    name: 'Stephen Arvidson',
+    image: 'images/special/xf19-0004x42.jpg',
+    computer: 3,
+    evidenceCollection: 1,
+    observation: 1,
+    occultInvestigation: 2,
+    sciences: 1,
+    subterfuge: 1,
+    longRangeCombat: 1,
+    closeRangeCombat: 1,
+    health: 4,
+    res: 1,
+    cost: 4,
+    gameEffect: 'Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck.'
   }
 ];
