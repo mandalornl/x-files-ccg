@@ -7,7 +7,7 @@ export const state = () => ({
 export const getters = {
   quantityById: (state) => (id) => state.decks[defaultName]?.[id] ?? 0,
 
-  totalQuantity: (state) => {
+  totalSize: (state) => {
     const values = Object.values(state.decks[defaultName] ?? {});
 
     return values.reduce((total, quantity) => total + quantity, 0);
@@ -15,6 +15,33 @@ export const getters = {
 };
 
 export const mutations = {
+  load(state, name) {
+    state.decks[defaultName] = { ...state.decks[name] ?? {} };
+  },
+
+  rename(state, {
+    from,
+    to
+  }) {
+    const {
+      [from]: deck,
+      ...decks
+    } = state.decks;
+
+    state.decks = {
+      ...decks,
+      [to]: deck
+    };
+  },
+
+  remove(state, name) {
+    const decks = { ...state.decks };
+
+    delete decks[name];
+
+    state.decks = decks;
+  },
+
   addCard(state, {
     id,
     name = defaultName
@@ -47,29 +74,6 @@ export const mutations = {
         }).filter(([ , quantity ]) => quantity > 0)
       )
     };
-  },
-
-  rename(state, {
-    from,
-    to
-  }) {
-    const {
-      [from]: deck,
-      ...decks
-    } = state.decks;
-
-    state.decks = {
-      ...decks,
-      [to]: deck
-    };
-  },
-
-  remove(state, name) {
-    const decks = { ...state.decks };
-
-    delete decks[name];
-
-    state.decks = decks;
   }
 };
 
@@ -79,5 +83,9 @@ export const actions = {
       from: defaultName,
       to: name
     });
+  },
+
+  clear({ commit }) {
+    commit('load', Date.now());
   }
 };

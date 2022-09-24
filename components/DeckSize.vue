@@ -1,7 +1,7 @@
 <template>
   <v-badge
-    :value="value > 0"
-    :content="value"
+    :value="size > 0"
+    :content="size > 60 ? '60+' : size"
     overlap
     color="red"
   >
@@ -14,10 +14,8 @@ export default {
   name: 'DeckSize',
 
   computed: {
-    value() {
-      const count = this.$store.getters['deckBuilding/totalQuantity'];
-
-      return count > 60 ? '60+' : count;
+    size() {
+      return this.$store.getters['deckBuilding/totalSize'];
     }
   }
 }

@@ -28,6 +28,21 @@
               />
             </v-card-text>
           </v-card>
+          <div class="d-flex align-baseline justify-space-between">
+            <v-switch
+              v-model="cardsInDeckOnly"
+              :disabled="totalDeckSize === 0"
+              :label="`Show deck (${totalDeckSize})`"
+            />
+            <v-btn
+              :disabled="totalDeckSize === 0 || !cardsInDeckOnly"
+              icon
+              title="Clear deck"
+              @click="$store.dispatch('deckBuilding/clear')"
+            >
+              <v-icon>mdi-close-circle</v-icon>
+            </v-btn>
+          </div>
           <v-expand-transition>
             <div v-if="hasAnyFilters">
               <v-btn
@@ -225,7 +240,8 @@ export default {
       selectedCard: null,
       panels: [ 0 ],
       timeoutId: null,
-      intersecting: true
+      intersecting: true,
+      cardsInDeckOnly: false
     };
   },
 
@@ -250,6 +266,10 @@ export default {
           if (!hit) {
             return false;
           }
+        }
+
+        if (this.cardsInDeckOnly && this.$store.getters['deckBuilding/quantityById'](card.id) === 0) {
+          return false;
         }
 
         return Object.entries(this.filters).every(([
@@ -311,6 +331,10 @@ export default {
 
     hasAnyFilters() {
       return Object.values(this.filters).some(({ value }) => value.length > 0);
+    },
+
+    totalDeckSize() {
+      return this.$store.getters['deckBuilding/totalSize'];
     }
   },
 
@@ -349,6 +373,12 @@ export default {
     selectedCardIndex(value) {
       if (value !== -1) {
         this.$set(this.options, 'page', Math.floor(value / this.options.itemsPerPage) + 1);
+      }
+    },
+
+    totalDeckSize(value) {
+      if (value === 0) {
+        this.cardsInDeckOnly = false;
       }
     }
   },
