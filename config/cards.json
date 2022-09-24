@@ -15657,6 +15657,158 @@
     "gameText": "Play this card immediately after your opponent asks you a question. You may respond with this phrase: \"I can neither confirm nor deny that assumption.\" After playing this card remove it from the game."
   },
   {
+    "title": "Deputy Barney Paster",
+    "id": "XF22-0001x3",
+    "set": "040460",
+    "episode": "Home",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Law",
+      "Neutral"
+    ],
+    "stats": {
+      "Behavioral": 1,
+      "Computer": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place one token on this card. Remove a token during the Requisition Phase to search your Bureau Deck for any one Keyword WEAPON or ARMOR Equipment card and attach it to Paster at half cost (rounded up). Shuffle your Deck."
+  },
+  {
+    "title": "Mike Millar, NTSB",
+    "id": "XF22-0002x3",
+    "set": "040460",
+    "episode": "Tempus Fugit",
+    "type": "Agent",
+    "cost": "5 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Skeptic"
+    ],
+    "stats": {
+      "Alien Investigation": 1,
+      "Bureaucracy": 2,
+      "Computer": 3,
+      "Evidence Collection": 3,
+      "Observation": 1,
+      "Sciences": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Treat Mike Millar as a RES 2 if he is in the Field. If Millar is in the same Team as Agent Mulder and/or Agent Scully, he gains +1 to his ALIEN INVESTIGATION and OBSERVATION skills."
+  },
+  {
+    "title": "Agent Kautz",
+    "id": "XF22-0003x3",
+    "set": "040460",
+    "episode": "Zero Sum",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "LAW",
+      "Neutral"
+    ],
+    "stats": {
+      "Bureaucracy": 1,
+      "Computer": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 3,
+      "Sciences": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "If Agent Kautz is in the Bureau, he may contribute to any EVIDENCE COLLECTION skill check that is occurring in another section of the table."
+  },
+  {
+    "title": "Detective Hudak",
+    "id": "XF22-0004x3",
+    "set": "040460",
+    "episode": "Elegy",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "LAW",
+      "Skeptic"
+    ],
+    "stats": {
+      "Behavioral": 2,
+      "Bureaucracy": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "During your Investigation Phase, add 1 to your RP if a Team including Detective Hudak is assigned to a Keyword MONO Site. The cost of any Witness card played at this Site is increased by 1 RP."
+  },
+  {
+    "title": "Detective John Munch",
+    "id": "XF22-0005x3",
+    "set": "040460",
+    "episode": "Gethsemane",
+    "type": "Agent",
+    "cost": "6 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "LAW"
+    ],
+    "stats": {
+      "Behavioral": 2,
+      "Bureaucracy": 2,
+      "Criminal Investigation": 3,
+      "Evidence Collection": 2,
+      "Observation": 3,
+      "Subterfuge": 3,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place one token on this card. Remove a token when your opponent asks you a penalty question. You may respond with the following phrase: \"Aluminum makes a lovely hat.\""
+  },
+  {
+    "title": "Agent Hedin",
+    "id": "XF22-0006x3",
+    "set": "040460",
+    "episode": "Unusual Suspects",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "LAW"
+    ],
+    "stats": {
+      "Computer": 3,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 2,
+      "Sciences": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Agent Hedin has access to the Field Office Crime Lab. Place one token on this card. Remove a token to draw one Keyword EVIDENCE or EVIDENCE COLLECTION card from your Bureau Deck and add it to your hand. Shuffle your deck."
+  },
+  {
     "title": "The Peacock Brothers",
     "id": "XF22-0007x3",
     "set": "040460",
