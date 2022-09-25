@@ -62,7 +62,7 @@
               >
                 <template #activator="{ on, attrs }">
                   <v-btn
-                    :disabled="quantity === 2"
+                    :disabled="realQuantity === 2"
                     icon
                     small
                     v-bind="attrs"
@@ -206,6 +206,19 @@ export default {
 
     quantity() {
       return this.$store.getters['deckBuilding/quantityById'](this.card.id);
+    },
+
+    realQuantity() {
+      const id = this.card.id ?? '';
+
+      if (this.quantity < 2 && (id.endsWith('v1') || id.endsWith('v2'))) {
+        const num = id.replace(/^xf\d{2}-(\d{4})v\d$/i, '$1');
+        const otherId = id.endsWith('v1') ? `XF97-${num}v2` : `XF96-${num}v1`;
+
+        return this.quantity + this.$store.getters['deckBuilding/quantityById'](otherId);
+      }
+
+      return this.quantity;
     }
   },
 
