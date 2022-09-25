@@ -380,6 +380,12 @@ export default {
       if (value === 0) {
         this.cardsInDeckOnly = false;
       }
+    },
+
+    cardsInDeckOnly(value) {
+      if (value) {
+        this.clearAllFilters();
+      }
     }
   },
 
