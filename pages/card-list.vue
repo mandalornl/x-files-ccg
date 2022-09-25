@@ -384,6 +384,8 @@ export default {
 
     cardsInDeckOnly(value) {
       if (value) {
+        this.search = '';
+
         this.clearAllFilters();
       }
     }
