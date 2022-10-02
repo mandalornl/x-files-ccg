@@ -128,8 +128,8 @@ export default {
 </script>
 
 <style lang="scss">
-p:not(:last-child) {
-  margin-bottom: 1rem;
+p:last-child {
+  margin-bottom: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
