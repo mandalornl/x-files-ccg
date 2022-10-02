@@ -5,6 +5,7 @@
     :timeout="10000"
     :multi-line="isMobile"
     :top="!isMobile"
+    :width="isMobile ? 'calc(100% - 24px)' : undefined"
     app
     text
   >
