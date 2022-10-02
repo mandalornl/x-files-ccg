@@ -63,5 +63,7 @@ mark {
 
   background-color: var(--v-primary-darken1);
   color: black;
+
+  border-radius: 4px;
 }
 </style>
