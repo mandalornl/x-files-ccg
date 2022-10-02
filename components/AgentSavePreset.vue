@@ -8,11 +8,14 @@
       <v-btn
         :disabled="internalValue.length === 0"
         icon
-        title="Save preset"
+        small
+        title="Save"
         v-bind="attrs"
         v-on="on"
       >
-        <v-icon>mdi-floppy</v-icon>
+        <v-icon small>
+          mdi-floppy
+        </v-icon>
       </v-btn>
     </template>
     <v-list>

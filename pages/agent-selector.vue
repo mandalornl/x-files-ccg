@@ -58,10 +58,14 @@
             <v-btn
               :disabled="selected.length === 0"
               icon
-              title="Clear selection"
+              small
+              title="Clear"
+              class="ml-2"
               @click="selected = []"
             >
-              <v-icon>mdi-close-circle</v-icon>
+              <v-icon small>
+                mdi-close-circle
+              </v-icon>
             </v-btn>
           </v-card-title>
           <v-simple-table dense>
