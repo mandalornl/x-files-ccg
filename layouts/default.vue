@@ -1,5 +1,6 @@
 <template>
   <v-app v-scroll="scroll">
+    <admiral-snackbar />
     <v-app-bar
       app
       clipped-left
