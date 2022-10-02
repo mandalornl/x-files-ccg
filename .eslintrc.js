@@ -16,8 +16,11 @@ module.exports = {
   plugins: [
   ],
   // add your custom rules here
-  rules: {},
+  rules: {
+    'vue/no-v-text-v-html-on-component': 'off'
+  },
   globals: {
+    navigator: 'readonly',
     localStorage: 'readonly'
   }
 }
