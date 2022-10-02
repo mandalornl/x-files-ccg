@@ -8,6 +8,7 @@
       <v-btn
         :disabled="disabled"
         :small="small"
+        :class="contentClass"
         icon
         title="Stats"
         v-bind="attrs"
@@ -71,6 +72,10 @@ export default {
     small: {
       type: Boolean,
       default: false
+    },
+    contentClass: {
+      type: [ String, Array, Object ],
+      default: undefined
     }
   },
 

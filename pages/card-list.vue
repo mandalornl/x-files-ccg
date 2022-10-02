@@ -49,9 +49,13 @@
             </v-switch>
             <v-spacer class="hidden-sm-only hidden-md-only" />
             <div class="d-flex align-baseline mb-sm-4 mb-lg-0">
-              <deck-action-save />
-              <deck-action-stats :deck="$store.getters['deckBuilding/defaultDeck']" />
-              <deck-action-clear />
+              <deck-action-save small />
+              <deck-action-stats
+                :deck="$store.getters['deckBuilding/defaultDeck']"
+                small
+                content-class="mx-2"
+              />
+              <deck-action-clear small />
             </div>
           </div>
           <v-expand-transition>

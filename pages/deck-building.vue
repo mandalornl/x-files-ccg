@@ -1,6 +1,6 @@
 <template>
   <layout-default>
-    <div class="d-flex justify-end mb-3">
+    <div class="d-flex justify-end align-center mb-3">
       <v-btn
         small
         depressed
@@ -8,6 +8,7 @@
       >
         Upload
       </v-btn>
+      <deck-upload-tooltip />
     </div>
     <v-row v-if="decks.length > 0">
       <v-slide-x-reverse-transition

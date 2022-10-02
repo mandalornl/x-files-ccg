@@ -51,8 +51,12 @@ export const mutations = {
 
   upload(state, {
     name,
-    cards
+    cards = {}
   }) {
+    if (!name) {
+      return;
+    }
+
     state.decks = {
       ...state.decks,
       [name]: { ...cards }
