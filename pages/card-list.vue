@@ -28,7 +28,7 @@
               />
             </v-card-text>
           </v-card>
-          <div class="d-flex flex-sm-column flex-lg-row align-baseline">
+          <div class="d-flex flex-sm-column flex-lg-row align-center align-sm-start align-lg-center">
             <v-switch
               v-model="showDeck"
               :disabled="deckSize === 0"
@@ -48,7 +48,7 @@
               </template>
             </v-switch>
             <v-spacer class="hidden-sm-only hidden-md-only" />
-            <div class="d-flex align-baseline mb-sm-4 mb-lg-0">
+            <div class="d-flex align-center mb-sm-4 mb-lg-0">
               <deck-action-save small />
               <deck-action-stats
                 :deck="$store.getters['deckBuilding/defaultDeck']"
