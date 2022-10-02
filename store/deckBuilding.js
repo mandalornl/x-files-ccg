@@ -1,22 +1,29 @@
-const defaultName = 'newDeck';
+export const defaultDeckName = 'New deck';
 
 export const state = () => ({
   decks: {}
 });
 
 export const getters = {
-  quantityById: (state) => (id) => state.decks[defaultName]?.[id] ?? 0,
+  defaultDeck: (state) => state.decks[defaultDeckName] ?? {},
 
-  totalSize: (state) => {
-    const values = Object.values(state.decks[defaultName] ?? {});
+  quantityByCardId: (state, getters) => (id) => getters.defaultDeck[id] ?? 0,
+
+  sizeByName: (state) => (name = defaultDeckName) => {
+    const values = Object.values(state.decks[name] ?? {});
 
     return values.reduce((total, quantity) => total + quantity, 0);
-  }
+  },
+
+  hasName: (state) => (name) => !!state.decks[name]
 };
 
 export const mutations = {
   load(state, name) {
-    state.decks[defaultName] = { ...state.decks[name] ?? {} };
+    state.decks = {
+      ...state.decks,
+      [defaultDeckName]: { ...state.decks[name] ?? {} }
+    };
   },
 
   rename(state, {
@@ -42,12 +49,26 @@ export const mutations = {
     state.decks = decks;
   },
 
+  upload(state, {
+    name,
+    cards
+  }) {
+    state.decks = {
+      ...state.decks,
+      [name]: { ...cards }
+    };
+  },
+
   addCard(state, {
     id,
-    name = defaultName
+    name = defaultDeckName
   }) {
     const deck = { ...state.decks[name] ?? {} };
     const quantity = deck[id] ?? 0;
+
+    if (quantity === 2) {
+      return;
+    }
 
     state.decks = {
       ...state.decks,
@@ -60,10 +81,14 @@ export const mutations = {
 
   removeCard(state, {
     id,
-    name = defaultName
+    name = defaultDeckName
   }) {
     const deck = { ...state.decks[name] ?? {} };
     const quantity = deck[id] ?? 0;
+
+    if (quantity === 0) {
+      return;
+    }
 
     state.decks = {
       ...state.decks,
@@ -80,7 +105,7 @@ export const mutations = {
 export const actions = {
   save({ commit }, name) {
     commit('rename', {
-      from: defaultName,
+      from: defaultDeckName,
       to: name
     });
   },

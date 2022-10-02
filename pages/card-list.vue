@@ -28,20 +28,31 @@
               />
             </v-card-text>
           </v-card>
-          <div class="d-flex align-baseline justify-space-between">
+          <div class="d-flex flex-sm-column flex-lg-row align-baseline">
             <v-switch
-              v-model="cardsInDeckOnly"
-              :disabled="totalDeckSize === 0"
-              :label="`Show deck (${totalDeckSize})`"
-            />
-            <v-btn
-              :disabled="totalDeckSize === 0"
-              icon
-              title="Clear deck"
-              @click="$store.dispatch('deckBuilding/clear')"
+              v-model="showDeck"
+              :disabled="deckSize === 0"
             >
-              <v-icon>mdi-close-circle</v-icon>
-            </v-btn>
+              <template #label>
+                <v-badge
+                  :value="deckSize > 0"
+                  color="primary"
+                >
+                  <template #badge>
+                    <span class="black--text">
+                      {{ deckSize }}
+                    </span>
+                  </template>
+                  Cards in deck
+                </v-badge>
+              </template>
+            </v-switch>
+            <v-spacer class="hidden-sm-only hidden-md-only" />
+            <div class="d-flex align-baseline mb-sm-4 mb-lg-0">
+              <deck-action-save />
+              <deck-action-stats :deck="$store.getters['deckBuilding/defaultDeck']" />
+              <deck-action-clear />
+            </div>
           </div>
           <v-expand-transition>
             <div v-if="hasAnyFilters">
@@ -241,7 +252,7 @@ export default {
       panels: [ 0 ],
       timeoutId: null,
       intersecting: true,
-      cardsInDeckOnly: false
+      showDeck: this.$route.query.showDeck === null
     };
   },
 
@@ -268,7 +279,7 @@ export default {
           }
         }
 
-        if (this.cardsInDeckOnly && this.$store.getters['deckBuilding/quantityById'](card.id) === 0) {
+        if (this.showDeck && this.$store.getters['deckBuilding/quantityByCardId'](card.id) === 0) {
           return false;
         }
 
@@ -310,6 +321,7 @@ export default {
         itemsPerPage: itemsPerPage !== 25 ? itemsPerPage : undefined,
         sortBy: typeof sortBy === 'string' ? sortBy : undefined,
         sortDesc: this.options.sortDesc,
+        showDeck: this.showDeck ? null : undefined,
         ...Object.fromEntries(
           Object.entries(this.filters).map(([
             key,
@@ -333,8 +345,8 @@ export default {
       return Object.values(this.filters).some(({ value }) => value.length > 0);
     },
 
-    totalDeckSize() {
-      return this.$store.getters['deckBuilding/totalSize'];
+    deckSize() {
+      return this.$store.getters['deckBuilding/sizeByName']();
     }
   },
 
@@ -376,18 +388,16 @@ export default {
       }
     },
 
-    totalDeckSize(value) {
+    deckSize(value) {
       if (value === 0) {
-        this.cardsInDeckOnly = false;
+        this.showDeck = false;
       }
     },
 
-    cardsInDeckOnly(value) {
-      if (value) {
-        this.search = '';
+    showDeck() {
+      this.search = '';
 
-        this.clearAllFilters();
-      }
+      this.clearAllFilters();
     }
   },
 

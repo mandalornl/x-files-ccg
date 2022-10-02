@@ -27,15 +27,7 @@
           color="primary"
         >
           <v-list-item-icon>
-            <component
-              :is="navItem.badgeComponent"
-              v-if="navItem.badgeComponent"
-            >
-              <v-icon>{{ navItem.icon }}</v-icon>
-            </component>
-            <v-icon v-else>
-              {{ navItem.icon }}
-            </v-icon>
+            <v-icon>{{ navItem.icon }}</v-icon>
           </v-list-item-icon>
           <v-list-item-content>
             <v-list-item-title>
@@ -98,15 +90,14 @@ export default {
         icon: 'mdi-cards'
       },
       {
-        to: '/agent-selector',
-        label: 'Agent Selector',
-        icon: 'mdi-police-badge'
-      },
-      {
         to: '/deck-building',
         label: 'Deck Building',
         icon: 'mdi-archive',
-        badgeComponent: 'DeckSize'
+      },
+      {
+        to: '/agent-selector',
+        label: 'Agent Selector',
+        icon: 'mdi-police-badge'
       },
       {
         to: '/x-file-checklist',
@@ -149,5 +140,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .position-sticky {
   position: sticky !important;
+}
+
+.v-dialog--scrollable .v-card__text {
+  max-height: 100vh;
 }
 </style>

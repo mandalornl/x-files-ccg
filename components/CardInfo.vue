@@ -42,7 +42,7 @@
                     small
                     v-bind="attrs"
                     v-on="on"
-                    @click="$store.commit('deckBuilding/removeCard', { id: card.id })"
+                    @click="removeCard"
                   >
                     <v-icon small>
                       mdi-minus
@@ -51,7 +51,7 @@
                 </template>
                 Remove from deck
               </v-tooltip>
-              <code :class="[ 'mx-1 px-2', { 'red white--text': quantity > 0 } ]">
+              <code :class="[ 'mx-1 px-2', { 'primary black--text': quantity > 0 } ]">
                 {{ quantity }}
               </code>
               <v-tooltip
@@ -67,7 +67,7 @@
                     small
                     v-bind="attrs"
                     v-on="on"
-                    @click="$store.commit('deckBuilding/addCard', { id: card.id })"
+                    @click="addCard"
                   >
                     <v-icon small>
                       mdi-plus
@@ -205,7 +205,7 @@ export default {
     },
 
     quantity() {
-      return this.$store.getters['deckBuilding/quantityById'](this.card.id);
+      return this.$store.getters['deckBuilding/quantityByCardId'](this.card.id);
     },
 
     realQuantity() {
@@ -215,7 +215,7 @@ export default {
         const num = id.replace(/^xf\d{2}-(\d{4})v\d$/i, '$1');
         const otherId = id.endsWith('v1') ? `XF97-${num}v2` : `XF96-${num}v1`;
 
-        return this.quantity + this.$store.getters['deckBuilding/quantityById'](otherId);
+        return this.quantity + this.$store.getters['deckBuilding/quantityByCardId'](otherId);
       }
 
       return this.quantity;
@@ -249,14 +249,26 @@ export default {
       this.$emit('click:index', index);
     },
 
+    removeCard() {
+      this.$store.commit('deckBuilding/removeCard', { id: this.card.id });
+    },
+
+    addCard() {
+      this.$store.commit('deckBuilding/addCard', { id: this.card.id });
+    },
+
     onKeyup(event) {
       event.preventDefault();
 
       if (event.key === 'ArrowLeft') {
         this.prevCard();
+      } else if (event.key === 'ArrowRight') {
+        this.nextCard();
+      } else if (event.key === 'ArrowDown') {
+        this.removeCard();
       } else {
-        if (event.key === 'ArrowRight') {
-          this.nextCard();
+        if (event.key === 'ArrowUp') {
+          this.addCard();
         }
       }
     }

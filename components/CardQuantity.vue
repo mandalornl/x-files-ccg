@@ -1,9 +1,13 @@
 <template>
   <v-badge
     :value="quantity > 0"
-    :content="quantity"
-    color="red"
+    color="primary"
   >
+    <template #badge>
+      <span class="black--text">
+        {{ quantity }}
+      </span>
+    </template>
     <slot />
   </v-badge>
 </template>
@@ -21,7 +25,7 @@ export default {
 
   computed: {
     quantity() {
-      return this.$store.getters['deckBuilding/quantityById'](this.id);
+      return this.$store.getters['deckBuilding/quantityByCardId'](this.id);
     }
   }
 }
