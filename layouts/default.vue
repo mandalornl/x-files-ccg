@@ -78,7 +78,7 @@
 import { Scroll } from 'vuetify/lib/directives';
 
 export default {
-  name: 'LayoutDefault',
+  name: 'DefaultLayout',
 
   directives: {
     Scroll
