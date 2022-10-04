@@ -124,6 +124,9 @@
               {{ value }}
             </card-quantity>
           </template>
+          <template #[`item.type`]="{ value }">
+            <card-type-chip :value="value" />
+          </template>
         </v-data-table>
         <v-fade-transition>
           <div
