@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'CardTypeText',
+  name: 'CardFieldText',
 
   props: {
     value: {
@@ -9,7 +9,7 @@ export default {
     }
   },
 
-  render (createElement) {
+  render(createElement) {
     return createElement('blockquote', {
       class: 'text-body-2 text--secondary font-italic'
     }, this.value);

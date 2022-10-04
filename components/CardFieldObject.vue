@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: 'CardTypeObject',
+  name: 'CardFieldObject',
 
   props: {
     value: {

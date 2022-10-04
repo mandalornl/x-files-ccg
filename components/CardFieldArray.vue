@@ -4,6 +4,7 @@
       <v-chip
         v-for="label in value"
         :key="label"
+        small
         class="ma-1"
         @click="$emit('click', label)"
       >
@@ -15,7 +16,7 @@
 
 <script>
 export default {
-  name: 'CardTypeArray',
+  name: 'CardFieldArray',
 
   props: {
     value: {

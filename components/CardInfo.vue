@@ -100,16 +100,17 @@
             </div>
           </div>
           <div
-            v-for="(props, key) in cardProps"
+            v-for="(field, key) in fields"
             :key="key"
             class="mb-3"
           >
             <div class="font-weight-medium">
-              {{ props.label }}
+              {{ field.label }}
             </div>
             <component
-              :is="`CardType${props.type}`"
+              :is="field.component"
               :value="card[key]"
+              :class="field.class"
               @click="$emit('click:filter', { key, value: $event })"
             />
           </div>
@@ -145,60 +146,61 @@ export default {
   },
 
   computed: {
-    cardProps() {
+    fields() {
       return Object.fromEntries(
         Object.entries({
           set: {
             label: 'Set',
-            type: 'String'
+            component: 'CardFieldString'
           },
           type: {
             label: 'Type',
-            type: 'String'
+            component: 'CardTypeChip',
+            class: 'mt-1'
           },
           rarity: {
             label: 'Rarity',
-            type: 'String'
+            component: 'CardFieldString'
           },
           cost: {
             label: 'Cost',
-            type: 'String'
+            component: 'CardFieldString'
           },
           gameText: {
             label: 'Game Text',
-            type: 'Text'
+            component: 'CardFieldText'
           },
           stats: {
             label: 'Stats',
-            type: 'Object'
+            component: 'CardFieldObject'
           },
           characteristics: {
             label: 'Characteristics',
-            type: 'Object'
+            component: 'CardFieldObject'
           },
           prerequisite: {
             label: 'Prerequisite',
-            type: 'String'
+            component: 'CardFieldString'
           },
           question: {
             label: 'Question',
-            type: 'String'
+            component: 'CardFieldString'
           },
           keywords: {
             label: 'Keywords',
-            type: 'Array'
+            component: 'CardFieldArray'
           },
           activators: {
             label: 'Activators',
-            type: 'Array'
+            component: 'CardFieldArray'
           },
           episode: {
             label: 'Episode',
-            type: 'String'
+            component: 'CardFieldString'
           },
           foundIn: {
             label: 'Found In',
-            type: 'String'
+            component: 'CardFieldString'
           }
         }).filter(([ key ]) => !!this.card?.[key])
       );

@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'CardTypeString',
+  name: 'CardFieldString',
 
   props: {
     value: {
@@ -9,7 +9,7 @@ export default {
     }
   },
 
-  render (createElement) {
+  render(createElement) {
     return createElement('div', {
       class: 'text-body-2 text--secondary'
     }, this.value);
