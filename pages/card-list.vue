@@ -110,7 +110,7 @@
             }
           }"
           :headers="headers"
-          :items="cards"
+          :items="items"
           :page.sync="page"
           :items-per-page.sync="itemsPerPage"
           :sort-by.sync="sortBy"
@@ -267,6 +267,14 @@ export default {
   }),
 
   computed: {
+    items() {
+      if (this.itemsPerPage > 0) {
+        return this.cards.slice((this.page - 1) * this.itemsPerPage, this.page * this.itemsPerPage);
+      }
+
+      return this.cards;
+    },
+
     cards() {
       const search = this.search?.toLocaleLowerCase?.();
 
