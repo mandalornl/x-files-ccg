@@ -111,11 +111,12 @@
           }"
           :headers="headers"
           :items="cards"
-          :page.sync="options.page"
-          :items-per-page.sync="options.itemsPerPage"
+          :page.sync="page"
+          :items-per-page.sync="itemsPerPage"
+          :sort-by.sync="sortBy"
+          :sort-desc.sync="sortDesc"
           :footer-props="footerProps"
-          :sort-by.sync="options.sortBy"
-          :sort-desc.sync="options.sortDesc"
+          :server-items-length="cards.length"
           mobile-breakpoint="0"
           @click:row="selectedCard = $event"
         >
@@ -187,15 +188,13 @@ export default {
         { text: 'Rarity', value: 'rarity', class: 'text-no-wrap', cellClass: 'text-no-wrap' }
       ],
       search: this.$route.query.q ?? '',
-      options: {
-        page: Number(this.$route.query.page ?? 1),
-        itemsPerPage: Number(this.$route.query.itemsPerPage ?? 25),
-        sortBy: this.$route.query.sortBy,
-        sortDesc: {
-          'true': true,
-          'false': false
-        }[this.$route.query.sortDesc]
-      },
+      page: Number(this.$route.query.page ?? 1),
+      itemsPerPage: Number(this.$route.query.itemsPerPage ?? 25),
+      sortBy: this.$route.query.sortBy,
+      sortDesc: {
+        'true': true,
+        'false': false
+      }[this.$route.query.sortDesc],
       footerProps: {
         itemsPerPageOptions: [
           25,
@@ -271,7 +270,7 @@ export default {
     cards() {
       const search = this.search?.toLocaleLowerCase?.();
 
-      return cards.filter((card) => {
+      const hits = cards.filter((card) => {
         if (search) {
           const hit = [
             card.id,
@@ -312,22 +311,40 @@ export default {
           return value.includes(card[key]);
         });
       });
+
+      if (this.sortBy) {
+        const collator = new Intl.Collator('en', {
+          sensitivity: 'base',
+          numeric: true
+        });
+
+        return hits.sort((a, b) => {
+          const valueA = a[this.sortBy];
+          const valueB = b[this.sortBy];
+
+          if (this.sortDesc) {
+            return collator.compare(valueB, valueA);
+          }
+
+          return collator.compare(valueA, valueB);
+        });
+      }
+
+      if (this.sortDesc) {
+        return hits.reverse();
+      }
+
+      return hits;
     },
 
     routeQuery() {
-      const {
-        page,
-        itemsPerPage,
-        sortBy
-      } = this.options;
-
       return {
         id: this.selectedCard?.id,
         q: this.search || undefined,
-        page: page > 1 ? page : undefined,
-        itemsPerPage: itemsPerPage !== 25 ? itemsPerPage : undefined,
-        sortBy: typeof sortBy === 'string' ? sortBy : undefined,
-        sortDesc: this.options.sortDesc,
+        page: this.page > 1 ? this.page : undefined,
+        itemsPerPage: this.itemsPerPage !== 25 ? this.itemsPerPage : undefined,
+        sortBy: typeof this.sortBy === 'string' ? this.sortBy : undefined,
+        sortDesc: this.sortDesc,
         showDeck: this.showDeck ? null : undefined,
         ...Object.fromEntries(
           Object.entries(this.filters).map(([
@@ -359,7 +376,7 @@ export default {
 
   watch: {
     search() {
-      this.$set(this.options, 'page', 1);
+      this.page = 1;
     },
 
     routeQuery(value) {
@@ -391,7 +408,7 @@ export default {
 
     selectedCardIndex(value) {
       if (value !== -1) {
-        this.$set(this.options, 'page', Math.floor(value / this.options.itemsPerPage) + 1);
+        this.page = Math.floor(value / this.itemsPerPage) + 1;
       }
     },
 
@@ -413,7 +430,7 @@ export default {
 
     Object.keys(this.filters).forEach((key) => {
       this.$watch(`filters.${key}.value`, () => {
-        this.$set(this.options, 'page', 1);
+        this.page = 1;
       });
     });
   },
