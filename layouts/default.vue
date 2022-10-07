@@ -133,7 +133,7 @@ p:last-child {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 1rem;
+  margin-bottom: .25rem;
 
   font-weight: 500;
 }
