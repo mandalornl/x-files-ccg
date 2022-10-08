@@ -12,4 +12,14 @@ export default ({ store }) => {
       deckBuilding
     })
   }).plugin(store);
+
+  new VuexPersistence({
+    key: 'x-files-ccg',
+    storage: sessionStorage,
+    reducer: ({
+      checklist
+    }) => ({
+      checklist
+    })
+  }).plugin(store);
 };

@@ -90,9 +90,7 @@ export default {
   name: 'PageXFileChecklist',
 
   data: () => ({
-    groups: xFiles,
-    selected: [],
-    snapshot: []
+    groups: xFiles
   }),
 
   head: () => ({
@@ -100,6 +98,24 @@ export default {
   }),
 
   computed: {
+    selected: {
+      get() {
+        return this.$store.state.checklist.selected;
+      },
+      set(value) {
+        this.$store.commit('checklist/setSelected', value);
+      }
+    },
+
+    snapshot: {
+      get() {
+        return this.$store.state.checklist.snapshot;
+      },
+      set(value) {
+        this.$store.commit('checklist/setSnapshot', value);
+      }
+    },
+
     totalLeft() {
       return xFiles.reduce((total, group) => (
         total + Object.keys(group).filter((xFile) => !this.selected.includes(xFile)).length
@@ -125,6 +141,8 @@ export default {
 
   methods: {
     toggleXFile(type, characteristic) {
+      const selected = [];
+
       xFiles.forEach((group) => {
         Object.entries(group).forEach(([
           xFile,
@@ -134,10 +152,15 @@ export default {
             characteristics[type] === characteristic
             && !this.selected.includes(xFile)
           ) {
-            this.selected.push(xFile)
+            selected.push(xFile);
           }
         });
       });
+
+      this.selected = [
+        ...this.selected,
+        ...selected
+      ];
     },
 
     undo() {
