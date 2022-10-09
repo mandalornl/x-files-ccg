@@ -6,10 +6,10 @@
     <v-sparkline
       :labels="labels"
       :value="values"
+      :label-size="$vuetify.breakpoint.xsOnly ? 5 : 4"
       color="grey lighten-1"
       line-width="1"
       padding="20"
-      label-size="5"
     />
   </div>
 </template>
