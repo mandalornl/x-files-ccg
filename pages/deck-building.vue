@@ -19,7 +19,8 @@
           v-for="deck in decks"
           :key="deck.name"
           cols="12"
-          sm="3"
+          sm="4"
+          md="3"
         >
           <v-card :to="deck.new ? '/card-list?showDeck' : undefined">
             <v-card-text>
