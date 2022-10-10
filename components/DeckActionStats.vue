@@ -40,7 +40,7 @@
             <deck-stats-type :cards="cards" />
           </v-col>
           <v-col
-            v-for="(color, type) in costTypes"
+            v-for="type in [ 'RP', 'CP', '*P' ]"
             :key="type"
             cols="12"
             sm="4"
@@ -48,7 +48,43 @@
             <deck-stats-cost
               :cards="cards"
               :type="type"
-              :color="color"
+            />
+          </v-col>
+          <v-col
+            cols="12"
+            sm="6"
+          >
+            <deck-stats-site
+              :cards="cards"
+              :keywords="[
+                'Affiliation',
+                'Motive',
+                'Method',
+                'Result'
+              ]"
+              title="Site question"
+            />
+          </v-col>
+          <v-col
+            cols="12"
+            sm="6"
+          >
+            <deck-stats-site
+              :cards="cards"
+              :keywords="[
+                'Alien Investigation',
+                'Behavioral',
+                'Bureaucracy',
+                'Computer',
+                'Criminal Investigation',
+                'Evidence Collection',
+                'Medical',
+                'Observation',
+                'Occult Investigation',
+                'Sciences',
+                'Subterfuge'
+              ]"
+              title="Site prerequisite"
             />
           </v-col>
         </v-row>
@@ -80,12 +116,7 @@ export default {
   },
 
   data: () => ({
-    dialog: false,
-    costTypes: {
-      'RP': 'light-blue',
-      'CP': 'red',
-      '*P': 'purple lighten-3'
-    }
+    dialog: false
   }),
 
   computed: {

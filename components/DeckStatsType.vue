@@ -1,17 +1,13 @@
 <template>
-  <div>
-    <div class="font-weight-medium">
-      Type
-    </div>
-    <v-sparkline
-      :labels="labels"
-      :value="values"
-      :label-size="$vuetify.breakpoint.xsOnly ? 5 : 4"
-      color="grey lighten-1"
-      line-width="1"
-      padding="20"
-    />
-  </div>
+  <v-sparkline
+    :labels="labels"
+    :value="values"
+    auto-line-width
+    type="bar"
+    color="grey lighten-1"
+    padding="20"
+    label-size="4"
+  />
 </template>
 
 <script>

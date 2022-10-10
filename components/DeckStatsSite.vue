@@ -2,7 +2,7 @@
   <v-simple-table dense>
     <thead>
       <tr>
-        <th>{{ type }} Cost</th>
+        <th>{{ title }}</th>
         <th>Count</th>
       </tr>
     </thead>
@@ -20,43 +20,42 @@
 
 <script>
 export default {
-  name: 'DeckStatsCost',
+  name: 'DeckStatsSite',
 
   props: {
+    title: {
+      type: String,
+      default: undefined
+    },
     cards: {
       type: Array,
       default: () => ([])
     },
-    type: {
-      type: String,
-      default: 'RP',
-      validator: (value) => [
-        'RP',
-        'CP',
-        '*P'
-      ].includes(value)
+    keywords: {
+      type: Array,
+      default: () => ([])
     }
   },
 
   computed: {
     stats() {
       const stats = this.cards
-        .filter(({ cost }) => cost.endsWith(this.type))
+        .filter(({ type }) => type === 'Site')
         .reduce((result, {
-          cost,
-          quantity
+          quantity,
+          keywords
         }) => {
-          const value = cost.replace(` ${this.type}`, '');
+          this.keywords.forEach((keyword) => {
+            if (keywords.includes(keyword)) {
+              result[keyword] = (result[keyword] ?? 0) + quantity;
+            }
+          });
 
-          return {
-            ...result,
-            [value]: (result[value] ?? 0) + quantity
-          };
+          return result;
         }, {});
 
       const collator = new Intl.Collator('en', {
-        sensitivity: 'base',
-        numeric: true
+        sensitivity: 'base'
       });
 
       return Object.entries(stats)
@@ -73,13 +72,24 @@ export default {
 
           return countB - countA;
         })
-      .map(([
+        .map(([
+          label,
+          count
+        ]) => ({
+          label,
+          count
+        }));
+    },
+
+    labels() {
+      return Object.entries(this.stats).map(([
         label,
         count
-      ]) => ({
-        label,
-        count
-      }));
+      ]) => `${label} (${count})`);
+    },
+
+    values() {
+      return Object.values(this.stats);
     }
   }
 }
