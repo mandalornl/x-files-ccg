@@ -53,9 +53,17 @@
               <deck-action-stats
                 :deck="$store.getters['deckBuilding/defaultDeck']"
                 small
-                content-class="mx-2"
+                content-class="ml-1"
               />
-              <deck-action-clear small />
+              <deck-action-card-draw
+                :deck="$store.getters['deckBuilding/defaultDeck']"
+                small
+                content-class="ml-1"
+              />
+              <deck-action-clear
+                small
+                class="ml-1"
+              />
             </div>
           </div>
           <v-expand-transition>

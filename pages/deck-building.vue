@@ -32,12 +32,16 @@
                 :deck="deck"
                 small
               />
-              <div class="mx-2">
-                <deck-action-stats
-                  :deck="deck"
-                  small
-                />
-              </div>
+              <deck-action-stats
+                :deck="deck"
+                small
+                content-class="ml-2"
+              />
+              <deck-action-card-draw
+                :deck="deck"
+                small
+                content-class="ml-2"
+              />
               <template v-if="!deck.new">
                 <v-btn
                   icon

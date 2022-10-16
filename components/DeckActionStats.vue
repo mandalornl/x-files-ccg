@@ -3,6 +3,7 @@
     v-model="dialog"
     scrollable
     width="960"
+    content-class="ma-2 ma-sm-6"
   >
     <template #activator="{ on, attrs }">
       <v-btn
@@ -94,7 +95,7 @@
 </template>
 
 <script>
-import cardList from '~/config/cards.json';
+import { cards } from '~/config/card';
 import { defaultDeckName } from '~/store/deckBuilding';
 
 export default {
@@ -132,7 +133,7 @@ export default {
       const deck = this.$store.state.deckBuilding.decks[this.name] ?? {};
       const ids = Object.keys(deck);
 
-      return cardList
+      return cards
         .filter(({ id }) => ids.includes(id))
         .map((card) => ({
           ...card,

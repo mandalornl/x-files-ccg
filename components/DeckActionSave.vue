@@ -9,6 +9,7 @@
         :title="isNew ? 'Save' : 'Rename'"
         :disabled="disabled"
         :small="small"
+        :class="contentClass"
         icon
         v-bind="attrs"
         @click.prevent="on.click"
@@ -51,6 +52,10 @@ export default {
     small: {
       type: Boolean,
       default: false
+    },
+    contentClass: {
+      type: [ String, Array, Object ],
+      default: undefined
     }
   },
 
