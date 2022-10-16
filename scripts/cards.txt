@@ -5889,7 +5889,7 @@ Episode: Jose Chung's "From Outer Space"
 Bluff -- Cost: 3 CP
 Keywords: Bluff
 Activators: Conspiracy, Site
-Game Text: Once this card is played, the investigating player may not play any Witnesses while investigating this Site, except for Witnesses which would specifically negate this card. Equipment
+Game Text: Once this card is played, the investigating player may not play any Witnesses while investigating this Site, except for Witnesses which would specifically negate this card.
 
 TWO LUX VIDEO CAMERA
 XF97-0423x1 -- Rare
