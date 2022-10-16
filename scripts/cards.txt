@@ -5395,7 +5395,7 @@ Episode: Apocrypha
 Bluff -- Cost: 3 CP
 Keywords: Bluff
 Activators: Conspiracy, Site
-Game Text: Play this card to allow you to exchange Pools with your opponent.
+Game Text: Play this card to allow you to exchange CP Pools with your opponent.
 
 INJURED RELATIVE
 XF97-0363v2 -- Rare
