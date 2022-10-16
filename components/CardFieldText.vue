@@ -11,7 +11,7 @@ export default {
 
   render(createElement) {
     return createElement('blockquote', {
-      class: 'text-body-2 text--secondary font-italic'
+      class: 'text-body-2 text-pre-wrap text--secondary font-italic'
     }, this.value);
   }
 }
