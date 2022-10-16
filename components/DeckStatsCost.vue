@@ -15,6 +15,16 @@
         <td>{{ item.count }}</td>
       </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td class="font-weight-medium">
+          Total
+        </td>
+        <td class="font-weight-medium">
+          {{ total }}
+        </td>
+      </tr>
+    </tfoot>
   </v-simple-table>
 </template>
 
@@ -80,6 +90,10 @@ export default {
         label,
         count
       }));
+    },
+
+    total() {
+      return Object.values(this.stats).reduce((total, { count }) => total + count, 0);
     }
   }
 }
