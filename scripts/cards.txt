@@ -5672,7 +5672,7 @@ Adversary -- Cost: 4 CP
 LRC: 0 CRC: 4 HEALTH: 4
 Keywords: Adversary, Government, Phenomena
 Activators: Conspiracy, Result, Site
-Game Text: Subtract one from all damage sources applied to this Adversary. The Long Range Combat Round is skipped. Agents
+Game Text: Subtract one from all damage sources applied to this Adversary. The Long Range Combat Round is skipped.
 
 AGENT BILL PATTERSON
 XF97-0396x1 -- Rare
