@@ -53,16 +53,51 @@
                     mdi-cards
                   </v-icon>
                 </v-btn>
-                <v-btn
-                  icon
-                  small
-                  title="Download"
-                  @click="download(deck)"
+                <v-speed-dial
+                  direction="bottom"
+                  transition="slide-y-transition"
                 >
-                  <v-icon small>
-                    mdi-download
-                  </v-icon>
-                </v-btn>
+                  <template #activator>
+                    <v-btn
+                      icon
+                      small
+                      title="Download"
+                    >
+                      <v-icon small>
+                        mdi-download
+                      </v-icon>
+                    </v-btn>
+                  </template>
+                  <v-btn
+                    icon
+                    small
+                    title="JSON"
+                    @click="downloadJSON(deck)"
+                  >
+                    <v-icon small>
+                      mdi-code-json
+                    </v-icon>
+                  </v-btn>
+                  <v-btn
+                    icon
+                    small
+                    title="CSV"
+                    @click="downloadCSV(deck)"
+                  >
+                    <v-icon small>
+                      mdi-format-list-bulleted
+                    </v-icon>
+                  </v-btn>
+                  <v-btn
+                    icon
+                    small
+                    title="Tabletop Simulator (coming soon)"
+                  >
+                    <v-icon small>
+                      mdi-chess-queen
+                    </v-icon>
+                  </v-btn>
+                </v-speed-dial>
                 <v-btn
                   icon
                   small
@@ -94,6 +129,7 @@
 </template>
 
 <script>
+import { cards } from '~/config/card';
 import { defaultDeckName } from '~/store/deckBuilding';
 
 export default {
@@ -139,7 +175,7 @@ export default {
       this.$router.push('/card-list?showDeck');
     },
 
-    download(deck) {
+    downloadJSON(deck) {
       const data = Buffer.from(
         JSON.stringify({
           name: deck.name,
@@ -150,6 +186,34 @@ export default {
       const anchor = document.createElement('a');
       anchor.download = `${deck.name}.json`;
       anchor.href = `data:application/json;base64,${data}`;
+      anchor.click();
+    },
+
+    downloadCSV(deck) {
+      const data = Buffer.from(
+        [
+          '"#","Set","Title","Type","Quantity"',
+          ...Object.entries(this.$store.getters['deckBuilding/deckByName'](deck.name)).reduce((result, [
+            id,
+            quantity
+          ]) => {
+            const {
+              set,
+              title,
+              type
+            } = cards.find((card) => card.id === id);
+
+            return [
+              ...result,
+              `"${id}","${set}","${title}","${type}","${quantity}"`
+            ]
+          }, [])
+        ].join('\n')
+      ).toString('base64');
+
+      const anchor = document.createElement('a');
+      anchor.download = `${deck.name}.csv`;
+      anchor.href = `data:text/plain;base64,${data}`;
       anchor.click();
     },
 
