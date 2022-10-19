@@ -30,7 +30,10 @@
                 <card-img :card="card" />
               </div>
             </template>
-            <card-img :card="card" />
+            <card-img
+              :card="card"
+              class="rounded-lg"
+            />
           </v-dialog>
           <div class="d-flex align-center justify-space-between mt-1">
             <v-btn
