@@ -1391,7 +1391,7 @@ Episode: Irresistible
 Agent -- Cost: 3 RP
 Keywords: Agent, FBI, Believer
 Stats: Behavioral: 3; Criminal Investigation: 1; Evidence Collection: 1; Medical: 1; Occult Investigation: 1; LRC: 1; CRC: 1; Health: 3; RES: 1
-Game Text: Place 1 on this card. This may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this , replace it during your Briefing Phase. Witnesses
+Game Text: Place 1 on this card. This may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this , replace it during your Briefing Phase.
 
 SHERIFF SPENCER
 XF96-0184v1 -- Common
@@ -4127,7 +4127,7 @@ Episode: Irresistible
 Agent -- Cost: 3 RP
 Keywords: Agent, FBI, Believer
 Stats: Behavioral: 3; Criminal Investigation: 1; Evidence Collection: 1; Medical: 1; Occult Investigation: 1; LRC: 1; CRC: 1; Health: 3; RES: 1
-Game Text: Place 1 on this card. This may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this , replace it during your Briefing Phase. Witnesses
+Game Text: Place 1 on this card. This may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this , replace it during your Briefing Phase.
 
 SHERIFF SPENCER
 XF97-0184v2 -- Fixed
@@ -5768,9 +5768,8 @@ Episode: Quagmire
 Bluff -- Cost: X CP
 Keywords: Bluff
 Activators: Conspiracy, Site
-Game Text: Pay the listed cost where X = the number of paid to gain the desired modifier to one of the following skills:
+Game Text: Pay the listed cost where X = the number of paid to gain the desired modifier to one of the following skills: CLOSE RANGE COMBAT, LONG RANGE COMBAT. (1) = -1, (3) = -2, (5) = -3, (9) = -4
 
-CLOSE RANGE COMBAT, LONG RANGE COMBAT. (1) = -1, (3) = -2, (5) = -3, (9) = -4.
 DISSOLVING EVIDENCE
 XF97-0408x1 -- Common
 Episode: 2Shy
