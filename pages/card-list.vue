@@ -177,7 +177,8 @@ import {
   types,
   activators,
   keywords,
-  rarities
+  rarities,
+  tags
 } from '~/config/card';
 
 export default {
@@ -238,6 +239,11 @@ export default {
           rarity: {
             label: 'Rarity',
             items: rarities,
+            operation: 'and'
+          },
+          tags: {
+            label: 'Tags',
+            items: tags,
             operation: 'and'
           }
         }).map(([

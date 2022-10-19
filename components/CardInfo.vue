@@ -217,6 +217,10 @@ export default {
           foundIn: {
             label: 'Found In',
             component: 'CardFieldString'
+          },
+          tags: {
+            label: 'Tags',
+            component: 'CardFieldArray'
           }
         }).filter(([ key ]) => !!this.card?.[key])
       );

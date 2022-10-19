@@ -148,7 +148,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Negates the effects of any one Equipment card that adds to LONG RANGE COMBAT Skill for the duration of this combat."
+    "gameText": "Negates the effects of any one Equipment card that adds to LONG RANGE COMBAT Skill for the duration of this combat.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Hide",
@@ -302,7 +305,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Combatants that can use MARTIAL ARTS may use this card to negate two points of damage and still deal their normal damage in a CLOSE RANGE COMBAT round."
+    "gameText": "Combatants that can use MARTIAL ARTS may use this card to negate two points of damage and still deal their normal damage in a CLOSE RANGE COMBAT round.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Block",
@@ -385,7 +391,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Adversary to add 1 to its CLOSE RANGE COMBAT skill check. In addition, if the Adversary is OCCULT, play on the chosen Agent in combat to negate his combat skills this round."
+    "gameText": "Play on any Adversary to add 1 to its CLOSE RANGE COMBAT skill check. In addition, if the Adversary is OCCULT, play on the chosen Agent in combat to negate his combat skills this round.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Internal Bleeding",
@@ -418,7 +427,11 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round."
+    "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round.",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "No Way Out",
@@ -434,7 +447,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater."
+    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Hard Punch",
@@ -549,7 +565,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to negate all damage allocated to that Adversary this round."
+    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to negate all damage allocated to that Adversary this round.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Run For It!",
@@ -1574,7 +1593,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Sheriff Daniels",
@@ -1609,7 +1632,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "The Overcoat Man",
@@ -1626,7 +1653,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "You've Got A Tail",
@@ -1661,7 +1692,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately."
+    "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
+    "tags": [
+      "Discard"
+    ]
   },
   {
     "title": "Holtzman, D.S.A.",
@@ -1678,7 +1712,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Claude Peterson",
@@ -1695,7 +1733,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "The Conundrum",
@@ -1714,7 +1756,10 @@
       "Conspiracy",
       "Evidence collection"
     ],
-    "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card."
+    "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Paul Mossinger",
@@ -1731,7 +1776,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Intruder Counter-Measures Program",
@@ -1748,7 +1797,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to add 2 to your pool immediately"
+    "gameText": "Play to add 2 CP to your pool immediately.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Dr. Aaron Monte",
@@ -1817,7 +1870,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to add five tokens to your pool."
+    "gameText": "Play to add five tokens to your CP pool.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Sleep Deprivation",
@@ -1922,7 +1979,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to negate one Keyword CRIMINAL INVESTIGATION card."
+    "gameText": "Play to negate one Keyword CRIMINAL INVESTIGATION card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Government Cover-Up",
@@ -1941,7 +2001,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Hazardous Sample",
@@ -1958,7 +2022,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand."
+    "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Henry Trondheim",
@@ -1974,7 +2042,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice."
+    "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
+    "tags": [
+      "Discard"
+    ]
   },
   {
     "title": "Detective Miles",
@@ -1991,7 +2062,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Pay 1 to move up to 2 from your opponent's pool to your pool immediately."
+    "gameText": "Pay 1 CP to move up to 2 RP from your opponent's RP pool to your CP pool immediately.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Detective Thompson",
@@ -2042,7 +2117,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately. X-Files"
+    "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "B.J. Morrow, Genetic Trait Recipient",
@@ -2670,7 +2749,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played."
+    "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Agent Alex Krycek",
@@ -2754,7 +2837,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Rich",
@@ -2781,7 +2868,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Lucy Kazdin",
@@ -2833,7 +2924,11 @@
       "Health": 5,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck."
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Inspector Phoebe Green",
@@ -2944,7 +3039,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Dana Scully",
@@ -2973,7 +3072,10 @@
       "Health": 4,
       "Resources": 2
     },
-    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining."
+    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
+    "tags": [
+      "Examine"
+    ]
   },
   {
     "title": "Agent Dana Scully",
@@ -3002,7 +3104,10 @@
       "Health": 4,
       "Resources": 2
     },
-    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining."
+    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
+    "tags": [
+      "Examine"
+    ]
   },
   {
     "title": "Assistant Director Walter Skinner",
@@ -3054,7 +3159,10 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place one token on this card. Discard a token to negate one OCCULT Adversary."
+    "gameText": "Place one token on this card. Discard a token to negate one OCCULT Adversary.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Agent Tom Colton",
@@ -3080,7 +3188,11 @@
       "Health": 3,
       "Resources": 2
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Janus, Trained Medic",
@@ -3104,7 +3216,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this , replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Moe Bocks",
@@ -3132,7 +3248,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Reggie Purdue",
@@ -3160,7 +3280,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck."
+    "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Assistant Director Walter Skinner",
@@ -3212,7 +3336,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck."
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Agent Jerry Lamana",
@@ -3263,7 +3391,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this , replace it during your Briefing Phase. Witnesses"
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Sheriff Spencer",
@@ -3444,7 +3576,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played."
+    "gameText": "Adds 1 RP to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
+    "tags": [
+      "Resource",
+      "Resource Pool",
+      "Recurring"
+    ]
   },
   {
     "title": "Kevin Morris, A.K.A. The Conduit",
@@ -3463,7 +3600,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played."
+    "gameText": "Adds 1 RP to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
+    "tags": [
+      "Resource",
+      "Resource Pool",
+      "Recurring"
+    ]
   },
   {
     "title": "Detective Sharon Lazard",
@@ -3574,7 +3716,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to your pool every time a Keyword GOVERNMENT or MEDICAL card is played."
+    "gameText": "Adds 1 RP to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
+    "tags": [
+      "Resource",
+      "Resource Pool",
+      "Recurring"
+    ]
   },
   {
     "title": "Michelle Generoo",
@@ -3593,7 +3740,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played."
+    "gameText": "Adds 1 RP to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
+    "tags": [
+      "Resource",
+      "Resource Pool",
+      "Recurring"
+    ]
   },
   {
     "title": "Sir Malcolm Marsden",
@@ -3756,7 +3908,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to your pool every time a Keyword SCIENCES or OBSERVATION card is played."
+    "gameText": "Adds 1 RP to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
+    "tags": [
+      "Resource",
+      "Resource Pool",
+      "Recurring"
+    ]
   },
   {
     "title": "Ish-Tribal Elder",
@@ -3851,7 +4008,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played."
+    "gameText": "Adds 1 RP to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
+    "tags": [
+      "Resource",
+      "Resource Pool",
+      "Recurring"
+    ]
   },
   {
     "title": "Gerd Thomas",
@@ -3924,7 +4086,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card at anytime during your turn to examine your opponent's hand."
+    "gameText": "Play this card at anytime during your turn to examine your opponent's hand.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Senator Richard Matheson",
@@ -3942,7 +4108,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded. Events"
+    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded."
   },
   {
     "title": "Successful Diagnosis",
@@ -4154,7 +4320,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck."
+    "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Government Arrests Suspects",
@@ -4244,7 +4413,10 @@
       "Conspiracy",
       "Computer"
     ],
-    "gameText": "Play this card to negate any Keyword COMPUTER card."
+    "gameText": "Play this card to negate any Keyword COMPUTER card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Agent Lamana Dies In Fatal Elevator Accident",
@@ -4348,7 +4520,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play when Assistant Director Walter Skinner is in the Bureau Section of the table and the AFFILIATION of your opponent's X-File is known. Add the following modifiers to Skinner's skills: +1 BUREAUCRACY, +1 SUBTERFUGE. Skinner is now immune to the \"Skinner Adopts The Company Line\" card. Place two tokens on this card. Discard a token to negate one Event card. Place this card below Skinner to remind you of the increased skills."
+    "gameText": "Play when Assistant Director Walter Skinner is in the Bureau Section of the table and the AFFILIATION of your opponent's X-File is known. Add the following modifiers to Skinner's skills: +1 BUREAUCRACY, +1 SUBTERFUGE. Skinner is now immune to the \"Skinner Adopts The Company Line\" card. Place two tokens on this card. Discard a token to negate one Event card. Place this card below Skinner to remind you of the increased skills.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Overwhelming Force",
@@ -4381,7 +4556,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Force an opponent player to reveal any Adversary cards in his hand. If your opponent has one or more, discard one at random."
+    "gameText": "Force an opponent player to reveal any Adversary cards in his hand. If your opponent has one or more, discard one at random.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Evidence Overlooked",
@@ -4508,7 +4687,11 @@
       "Active",
       "Witness"
     ],
-    "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect."
+    "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect.",
+    "tags": [
+      "Modify",
+      "Witness"
+    ]
   },
   {
     "title": "Crop Circles",
@@ -4737,7 +4920,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discared simply negate the combat."
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat."
   },
   {
     "title": "Spying Mission",
@@ -4791,7 +4974,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT."
+    "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
+    "tags": [
+      "Discard"
+    ]
   },
   {
     "title": "The Local Law Enforcement Are Uncooperative",
@@ -4883,7 +5069,11 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn."
+    "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn.",
+    "tags": [
+      "Modify",
+      "Witness"
+    ]
   },
   {
     "title": "Lula Phillips",
@@ -4899,7 +5089,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your pool."
+    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your CP pool.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "No Place Is Safe",
@@ -4949,7 +5143,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the pool."
+    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the RP pool.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Hack Into Government Files",
@@ -5038,7 +5236,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Add five tokens to your pool."
+    "gameText": "Add five tokens to your RP pool.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Relentless Pursuit",
@@ -5106,7 +5308,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Select one card from your Discard Pile and place it in your hand."
+    "gameText": "Select one card from your Discard Pile and place it in your hand.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Driving",
@@ -5159,7 +5364,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your pool. The tokens become tokens. When all counters have been removed, discard this card."
+    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your CP pool. The tokens become CP tokens. When all counters have been removed, discard this card.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Alien Experimentation",
@@ -5301,7 +5510,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your pool. The tokens become (change to) tokens. When all counters have been removed, discard this card."
+    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your RP pool. The tokens become RP tokens. When all counters have been removed, discard this card.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Written Report",
@@ -5336,7 +5549,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or"
+    "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Travel Arrangements",
@@ -5390,7 +5607,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn."
+    "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn.",
+    "tags": [
+      "Modify",
+      "Witness"
+    ]
   },
   {
     "title": "Evasive Maneuvers",
@@ -5426,7 +5647,10 @@
       "Active",
       "Event"
     ],
-    "gameText": "This card will negate one Event card played on your Team."
+    "gameText": "This card will negate one Event card played on your Team.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Agent Reggie Purdue Found Strangled",
@@ -5872,7 +6096,11 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice)."
+    "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "Mini-14 Assault Rifle",
@@ -5890,7 +6118,11 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice)."
+    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "Mojo Bag",
@@ -5975,7 +6207,11 @@
       "Conspiracy",
       "Alien investigation"
     ],
-    "gameText": "Your opponent may not spread out Agents until this card is resolved. Hold this card twelve inches up and twelve inches away from the opponent's Team. Flip the card so that it spins through the air. All of the Agents in the Investigating Team that are bing touched by the Alien Harvester are abducted! Discard any Equipment attached to the abducted Agents. The Agents are placed ten cards down, face up, in the Bureau deck. When the Agent cards reach the top of the deck, the Agents are immediately moved to the Hospital (though they are not damaged)."
+    "gameText": "Your opponent may not spread out Agents until this card is resolved. Hold this card twelve inches up and twelve inches away from the opponent's Team. Flip the card so that it spins through the air. All of the Agents in the Investigating Team that are being touched by the Alien Harvester are abducted! Discard any Equipment attached to the abducted Agents. The Agents are placed ten cards down, face up, in the Bureau deck. When the Agent cards reach the top of the deck, the Agents are immediately moved to the Hospital (though they are not damaged).",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Hunter In The Dark",
@@ -5999,7 +6235,11 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped."
+    "gameText": "The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Crew-Cut Man",
@@ -6077,7 +6317,7 @@
     "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed."
   },
   {
-    "title": "Pvt. Mcalpin, Zombie",
+    "title": "Pvt. McAlpin, Zombie",
     "id": "XF96-0339v1",
     "set": "Premiere",
     "rarity": "Fixed",
@@ -6099,7 +6339,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie."
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
+    "tags": [
+      "Reduce",
+      "Damage"
+    ]
   },
   {
     "title": "Good People, Good Food",
@@ -6123,7 +6367,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice)."
+    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "The Sandman",
@@ -6170,7 +6418,11 @@
       "Conspiracy",
       "Alien investigation"
     ],
-    "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat."
+    "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Squeeze",
@@ -6194,7 +6446,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped."
+    "gameText": "The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "The Psychotic Attack",
@@ -6218,7 +6474,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice)."
+    "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "The Mechanic",
@@ -6267,7 +6527,11 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn."
+    "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Suppressed Fury",
@@ -6315,7 +6579,11 @@
       "Conspiracy",
       "Computer"
     ],
-    "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1."
+    "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Operation Falcon Blue Berets",
@@ -6340,7 +6608,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards."
+    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "Pheromone-Induced Psychosis",
@@ -6388,7 +6660,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards."
+    "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
+    "tags": [
+      "Reduce",
+      "Damage"
+    ]
   },
   {
     "title": "The Manitou Stalks His Prey",
@@ -6767,7 +7043,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Combatants that can use MARTIAL ARTS may use this card to negate two points of damage and still deal their normal damage in a CLOSE RANGE COMBAT round."
+    "gameText": "Combatants that can use MARTIAL ARTS may use this card to negate two points of damage and still deal their normal damage in a CLOSE RANGE COMBAT round.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Block",
@@ -6850,7 +7129,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Adversary to add 1 to its CLOSE RANGE COMBAT skill check. In addition, if the Adversary is OCCULT, play on the chosen Agent in combat to negate his combat skills this round."
+    "gameText": "Play on any Adversary to add 1 to its CLOSE RANGE COMBAT skill check. In addition, if the Adversary is OCCULT, play on the chosen Agent in combat to negate his combat skills this round.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Internal Bleeding",
@@ -6883,7 +7165,11 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round."
+    "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round.",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "No Way Out",
@@ -6899,7 +7185,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater."
+    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Hard Punch",
@@ -7014,7 +7303,10 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to negate all damage allocated to that Adversary this round."
+    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to negate all damage allocated to that Adversary this round.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Run For It!",
@@ -8020,7 +8312,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Sheriff Daniels",
@@ -8055,7 +8351,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "The Overcoat Man",
@@ -8072,7 +8372,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "You've Got A Tail",
@@ -8107,7 +8411,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately."
+    "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
+    "tags": [
+      "Discard"
+    ]
   },
   {
     "title": "Holtzman, D.S.A.",
@@ -8124,7 +8431,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Claude Peterson",
@@ -8141,7 +8452,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "The Conundrum",
@@ -8160,7 +8475,10 @@
       "Conspiracy",
       "Evidence collection"
     ],
-    "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card."
+    "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Paul Mossinger",
@@ -8177,7 +8495,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Intruder Counter-Measures Program",
@@ -8194,7 +8516,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to add 2 to your pool immediately"
+    "gameText": "Play to add 2 CP to your pool immediately.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Dr. Aaron Monte",
@@ -8263,7 +8589,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to add five tokens to your pool."
+    "gameText": "Play to add five tokens to your CP pool.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Radioactive Area",
@@ -8351,7 +8681,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to negate one Keyword CRIMINAL INVESTIGATION card."
+    "gameText": "Play to negate one Keyword CRIMINAL INVESTIGATION card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Government Cover-Up",
@@ -8370,7 +8703,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. Advanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4"
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Hazardous Sample",
@@ -8387,7 +8724,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand."
+    "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Henry Trondheim",
@@ -8403,7 +8744,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice."
+    "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
+    "tags": [
+      "Discard"
+    ]
   },
   {
     "title": "Detective Miles",
@@ -8420,7 +8764,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Pay 1 to move up to 2 from your opponent's pool to your pool immediately."
+    "gameText": "Pay 1 CP to move up to 2 RP from your opponent's RP pool to your CP pool immediately.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Detective Thompson",
@@ -8471,7 +8819,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately. X-Files"
+    "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "B.J. Morrow, Genetic Trait Recipient",
@@ -9100,7 +9452,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played."
+    "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Lt. Brian Tillman, Aubrey Police Department",
@@ -9126,7 +9482,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Rich",
@@ -9153,7 +9513,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Lucy Kazdin",
@@ -9205,7 +9569,11 @@
       "Health": 5,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck."
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Inspector Phoebe Green",
@@ -9316,7 +9684,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Dana Scully",
@@ -9345,7 +9717,10 @@
       "Health": 4,
       "Resources": 2
     },
-    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining."
+    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
+    "tags": [
+      "Examine"
+    ]
   },
   {
     "title": "Dr. Charles Burk",
@@ -9371,7 +9746,10 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place one token on this card. Discard a token to negate one OCCULT Adversary."
+    "gameText": "Place one token on this card. Discard a token to negate one OCCULT Adversary.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Agent Tom Colton",
@@ -9397,7 +9775,11 @@
       "Health": 3,
       "Resources": 2
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Janus, Trained Medic",
@@ -9421,7 +9803,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this , replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Moe Bocks",
@@ -9449,7 +9835,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this , replace it during your Briefing Phase."
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Agent Reggie Purdue",
@@ -9477,7 +9867,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck."
+    "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Assistant Director Walter Skinner",
@@ -9529,7 +9923,11 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck."
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Agent Jerry Lamana",
@@ -9580,7 +9978,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 on this card. This may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this , replace it during your Briefing Phase. Witnesses"
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish",
+      "Token"
+    ]
   },
   {
     "title": "Sheriff Spencer",
@@ -10110,7 +10512,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card at anytime during your turn to examine your opponent's hand."
+    "gameText": "Play this card at anytime during your turn to examine your opponent's hand.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Senator Richard Matheson",
@@ -10128,7 +10534,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded. Events"
+    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded."
   },
   {
     "title": "Successful Diagnosis",
@@ -10305,7 +10711,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck."
+    "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Government Arrests Suspects",
@@ -10395,7 +10804,10 @@
       "Conspiracy",
       "Computer"
     ],
-    "gameText": "Play this card to negate any Keyword COMPUTER card."
+    "gameText": "Play this card to negate any Keyword COMPUTER card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Evidence Destroyed",
@@ -10537,7 +10949,11 @@
       "Active",
       "Witness"
     ],
-    "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect."
+    "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect.",
+    "tags": [
+      "Modify",
+      "Witness"
+    ]
   },
   {
     "title": "Crop Circles",
@@ -10591,7 +11007,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then you may search through your Bureau Deck and draw one Equipment card to add to your hand. Show the card to your opponents and then shuffle your deck."
+    "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then you may search through your Bureau Deck and draw one Equipment card to add to your hand. Show the card to your opponents and then shuffle your deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Paperwork",
@@ -10747,7 +11166,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discared simply negate the combat."
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat."
   },
   {
     "title": "Spying Mission",
@@ -10765,7 +11184,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on any Team. If the Team makes a SUBTERFUGE 4+ skill check, it may use this card to immediately negate any one card that requires them to make a non-combat skill check."
+    "gameText": "Play on any Team. If the Team makes a SUBTERFUGE 4+ skill check, it may use this card to immediately negate any one card that requires them to make a non-combat skill check.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Authorized Access Only",
@@ -10801,7 +11223,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT."
+    "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
+    "tags": [
+      "Discard"
+    ]
   },
   {
     "title": "The Local Law Enforcement Are Uncooperative",
@@ -10875,7 +11300,11 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn."
+    "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn.",
+    "tags": [
+      "Modify",
+      "Witness"
+    ]
   },
   {
     "title": "Lula Phillips",
@@ -10891,7 +11320,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your pool."
+    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your CP pool.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "No Place Is Safe",
@@ -10941,7 +11374,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the pool."
+    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the RP pool.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Application For FBI Resources Approved",
@@ -11013,7 +11450,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Add five tokens to your pool."
+    "gameText": "Add five tokens to your RP pool.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Relentless Pursuit",
@@ -11064,7 +11505,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Select one card from your Discard Pile and place it in your hand."
+    "gameText": "Select one card from your Discard Pile and place it in your hand.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Driving",
@@ -11117,7 +11561,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your pool. The tokens become tokens. When all counters have been removed, discard this card."
+    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your CP pool. The tokens become CP tokens. When all counters have been removed, discard this card.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Alien Experimentation",
@@ -11223,7 +11671,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your pool. The tokens become (change to) tokens. When all counters have been removed, discard this card."
+    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your RP pool. The tokens become RP tokens. When all counters have been removed, discard this card.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Written Report",
@@ -11258,7 +11710,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or"
+    "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Travel Arrangements",
@@ -11312,7 +11768,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn."
+    "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn.",
+    "tags": [
+      "Modify",
+      "Witness"
+    ]
   },
   {
     "title": "Evasive Maneuvers",
@@ -11348,7 +11808,10 @@
       "Active",
       "Event"
     ],
-    "gameText": "This card will negate one Event card played on your Team."
+    "gameText": "This card will negate one Event card played on your Team.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Road Hazard",
@@ -11776,7 +12239,11 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice)."
+    "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "M-16 Assault Rifle",
@@ -11794,7 +12261,11 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice)."
+    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "Mojo Bag",
@@ -11879,7 +12350,11 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped."
+    "gameText": "The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Crew-Cut Man",
@@ -11957,7 +12432,7 @@
     "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed."
   },
   {
-    "title": "Pvt. Mcalpin, Zombie",
+    "title": "Pvt. McAlpin, Zombie",
     "id": "XF97-0339v2",
     "set": "The Truth is Out There",
     "rarity": "Common",
@@ -11979,7 +12454,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie."
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
+    "tags": [
+      "Reduce",
+      "Damage"
+    ]
   },
   {
     "title": "Good People, Good Food",
@@ -12003,7 +12482,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice)."
+    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "The Sandman",
@@ -12050,7 +12533,11 @@
       "Conspiracy",
       "Alien investigation"
     ],
-    "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat."
+    "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Squeeze",
@@ -12074,7 +12561,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped."
+    "gameText": "The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "The Psychotic Attack",
@@ -12098,7 +12589,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice)."
+    "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "The Mechanic",
@@ -12147,7 +12642,11 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn."
+    "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Suppressed Fury",
@@ -12195,7 +12694,11 @@
       "Conspiracy",
       "Computer"
     ],
-    "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1."
+    "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Operation Falcon Blue Berets",
@@ -12220,7 +12723,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards."
+    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "Pheromone-Induced Psychosis",
@@ -12268,7 +12775,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards."
+    "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
+    "tags": [
+      "Reduce",
+      "Damage"
+    ]
   },
   {
     "title": "The Manitou Stalks His Prey",
@@ -12390,7 +12901,11 @@
       "Conspiracy",
       "Affiliation site"
     ],
-    "gameText": "This card does not initiate combat. Place three damage tokens on any Agent in the Investigating Team. The damaged Agent must be moved to the Hospital immediately and heals at half the normal rate. The Agent may not leave the Hospital until all damage is healed, and cannot be removed using other cards (Crash Cart, First Aid, etc.)."
+    "gameText": "This card does not initiate combat. Place three damage tokens on any Agent in the Investigating Team. The damaged Agent must be moved to the Hospital immediately and heals at half the normal rate. The Agent may not leave the Hospital until all damage is healed, and cannot be removed using other cards (Crash Cart, First Aid, etc.).",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Leonard",
@@ -12414,7 +12929,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "This card does not initiate combat. Flip the top card of the Investigating player's Bureau Deck. If it is a Witness card, then both Leonard and the Witness card are removed from the game. If not, then keep flipping until a Witness or 10 cards have been flipped. Flipped cards are placed on the owning player's discard pile."
+    "gameText": "This card does not initiate combat. Flip the top card of the Investigating player's Bureau Deck. If it is a Witness card, then both Leonard and the Witness card are removed from the game. If not, then keep flipping until a Witness or 10 cards have been flipped. Flipped cards are placed on the owning player's discard pile.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "F. Emasculata Outbreak",
@@ -12439,7 +12958,11 @@
       "Site",
       "Medical"
     ],
-    "gameText": "This card does not initiate combat. Play this card in the Investigating Player's Hospital section. Place three tokens on this card. Remove one token in the Debriefing Phase of your opponent's turn. This card is discarded when the last token is removed. Agents may not heal as long as this card is in their Hospital section."
+    "gameText": "This card does not initiate combat. Play this card in the Investigating Player's Hospital section. Place three tokens on this card. Remove one token in the Debriefing Phase of your opponent's turn. This card is discarded when the last token is removed. Agents may not heal as long as this card is in their Hospital section.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "The Evil One",
@@ -12464,7 +12987,11 @@
       "Conspiracy",
       "Affiliation site"
     ],
-    "gameText": "This card does not initiate combat. Play this card in conjunction with any other Adversary that initiates combat. The Adversary's LRC, CRC, and HEALTH are doubled."
+    "gameText": "This card does not initiate combat. Play this card in conjunction with any other Adversary that initiates combat. The Adversary's LRC, CRC, and HEALTH are doubled.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "Spirit Of The Amaru",
@@ -12506,7 +13033,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = CP Cost pai."
+    "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = CP Cost paid.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Too Close To The Truth",
@@ -12591,7 +13122,10 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Attach this card to any Agent in the Bureau. Disdcard this card to search your Bureau Deck and add any one Site card to your hand. Show your opponent which card you have added. Shuffle your deck."
+    "gameText": "Attach this card to any Agent in the Bureau. Discard this card to search your Bureau Deck and add any one Site card to your hand. Show your opponent which card you have added. Shuffle your deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Nurse Owens",
@@ -12624,7 +13158,10 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Play this card to search through your Bureau Deck and add any one Event card to your hand. Show your opponent which card you have added. Shuffle your deck."
+    "gameText": "Play this card to search through your Bureau Deck and add any one Event card to your hand. Show your opponent which card you have added. Shuffle your deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Taking Chances",
@@ -12640,7 +13177,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card to search through your Bureau Deck and add any one Adversary card to your hand. Show your opponent which card you have added. Shuffle your deck."
+    "gameText": "Play this card to search through your Bureau Deck and add any one Adversary card to your hand. Show your opponent which card you have added. Shuffle your deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "A Friend In The Lab",
@@ -12656,7 +13196,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card to search through your Bureau Deck and add any one Equipment card to your hand. Show your opponent which card you have added. Discard this card and shuffle your deck."
+    "gameText": "Play this card to search through your Bureau Deck and add any one Equipment card to your hand. Show your opponent which card you have added. Discard this card and shuffle your deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "A False Leads",
@@ -12672,7 +13215,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card whenever the Investigating player has played a card that allows him to search through his deck and add a card to his hand. As soon as he shows you the card, play this card. The card he added is removed from the game, along with this card."
+    "gameText": "Play this card whenever the Investigating player has played a card that allows him to search through his deck and add a card to his hand. As soon as he shows you the card, play this card. The card he added is removed from the game, along with this card.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Witness Intimidated",
@@ -12809,7 +13355,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau Deck and selec an Agent with a Cost of 4 or less. Add this Agent to your team of Agents in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pzy X+1 upkeep or discard this card and the selected Agent."
+    "gameText": "Search through your Bureau Deck and select an Agent with a Cost of 4 or less. Add this Agent to your team of Agents in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pzy X+1 upkeep or discard this card and the selected Agent.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Women's Health Clinic, Richville, MD",
@@ -12951,7 +13500,11 @@
       "Conspiracy",
       "Sciences"
     ],
-    "gameText": "All Agents in a Team attacked by this Adversary must discard all attached Keyword ELECTRICAL Equipment immediately. The LONG RANGE COMBAT attack of this Adversary may be split between two opponents."
+    "gameText": "All Agents in a Team attacked by this Adversary must discard all attached Keyword ELECTRICAL Equipment immediately. The LONG RANGE COMBAT attack of this Adversary may be split between two opponents.",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "John Mostow",
@@ -13127,7 +13680,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "List one Agent from the Investigating Team on a piece of paper. Place this card in your opponent's Field with the paper underneath. If the Agent listed Investigates a different Site before this card is negated, reveal the paper with the listed Agent. The Agent must go to the Hospital with zero HEALTH and may not contribute to skill checks this turn. Discard this card."
+    "gameText": "List one Agent from the Investigating Team on a piece of paper. Place this card in your opponent's Field with the paper underneath. If the Agent listed Investigates a different Site before this card is negated, reveal the paper with the listed Agent. The Agent must go to the Hospital with zero HEALTH and may not contribute to skill checks this turn. Discard this card.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
     "title": "The Walk",
@@ -13152,7 +13709,11 @@
       "Affiliation",
       "Site"
     ],
-    "gameText": "Subtract one from all damage sources applied to this Adversary."
+    "gameText": "Subtract one from all damage sources applied to this Adversary.",
+    "tags": [
+      "Reduce",
+      "Damage"
+    ]
   },
   {
     "title": "Joseph Patnik",
@@ -13177,7 +13738,13 @@
       "Result",
       "Site"
     ],
-    "gameText": "Subtract one from all damage sources applied to this Adversary. The Long Range Combat Round is skipped."
+    "gameText": "Subtract one from all damage sources applied to this Adversary. The Long Range Combat Round is skipped.",
+    "tags": [
+      "Skip",
+      "Long Range Combat",
+      "Reduce",
+      "Damage"
+    ]
   },
   {
     "title": "Agent Bill Patterson",
@@ -13280,7 +13847,10 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place one token on this card. Remove one token to negate a Keyword HEALING card played by your opponent."
+    "gameText": "Place one token on this card. Remove one token to negate a Keyword HEALING card played by your opponent.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Clyde Bruckman",
@@ -13305,7 +13875,11 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place one token on this card. Remove one token to examine an opponent's hand and remove one of the cards in his hand from the game."
+    "gameText": "Place one token on this card. Remove one token to examine an opponent's hand and remove one of the cards in his hand from the game.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Detective Angela White",
@@ -13356,7 +13930,10 @@
       "Law",
       "Independent"
     ],
-    "gameText": "Place two tokens on Detective Manners. Discarrd one token to search through your Bureau deck and add a Witness to your opponent and shuffle the deck. Bluffs"
+    "gameText": "Place two tokens on Detective Manners. Discard one token to search through your Bureau deck and add a Witness to your opponent and shuffle the deck. Bluffs",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Angry Townspeople",
@@ -13373,7 +13950,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to increase the cost of all ."
+    "gameText": "Play this card to increase the cost of all RP cards played at this Site by 1.",
+    "tags": [
+      "Modify",
+      "Cost"
+    ]
   },
   {
     "title": "Big Blue",
@@ -13390,7 +13971,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to add X to your pool. X = the number of spent at this Site by the Investigating Player."
+    "gameText": "Play this card to add X CP to your CP pool. X = the number of RP spent at this Site by the Investigating Player.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Philosophical Question",
@@ -13407,7 +13992,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to increase the Cost of all cards played at this Site by 2."
+    "gameText": "Play this card to increase the Cost of all RP cards played at this Site by 2.",
+    "tags": [
+      "Modify",
+      "Cost"
+    ]
   },
   {
     "title": "Cerulean Blue",
@@ -13424,7 +14013,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to force your opponent to discard four cards from the top of his Bureau Deck."
+    "gameText": "Play this card to force your opponent to discard four cards from the top of his Bureau Deck.",
+    "tags": [
+      "Discard",
+      "Bureau Deck"
+    ]
   },
   {
     "title": "Darkened Forest",
@@ -13441,7 +14034,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Pay the listed cost where X = the number of paid to gain the desired modifier to one of the following skills:"
+    "gameText": "Pay the listed cost where X = the number of paid to gain the desired modifier to one of the following skills: CLOSE RANGE COMBAT, LONG RANGE COMBAT. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Dissolving Evidence",
@@ -13458,7 +14055,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to force your opponent to discad the top card of his Bureau Deck."
+    "gameText": "Play this card to force your opponent to discard the top card of his Bureau Deck.",
+    "tags": [
+      "Discard",
+      "Bureau Deck"
+    ]
   },
   {
     "title": "Deceiving The Flock",
@@ -13475,7 +14076,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Force an opponent to discard one card from their hand at random."
+    "gameText": "Force an opponent to discard one card from their hand at random.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "Festival Of The Hungry Ghosts",
@@ -13509,7 +14114,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to double the cost of any Keyword ACTIVE card played at this Site."
+    "gameText": "Play this card to double the RP cost of any Keyword ACTIVE card played at this Site.",
+    "tags": [
+      "Modify",
+      "Cost"
+    ]
   },
   {
     "title": "Veracity In Question",
@@ -13543,7 +14152,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to force your opponent to discard two cards from the top of his Bureau Deck."
+    "gameText": "Play this card to force your opponent to discard two cards from the top of his Bureau Deck.",
+    "tags": [
+      "Discard",
+      "Bureau Deck"
+    ]
   },
   {
     "title": "Mass Grave",
@@ -13560,7 +14173,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to immediately add one to your pool for every two the Investigating Team uses at this Site."
+    "gameText": "Play this card to immediately add one to your CP pool for every two RP the Investigating Team uses at this Site.",
+    "tags": [
+      "Resource",
+      "Conspiracy Pool"
+    ]
   },
   {
     "title": "Final Repose",
@@ -13662,10 +14279,14 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Force an opponent to discard three cards from his hand at random."
+    "gameText": "Force an opponent to discard three cards from his hand at random.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
-    "title": "Visions Of A Madman",
+    "title": "Visions of a Madman",
     "id": "XF97-0421x1",
     "set": "101361",
     "rarity": "Rare",
@@ -13679,7 +14300,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to allow you to look at your opponent's Hand."
+    "gameText": "Play this card to allow you to look at your opponent's Hand.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "You're A Dead Man",
@@ -13731,7 +14356,12 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Discard this card to add three to the Agent's ALIEN INVESTIGATION skill."
+    "gameText": "Discard this card to add three to the Agent's ALIEN INVESTIGATION skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Ambulance",
@@ -13749,7 +14379,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's MEDICAL skill."
+    "gameText": "Discard this card to add three to the Agent's MEDICAL skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "M.R.I.",
@@ -13766,7 +14401,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's BEHAVIORAL skill."
+    "gameText": "Discard this card to add three to the Agent's BEHAVIORAL skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Classified Photos",
@@ -13784,7 +14424,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill."
+    "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Dental X-Ray Plate",
@@ -13801,7 +14446,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's OCCULT INVESTIGATION skill."
+    "gameText": "Discard this card to add three to the Agent's OCCULT INVESTIGATION skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Desktop Computer",
@@ -13818,7 +14468,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's COMPUTER skill."
+    "gameText": "Discard this card to add three to the Agent's COMPUTER skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Dried Frog",
@@ -13854,7 +14509,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's SCIENCES skill."
+    "gameText": "Discard this card to add three to the Agent's SCIENCES skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Garrote",
@@ -13871,7 +14531,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's CLOSE RANGE COMBAT skill."
+    "gameText": "Discard this card to add three to the Agent's CLOSE RANGE COMBAT skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Helicopter Spotter",
@@ -13889,7 +14554,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's OBSERVATION skill."
+    "gameText": "Discard this card to add three to the Agent's OBSERVATION skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Laser Targeter",
@@ -13907,7 +14577,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's LONG RANGE COMBAT skill."
+    "gameText": "Discard this card to add three to the Agent's LONG RANGE COMBAT skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Murder Weapon",
@@ -13924,7 +14599,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's EVIDENCE COLLECTION skill."
+    "gameText": "Discard this card to add three to the Agent's EVIDENCE COLLECTION skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Stationery",
@@ -13941,7 +14621,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's INVESTIGATION skill."
+    "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Queequeg",
@@ -13958,7 +14643,10 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Discard Queequeg to negate any one PRIMORDIAL or EVOLUTIONARY Adversary. Each player may only have one of this card in their decks."
+    "gameText": "Discard Queequeg to negate any one PRIMORDIAL or EVOLUTIONARY Adversary. Each player may only have one of this card in their decks.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Satellite Photos",
@@ -13993,7 +14681,12 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Discard this card to add three to the Agent's BUREAUCRACY skill."
+    "gameText": "Discard this card to add three to the Agent's BUREAUCRACY skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Secret Passage",
@@ -14010,7 +14703,12 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Discard this card to add three to the Agent's SUBTERFUGE skill."
+    "gameText": "Discard this card to add three to the Agent's SUBTERFUGE skill.",
+    "tags": [
+      "Discard",
+      "Modify",
+      "Skill"
+    ]
   },
   {
     "title": "Alien Stiletto",
@@ -14152,7 +14850,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Attach this card to any Agent. As long as this card is in play, the controller of the attached Agent must play will all of the cost cards in his hand face up on the table. Place four counters on this card when it comes into play. Remove one counter each of the attached Agents' Briefing Phases. Wehn the last counter is removed, discard this card."
+    "gameText": "Attach this card to any Agent. As long as this card is in play, the controller of the attached Agent must play will all of the cost cards in his hand face up on the table. Place four counters on this card when it comes into play. Remove one counter each of the attached Agents' Briefing Phases. When the last counter is removed, discard this card."
   },
   {
     "title": "Disbelief",
@@ -14222,7 +14920,10 @@
     "activators": [
       "Active/conspiracy"
     ],
-    "gameText": "Negate any Keyword PHENOMENA card."
+    "gameText": "Negate any Keyword PHENOMENA card.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Jose Chung's \"from Outer Space\"",
@@ -14337,7 +15038,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card to search through your Bureau Deck and put into play any Keyword ACTIVE card that specifically efects Skinner at zero Cost."
+    "gameText": "Play this card to search through your Bureau Deck and put into play any Keyword ACTIVE card that specifically effects Skinner at zero Cost.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Men In Black",
@@ -14391,7 +15095,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Place this card next to your X-File. Place up to three cards with a set CP cost from your hand under this card. These three cards can be used to negate any RP card with identical cost except Agents and Sites. This function requires zero CP cost. Discard both the played card and the card used to negate it. Discard this card when all cards underneath have been played."
+    "gameText": "Place this card next to your X-File. Place up to three cards with a set CP cost from your hand under this card. These three cards can be used to negate any RP card with identical cost except Agents and Sites. This function requires zero CP cost. Discard both the played card and the card used to negate it. Discard this card when all cards underneath have been played.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Visit From The First Elder",
@@ -14424,7 +15131,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card to cause your opponent to discard all Witness cards in his hand."
+    "gameText": "Play this card to cause your opponent to discard all Witness cards in his hand.",
+    "tags": [
+      "Discard",
+      "Hand"
+    ]
   },
   {
     "title": "White Buffalo",
@@ -14475,7 +15186,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Played by itself, this card will negate one GOVERNMENT Adversary, discard both. If played on an Agent with the \"Taped Intelligence\" Equipment card attached, remove the \"Taped Intelligence\" card from the game and place this card in your Bureau section. As long as this card is in play, no GOVERNMENT Adversaries may be played on your Agents. Sites"
+    "gameText": "Played by itself, this card will negate one GOVERNMENT Adversary, discard both. If played on an Agent with the \"Taped Intelligence\" Equipment card attached, remove the \"Taped Intelligence\" card from the game and place this card in your Bureau section. As long as this card is in play, no GOVERNMENT Adversaries may be played on your Agents. Sites",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Mostow's Studio, Washington, D.C.",
@@ -14989,7 +15703,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION or SUBTTERFUGE skill check, or play this card to negate the Adversary \"The Walk.\""
+    "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION or SUBTERFUGE skill check, or play this card to negate the Adversary \"The Walk.\"",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Lucy Householder",
@@ -15025,7 +15742,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION or OBSERVATION skill check, or you may play this card to look at all Adversaries in opponent's hand."
+    "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION or OBSERVATION skill check, or you may play this card to look at all Adversaries in opponent's hand.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Navajo Elder",
@@ -15284,7 +16005,10 @@
       "Alien",
       "Adversary"
     ],
-    "gameText": "Negates an Alien Adversary."
+    "gameText": "Negates an Alien Adversary.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Alien Technology",
@@ -15304,7 +16028,10 @@
       "Active",
       "Site"
     ],
-    "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION or BUREAUCRACY skill as a prerequisite. Place this card in your Bureau. Discard this card to negate one ALIEN or GOVERNMENT Adversary."
+    "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION or BUREAUCRACY skill as a prerequisite. Place this card in your Bureau. Discard this card to negate one ALIEN or GOVERNMENT Adversary.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "No One So Paranoid",
@@ -15341,7 +16068,10 @@
       "Active",
       "Occult adversary"
     ],
-    "gameText": "Negate one OCCULT Adversary. In addition, if the Team makes an OCCULT INVESTIGATION skill check of 6+, they may ask either one METHOD question or one RESULT question."
+    "gameText": "Negate one OCCULT Adversary. In addition, if the Team makes an OCCULT INVESTIGATION skill check of 6+, they may ask either one METHOD question or one RESULT question.",
+    "tags": [
+      "Negate"
+    ]
   },
   {
     "title": "Agent Henderson",
@@ -15366,7 +16096,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any Site that asks a MOTIVE question. Add it to your hand, reshuffle your Bureau deck."
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any Site that asks a MOTIVE question. Add it to your hand, reshuffle your Bureau deck.",
+    "tags": [
+      "Search",
+      "Site"
+    ]
   },
   {
     "title": "Teamwork",
@@ -15382,7 +16116,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card on any Team consisting of no more than two Agents during the Investigation Phase when they are sent to investigat a Site. You may add a number of tokens to the Resource pool equal to the Agents' total RES value."
+    "gameText": "Play this card on any Team consisting of no more than two Agents during the Investigation Phase when they are sent to investigate a Site. You may add a number of tokens to the RP pool equal to the Agents' total RES value.",
+    "tags": [
+      "Resource",
+      "Resource Pool"
+    ]
   },
   {
     "title": "Believe The Lie",
@@ -15568,7 +16306,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card to search through your Bureau Deck and add one of the following cards to your hand: No One So Paranoid, The Lone Gunmen, Langly, Frohike, or Byers. If you play the chosen card immediately, you may do so for half Cost (round up)."
+    "gameText": "Play this card to search through your Bureau Deck and add one of the following cards to your hand: No One So Paranoid, The Lone Gunmen, Langly, Frohike, or Byers. If you play the chosen card immediately, you may do so for half Cost (round up).",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Blue Plate Special",
@@ -15603,7 +16344,10 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Recherchez dans votre paquet de cartes FBI et choisissez une carte ALIEN Mot-clé ou ALIEN INVESTIGATION. Montrez cette carte à votre adversaire, ajoutez-la à votre jeu et mélangez le paquet de cartes FBI.\n\nEnglish Translation: Search your Bureau deck and choose one keyword ALIEN or ALIEN INVESTIGATION card. Show this card to your opponent, add it to your hand and shuffle your Bureau deck."
+    "gameText": "Recherchez dans votre paquet de cartes FBI et choisissez une carte ALIEN Mot-clé ou ALIEN INVESTIGATION. Montrez cette carte à votre adversaire, ajoutez-la à votre jeu et mélangez le paquet de cartes FBI.\n\nEnglish Translation: Search your Bureau deck and choose one keyword ALIEN or ALIEN INVESTIGATION card. Show this card to your opponent, add it to your hand and shuffle your Bureau deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Die Hand Die Verletzt",
@@ -15620,7 +16364,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Spielen Sie diese Karte zum Durchsuchen Ihres Büro Stapels. Dann wählen Sie einen OCCULT Gegner, mit dem Sie automatisch den AgentenTeam zur Ortserkundung angehören. Der OCCULT Gegner kann anstatt der 0 gespielt werden, unter Mißachtung der Aktivierungs-Anforderungen.\n\nEnglish Translation: You may search your Bureau deck and take any Occult Creature and you may play it on the agents team making the skill check. You may play it at any site. (Meaning you can play an Adversary with Activator Affiliation on a Motive, Method, or Result site as well.) This costs 0 CP."
+    "gameText": "Spielen Sie diese Karte zum Durchsuchen Ihres Büro Stapels. Dann wählen Sie einen OCCULT Gegner, mit dem Sie automatisch den AgentenTeam zur Ortserkundung angehören. Der OCCULT Gegner kann anstatt der 0 gespielt werden, unter Mißachtung der Aktivierungs-Anforderungen.\n\nEnglish Translation: You may search your Bureau deck and take any Occult Creature and you may play it on the agents team making the skill check. You may play it at any site. (Meaning you can play an Adversary with Activator Affiliation on a Motive, Method, or Result site as well.) This costs 0 CP.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Not On The Menu",
@@ -15679,7 +16426,10 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place one token on this card. Remove a token during the Requisition Phase to search your Bureau Deck for any one Keyword WEAPON or ARMOR Equipment card and attach it to Paster at half cost (rounded up). Shuffle your Deck."
+    "gameText": "Place one token on this card. Remove a token during the Requisition Phase to search your Bureau Deck for any one Keyword WEAPON or ARMOR Equipment card and attach it to Paster at half cost (rounded up). Shuffle your Deck.",
+    "tags": [
+      "Search"
+    ]
   },
   {
     "title": "Mike Millar, NTSB",
@@ -15829,7 +16579,11 @@
       "Conspiracy",
       "Motive site"
     ],
-    "gameText": "Apply -1 to any Equipment cards attached to the Team that modify LONG RANGE COMBAT or CLOSE RANGE COMBAT. Damage caused by this Adversary may be split among all opponents (Directed Player's choice)."
+    "gameText": "Apply -1 to any Equipment cards attached to the Team that modify LONG RANGE COMBAT or CLOSE RANGE COMBAT. Damage caused by this Adversary may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "Samuel Aboah",
@@ -15852,7 +16606,11 @@
       "Conspiracy",
       "Method site"
     ],
-    "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove token. Aboah may use SUBTERFUGE cards."
+    "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove token. Aboah may use SUBTERFUGE cards.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Gerry Schnauz",
@@ -15876,10 +16634,14 @@
       "Conspiracy",
       "Agent"
     ],
-    "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card on top of the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed."
+    "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card on top of the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed.",
+    "tags": [
+      "Skip",
+      "Combat"
+    ]
   },
   {
-    "title": "Dr. Jack Fraknlin",
+    "title": "Dr. Jack Franklin",
     "id": "XF22-0010x3",
     "set": "040460",
     "episode": "Sanguinarium",
@@ -15900,7 +16662,11 @@
       "Conspiracy",
       "Medical"
     ],
-    "gameText": "If this Adversary is played on a Witness that contributes to a MEDICAL skill check, the Witness is removed from the game. The LRC round is skipped for the opposing Team but not for Dr. Jack Franklin. Agents must use their MEDICAL skill as their value in CRC. If an Agent has no MEDICAL skill, their value is 1."
+    "gameText": "If this Adversary is played on a Witness that contributes to a MEDICAL skill check, the Witness is removed from the game. The LRC round is skipped for the opposing Team but not for Dr. Jack Franklin. Agents must use their MEDICAL skill as their value in CRC. If an Agent has no MEDICAL skill, their value is 1.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Russian Horsemen",
@@ -16066,7 +16832,11 @@
       "Conspiracy",
       "Result site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed."
+    "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "The Grey-Haired Man",
@@ -16090,7 +16860,11 @@
       "Conspiracy",
       "Evidence Collection"
     ],
-    "gameText": "All Witness RESOURCE cards are immediately discarded. The Grey-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice)."
+    "gameText": "All Witness RESOURCE cards are immediately discarded. The Grey-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split",
+      "Damage"
+    ]
   },
   {
     "title": "The Golem Exacts Revenge",
@@ -16187,7 +16961,11 @@
       "Conspiracy",
       "Sciences"
     ],
-    "gameText": "If this Adversary is played on a Keyword SCIENCES Witness, that Witness is negated and removed from the game. The Long Range Combat round is skipped. Any Agent wounded by Nichols is instantly frozen and may not move, contribute their skills and effects, add to the Pools or heal wounds until a HEALING card is played."
+    "gameText": "If this Adversary is played on a Keyword SCIENCES Witness, that Witness is negated and removed from the game. The Long Range Combat round is skipped. Any Agent wounded by Nichols is instantly frozen and may not move, contribute their skills and effects, add to the Pools or heal wounds until a HEALING card is played.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Eddie Van Blundht",
@@ -16234,7 +17012,11 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and one Agent on the Team is attacked (your choice). The LRC round is skipped. For the first round of CRC, the chosen Agent is the only one who may participate in the combat."
+    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and one Agent on the Team is attacked (your choice). The LRC round is skipped. For the first round of CRC, the chosen Agent is the only one who may participate in the combat.",
+    "tags": [
+      "Skip",
+      "Long Range Combat"
+    ]
   },
   {
     "title": "Scott Ostelhoff",

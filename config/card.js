@@ -145,3 +145,29 @@ export const rarities = [
   'Ultra-Rare',
   'Fixed'
 ];
+
+export const tags = [
+  'Bureau Deck',
+  'Combat',
+  'Conspiracy Pool',
+  'Cost',
+  'Damage',
+  'Discard',
+  'Examine',
+  'Hand',
+  'Long Range Combat',
+  'Modify',
+  'Negate',
+  'Recurring',
+  'Reduce',
+  'Replenish',
+  'Resource',
+  'Resource Pool',
+  'Search',
+  'Site',
+  'Skill',
+  'Skip',
+  'Split',
+  'Token',
+  'Witness'
+];
