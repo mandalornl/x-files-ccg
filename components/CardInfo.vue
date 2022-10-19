@@ -18,7 +18,20 @@
           sm="6"
           class="order-sm-1"
         >
-          <card-img :card="card" />
+          <v-dialog
+            width="444"
+            content-class="ma-2 ma-sm-6"
+          >
+            <template #activator="{ on, attrs }">
+              <div
+                v-bind="attrs"
+                v-on="on"
+              >
+                <card-img :card="card" />
+              </div>
+            </template>
+            <card-img :card="card" />
+          </v-dialog>
           <div class="d-flex align-center justify-space-between mt-1">
             <v-btn
               :disabled="cardIndex === -1 || cardIndex === 0"
