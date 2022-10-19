@@ -24,6 +24,7 @@
                 label="Search"
                 class="mt-0 pt-0"
                 @click:clear="search = ''"
+                @click:prepend-inner="onSearch"
                 @keyup.enter.exact="search = $event.target.value"
               />
             </v-card-text>
@@ -494,6 +495,12 @@ export default {
 
     onIntersect(entries, observer, isIntersecting) {
       this.intersecting = isIntersecting;
+    },
+
+    onSearch(event) {
+      const input = event.target.closest('.v-input').querySelector('input');
+
+      this.search = input?.value ?? '';
     }
   }
 }
