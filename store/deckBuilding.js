@@ -7,6 +7,8 @@ export const state = () => ({
 export const getters = {
   defaultDeck: (state) => state.decks[defaultDeckName] ?? {},
 
+  deckByName: (state) => (name) => state.decks[name] ?? {},
+
   quantityByCardId: (state, getters) => (id) => getters.defaultDeck[id] ?? 0,
 
   sizeByName: (state) => (name = defaultDeckName) => {

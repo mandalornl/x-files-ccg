@@ -143,7 +143,7 @@ export default {
       const data = Buffer.from(
         JSON.stringify({
           name: deck.name,
-          cards: this.$store.state.deckBuilding.decks[deck.name]
+          cards: this.$store.getters['deckBuilding/deckByName'](deck.name)
         })
       ).toString('base64');
 

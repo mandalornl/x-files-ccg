@@ -96,7 +96,7 @@ export default {
     },
 
     cards() {
-      const deck = this.$store.state.deckBuilding.decks[this.name] ?? {};
+      const deck = this.$store.getters['deckBuilding/deckByName'](this.name);
 
       return Object.entries(deck)
         .reduce((result, [
