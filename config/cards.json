@@ -1799,8 +1799,7 @@
     ],
     "gameText": "Play to add 2 CP to your pool immediately.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -1872,8 +1871,7 @@
     ],
     "gameText": "Play to add five tokens to your CP pool.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -2064,8 +2062,7 @@
     ],
     "gameText": "Pay 1 CP to move up to 2 RP from your opponent's RP pool to your CP pool immediately.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -3579,7 +3576,6 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
     "tags": [
       "Resource",
-      "Resource Pool",
       "Recurring"
     ]
   },
@@ -3603,7 +3599,6 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
     "tags": [
       "Resource",
-      "Resource Pool",
       "Recurring"
     ]
   },
@@ -3719,7 +3714,6 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
     "tags": [
       "Resource",
-      "Resource Pool",
       "Recurring"
     ]
   },
@@ -3743,7 +3737,6 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
     "tags": [
       "Resource",
-      "Resource Pool",
       "Recurring"
     ]
   },
@@ -3911,7 +3904,6 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
     "tags": [
       "Resource",
-      "Resource Pool",
       "Recurring"
     ]
   },
@@ -4011,7 +4003,6 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
     "tags": [
       "Resource",
-      "Resource Pool",
       "Recurring"
     ]
   },
@@ -5091,8 +5082,7 @@
     ],
     "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your CP pool.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -5145,8 +5135,7 @@
     ],
     "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the RP pool.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {
@@ -5238,8 +5227,7 @@
     ],
     "gameText": "Add five tokens to your RP pool.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {
@@ -5366,8 +5354,7 @@
     ],
     "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your CP pool. The tokens become CP tokens. When all counters have been removed, discard this card.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -5512,8 +5499,7 @@
     ],
     "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your RP pool. The tokens become RP tokens. When all counters have been removed, discard this card.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {
@@ -8518,8 +8504,7 @@
     ],
     "gameText": "Play to add 2 CP to your pool immediately.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -8591,8 +8576,7 @@
     ],
     "gameText": "Play to add five tokens to your CP pool.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -8766,8 +8750,7 @@
     ],
     "gameText": "Pay 1 CP to move up to 2 RP from your opponent's RP pool to your CP pool immediately.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -11322,8 +11305,7 @@
     ],
     "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your CP pool.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -11376,8 +11358,7 @@
     ],
     "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the RP pool.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {
@@ -11452,8 +11433,7 @@
     ],
     "gameText": "Add five tokens to your RP pool.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {
@@ -11563,8 +11543,7 @@
     ],
     "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your CP pool. The tokens become CP tokens. When all counters have been removed, discard this card.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -11673,8 +11652,7 @@
     ],
     "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your RP pool. The tokens become RP tokens. When all counters have been removed, discard this card.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {
@@ -13973,8 +13951,7 @@
     ],
     "gameText": "Play this card to add X CP to your CP pool. X = the number of RP spent at this Site by the Investigating Player.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -14175,8 +14152,7 @@
     ],
     "gameText": "Play this card to immediately add one to your CP pool for every two RP the Investigating Team uses at this Site.",
     "tags": [
-      "Resource",
-      "Conspiracy Pool"
+      "Resource"
     ]
   },
   {
@@ -16118,8 +16094,7 @@
     ],
     "gameText": "Play this card on any Team consisting of no more than two Agents during the Investigation Phase when they are sent to investigate a Site. You may add a number of tokens to the RP pool equal to the Agents' total RES value.",
     "tags": [
-      "Resource",
-      "Resource Pool"
+      "Resource"
     ]
   },
   {

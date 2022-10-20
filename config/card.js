@@ -149,7 +149,6 @@ export const rarities = [
 export const tags = [
   'Bureau Deck',
   'Combat',
-  'Conspiracy Pool',
   'Cost',
   'Damage',
   'Discard',
@@ -162,7 +161,6 @@ export const tags = [
   'Reduce',
   'Replenish',
   'Resource',
-  'Resource Pool',
   'Search',
   'Site',
   'Skill',
