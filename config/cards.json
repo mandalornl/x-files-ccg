@@ -3629,8 +3629,7 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
     "tags": [
       "Unique",
-      "Resource",
-      "Recurring"
+      "Recurring Resource"
     ]
   },
   {
@@ -3653,8 +3652,7 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
     "tags": [
       "Unique",
-      "Resource",
-      "Recurring"
+      "Recurring Resource"
     ]
   },
   {
@@ -3772,8 +3770,7 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
     "tags": [
       "Unique",
-      "Resource",
-      "Recurring"
+      "Recurring Resource"
     ]
   },
   {
@@ -3796,8 +3793,7 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
     "tags": [
       "Unique",
-      "Resource",
-      "Recurring"
+      "Recurring Resource"
     ]
   },
   {
@@ -3964,8 +3960,7 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
     "tags": [
       "Unique",
-      "Resource",
-      "Recurring"
+      "Recurring Resource"
     ]
   },
   {
@@ -4064,8 +4059,7 @@
     "gameText": "Adds 1 RP to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
     "tags": [
       "Unique",
-      "Resource",
-      "Recurring"
+      "Recurring Resource"
     ]
   },
   {

@@ -161,7 +161,7 @@ export const tags = [
   'Negate',
   'Non-combative',
   'Prevent',
-  'Recurring',
+  'Recurring Resource',
   'Reduce Damage',
   'Reduce Prerequisite',
   'Replenish Token',
