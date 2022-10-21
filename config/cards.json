@@ -429,8 +429,7 @@
     ],
     "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round.",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -739,8 +738,7 @@
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -881,8 +879,7 @@
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -991,8 +988,7 @@
     "prerequisite": "MEDICAL 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -1031,8 +1027,7 @@
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation Of Evidence\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -1088,8 +1083,7 @@
     "prerequisite": "SUBTERFUGE 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -1162,8 +1156,7 @@
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -1420,8 +1413,7 @@
     "prerequisite": "COMPUTER 5+ or BUREAUCRACY 5+",
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -1532,8 +1524,7 @@
     "prerequisite": "SCIENCES 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -1553,8 +1544,7 @@
     ],
     "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -1593,8 +1583,7 @@
     ],
     "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+.",
     "tags": [
-      "Modify",
-      "Prerequisite"
+      "Change Prerequisite"
     ]
   },
   {
@@ -1617,7 +1606,6 @@
     "gameText": "Force one Agent (your choice) back to the Bureau immediately. The Agent may not contribute to any skill checks this turn.",
     "tags": [
       "Unique",
-      "Force",
       "Move"
     ]
   },
@@ -1640,8 +1628,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -1662,8 +1649,7 @@
     ],
     "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+.",
     "tags": [
-      "Modify",
-      "Prerequisite"
+      "Change Prerequisite"
     ]
   },
   {
@@ -1683,8 +1669,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -1704,8 +1689,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -1743,7 +1727,6 @@
     ],
     "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -1764,8 +1747,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -1785,8 +1767,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -1828,8 +1809,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -1869,8 +1849,7 @@
     ],
     "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -1891,8 +1870,7 @@
     ],
     "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -1967,11 +1945,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
-    "tags": [
-      "Modify",
-      "Prerequisite"
-    ]
+    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect."
   },
   {
     "title": "Ghost In The Machine",
@@ -1991,8 +1965,7 @@
     ],
     "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -2013,8 +1986,7 @@
     ],
     "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -2074,8 +2046,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -2095,9 +2066,7 @@
     ],
     "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
     "tags": [
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -2116,7 +2085,6 @@
     ],
     "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -2157,8 +2125,7 @@
     ],
     "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+.",
     "tags": [
-      "Modify",
-      "Prerequisite"
+      "Change Prerequisite"
     ]
   },
   {
@@ -2178,8 +2145,7 @@
     ],
     "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -2199,8 +2165,7 @@
     ],
     "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately.",
     "tags": [
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -2831,8 +2796,7 @@
     },
     "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -2925,8 +2889,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -2956,8 +2919,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -3012,8 +2974,7 @@
     },
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -3130,8 +3091,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -3164,7 +3124,7 @@
     "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
     "tags": [
       "Unique",
-      "Examine"
+      "Examine Hand"
     ]
   },
   {
@@ -3196,7 +3156,7 @@
     },
     "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
     "tags": [
-      "Examine"
+      "Examine Hand"
     ]
   },
   {
@@ -3283,8 +3243,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -3311,8 +3270,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -3343,8 +3301,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -3375,8 +3332,7 @@
     },
     "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -3431,8 +3387,7 @@
     },
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -3460,8 +3415,7 @@
     },
     "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -3490,8 +3444,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -4188,8 +4141,7 @@
     ],
     "gameText": "Play this card at anytime during your turn to examine your opponent's hand.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -4339,8 +4291,7 @@
     ],
     "gameText": "Play after an opponent Team successfully asks a Characteristic question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -4397,8 +4348,7 @@
     ],
     "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -4605,8 +4555,7 @@
     ],
     "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -4644,8 +4593,7 @@
     "gameText": "Play when Assistant Director Walter Skinner is in the Bureau Section of the table and the AFFILIATION of your opponent's X-File is known. Add the following modifiers to Skinner's skills: +1 BUREAUCRACY, +1 SUBTERFUGE. Skinner is now immune to the \"Skinner Adopts The Company Line\" card. Place two tokens on this card. Discard a token to negate one Event card. Place this card below Skinner to remind you of the increased skills.",
     "tags": [
       "Unique",
-      "Target",
-      "Skinner",
+      "Affect Agent",
       "Negate"
     ]
   },
@@ -4686,9 +4634,7 @@
     "gameText": "Force an opponent player to reveal any Adversary cards in his hand. If your opponent has one or more, discard one at random.",
     "tags": [
       "Unique",
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -4752,8 +4698,7 @@
     "gameText": "If an Abduction card is played on a Team of Agents that includes Scully, Scully must be the Agent abducted instead. When Agent Scully returns to play she has the following modifiers added to her skills: +1 ALIEN INVESTIGATION, +1 OCCULT INVESTIGATION, +1 OBSERVATION, Keyword BELIEVER. Place this card below Scully to remind you of the increased skills. Place two tokens on this card. Discard a token to search through your Bureau deck and add any Healing card to your hand. Show it to your opponent and shuffle your deck.",
     "tags": [
       "Unique",
-      "Target",
-      "Scully"
+      "Affect Agent"
     ]
   },
   {
@@ -4812,8 +4757,7 @@
     ],
     "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn.",
     "tags": [
-      "Target",
-      "Skinner"
+      "Affect Agent"
     ]
   },
   {
@@ -4833,8 +4777,7 @@
     ],
     "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect.",
     "tags": [
-      "Modify",
-      "Witness"
+      "Modify Witness"
     ]
   },
   {
@@ -4874,7 +4817,6 @@
     ],
     "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -4912,8 +4854,7 @@
     ],
     "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -4934,8 +4875,7 @@
     ],
     "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -5024,8 +4964,7 @@
     ],
     "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -5083,7 +5022,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat."
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat.",
+    "tags": [
+      "Affect Agent"
+    ]
   },
   {
     "title": "Spying Mission",
@@ -5122,8 +5064,7 @@
     ],
     "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -5143,7 +5084,6 @@
     ],
     "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -5242,8 +5182,7 @@
     ],
     "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn.",
     "tags": [
-      "Modify",
-      "Witness"
+      "Modify Witness"
     ]
   },
   {
@@ -5393,8 +5332,7 @@
     ],
     "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -5600,8 +5538,7 @@
     ],
     "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -5662,8 +5599,7 @@
     "gameText": "Force an opponent Team to make an OCCULT INVESTIGATION 4+ skill check. If they fail, negate all Witnesses that are modifying the Team's skill check.",
     "tags": [
       "Unique",
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -5739,9 +5675,7 @@
     ],
     "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
     "tags": [
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -5798,8 +5732,7 @@
     ],
     "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn.",
     "tags": [
-      "Modify",
-      "Witness"
+      "Modify Witness"
     ]
   },
   {
@@ -6290,8 +6223,7 @@
     ],
     "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -6312,8 +6244,7 @@
     ],
     "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -6402,8 +6333,7 @@
     "gameText": "Your opponent may not spread out Agents until this card is resolved. Hold this card twelve inches up and twelve inches away from the opponent's Team. Flip the card so that it spins through the air. All of the Agents in the Investigating Team that are being touched by the Alien Harvester are abducted! Discard any Equipment attached to the abducted Agents. The Agents are placed ten cards down, face up, in the Bureau deck. When the Agent cards reach the top of the deck, the Agents are immediately moved to the Hospital (though they are not damaged).",
     "tags": [
       "Unique",
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -6430,8 +6360,7 @@
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -6534,8 +6463,7 @@
     ],
     "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
     "tags": [
-      "Reduce",
-      "Damage"
+      "Reduce Damage"
     ]
   },
   {
@@ -6562,8 +6490,7 @@
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -6613,8 +6540,7 @@
     ],
     "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
     "tags": [
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -6641,8 +6567,7 @@
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -6669,8 +6594,7 @@
     ],
     "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -6722,8 +6646,7 @@
     ],
     "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
     "tags": [
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -6774,8 +6697,7 @@
     ],
     "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -6803,8 +6725,7 @@
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -6855,8 +6776,7 @@
     ],
     "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
     "tags": [
-      "Reduce",
-      "Damage"
+      "Reduce Damage"
     ]
   },
   {
@@ -7360,8 +7280,7 @@
     ],
     "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round.",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -7670,8 +7589,7 @@
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -7812,8 +7730,7 @@
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -7922,8 +7839,7 @@
     "prerequisite": "MEDICAL 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -7962,8 +7878,7 @@
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation Of Evidence\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -8019,8 +7934,7 @@
     "prerequisite": "SUBTERFUGE 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -8093,8 +8007,7 @@
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -8351,8 +8264,7 @@
     "prerequisite": "COMPUTER 5+ or BUREAUCRACY 5+",
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -8463,8 +8375,7 @@
     "prerequisite": "SCIENCES 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the skill check prerequisite is 4+.",
     "tags": [
-      "Reduce",
-      "Prerequisite"
+      "Reduce Prerequisite"
     ]
   },
   {
@@ -8484,8 +8395,7 @@
     ],
     "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -8524,8 +8434,7 @@
     ],
     "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+.",
     "tags": [
-      "Modify",
-      "Prerequisite"
+      "Change Prerequisite"
     ]
   },
   {
@@ -8547,8 +8456,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8569,8 +8477,7 @@
     ],
     "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+.",
     "tags": [
-      "Modify",
-      "Prerequisite"
+      "Change Prerequisite"
     ]
   },
   {
@@ -8590,8 +8497,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8611,8 +8517,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8650,7 +8555,6 @@
     ],
     "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -8671,8 +8575,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8692,8 +8595,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8735,8 +8637,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8776,8 +8677,7 @@
     ],
     "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -8798,8 +8698,7 @@
     ],
     "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -8854,11 +8753,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
-    "tags": [
-      "Modify",
-      "Prerequisite"
-    ]
+    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect."
   },
   {
     "title": "Ghost In The Machine",
@@ -8878,8 +8773,7 @@
     ],
     "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -8900,8 +8794,7 @@
     ],
     "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -8961,8 +8854,7 @@
     ],
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -8982,9 +8874,7 @@
     ],
     "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
     "tags": [
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -9003,7 +8893,6 @@
     ],
     "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -9044,8 +8933,7 @@
     ],
     "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+.",
     "tags": [
-      "Modify",
-      "Prerequisite"
+      "Change Prerequisite"
     ]
   },
   {
@@ -9065,8 +8953,7 @@
     ],
     "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -9086,8 +8973,7 @@
     ],
     "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately.",
     "tags": [
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -9719,8 +9605,7 @@
     },
     "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -9749,8 +9634,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -9780,8 +9664,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -9836,8 +9719,7 @@
     },
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -9954,8 +9836,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -9987,7 +9868,7 @@
     },
     "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
     "tags": [
-      "Examine"
+      "Examine Hand"
     ]
   },
   {
@@ -10045,8 +9926,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -10073,8 +9953,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -10105,8 +9984,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -10137,8 +10015,7 @@
     },
     "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -10193,8 +10070,7 @@
     },
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -10222,8 +10098,7 @@
     },
     "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -10252,8 +10127,7 @@
     },
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this RP, replace it during your Briefing Phase.",
     "tags": [
-      "Replenish",
-      "Token"
+      "Replenish Token"
     ]
   },
   {
@@ -10310,8 +10184,7 @@
     ],
     "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent.",
     "tags": [
-      "Modify",
-      "Keyword"
+      "Change Keyword"
     ]
   },
   {
@@ -10790,8 +10663,7 @@
     ],
     "gameText": "Play this card at anytime during your turn to examine your opponent's hand.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -10921,8 +10793,7 @@
     ],
     "gameText": "Play after an opponent Team successfully asks a Characteristic question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11145,8 +11016,7 @@
     ],
     "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11221,8 +11091,7 @@
     ],
     "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn.",
     "tags": [
-      "Target",
-      "Skinner"
+      "Affect Agent"
     ]
   },
   {
@@ -11242,8 +11111,7 @@
     ],
     "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect.",
     "tags": [
-      "Modify",
-      "Witness"
+      "Modify Witness"
     ]
   },
   {
@@ -11283,7 +11151,6 @@
     ],
     "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -11324,8 +11191,7 @@
     ],
     "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11346,8 +11212,7 @@
     ],
     "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11436,8 +11301,7 @@
     ],
     "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11473,7 +11337,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat."
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat.",
+    "tags": [
+      "Affect Agent"
+    ]
   },
   {
     "title": "Spying Mission",
@@ -11515,8 +11382,7 @@
     ],
     "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11536,7 +11402,6 @@
     ],
     "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
     "tags": [
-      "Force",
       "Discard"
     ]
   },
@@ -11614,8 +11479,7 @@
     ],
     "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn.",
     "tags": [
-      "Modify",
-      "Witness"
+      "Modify Witness"
     ]
   },
   {
@@ -11745,8 +11609,7 @@
     ],
     "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -11932,8 +11795,7 @@
     ],
     "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat.",
     "tags": [
-      "Force",
-      "Skill"
+      "Force Skill Check"
     ]
   },
   {
@@ -12027,9 +11889,7 @@
     ],
     "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
     "tags": [
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -12086,8 +11946,7 @@
     ],
     "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn.",
     "tags": [
-      "Modify",
-      "Witness"
+      "Modify Witness"
     ]
   },
   {
@@ -12557,8 +12416,7 @@
     ],
     "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -12579,8 +12437,7 @@
     ],
     "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -12668,8 +12525,7 @@
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -12772,8 +12628,7 @@
     ],
     "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
     "tags": [
-      "Reduce",
-      "Damage"
+      "Reduce Damage"
     ]
   },
   {
@@ -12800,8 +12655,7 @@
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -12851,8 +12705,7 @@
     ],
     "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
     "tags": [
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -12879,8 +12732,7 @@
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -12907,8 +12759,7 @@
     ],
     "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -12960,8 +12811,7 @@
     ],
     "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
     "tags": [
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -13012,8 +12862,7 @@
     ],
     "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -13041,8 +12890,7 @@
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -13093,8 +12941,7 @@
     ],
     "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
     "tags": [
-      "Reduce",
-      "Damage"
+      "Reduce Damage"
     ]
   },
   {
@@ -13223,8 +13070,7 @@
     "gameText": "This card does not initiate combat. Place three damage tokens on any Agent in the Investigating Team. The damaged Agent must be moved to the Hospital immediately and heals at half the normal rate. The Agent may not leave the Hospital until all damage is healed, and cannot be removed using other cards (Crash Cart, First Aid, etc.).",
     "tags": [
       "Unique",
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -13252,8 +13098,7 @@
     "gameText": "This card does not initiate combat. Flip the top card of the Investigating player's Bureau Deck. If it is a Witness card, then both Leonard and the Witness card are removed from the game. If not, then keep flipping until a Witness or 10 cards have been flipped. Flipped cards are placed on the owning player's discard pile.",
     "tags": [
       "Unique",
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -13282,8 +13127,7 @@
     "gameText": "This card does not initiate combat. Play this card in the Investigating Player's Hospital section. Place three tokens on this card. Remove one token in the Debriefing Phase of your opponent's turn. This card is discarded when the last token is removed. Agents may not heal as long as this card is in their Hospital section.",
     "tags": [
       "Unique",
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -13312,8 +13156,7 @@
     "gameText": "This card does not initiate combat. Play this card in conjunction with any other Adversary that initiates combat. The Adversary's LRC, CRC, and HEALTH are doubled.",
     "tags": [
       "Unique",
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -13362,8 +13205,7 @@
     "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = CP Cost paid.",
     "tags": [
       "Unique",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -13404,7 +13246,6 @@
     "gameText": "Force one opposing Agent (your choice) to go to the Hospital immediately (undamaged).",
     "tags": [
       "Unique",
-      "Force",
       "Move"
     ]
   },
@@ -13889,8 +13730,7 @@
     ],
     "gameText": "All Agents in a Team attacked by this Adversary must discard all attached Keyword ELECTRICAL Equipment immediately. The LONG RANGE COMBAT attack of this Adversary may be split between two opponents.",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -14069,8 +13909,7 @@
     ],
     "gameText": "List one Agent from the Investigating Team on a piece of paper. Place this card in your opponent's Field with the paper underneath. If the Agent listed Investigates a different Site before this card is negated, reveal the paper with the listed Agent. The Agent must go to the Hospital with zero HEALTH and may not contribute to skill checks this turn. Discard this card.",
     "tags": [
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -14098,8 +13937,7 @@
     ],
     "gameText": "Subtract one from all damage sources applied to this Adversary.",
     "tags": [
-      "Reduce",
-      "Damage"
+      "Reduce Damage"
     ]
   },
   {
@@ -14127,10 +13965,8 @@
     ],
     "gameText": "Subtract one from all damage sources applied to this Adversary. The Long Range Combat Round is skipped.",
     "tags": [
-      "Skip",
-      "Long Range Combat",
-      "Reduce",
-      "Damage"
+      "Skip Long Range",
+      "Reduce Damage"
     ]
   },
   {
@@ -14264,8 +14100,7 @@
     ],
     "gameText": "Place one token on this card. Remove one token to examine an opponent's hand and remove one of the cards in his hand from the game.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -14339,8 +14174,7 @@
     ],
     "gameText": "Play this card to increase the cost of all RP cards played at this Site by 1.",
     "tags": [
-      "Modify",
-      "Cost"
+      "Increase Cost"
     ]
   },
   {
@@ -14380,8 +14214,7 @@
     ],
     "gameText": "Play this card to increase the Cost of all RP cards played at this Site by 2.",
     "tags": [
-      "Modify",
-      "Cost"
+      "Increase Cost"
     ]
   },
   {
@@ -14401,9 +14234,7 @@
     ],
     "gameText": "Play this card to force your opponent to discard four cards from the top of his Bureau Deck.",
     "tags": [
-      "Force",
-      "Discard",
-      "Bureau Deck"
+      "Discard"
     ]
   },
   {
@@ -14423,8 +14254,7 @@
     ],
     "gameText": "Pay the listed cost where X = the number of paid to gain the desired modifier to one of the following skills: CLOSE RANGE COMBAT, LONG RANGE COMBAT. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Modify",
-      "Skill"
+      "Decrease Skill"
     ]
   },
   {
@@ -14444,9 +14274,7 @@
     ],
     "gameText": "Play this card to force your opponent to discard the top card of his Bureau Deck.",
     "tags": [
-      "Force",
-      "Discard",
-      "Bureau Deck"
+      "Discard"
     ]
   },
   {
@@ -14466,9 +14294,7 @@
     ],
     "gameText": "Force an opponent to discard one card from their hand at random.",
     "tags": [
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -14508,8 +14334,7 @@
     ],
     "gameText": "Play this card to double the RP cost of any Keyword ACTIVE card played at this Site.",
     "tags": [
-      "Modify",
-      "Cost"
+      "Increase Cost"
     ]
   },
   {
@@ -14549,9 +14374,7 @@
     ],
     "gameText": "Play this card to force your opponent to discard two cards from the top of his Bureau Deck.",
     "tags": [
-      "Force",
-      "Discard",
-      "Bureau Deck"
+      "Discard"
     ]
   },
   {
@@ -14679,9 +14502,7 @@
     ],
     "gameText": "Force an opponent to discard three cards from his hand at random.",
     "tags": [
-      "Force",
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -14701,8 +14522,7 @@
     ],
     "gameText": "Play this card to allow you to look at your opponent's Hand.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -14761,8 +14581,7 @@
     "gameText": "Discard this card to add three to the Agent's ALIEN INVESTIGATION skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14784,8 +14603,7 @@
     "gameText": "Discard this card to add three to the Agent's MEDICAL skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14806,8 +14624,7 @@
     "gameText": "Discard this card to add three to the Agent's BEHAVIORAL skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14829,8 +14646,7 @@
     "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14851,8 +14667,7 @@
     "gameText": "Discard this card to add three to the Agent's OCCULT INVESTIGATION skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14873,8 +14688,7 @@
     "gameText": "Discard this card to add three to the Agent's COMPUTER skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14914,8 +14728,7 @@
     "gameText": "Discard this card to add three to the Agent's SCIENCES skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14936,8 +14749,7 @@
     "gameText": "Discard this card to add three to the Agent's CLOSE RANGE COMBAT skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14959,8 +14771,7 @@
     "gameText": "Discard this card to add three to the Agent's OBSERVATION skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -14982,8 +14793,7 @@
     "gameText": "Discard this card to add three to the Agent's LONG RANGE COMBAT skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -15004,8 +14814,7 @@
     "gameText": "Discard this card to add three to the Agent's EVIDENCE COLLECTION skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -15026,8 +14835,7 @@
     "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -15086,8 +14894,7 @@
     "gameText": "Discard this card to add three to the Agent's BUREAUCRACY skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -15108,8 +14915,7 @@
     "gameText": "Discard this card to add three to the Agent's SUBTERFUGE skill.",
     "tags": [
       "Discard",
-      "Modify",
-      "Skill"
+      "Increase Skill"
     ]
   },
   {
@@ -15217,8 +15023,7 @@
     ],
     "gameText": "Play this card when Assistant Director Skinner would be forced to go to the Hospital. Skinner may stay where he is with full HEALTH. Any unwanted game effect tokens are removed.",
     "tags": [
-      "Target",
-      "Skinner"
+      "Affect Agent"
     ]
   },
   {
@@ -15311,8 +15116,7 @@
     ],
     "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permenantly add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play.",
     "tags": [
-      "Target",
-      "Mulder"
+      "Affect Agent"
     ]
   },
   {
@@ -15374,8 +15178,7 @@
     ],
     "gameText": "Play on Agent Krycek when his team fails to successfully investigate a Keyword ALIEN INVESTIGATION Site (discard the Site). Place two tokens on this card. Remove a token to emit a blast of energy that causes 6 points of damage to all opponents during the Long Range Combat Round. Apply the following permanent modifiers: +1 ALIEN INVESTIGATION, +2 SUBTERFUGE, and +1 HEALTH.",
     "tags": [
-      "Target",
-      "Krycek"
+      "Affect Agent"
     ]
   },
   {
@@ -15455,8 +15258,7 @@
     "gameText": "Play this card to search through your Bureau Deck and put into play any Keyword ACTIVE card that specifically effects Skinner at zero Cost.",
     "tags": [
       "Search",
-      "Target",
-      "Skinner"
+      "Affect Agent"
     ]
   },
   {
@@ -15549,8 +15351,7 @@
     ],
     "gameText": "Play this card to cause your opponent to discard all Witness cards in his hand.",
     "tags": [
-      "Discard",
-      "Hand"
+      "Discard"
     ]
   },
   {
@@ -16160,8 +15961,7 @@
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION or OBSERVATION skill check, or you may play this card to look at all Adversaries in opponent's hand.",
     "tags": [
-      "Examine",
-      "Hand"
+      "Examine Hand"
     ]
   },
   {
@@ -16289,8 +16089,7 @@
     ],
     "gameText": "As long as this card is in play, Skinner cannot be affected by any CONSPIRACY card that would specifically affect him.",
     "tags": [
-      "Target",
-      "Skinner"
+      "Affect Agent"
     ]
   },
   {
@@ -16518,8 +16317,7 @@
     },
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any Site that asks a MOTIVE question. Add it to your hand, reshuffle your Bureau deck.",
     "tags": [
-      "Search",
-      "Site"
+      "Search"
     ]
   },
   {
@@ -17006,8 +16804,7 @@
     ],
     "gameText": "Apply -1 to any Equipment cards attached to the Team that modify LONG RANGE COMBAT or CLOSE RANGE COMBAT. Damage caused by this Adversary may be split among all opponents (Directed Player's choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -17033,8 +16830,7 @@
     ],
     "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove token. Aboah may use SUBTERFUGE cards.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -17061,8 +16857,7 @@
     ],
     "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card on top of the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed.",
     "tags": [
-      "Skip",
-      "Combat"
+      "Non-combative"
     ]
   },
   {
@@ -17089,8 +16884,7 @@
     ],
     "gameText": "If this Adversary is played on a Witness that contributes to a MEDICAL skill check, the Witness is removed from the game. The LRC round is skipped for the opposing Team but not for Dr. Jack Franklin. Agents must use their MEDICAL skill as their value in CRC. If an Agent has no MEDICAL skill, their value is 1.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -17259,8 +17053,7 @@
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -17287,8 +17080,7 @@
     ],
     "gameText": "All Witness RESOURCE cards are immediately discarded. The Grey-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "tags": [
-      "Split",
-      "Damage"
+      "Split Damage"
     ]
   },
   {
@@ -17388,8 +17180,7 @@
     ],
     "gameText": "If this Adversary is played on a Keyword SCIENCES Witness, that Witness is negated and removed from the game. The Long Range Combat round is skipped. Any Agent wounded by Nichols is instantly frozen and may not move, contribute their skills and effects, add to the Pools or heal wounds until a HEALING card is played.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
@@ -17439,8 +17230,7 @@
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and one Agent on the Team is attacked (your choice). The LRC round is skipped. For the first round of CRC, the chosen Agent is the only one who may participate in the combat.",
     "tags": [
-      "Skip",
-      "Long Range Combat"
+      "Skip Long Range"
     ]
   },
   {
