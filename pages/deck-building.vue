@@ -85,7 +85,7 @@
                     @click="downloadCSV(deck)"
                   >
                     <v-icon small>
-                      mdi-format-list-bulleted
+                      mdi-file-document
                     </v-icon>
                   </v-btn>
                   <v-btn
@@ -190,24 +190,47 @@ export default {
     },
 
     downloadCSV(deck) {
+      const collator = new Intl.Collator('en', {
+        sensitivity: 'base',
+        numeric: true
+      });
+
       const data = Buffer.from(
         [
           '"#","Set","Title","Type","Quantity"',
-          ...Object.entries(this.$store.getters['deckBuilding/deckByName'](deck.name)).reduce((result, [
-            id,
-            quantity
-          ]) => {
-            const {
+          ...Object.entries(this.$store.getters['deckBuilding/deckByName'](deck.name))
+            .map(([
+              id,
+              quantity
+            ]) => {
+              const {
+                set,
+                title,
+                type
+              } = cards.find((card) => card.id === id);
+
+              return {
+                id,
+                set,
+                title,
+                type,
+                quantity
+              };
+            })
+            .sort((a, b) => {
+              if (a.type === b.type) {
+                return collator.compare(a.id, b.id);
+              }
+
+              return collator.compare(a.type, b.type);
+            })
+            .map(({
+              id,
               set,
               title,
-              type
-            } = cards.find((card) => card.id === id);
-
-            return [
-              ...result,
-              `"${id}","${set}","${title}","${type}","${quantity}"`
-            ]
-          }, [])
+              type,
+              quantity
+            }) => `"${id}","${set}","${title}","${type}","${quantity}"`)
         ].join('\n')
       ).toString('base64');
 
