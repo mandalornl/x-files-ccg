@@ -737,7 +737,11 @@
       "Criminal Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
-    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the"
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Broad Street, Philadelphia, PA",
@@ -875,7 +879,11 @@
       "Criminal Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
-    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the"
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Genetics Clinic, Marin County, CA",
@@ -981,7 +989,11 @@
       "Behavioral"
     ],
     "prerequisite": "MEDICAL 5+ or BEHAVIORAL 5+",
-    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the"
+    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Fairfield Zoo, Fairfield, ID",
@@ -1017,7 +1029,11 @@
       "Evidence Collection"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation"
+    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation Of Evidence\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Containment Facility, Georgetown, MD",
@@ -1070,7 +1086,11 @@
       "Behavioral"
     ],
     "prerequisite": "SUBTERFUGE 5+ or BEHAVIORAL 5+",
-    "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill"
+    "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Aubrey, MO",
@@ -1107,7 +1127,7 @@
     "question": "You may ask one AFFILIATION question."
   },
   {
-    "title": "Icy Cap, AK",
+    "title": "Icy Cape, AK",
     "id": "XF96-0065v1",
     "set": "Premiere",
     "rarity": "Fixed",
@@ -1140,7 +1160,11 @@
       "Computer"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
-    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\","
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "U.F.O. Wreckage, Townsend, WI",
@@ -1394,7 +1418,11 @@
       "Bureaucracy"
     ],
     "prerequisite": "COMPUTER 5+ or BUREAUCRACY 5+",
-    "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the"
+    "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Folkstone, NC",
@@ -1502,7 +1530,11 @@
       "Evidence Collection"
     ],
     "prerequisite": "SCIENCES 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the"
+    "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Detective Kelly Ryan",
@@ -1519,7 +1551,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE."
+    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Sinus Cavity Implant",
@@ -1555,7 +1591,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+."
+    "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Section Chief Joseph Mcgrath",
@@ -1574,7 +1614,12 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force one Agent (your choice) back to the Bureau immediately. The Agent may not contribute to any skill checks this turn."
+    "gameText": "Force one Agent (your choice) back to the Bureau immediately. The Agent may not contribute to any skill checks this turn.",
+    "tags": [
+      "Unique",
+      "Force",
+      "Move"
+    ]
   },
   {
     "title": "Cigarette Butts",
@@ -1615,7 +1660,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+."
+    "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Dr. Berube",
@@ -1694,6 +1743,7 @@
     ],
     "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
     "tags": [
+      "Force",
       "Discard"
     ]
   },
@@ -1817,7 +1867,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE."
+    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Poisonous Gases",
@@ -1835,7 +1889,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect."
+    "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Laser Barrier",
@@ -1889,7 +1947,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Decrease all of the skill levels on one Agent (your choice) by 1 for this turn only."
+    "gameText": "Decrease all of the skill levels on one Agent (your choice) by 1 for this turn only.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Radioactive Area",
@@ -1906,7 +1967,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect."
+    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Ghost In The Machine",
@@ -1924,7 +1989,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT."
+    "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Unnatural Aging",
@@ -1942,7 +2011,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1."
+    "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Car Troubles",
@@ -2022,6 +2095,7 @@
     ],
     "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
     "tags": [
+      "Force",
       "Discard",
       "Hand"
     ]
@@ -2042,6 +2116,7 @@
     ],
     "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
     "tags": [
+      "Force",
       "Discard"
     ]
   },
@@ -2080,7 +2155,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+."
+    "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Harry Cokely",
@@ -2097,7 +2176,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD."
+    "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Detective Tony Fiore",
@@ -2778,7 +2861,10 @@
       "Health": 5,
       "Resources": 2
     },
-    "gameText": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase."
+    "gameText": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Agent Fox Mulder",
@@ -2808,7 +2894,10 @@
       "Health": 5,
       "Resources": 2
     },
-    "gameText": "RP's generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero cost."
+    "gameText": "RP's generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero cost.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Lt. Brian Tillman, Aubrey Police Department",
@@ -2950,7 +3039,10 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token to move Agent Fox Mulder from anywhere on the table to the Team Phoebe Green is in. Mulder may assist in any skill check made by the team. In this manner, Mulder may assist on two Sites in one turn."
+    "gameText": "Place a token on this card. Discard a token to move Agent Fox Mulder from anywhere on the table to the Team Phoebe Green is in. Mulder may assist in any skill check made by the team. In this manner, Mulder may assist on two Sites in one turn.",
+    "tags": [
+      "Move"
+    ]
   },
   {
     "title": "Agent Fox Mulder",
@@ -3071,6 +3163,7 @@
     },
     "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
     "tags": [
+      "Unique",
       "Examine"
     ]
   },
@@ -3130,7 +3223,10 @@
       "Health": 5,
       "Resources": 1
     },
-    "gameText": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table."
+    "gameText": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Dr. Charles Burk",
@@ -3362,7 +3458,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn."
+    "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Agent Karen Kosseff, Counselor",
@@ -3575,6 +3675,7 @@
     ],
     "gameText": "Adds 1 RP to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
     "tags": [
+      "Unique",
       "Resource",
       "Recurring"
     ]
@@ -3598,6 +3699,7 @@
     ],
     "gameText": "Adds 1 RP to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
     "tags": [
+      "Unique",
       "Resource",
       "Recurring"
     ]
@@ -3692,7 +3794,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Attach this Witness to a Team. This Witness will add his skills to the appropriate skill check like an Agent, CRC: 2, LRC: 2, and HEALTH: 3. If he is sent to the Hospital, or at any time there are no Agents in the Team, remove the card from the game."
+    "gameText": "Attach this Witness to a Team. This Witness will add his skills to the appropriate skill check like an Agent, CRC: 2, LRC: 2, and HEALTH: 3. If he is sent to the Hospital, or at any time there are no Agents in the Team, remove the card from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Dr. Osborne",
@@ -3713,6 +3818,7 @@
     ],
     "gameText": "Adds 1 RP to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
     "tags": [
+      "Unique",
       "Resource",
       "Recurring"
     ]
@@ -3736,6 +3842,7 @@
     ],
     "gameText": "Adds 1 RP to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
     "tags": [
+      "Unique",
       "Resource",
       "Recurring"
     ]
@@ -3903,6 +4010,7 @@
     ],
     "gameText": "Adds 1 RP to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
     "tags": [
+      "Unique",
       "Resource",
       "Recurring"
     ]
@@ -4002,6 +4110,7 @@
     ],
     "gameText": "Adds 1 RP to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
     "tags": [
+      "Unique",
       "Resource",
       "Recurring"
     ]
@@ -4133,7 +4242,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Ask any one Characteristic question regarding one opponent's X-File. Remove this card from the game. The effects of this card may not be negated."
+    "gameText": "Ask any one Characteristic question regarding one opponent's X-File. Remove this card from the game. The effects of this card may not be negated.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Shutting Down The X-Files",
@@ -4225,7 +4337,11 @@
       "Conspiracy",
       "Multiplayer"
     ],
-    "gameText": "Play after an opponent Team successfully asks a Characteristc question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained."
+    "gameText": "Play after an opponent Team successfully asks a Characteristic question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Medical Treatment",
@@ -4260,7 +4376,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "If your opponent includes Agent Weiss in any skill check in the Field, Agent Weiss is instantly killed and removed from the game."
+    "gameText": "If your opponent includes Agent Weiss in any skill check in the Field, Agent Weiss is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "The Cigarette-Smoking Man Strikes",
@@ -4276,7 +4395,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn."
+    "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Eve 7",
@@ -4424,7 +4547,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "If your opponent includes Agent Lamana in any skill check in the Field, Agent Lamana is instantly killed and removed from the game."
+    "gameText": "If your opponent includes Agent Lamana in any skill check in the Field, Agent Lamana is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Evidence Destroyed",
@@ -4477,7 +4603,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round."
+    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Thorough Documentation",
@@ -4513,6 +4643,9 @@
     ],
     "gameText": "Play when Assistant Director Walter Skinner is in the Bureau Section of the table and the AFFILIATION of your opponent's X-File is known. Add the following modifiers to Skinner's skills: +1 BUREAUCRACY, +1 SUBTERFUGE. Skinner is now immune to the \"Skinner Adopts The Company Line\" card. Place two tokens on this card. Discard a token to negate one Event card. Place this card below Skinner to remind you of the increased skills.",
     "tags": [
+      "Unique",
+      "Target",
+      "Skinner",
       "Negate"
     ]
   },
@@ -4530,7 +4663,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "You may now play up to three Adversary cards simultaneously. All cards played using this card count as one Adversary card for game purposes (e.g., the \"Overwhelming Force\" card and all Adversaries can be negated as one card). The Adversaries all deal damage and take damage separately."
+    "gameText": "You may now play up to three Adversary cards simultaneously. All cards played using this card count as one Adversary card for game purposes (e.g., the \"Overwhelming Force\" card and all Adversaries can be negated as one card). The Adversaries all deal damage and take damage separately.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Warning From The Loa",
@@ -4549,6 +4685,8 @@
     ],
     "gameText": "Force an opponent player to reveal any Adversary cards in his hand. If your opponent has one or more, discard one at random.",
     "tags": [
+      "Unique",
+      "Force",
       "Discard",
       "Hand"
     ]
@@ -4591,7 +4729,10 @@
       "Alien",
       "Adversary"
     ],
-    "gameText": "Negate one ALIEN Adversary. In addition, if the Team makes an ALIEN INVESTIGATION skill check 6+, they may ask either one AFFILIATION question or one MOTIVE question."
+    "gameText": "Negate one ALIEN Adversary. In addition, if the Team makes an ALIEN INVESTIGATION skill check 6+, they may ask either one AFFILIATION question or one MOTIVE question.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Dana Scully, Abducted",
@@ -4608,7 +4749,12 @@
     "activators": [
       "Active"
     ],
-    "gameText": "If an Abduction card is played on a Team of Agents that includes Scully, Scully must be the Agent abducted instead. When Agent Scully returns to play she has the following modifiers added to her skills: +1 ALIEN INVESTIGATION, +1 OCCULT INVESTIGATION, +1 OBSERVATION, Keyword BELIEVER. Place this card below Scully to remind you of the increased skills. Place two tokens on this card. Discard a token to search through your Bureau deck and add any Healing card to your hand. Show it to your opponent and shuffle your deck."
+    "gameText": "If an Abduction card is played on a Team of Agents that includes Scully, Scully must be the Agent abducted instead. When Agent Scully returns to play she has the following modifiers added to her skills: +1 ALIEN INVESTIGATION, +1 OCCULT INVESTIGATION, +1 OBSERVATION, Keyword BELIEVER. Place this card below Scully to remind you of the increased skills. Place two tokens on this card. Discard a token to search through your Bureau deck and add any Healing card to your hand. Show it to your opponent and shuffle your deck.",
+    "tags": [
+      "Unique",
+      "Target",
+      "Scully"
+    ]
   },
   {
     "title": "Reading The Signs",
@@ -4643,7 +4789,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "If your opponent includes Agent Willis in any skill check in the Field, Agent Willis is instantly killed and removed from the game."
+    "gameText": "If your opponent includes Agent Willis in any skill check in the Field, Agent Willis is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Skinner Adopts The Company Line",
@@ -4661,7 +4810,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn."
+    "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn.",
+    "tags": [
+      "Target",
+      "Skinner"
+    ]
   },
   {
     "title": "Safe House",
@@ -4719,7 +4872,11 @@
       "Active",
       "Bluff"
     ],
-    "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly."
+    "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly.",
+    "tags": [
+      "Force",
+      "Discard"
+    ]
   },
   {
     "title": "Expedite Request For Resources",
@@ -4753,7 +4910,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn."
+    "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Unexplainable Time Loss",
@@ -4771,7 +4932,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately"
+    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Clone",
@@ -4857,7 +5022,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check."
+    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Improved Channels",
@@ -4893,7 +5062,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Negates any one card played against your Team during a BUREAUCRACY or ALIEN INVESTIGATION skill check."
+    "gameText": "Negates any one card played against your Team during a BUREAUCRACY or ALIEN INVESTIGATION skill check.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Krycek, The Double Agent",
@@ -4948,7 +5120,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site."
+    "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Equipment Malfunction",
@@ -4967,6 +5143,7 @@
     ],
     "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
     "tags": [
+      "Force",
       "Discard"
     ]
   },
@@ -5005,7 +5182,10 @@
       "Active",
       "Site"
     ],
-    "gameText": "Play \"The Lone Gunmen\" card on a Site. While played on a Site, The Lone Gunmen are considered a Keyword WITNESS card. A Site with The Lone Gunmen played on it stays in the Field until they are removed. During your Briefing Phase, pay 1 RP to place a token on the Site. When a Team investigates the Site, each token adds 1 to the skill check. Discard The Lone Gunmen after the skill check is resolved."
+    "gameText": "Play \"The Lone Gunmen\" card on a Site. While played on a Site, The Lone Gunmen are considered a Keyword WITNESS card. A Site with The Lone Gunmen played on it stays in the Field until they are removed. During your Briefing Phase, pay 1 RP to place a token on the Site. When a Team investigates the Site, each token adds 1 to the skill check. Discard The Lone Gunmen after the skill check is resolved.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Alien Discretion",
@@ -5153,7 +5333,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team to make a COMPUTER 4+ skill check. If successful, you may select any card in your collection and add it to your hand. The card need not be part of your Bureau deck. Nor may it exceed the limit of two cards per deck."
+    "gameText": "Play on a Team to make a COMPUTER 4+ skill check. If successful, you may select any card in your collection and add it to your hand. The card need not be part of your Bureau deck. Nor may it exceed the limit of two cards per deck.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Application For FBI Resources Approved",
@@ -5208,7 +5391,11 @@
       "Conspiracy",
       "Multiplayer"
     ],
-    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer."
+    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Hard Evidence",
@@ -5261,7 +5448,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card after your opponent has asked a Characteristic Question regarding your X-File. After you answer the question, your opponent must answer the question as well. Your opponent may still guess your X-File identity if normally allowed to do so, but you may not."
+    "gameText": "Play this card after your opponent has asked a Characteristic Question regarding your X-File. After you answer the question, your opponent must answer the question as well. Your opponent may still guess your X-File identity if normally allowed to do so, but you may not.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Deductive Reasoning",
@@ -5408,7 +5598,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat."
+    "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "X",
@@ -5444,7 +5638,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent sill apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost."
+    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent sill apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Plague Of Locusts",
@@ -5462,7 +5659,12 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Force an opponent Team to make an OCCULT INVESTIGATION 4+ skill check. If they fail, negate all Witnesses that are modifying the Team's skill check."
+    "gameText": "Force an opponent Team to make an OCCULT INVESTIGATION 4+ skill check. If they fail, negate all Witnesses that are modifying the Team's skill check.",
+    "tags": [
+      "Unique",
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "X-Files Research",
@@ -5537,6 +5739,7 @@
     ],
     "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
     "tags": [
+      "Force",
       "Discard",
       "Hand"
     ]
@@ -5654,7 +5857,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "If your opponent includes Agent Purdue in any skill check in the Field, Agent Purdue is instantly killed and removed from the game."
+    "gameText": "If your opponent includes Agent Purdue in any skill check in the Field, Agent Purdue is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Road Hazard",
@@ -6195,6 +6401,7 @@
     ],
     "gameText": "Your opponent may not spread out Agents until this card is resolved. Hold this card twelve inches up and twelve inches away from the opponent's Team. Flip the card so that it spins through the air. All of the Agents in the Investigating Team that are being touched by the Alien Harvester are abducted! Discard any Equipment attached to the abducted Agents. The Agents are placed ten cards down, face up, in the Bureau deck. When the Agent cards reach the top of the deck, the Agents are immediately moved to the Hospital (though they are not damaged).",
     "tags": [
+      "Unique",
       "Skip",
       "Combat"
     ]
@@ -7461,7 +7668,11 @@
       "Criminal Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
-    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the"
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Broad Street, Philadelphia, PA",
@@ -7599,7 +7810,11 @@
       "Criminal Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
-    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the"
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Genetics Clinic, Marin County, CA",
@@ -7705,7 +7920,11 @@
       "Behavioral"
     ],
     "prerequisite": "MEDICAL 5+ or BEHAVIORAL 5+",
-    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the"
+    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Fairfield Zoo, Fairfield, ID",
@@ -7741,7 +7960,11 @@
       "Evidence Collection"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation"
+    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation Of Evidence\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Containment Facility, Georgetown, MD",
@@ -7794,7 +8017,11 @@
       "Behavioral"
     ],
     "prerequisite": "SUBTERFUGE 5+ or BEHAVIORAL 5+",
-    "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill"
+    "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Aubrey, MO",
@@ -7864,7 +8091,11 @@
       "Computer"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
-    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\","
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "U.F.O. Wreckage, Townsend, WI",
@@ -8118,7 +8349,11 @@
       "Bureaucracy"
     ],
     "prerequisite": "COMPUTER 5+ or BUREAUCRACY 5+",
-    "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the"
+    "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Folkstone, NC",
@@ -8226,7 +8461,11 @@
       "Evidence Collection"
     ],
     "prerequisite": "SCIENCES 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the"
+    "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Detective Kelly Ryan",
@@ -8243,7 +8482,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE."
+    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Sinus Cavity Implant",
@@ -8279,7 +8522,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+."
+    "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Cigarette Butts",
@@ -8320,7 +8567,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+."
+    "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Dr. Berube",
@@ -8399,6 +8650,7 @@
     ],
     "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
     "tags": [
+      "Force",
       "Discard"
     ]
   },
@@ -8522,7 +8774,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE."
+    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Poisonous Gases",
@@ -8540,7 +8796,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect."
+    "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Laser Barrier",
@@ -8594,7 +8854,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect."
+    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Ghost In The Machine",
@@ -8612,7 +8876,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT."
+    "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Unnatural Aging",
@@ -8630,7 +8898,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1."
+    "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Car Troubles",
@@ -8710,6 +8982,7 @@
     ],
     "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
     "tags": [
+      "Force",
       "Discard",
       "Hand"
     ]
@@ -8730,6 +9003,7 @@
     ],
     "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
     "tags": [
+      "Force",
       "Discard"
     ]
   },
@@ -8768,7 +9042,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+."
+    "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+.",
+    "tags": [
+      "Modify",
+      "Prerequisite"
+    ]
   },
   {
     "title": "Harry Cokely",
@@ -8785,7 +9063,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD."
+    "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Detective Tony Fiore",
@@ -9581,7 +9863,10 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token to move Agent Fox Mulder from anywhere on the table to the Team Phoebe Green is in. Mulder may assist in any skill check made by the team. In this manner, Mulder may assist on two Sites in one turn."
+    "gameText": "Place a token on this card. Discard a token to move Agent Fox Mulder from anywhere on the table to the Team Phoebe Green is in. Mulder may assist in any skill check made by the team. In this manner, Mulder may assist on two Sites in one turn.",
+    "tags": [
+      "Move"
+    ]
   },
   {
     "title": "Agent Fox Mulder",
@@ -9935,7 +10220,11 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn."
+    "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn.",
+    "tags": [
+      "Examine",
+      "Hand"
+    ]
   },
   {
     "title": "Agent Karen Kosseff, Counselor",
@@ -10019,7 +10308,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent."
+    "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent.",
+    "tags": [
+      "Modify",
+      "Keyword"
+    ]
   },
   {
     "title": "Byers",
@@ -10626,7 +10919,11 @@
       "Conspiracy",
       "Multiplayer"
     ],
-    "gameText": "Play after an opponent Team successfully asks a Characteristc question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained."
+    "gameText": "Play after an opponent Team successfully asks a Characteristic question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Medical Treatment",
@@ -10677,7 +10974,10 @@
       "Conspiracy",
       "Bluff"
     ],
-    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 per Bluff removed."
+    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 per Bluff removed.",
+    "tags": [
+      "Move"
+    ]
   },
   {
     "title": "Street Contacts",
@@ -10843,7 +11143,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round."
+    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Thorough Documentation",
@@ -10915,7 +11219,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn."
+    "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn.",
+    "tags": [
+      "Target",
+      "Skinner"
+    ]
   },
   {
     "title": "Safe House",
@@ -10973,7 +11281,11 @@
       "Active",
       "Bluff"
     ],
-    "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly."
+    "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly.",
+    "tags": [
+      "Force",
+      "Discard"
+    ]
   },
   {
     "title": "Expedite Request For Resources",
@@ -11010,7 +11322,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn."
+    "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Unexplainable Time Loss",
@@ -11028,7 +11344,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately"
+    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Clone",
@@ -11114,7 +11434,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check."
+    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Improved Channels",
@@ -11189,7 +11513,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site."
+    "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Equipment Malfunction",
@@ -11208,6 +11536,7 @@
     ],
     "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
     "tags": [
+      "Force",
       "Discard"
     ]
   },
@@ -11414,7 +11743,11 @@
       "Conspiracy",
       "Multiplayer"
     ],
-    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer."
+    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Hard Evidence",
@@ -11597,7 +11930,11 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat."
+    "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat.",
+    "tags": [
+      "Force",
+      "Skill"
+    ]
   },
   {
     "title": "Assigned To The X-Files",
@@ -11690,6 +12027,7 @@
     ],
     "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
     "tags": [
+      "Force",
       "Discard",
       "Hand"
     ]
@@ -12855,7 +13193,10 @@
       "Conspiracy",
       "Agent"
     ],
-    "gameText": "This Adversary regenerates (Heals) two points of HEALTH at the beginning of each combat round as long as his HEALTH is not at zero."
+    "gameText": "This Adversary regenerates (Heals) two points of HEALTH at the beginning of each combat round as long as his HEALTH is not at zero.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Brother Martin Is Attracted To You",
@@ -12881,6 +13222,7 @@
     ],
     "gameText": "This card does not initiate combat. Place three damage tokens on any Agent in the Investigating Team. The damaged Agent must be moved to the Hospital immediately and heals at half the normal rate. The Agent may not leave the Hospital until all damage is healed, and cannot be removed using other cards (Crash Cart, First Aid, etc.).",
     "tags": [
+      "Unique",
       "Skip",
       "Combat"
     ]
@@ -12909,6 +13251,7 @@
     ],
     "gameText": "This card does not initiate combat. Flip the top card of the Investigating player's Bureau Deck. If it is a Witness card, then both Leonard and the Witness card are removed from the game. If not, then keep flipping until a Witness or 10 cards have been flipped. Flipped cards are placed on the owning player's discard pile.",
     "tags": [
+      "Unique",
       "Skip",
       "Combat"
     ]
@@ -12938,6 +13281,7 @@
     ],
     "gameText": "This card does not initiate combat. Play this card in the Investigating Player's Hospital section. Place three tokens on this card. Remove one token in the Debriefing Phase of your opponent's turn. This card is discarded when the last token is removed. Agents may not heal as long as this card is in their Hospital section.",
     "tags": [
+      "Unique",
       "Skip",
       "Combat"
     ]
@@ -12967,6 +13311,7 @@
     ],
     "gameText": "This card does not initiate combat. Play this card in conjunction with any other Adversary that initiates combat. The Adversary's LRC, CRC, and HEALTH are doubled.",
     "tags": [
+      "Unique",
       "Skip",
       "Combat"
     ]
@@ -12995,7 +13340,10 @@
       "Motive",
       "Site"
     ],
-    "gameText": "Count the number of Adversary cards in the opposing Teams' discard pile. The Amarus Spirits' CLOSE RANGE COMBAT, LONG RANGE COMBAT, and HEALTH are equal to the number of Adversary cards in the discard pile."
+    "gameText": "Count the number of Adversary cards in the opposing Teams' discard pile. The Amarus Spirits' CLOSE RANGE COMBAT, LONG RANGE COMBAT, and HEALTH are equal to the number of Adversary cards in the discard pile.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Limited Choices",
@@ -13013,6 +13361,7 @@
     ],
     "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = CP Cost paid.",
     "tags": [
+      "Unique",
       "Discard",
       "Hand"
     ]
@@ -13032,7 +13381,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to allow you to exchange CP Pools with your opponent."
+    "gameText": "Play this card to allow you to exchange CP Pools with your opponent.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Injured Relative",
@@ -13049,7 +13401,12 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Force one opposing Agent (your choice) to go to the Hospital immediately (undamaged)."
+    "gameText": "Force one opposing Agent (your choice) to go to the Hospital immediately (undamaged).",
+    "tags": [
+      "Unique",
+      "Force",
+      "Move"
+    ]
   },
   {
     "title": "Explosion",
@@ -13066,7 +13423,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to cause one point of damage to every Agent in a Team for each Cost card discarded from your hand, up to a maximum of three points of damage. X = number of Cost cards discarded."
+    "gameText": "Play this card to cause one point of damage to every Agent in a Team for each Cost card discarded from your hand, up to a maximum of three points of damage. X = number of Cost cards discarded.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Lock Pick",
@@ -13083,7 +13443,10 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's SUBTERFUGE rating."
+    "gameText": "Adds 2 to the Agent's SUBTERFUGE rating.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "U.S.G.S. Quadrant Map",
@@ -13102,6 +13465,7 @@
     ],
     "gameText": "Attach this card to any Agent in the Bureau. Discard this card to search your Bureau Deck and add any one Site card to your hand. Show your opponent which card you have added. Shuffle your deck.",
     "tags": [
+      "Unique",
       "Search"
     ]
   },
@@ -13119,7 +13483,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "During the Briefing Phase, place one token on every Agent you control that normally starts with at least one token. This token is usable in the same way that starting tokens can be used."
+    "gameText": "During the Briefing Phase, place one token on every Agent you control that normally starts with at least one token. This token is usable in the same way that starting tokens can be used.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "One Breath",
@@ -13138,6 +13505,7 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and add any one Event card to your hand. Show your opponent which card you have added. Shuffle your deck.",
     "tags": [
+      "Unique",
       "Search"
     ]
   },
@@ -13157,6 +13525,7 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and add any one Adversary card to your hand. Show your opponent which card you have added. Shuffle your deck.",
     "tags": [
+      "Unique",
       "Search"
     ]
   },
@@ -13176,6 +13545,7 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and add any one Equipment card to your hand. Show your opponent which card you have added. Discard this card and shuffle your deck.",
     "tags": [
+      "Unique",
       "Search"
     ]
   },
@@ -13195,6 +13565,7 @@
     ],
     "gameText": "Play this card whenever the Investigating player has played a card that allows him to search through his deck and add a card to his hand. As soon as he shows you the card, play this card. The card he added is removed from the game, along with this card.",
     "tags": [
+      "Unique",
       "Search"
     ]
   },
@@ -13214,7 +13585,10 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play on any Witness during your opponent's Investigation Phase. Pay X where X = the cost of the Witness. The Witness card is negated."
+    "gameText": "Play on any Witness during your opponent's Investigation Phase. Pay X where X = the cost of the Witness. The Witness card is negated.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Assassinated",
@@ -13232,7 +13606,10 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play on ay Witness during your opponent's Investigation Phase. The Witness card is negated and removed from the game along with this card. To gain a permanent skill increase of +1 on an investigating team agent, place this card beneath the agent."
+    "gameText": "Play on ay Witness during your opponent's Investigation Phase. The Witness card is negated and removed from the game along with this card. To gain a permanent skill increase of +1 on an investigating team agent, place this card beneath the agent.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Security Clearance",
@@ -13249,7 +13626,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Negate any one Keyword SUBTERFUGE card."
+    "gameText": "Negate any one Keyword SUBTERFUGE card.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Dr. Joe Ridley",
@@ -13266,7 +13646,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Negate any one Keyword MEDICAL card."
+    "gameText": "Negate any one Keyword MEDICAL card.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Colonel Kissell",
@@ -13283,7 +13666,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Negate any one Keyword SCIENCES card."
+    "gameText": "Negate any one Keyword SCIENCES card.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Meet Brother Andrew",
@@ -13300,7 +13686,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Negate any one Keyword BEHAVIORAL card."
+    "gameText": "Negate any one Keyword BEHAVIORAL card.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Misclassified Case",
@@ -13316,7 +13705,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card during the case assignment phase to prevent your opponent from playing any adversaries at this Site."
+    "gameText": "Play this card during the case assignment phase to prevent your opponent from playing any adversaries at this Site.",
+    "tags": [
+      "Unique",
+      "Prevent"
+    ]
   },
   {
     "title": "Additional Resources",
@@ -13335,6 +13728,7 @@
     ],
     "gameText": "Search through your Bureau Deck and select an Agent with a Cost of 4 or less. Add this Agent to your team of Agents in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pzy X+1 upkeep or discard this card and the selected Agent.",
     "tags": [
+      "Unique",
       "Search"
     ]
   },
@@ -13353,7 +13747,10 @@
       "Subterfuge"
     ],
     "prerequisite": "SUBTERFUGE 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Tracking The Killer",
@@ -13370,7 +13767,10 @@
       "Criminal Investigation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Mrs. Mulder",
@@ -13390,7 +13790,10 @@
       "Alien investigation",
       "Behavioral"
     ],
-    "gameText": "Adds zero to one Team's ALIEN INVESTIGATION or BEHAVIORAL skill check. If this card is used in a successful Site investigation, the owning player may ask \"Is your X-File's Affiliation Government?\" in addition to the Site question for zero cost."
+    "gameText": "Adds zero to one Team's ALIEN INVESTIGATION or BEHAVIORAL skill check. If this card is used in a successful Site investigation, the owning player may ask \"Is your X-File's Affiliation Government?\" in addition to the Site question for zero cost.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Margaret Scully",
@@ -13410,7 +13813,10 @@
       "Medical",
       "Sciences"
     ],
-    "gameText": "Adds one to one Team's MEDICAL or SCIENCES skill check. This card may be played for zero RP and treated as a +4 to the appropriate skill if Agent Dana Scully is in the Hospital or if the Witness card Melissa Scully has been removed from the game."
+    "gameText": "Adds one to one Team's MEDICAL or SCIENCES skill check. This card may be played for zero RP and treated as a +4 to the appropriate skill if Agent Dana Scully is in the Hospital or if the Witness card Melissa Scully has been removed from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "Melissa Scully",
@@ -13430,7 +13836,10 @@
       "Occult investigation",
       "Subterfuge"
     ],
-    "gameText": "Adds two to one Team's OCCULT INVESTIGATION or SUBTERFUGE skill check. Alternately, play this card when Agent Dana Scully is damaged in combat. Dana Scully takes no damage and Melissa Scully is damaged instead. Remove this card from the game."
+    "gameText": "Adds two to one Team's OCCULT INVESTIGATION or SUBTERFUGE skill check. Alternately, play this card when Agent Dana Scully is damaged in combat. Dana Scully takes no damage and Melissa Scully is damaged instead. Remove this card from the game.",
+    "tags": [
+      "Unique"
+    ]
   },
   {
     "title": "2Shy",
@@ -13992,6 +14401,7 @@
     ],
     "gameText": "Play this card to force your opponent to discard four cards from the top of his Bureau Deck.",
     "tags": [
+      "Force",
       "Discard",
       "Bureau Deck"
     ]
@@ -14034,6 +14444,7 @@
     ],
     "gameText": "Play this card to force your opponent to discard the top card of his Bureau Deck.",
     "tags": [
+      "Force",
       "Discard",
       "Bureau Deck"
     ]
@@ -14055,6 +14466,7 @@
     ],
     "gameText": "Force an opponent to discard one card from their hand at random.",
     "tags": [
+      "Force",
       "Discard",
       "Hand"
     ]
@@ -14074,7 +14486,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Once this card is played, the Investigating Player may not play any Events while investigating this Site except for Events which would specifically negate this card."
+    "gameText": "Once this card is played, the Investigating Player may not play any Events while investigating this Site except for Events which would specifically negate this card.",
+    "tags": [
+      "Prevent"
+    ]
   },
   {
     "title": "Flesh Sculpting",
@@ -14112,7 +14527,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Once this card is played, the investigating player may not play any COMBAT cards while investigating this Site, except for COMBAT cards which would specifically negate this card."
+    "gameText": "Once this card is played, the investigating player may not play any COMBAT cards while investigating this Site, except for COMBAT cards which would specifically negate this card.",
+    "tags": [
+      "Prevent"
+    ]
   },
   {
     "title": "Heads Up",
@@ -14131,6 +14549,7 @@
     ],
     "gameText": "Play this card to force your opponent to discard two cards from the top of his Bureau Deck.",
     "tags": [
+      "Force",
       "Discard",
       "Bureau Deck"
     ]
@@ -14221,7 +14640,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Move up to two Bluffs to a different Site in play. Play this card before any other Bluffs are revealed."
+    "gameText": "Move up to two Bluffs to a different Site in play. Play this card before any other Bluffs are revealed.",
+    "tags": [
+      "Move"
+    ]
   },
   {
     "title": "The Mailman",
@@ -14257,12 +14679,13 @@
     ],
     "gameText": "Force an opponent to discard three cards from his hand at random.",
     "tags": [
+      "Force",
       "Discard",
       "Hand"
     ]
   },
   {
-    "title": "Visions of a Madman",
+    "title": "Visions Of A Madman",
     "id": "XF97-0421x1",
     "set": "101361",
     "rarity": "Rare",
@@ -14297,7 +14720,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Once this card is played, the investigating player may not play any Witnesses while investigating this Site, except for Witnesses which would specifically negate this card."
+    "gameText": "Once this card is played, the investigating player may not play any Witnesses while investigating this Site, except for Witnesses which would specifically negate this card.",
+    "tags": [
+      "Prevent"
+    ]
   },
   {
     "title": "Two Lux Video Camera",
@@ -14789,7 +15215,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card when Assistant Director Skinner would be forced to go to the Hospital. Skinner may stay where he is with full HEALTH. Any unwanted game effect tokens are removed."
+    "gameText": "Play this card when Assistant Director Skinner would be forced to go to the Hospital. Skinner may stay where he is with full HEALTH. Any unwanted game effect tokens are removed.",
+    "tags": [
+      "Target",
+      "Skinner"
+    ]
   },
   {
     "title": "Captive Hybrid",
@@ -14879,7 +15309,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permenantly add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play."
+    "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permenantly add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play.",
+    "tags": [
+      "Target",
+      "Mulder"
+    ]
   },
   {
     "title": "Hell Money",
@@ -14938,7 +15372,11 @@
       "Alien investigation",
       "Site"
     ],
-    "gameText": "Play on Agent Krycek when his team fails to successfully investigate a Keyword ALIEN INVESTIGATION Site (discard the Site). Place two tokens on this card. Remove a token to emit a blast of energy that causes 6 points of damage to all opponents during the Long Range Combat Round. Apply the following permanent modifiers: +1 ALIEN INVESTIGATION, +2 SUBTERFUGE, and +1 HEALTH."
+    "gameText": "Play on Agent Krycek when his team fails to successfully investigate a Keyword ALIEN INVESTIGATION Site (discard the Site). Place two tokens on this card. Remove a token to emit a blast of energy that causes 6 points of damage to all opponents during the Long Range Combat Round. Apply the following permanent modifiers: +1 ALIEN INVESTIGATION, +2 SUBTERFUGE, and +1 HEALTH.",
+    "tags": [
+      "Target",
+      "Krycek"
+    ]
   },
   {
     "title": "Mostow's Sketches",
@@ -15016,7 +15454,9 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and put into play any Keyword ACTIVE card that specifically effects Skinner at zero Cost.",
     "tags": [
-      "Search"
+      "Search",
+      "Target",
+      "Skinner"
     ]
   },
   {
@@ -15847,7 +16287,11 @@
     "activators": [
       "Active"
     ],
-    "gameText": "As long as this card is in play, Skinner cannot be affected by any CONSPIRACY card that would specifically affect him."
+    "gameText": "As long as this card is in play, Skinner cannot be affected by any CONSPIRACY card that would specifically affect him.",
+    "tags": [
+      "Target",
+      "Skinner"
+    ]
   },
   {
     "title": "Sheriff John Teller",
@@ -16151,7 +16595,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to immediately move one opposing Agent to the Hospital. Place this card beneath the Agent and place five tokens on the Agent (seven tokens if played on Agent Mulder). Remove a token during the Agent's Healing Phase. When all tokens have been removed, discard this card. The Agent may leave the Hospital when all tokens have been removed."
+    "gameText": "Play this card to immediately move one opposing Agent to the Hospital. Place this card beneath the Agent and place five tokens on the Agent (seven tokens if played on Agent Mulder). Remove a token during the Agent's Healing Phase. When all tokens have been removed, discard this card. The Agent may leave the Hospital when all tokens have been removed.",
+    "tags": [
+      "Move"
+    ]
   },
   {
     "title": "Good Fortune",
@@ -16167,7 +16614,10 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Once this card is played, only the Investigating player may play Events while investigating this Site, except for Events which would negate this card. Discard this card when the Site is discarded."
+    "gameText": "Once this card is played, only the Investigating player may play Events while investigating this Site, except for Events which would negate this card. Discard this card when the Site is discarded.",
+    "tags": [
+      "Prevent"
+    ]
   },
   {
     "title": "Mulligan",
