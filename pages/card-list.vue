@@ -416,7 +416,7 @@ export default {
         if (route.fullPath !== this.$route.fullPath) {
           this.$router.replace(route);
         }
-      }, 0);
+      });
     },
 
     cardInfoVisible(value) {
