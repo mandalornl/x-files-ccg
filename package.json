@@ -12,7 +12,7 @@
     "lintfix": "yarn lint:js --fix"
   },
   "dependencies": {
-    "core-js": "3.25.5",
+    "core-js": "3.26.0",
     "lodash": "4.17.21",
     "nuxt": "2.15.8",
     "vue": "2.7.13",
@@ -29,7 +29,7 @@
     "@nuxtjs/eslint-config": "11.0.0",
     "@nuxtjs/eslint-module": "3.1.0",
     "@nuxtjs/vuetify": "1.12.3",
-    "eslint": "8.25.0",
+    "eslint": "8.26.0",
     "eslint-plugin-nuxt": "4.0.0",
     "eslint-plugin-vue": "9.6.0",
     "lru-cache": "7.14.0",
