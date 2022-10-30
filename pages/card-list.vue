@@ -270,7 +270,7 @@ export default {
       ),
       cardInfoVisible: false,
       selectedCard: null,
-      panels: [ 0 ],
+      panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0 ],
       timeoutId: null,
       intersecting: true,
       showDeck: this.$route.query.showDeck === null
