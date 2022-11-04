@@ -1,6 +1,7 @@
 <template>
   <v-chip-group
-    v-model="selected"
+    v-model="ids"
+    :mandatory="mandatory"
     show-arrows
     active-class="primary black--text"
   >
@@ -9,7 +10,7 @@
       :key="label"
       :value="preset.join(',')"
       close
-      @click="internalValue = [ ...preset ]"
+      @click="click(preset)"
       @click:close="remove(label)"
     >
       {{ label }}
@@ -30,19 +31,23 @@ export default {
 
   data() {
     return {
-      selected: this.$route.query.selected ?? ''
+      ids: this.$route.query.ids ?? ''
     };
   },
 
   computed: {
     presets() {
       return this.$store.state.agentSelector.presents;
+    },
+
+    mandatory() {
+      return !!Object.values(this.presets).find((value) => value.join(',') === this.ids);
     }
   },
 
   watch: {
-    '$route.query.selected'(value) {
-      this.selected = value;
+    '$route.query.ids'(value) {
+      this.ids = value;
     }
   },
 
@@ -53,6 +58,12 @@ export default {
       }
 
       this.$store.commit('agentSelector/removePreset', key);
+    },
+
+    click(preset) {
+      this.internalValue = [ ...preset ];
+
+      this.$emit('click');
     }
   }
 }

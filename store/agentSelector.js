@@ -2,11 +2,11 @@ export const state = () => ({
   presents: {}
 });
 
-export const mutations = {
-  setPresets(state, value) {
-    state.presents = value;
-  },
+export const getters = {
+  hasName: (state) => (name) => !!state.presents[name]
+};
 
+export const mutations = {
   addPreset(state, {
     key,
     value

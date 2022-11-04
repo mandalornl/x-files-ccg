@@ -186,8 +186,8 @@ export default {
             label: 'Game Text',
             component: 'CardFieldText'
           },
-          stats: {
-            label: 'Stats',
+          skills: {
+            label: 'Skills',
             component: 'CardFieldObject'
           },
           characteristics: {

@@ -1785,7 +1785,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card.",
     "tags": [
@@ -2757,7 +2757,7 @@
       "Neutral",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Bureaucracy": 3,
       "Criminal Investigation": 1,
@@ -2783,7 +2783,7 @@
       "Independent",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 2,
       "Medical": 2,
       "Observation": 1,
@@ -2814,7 +2814,7 @@
       "Neutral",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 3,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -2844,7 +2844,7 @@
       "Law",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 4,
       "Behavioral": 3,
       "Criminal Investigation": 2,
@@ -2876,7 +2876,7 @@
       "Independent",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 1,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -2906,7 +2906,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 2,
       "Computer": 1,
       "Criminal Investigation": 2,
@@ -2935,7 +2935,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Behavioral": 3,
       "Computer": 1,
@@ -2961,7 +2961,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 2,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -2990,7 +2990,7 @@
       "Independent",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Criminal Investigation": 3,
       "Evidence Collection": 2,
       "Observation": 3,
@@ -3019,7 +3019,7 @@
       "Law",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 4,
       "Behavioral": 3,
       "Criminal Investigation": 2,
@@ -3050,7 +3050,7 @@
       "Neutral",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 3,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -3077,7 +3077,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 2,
       "Computer": 1,
       "Criminal Investigation": 1,
@@ -3108,7 +3108,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -3141,7 +3141,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -3173,7 +3173,7 @@
       "Neutral",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 4,
       "Criminal Investigation": 3,
       "Evidence Collection": 2,
@@ -3201,7 +3201,7 @@
       "Independent",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Computer": 4,
       "Observation": 1,
@@ -3231,7 +3231,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Bureaucracy": 1,
       "Criminal Investigation": 2,
@@ -3259,7 +3259,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Computer": 2,
       "Evidence Collection": 1,
       "Medical": 3,
@@ -3287,7 +3287,7 @@
       "Law",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 2,
       "Bureaucracy": 1,
       "Criminal Investigation": 3,
@@ -3318,7 +3318,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Computer": 2,
       "Criminal Investigation": 2,
@@ -3349,7 +3349,7 @@
       "Neutral",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 4,
       "Criminal Investigation": 3,
       "Evidence Collection": 2,
@@ -3374,7 +3374,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Computer": 1,
       "Criminal Investigation": 1,
       "Evidence Collection": 2,
@@ -3403,7 +3403,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 2,
       "Computer": 3,
       "Criminal Investigation": 1,
@@ -3431,7 +3431,7 @@
       "FBI",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 3,
       "Criminal Investigation": 1,
       "Evidence Collection": 1,
@@ -3461,7 +3461,7 @@
     ],
     "activators": [
       "Active",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check."
   },
@@ -3569,7 +3569,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check."
   },
@@ -3605,7 +3605,7 @@
     ],
     "activators": [
       "Active",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check."
   },
@@ -3669,7 +3669,7 @@
     ],
     "activators": [
       "Active",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check."
   },
@@ -3846,7 +3846,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is thee target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated."
   },
@@ -3918,7 +3918,7 @@
     ],
     "activators": [
       "Active",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check."
   },
@@ -3977,7 +3977,7 @@
     ],
     "activators": [
       "Active",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check."
   },
@@ -4114,7 +4114,7 @@
     ],
     "activators": [
       "Active",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check."
   },
@@ -4511,7 +4511,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Negate one Keyword EVIDENCE COLLECTION card."
   },
@@ -4790,7 +4790,7 @@
     "activators": [
       "Active",
       "Site",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check."
   },
@@ -5096,7 +5096,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card."
   },
@@ -6285,7 +6285,7 @@
     "episode": "Die Hand Die Verletzt",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
       "Health": 6
@@ -6298,7 +6298,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": null
   },
@@ -6310,7 +6310,7 @@
     "episode": "Duane Barry",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -6322,7 +6322,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Your opponent may not spread out Agents until this card is resolved. Hold this card twelve inches up and twelve inches away from the opponent's Team. Flip the card so that it spins through the air. All of the Agents in the Investigating Team that are being touched by the Alien Harvester are abducted! Discard any Equipment attached to the abducted Agents. The Agents are placed ten cards down, face up, in the Bureau deck. When the Agent cards reach the top of the deck, the Agents are immediately moved to the Hospital (though they are not damaged).",
     "tags": [
@@ -6338,7 +6338,7 @@
     "episode": "The Jersey Devil",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 5
@@ -6350,7 +6350,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
@@ -6365,7 +6365,7 @@
     "episode": "The Erlenmeyer Flask",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 4,
       "Health": 5
@@ -6378,7 +6378,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards."
   },
@@ -6390,7 +6390,7 @@
     "episode": "Colony",
     "type": "Adversary",
     "cost": "12 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
       "Health": 6
@@ -6403,7 +6403,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
   },
@@ -6415,7 +6415,7 @@
     "episode": "The Host",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 2,
       "Health": 3
@@ -6428,7 +6428,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed."
   },
@@ -6440,7 +6440,7 @@
     "episode": "Fresh Bones",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 5,
       "Health": 6
@@ -6453,7 +6453,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
     "tags": [
@@ -6468,7 +6468,7 @@
     "episode": "Our Town",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 3,
       "Health": 10
@@ -6480,7 +6480,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
     "tags": [
@@ -6495,7 +6495,7 @@
     "episode": "Sleepless",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "Special",
       "Close Range Combat": "Special",
       "Health": 5
@@ -6507,7 +6507,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
   },
@@ -6519,7 +6519,7 @@
     "episode": "Duane Barry",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -6530,7 +6530,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
     "tags": [
@@ -6545,7 +6545,7 @@
     "episode": "Squeeze",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 3,
       "Health": 5
@@ -6557,7 +6557,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
@@ -6572,7 +6572,7 @@
     "episode": "Fire",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 3,
       "Close Range Combat": 2,
       "Health": 5
@@ -6584,7 +6584,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "tags": [
@@ -6599,7 +6599,7 @@
     "episode": "The Erlenmeyer Flask",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 3,
       "Health": 5
@@ -6612,7 +6612,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards."
   },
@@ -6624,7 +6624,7 @@
     "episode": "Darkness Falls",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -6636,7 +6636,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
     "tags": [
@@ -6651,7 +6651,7 @@
     "episode": "Beyond the Sea",
     "type": "Adversary",
     "cost": "5 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 2,
       "Health": 9
@@ -6663,7 +6663,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round."
   },
@@ -6675,7 +6675,7 @@
     "episode": "Ghost in the Machine",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 7
@@ -6702,7 +6702,7 @@
     "episode": "Fallen Angel",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 3,
       "Health": 8
@@ -6715,7 +6715,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
     "tags": [
@@ -6730,7 +6730,7 @@
     "episode": "Blood",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "Special",
       "Close Range Combat": "Special",
       "Health": 3
@@ -6754,7 +6754,7 @@
     "episode": "Fallen Angel",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 6
@@ -6766,7 +6766,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
     "tags": [
@@ -6781,7 +6781,7 @@
     "episode": "Shapes",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
       "Health": 8
@@ -6793,7 +6793,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him."
   },
@@ -6805,7 +6805,7 @@
     "episode": "Shadows",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 2,
       "Close Range Combat": 2,
       "Health": 2
@@ -6818,7 +6818,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded."
   },
@@ -6830,7 +6830,7 @@
     "episode": "3",
     "type": "Adversary",
     "cost": "10 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 5,
       "Health": 6
@@ -8607,7 +8607,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card.",
     "tags": [
@@ -9560,7 +9560,7 @@
       "Neutral",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Bureaucracy": 3,
       "Criminal Investigation": 1,
@@ -9586,7 +9586,7 @@
       "Independent",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 2,
       "Medical": 2,
       "Observation": 1,
@@ -9615,7 +9615,7 @@
       "Independent",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 1,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -9645,7 +9645,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 2,
       "Computer": 1,
       "Criminal Investigation": 2,
@@ -9674,7 +9674,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Behavioral": 3,
       "Computer": 1,
@@ -9700,7 +9700,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 2,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -9729,7 +9729,7 @@
       "Independent",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Criminal Investigation": 3,
       "Evidence Collection": 2,
       "Observation": 3,
@@ -9758,7 +9758,7 @@
       "Law",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 4,
       "Behavioral": 3,
       "Criminal Investigation": 2,
@@ -9789,7 +9789,7 @@
       "Neutral",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 3,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -9816,7 +9816,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 2,
       "Computer": 1,
       "Criminal Investigation": 1,
@@ -9847,7 +9847,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Criminal Investigation": 2,
       "Evidence Collection": 2,
@@ -9878,7 +9878,7 @@
       "Independent",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Computer": 4,
       "Observation": 1,
@@ -9908,7 +9908,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Bureaucracy": 1,
       "Criminal Investigation": 2,
@@ -9936,7 +9936,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Computer": 2,
       "Evidence Collection": 1,
       "Medical": 3,
@@ -9964,7 +9964,7 @@
       "Law",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 2,
       "Bureaucracy": 1,
       "Criminal Investigation": 3,
@@ -9995,7 +9995,7 @@
       "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Computer": 2,
       "Criminal Investigation": 2,
@@ -10026,7 +10026,7 @@
       "Neutral",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 4,
       "Criminal Investigation": 3,
       "Evidence Collection": 2,
@@ -10051,7 +10051,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Computer": 1,
       "Criminal Investigation": 1,
       "Evidence Collection": 2,
@@ -10080,7 +10080,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 2,
       "Computer": 3,
       "Criminal Investigation": 1,
@@ -10108,7 +10108,7 @@
       "FBI",
       "Believer"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 3,
       "Criminal Investigation": 1,
       "Evidence Collection": 1,
@@ -10138,7 +10138,7 @@
     ],
     "activators": [
       "Active",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check."
   },
@@ -10249,7 +10249,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check."
   },
@@ -10285,7 +10285,7 @@
     ],
     "activators": [
       "Active",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check."
   },
@@ -10303,7 +10303,7 @@
     ],
     "activators": [
       "Active",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check."
   },
@@ -10414,7 +10414,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is thee target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated."
   },
@@ -10486,7 +10486,7 @@
     ],
     "activators": [
       "Active",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check."
   },
@@ -10522,7 +10522,7 @@
     ],
     "activators": [
       "Active",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check."
   },
@@ -10636,7 +10636,7 @@
     ],
     "activators": [
       "Active",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check."
   },
@@ -10972,7 +10972,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Evidence collection"
+      "Evidence Collection"
     ],
     "gameText": "Negate one Keyword EVIDENCE COLLECTION card."
   },
@@ -11124,7 +11124,7 @@
     "activators": [
       "Active",
       "Site",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check."
   },
@@ -11414,7 +11414,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card."
   },
@@ -12478,7 +12478,7 @@
     "episode": "Die Hand Die Verletzt",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
       "Health": 6
@@ -12491,7 +12491,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": null
   },
@@ -12503,7 +12503,7 @@
     "episode": "The Jersey Devil",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 5
@@ -12515,7 +12515,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
@@ -12530,7 +12530,7 @@
     "episode": "The Erlenmeyer Flask",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 4,
       "Health": 5
@@ -12543,7 +12543,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards."
   },
@@ -12555,7 +12555,7 @@
     "episode": "Colony",
     "type": "Adversary",
     "cost": "12 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
       "Health": 6
@@ -12568,7 +12568,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
   },
@@ -12580,7 +12580,7 @@
     "episode": "The Host",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 2,
       "Health": 3
@@ -12593,7 +12593,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed."
   },
@@ -12605,7 +12605,7 @@
     "episode": "Fresh Bones",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 5,
       "Health": 6
@@ -12618,7 +12618,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
     "tags": [
@@ -12633,7 +12633,7 @@
     "episode": "Our Town",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 3,
       "Health": 10
@@ -12645,7 +12645,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
     "tags": [
@@ -12660,7 +12660,7 @@
     "episode": "Sleepless",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "Special",
       "Close Range Combat": "Special",
       "Health": 5
@@ -12672,7 +12672,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
   },
@@ -12684,7 +12684,7 @@
     "episode": "Duane Barry",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -12695,7 +12695,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
     "tags": [
@@ -12710,7 +12710,7 @@
     "episode": "Squeeze",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 3,
       "Health": 5
@@ -12722,7 +12722,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
@@ -12737,7 +12737,7 @@
     "episode": "Fire",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 3,
       "Close Range Combat": 2,
       "Health": 5
@@ -12749,7 +12749,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "tags": [
@@ -12764,7 +12764,7 @@
     "episode": "The Erlenmeyer Flask",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 3,
       "Health": 5
@@ -12777,7 +12777,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards."
   },
@@ -12789,7 +12789,7 @@
     "episode": "Darkness Falls",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -12801,7 +12801,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
     "tags": [
@@ -12816,7 +12816,7 @@
     "episode": "Beyond the Sea",
     "type": "Adversary",
     "cost": "5 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 2,
       "Health": 9
@@ -12828,7 +12828,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round."
   },
@@ -12840,7 +12840,7 @@
     "episode": "Ghost in the Machine",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 7
@@ -12867,7 +12867,7 @@
     "episode": "Fallen Angel",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 3,
       "Health": 8
@@ -12880,7 +12880,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
     "tags": [
@@ -12895,7 +12895,7 @@
     "episode": "Blood",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "Special",
       "Close Range Combat": "Special",
       "Health": 3
@@ -12919,7 +12919,7 @@
     "episode": "Fallen Angel",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 6
@@ -12931,7 +12931,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
     "tags": [
@@ -12946,7 +12946,7 @@
     "episode": "Shapes",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
       "Health": 8
@@ -12958,7 +12958,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him."
   },
@@ -12970,7 +12970,7 @@
     "episode": "Shadows",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 2,
       "Close Range Combat": 2,
       "Health": 2
@@ -12983,7 +12983,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded."
   },
@@ -12995,7 +12995,7 @@
     "episode": "3",
     "type": "Adversary",
     "cost": "10 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 5,
       "Health": 6
@@ -13020,7 +13020,7 @@
     "episode": "Young at Heart",
     "type": "Adversary",
     "cost": "12 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 4,
       "Health": 7
@@ -13047,7 +13047,7 @@
     "episode": "Genderbender",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -13059,7 +13059,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "This card does not initiate combat. Place three damage tokens on any Agent in the Investigating Team. The damaged Agent must be moved to the Hospital immediately and heals at half the normal rate. The Agent may not leave the Hospital until all damage is healed, and cannot be removed using other cards (Crash Cart, First Aid, etc.).",
     "tags": [
@@ -13075,7 +13075,7 @@
     "episode": "Humbug",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -13103,7 +13103,7 @@
     "episode": "F. Emasculata",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -13132,7 +13132,7 @@
     "episode": "The Calusari",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -13145,7 +13145,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "This card does not initiate combat. Play this card in conjunction with any other Adversary that initiates combat. The Adversary's LRC, CRC, and HEALTH are doubled.",
     "tags": [
@@ -13161,7 +13161,7 @@
     "episode": "Teso dos Bichos",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "Special",
       "Close Range Combat": "Special",
       "Health": "Special"
@@ -13622,7 +13622,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation",
+      "Alien Investigation",
       "Behavioral"
     ],
     "gameText": "Adds zero to one Team's ALIEN INVESTIGATION or BEHAVIORAL skill check. If this card is used in a successful Site investigation, the owning player may ask \"Is your X-File's Affiliation Government?\" in addition to the Site question for zero cost.",
@@ -13668,7 +13668,7 @@
     ],
     "activators": [
       "Active",
-      "Occult investigation",
+      "Occult Investigation",
       "Subterfuge"
     ],
     "gameText": "Adds two to one Team's OCCULT INVESTIGATION or SUBTERFUGE skill check. Alternately, play this card when Agent Dana Scully is damaged in combat. Dana Scully takes no damage and Melissa Scully is damaged instead. Remove this card from the game.",
@@ -13684,7 +13684,7 @@
     "episode": "2Shy",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 4
@@ -13708,7 +13708,7 @@
     "episode": "D.P.O.",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 8,
       "Close Range Combat": 3,
       "Health": 5
@@ -13735,7 +13735,7 @@
     "episode": "Groteque",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 4
@@ -13761,7 +13761,7 @@
     "episode": "Syzygy",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 2,
       "Close Range Combat": 2,
       "Health": 2
@@ -13786,7 +13786,7 @@
     "episode": "Clyde Bruckman's Final Repose",
     "type": "Adversary",
     "cost": "5 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 4
@@ -13811,7 +13811,7 @@
     "episode": "731",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 3,
       "Close Range Combat": 5,
       "Health": 5
@@ -13837,7 +13837,7 @@
     "episode": "Revelations",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 10,
       "Health": 7
@@ -13861,7 +13861,7 @@
     "episode": "Syzygy",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 2,
       "Close Range Combat": 2,
       "Health": 2
@@ -13886,7 +13886,7 @@
     "episode": "The List",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -13914,7 +13914,7 @@
     "episode": "The Walk",
     "type": "Adversary",
     "cost": "5 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 4
@@ -13942,7 +13942,7 @@
     "episode": "Wetwired",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 4
@@ -13971,7 +13971,7 @@
     "episode": "Grotesque",
     "type": "Agent",
     "cost": "6 RP",
-    "stats": {
+    "skills": {
       "Behavioral": 3,
       "Criminal Investigation": 3,
       "Evidence Collection": 3,
@@ -14000,7 +14000,7 @@
     "episode": "731",
     "type": "Agent",
     "cost": "6 RP",
-    "stats": {
+    "skills": {
       "Computer": 3,
       "Criminal Investigation": 2,
       "Evidence Collection": 3,
@@ -14028,7 +14028,7 @@
     "episode": "Grotesque",
     "type": "Agent",
     "cost": "2 RP",
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Criminal Investigation": 1,
       "Evidence Collection": 1,
@@ -14052,7 +14052,7 @@
     "episode": "Oubliette",
     "type": "Agent",
     "cost": "1 RP",
-    "stats": {
+    "skills": {
       "Criminal Investigation": 1,
       "Long Range Combat": 2,
       "Close Range Combat": 2,
@@ -14077,7 +14077,7 @@
     "episode": "Clyde Bruckman's Final Repose",
     "type": "Agent",
     "cost": "5 RP",
-    "stats": {
+    "skills": {
       "Criminal Investigation": 2,
       "Evidence Collection": 4,
       "Observation": 3,
@@ -14105,7 +14105,7 @@
     "episode": "Syzygy",
     "type": "Agent",
     "cost": "3 RP",
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Criminal Investigation": 1,
       "Evidence Collection": 2,
@@ -14132,7 +14132,7 @@
     "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Agent",
     "cost": "2 RP",
-    "stats": {
+    "skills": {
       "Criminal Investigation": 1,
       "Evidence Collection": 1,
       "Observation": 2,
@@ -15167,7 +15167,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation",
+      "Alien Investigation",
       "Site"
     ],
     "gameText": "Play on Agent Krycek when his team fails to successfully investigate a Keyword ALIEN INVESTIGATION Site (discard the Site). Place two tokens on this card. Remove a token to emit a blast of energy that causes 6 points of damage to all opponents during the Long Range Combat Round. Apply the following permanent modifiers: +1 ALIEN INVESTIGATION, +2 SUBTERFUGE, and +1 HEALTH.",
@@ -15894,7 +15894,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation"
+      "Alien Investigation"
     ],
     "gameText": "Adds 3 to one Team's ALIEN INVESTIGATION skill check."
   },
@@ -15990,7 +15990,7 @@
     ],
     "activators": [
       "Active",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "gameText": "Adds 3 to one Team's OCCULT INVESTIGATION skill check, or return one OCCULT Adversary that is played on your team to the bottom of the owning player's Bureau Deck."
   },
@@ -16022,7 +16022,7 @@
     "cost": "2 RP",
     "keywords": [
       "Witness",
-      "Alien Investicationk",
+      "Alien Investigation",
       "Sciences"
     ],
     "activators": [
@@ -16184,7 +16184,7 @@
     "episode": "Die Hand Die Verletzt",
     "type": "Adversary",
     "cost": "10 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 5,
       "Close Range Combat": 8,
       "Health": 10
@@ -16197,7 +16197,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "The Dark Angel can play all combat cards for one Conspiracy less."
   },
@@ -16279,7 +16279,7 @@
     ],
     "activators": [
       "Active",
-      "Occult adversary"
+      "Occult Adversary"
     ],
     "gameText": "Negate one OCCULT Adversary. In addition, if the Team makes an OCCULT INVESTIGATION skill check of 6+, they may ask either one METHOD question or one RESULT question.",
     "tags": [
@@ -16299,7 +16299,7 @@
       "FBI",
       "Law"
     ],
-    "stats": {
+    "skills": {
       "Criminal Investigation": 1,
       "Evidence Collection": 3,
       "Observation": 2,
@@ -16621,6 +16621,152 @@
     "gameText": "Play this card immediately after your opponent asks you a question. You may respond with this phrase: \"I can neither confirm nor deny that assumption.\" After playing this card remove it from the game."
   },
   {
+    "title": "Agent Bonnecaze",
+    "id": "XF97-0520x2",
+    "set": "22364",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Bureaucracy": 2,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place a token on Agent Bonnecaze. At any time during the game, discard a token to force any Agent to return to the Bureau immediately. This effect may not be used to interrupt Combat. An Agent moved in this manner may not contribute to any skill checks this turn."
+  },
+  {
+    "title": "Detective Glen Chao",
+    "id": "XF97-0521x2",
+    "set": "22364",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "Law",
+      "Independent",
+      "Believer"
+    ],
+    "skills": {
+      "Bureaucracy": 1,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Subterfuge": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 0
+    },
+    "gameText": "An opposing Conspiracy player may pay two conspiracy points to send Detective Chao back to your Bureau if Detective Chao is investigating a Site with CRIMINAL INVESTIGATION, EVIDENCE COLLECTION of BUREAUCRAZY."
+  },
+  {
+    "title": "Agent Brian Fuller",
+    "id": "XF97-0522x2",
+    "set": "22364",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "1 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Criminal Investigation": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 3,
+      "Resources": 0
+    },
+    "gameText": "When an Agent in Fuller's Team is forced to go to the Hospital, Agent Fuller may immediately elect to \"escort\" the Agent to the Hospital. Fuller may only do this if he would not normally be required to go to the Hospital himself. No other cards may be played on an Agent that Fuller escorts. This will prevent cards from being played on the escorted Agent."
+  },
+  {
+    "title": "Agent Frank Burst",
+    "id": "Xf97-0523x2",
+    "set": "22364",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Believer"
+    ],
+    "skills": {
+      "Behavioral": 2,
+      "Criminal Investigation": 3,
+      "Evidence Collection": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Treat Agent Burst as a RES 2 if he is in the Field."
+  },
+  {
+    "title": "Agent Linda Caleca",
+    "id": "XF97-0524x2",
+    "set": "22364",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "1 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Observation": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 0
+    },
+    "gameText": "Place two tokens on this card. Discard a token to draw one card from the top of your Bureau deck for zero RP cost any time you are the active player."
+  },
+  {
+    "title": "Lieutenant Brophy",
+    "id": "XF97-0525x2",
+    "set": "22364",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Criminal Investigation": 2,
+      "Evidence Collection": 1,
+      "Long Range Combat": 4,
+      "Close Range Combat": 3,
+      "Health": 5,
+      "Resources": 1
+    },
+    "gameText": "Agent Brophy may use MARTIAL ARTS cards. He may add 1 to any damage caused by Equipment cards attached to him that have a CLOSE RANGE COMBAT or LONG RANGE COMBAT modifier."
+  },
+  {
     "title": "Deputy Barney Paster",
     "id": "XF22-0001x3",
     "set": "040460",
@@ -16633,7 +16779,7 @@
       "Law",
       "Neutral"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 1,
       "Computer": 1,
       "Criminal Investigation": 2,
@@ -16660,7 +16806,7 @@
       "Independent",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Alien Investigation": 1,
       "Bureaucracy": 2,
       "Computer": 3,
@@ -16684,10 +16830,10 @@
     "keywords": [
       "Agent",
       "FBI",
-      "LAW",
+      "Law",
       "Neutral"
     ],
-    "stats": {
+    "skills": {
       "Bureaucracy": 1,
       "Computer": 1,
       "Criminal Investigation": 2,
@@ -16710,10 +16856,10 @@
     "keywords": [
       "Agent",
       "Independent",
-      "LAW",
+      "Law",
       "Skeptic"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 2,
       "Bureaucracy": 1,
       "Criminal Investigation": 2,
@@ -16735,9 +16881,9 @@
     "keywords": [
       "Agent",
       "Independent",
-      "LAW"
+      "Law"
     ],
-    "stats": {
+    "skills": {
       "Behavioral": 2,
       "Bureaucracy": 2,
       "Criminal Investigation": 3,
@@ -16761,9 +16907,9 @@
     "keywords": [
       "Agent",
       "FBI",
-      "LAW"
+      "Law"
     ],
-    "stats": {
+    "skills": {
       "Computer": 3,
       "Criminal Investigation": 1,
       "Evidence Collection": 2,
@@ -16782,7 +16928,7 @@
     "episode": "Home",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 7,
       "Health": 10
@@ -16794,7 +16940,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "Apply -1 to any Equipment cards attached to the Team that modify LONG RANGE COMBAT or CLOSE RANGE COMBAT. Damage caused by this Adversary may be split among all opponents (Directed Player's choice).",
     "tags": [
@@ -16808,7 +16954,7 @@
     "episode": "Telike",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 3
@@ -16820,7 +16966,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove token. Aboah may use SUBTERFUGE cards.",
     "tags": [
@@ -16834,7 +16980,7 @@
     "episode": "Unruhe",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -16861,7 +17007,7 @@
     "episode": "Sanguinarium",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 2,
       "Health": 5
@@ -16888,7 +17034,7 @@
     "episode": "Tunguska",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 3,
       "Close Range Combat": 4,
       "Health": 5
@@ -16901,7 +17047,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "If an Agent's HEALTH is reduced to 0 by this Adversary, place the Agent in a section of the table designated The Gulag and discard any Equipment. The Agent remains imprisoned for three full turns or until a Keyword ESCAPE card is played on them. Place three tokens on the Agent and remove one during each of the Agent's Briefing Phases. When the last token is removed, move the Agent to the Bureau (undamaged)."
   },
@@ -16912,7 +17058,7 @@
     "episode": "Tunguska",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -16935,7 +17081,7 @@
     "episode": "",
     "type": "Adversary",
     "cost": "5 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 2,
       "Close Range Combat": 3,
       "Health": 4
@@ -16947,7 +17093,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "Vassily Peskow can attack one Agent (your choice) and is then discarded. If the target Agent has any Equipment cards which modify LRC or CRC, Peskow may steal that Equipment and use it in combat. Discard the Equipment when combat is resolved. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards."
   },
@@ -16958,7 +17104,7 @@
     "episode": "Paper Hearts",
     "type": "Adversary",
     "cost": "5 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -16982,7 +17128,7 @@
     "episode": "El Mundo Gira",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 2,
       "Health": 4
@@ -16996,7 +17142,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "Place five tokens on any Agent damaged by El Chupacabra's attack. Discard a token in each of the afflicted Agent's Briefing Phases. When the last token is removed, the Agent is removed from the game. This effect can only be negated by the remaining Field Team making a SCIENCES 3+ skill check or by playing a HEALING card prior to the Agent being removed."
   },
@@ -17007,7 +17153,7 @@
     "episode": "Leonard Betts",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 5
@@ -17019,7 +17165,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Motive site"
+      "Motive Site"
     ],
     "gameText": "When played on a Keyword CANCER card, this Adversary is free and Activator requirements are ignored. Leonard Betts regenerates 1 point of HEALTH for each Witness discarded from your hand."
   },
@@ -17030,7 +17176,7 @@
     "episode": "Never Again",
     "type": "Adversary",
     "cost": "4 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 3,
       "Health": 5
@@ -17043,7 +17189,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result site"
+      "Result Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed.",
     "tags": [
@@ -17057,7 +17203,7 @@
     "episode": "Memento Mori",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 7,
       "Close Range Combat": 4,
       "Health": 6
@@ -17084,7 +17230,7 @@
     "episode": "Kaddish",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
       "Health": 3
@@ -17108,7 +17254,7 @@
     "episode": "Unrequited",
     "type": "Adversary",
     "cost": "8 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 3,
       "Health": 5
@@ -17121,7 +17267,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Method site"
+      "Method Site"
     ],
     "gameText": "Only Agents with OBSERVATION as a skill may apply their LRC and CRC skills in combat. Nathaniel Teager may use SUBTERFUGE cards at no cost."
   },
@@ -17132,7 +17278,7 @@
     "episode": "Max",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 4,
       "Close Range Combat": 0,
       "Health": 4
@@ -17156,7 +17302,7 @@
     "episode": "Synchrony",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 3
@@ -17184,7 +17330,7 @@
     "episode": "Small Potatoes",
     "type": "Adversary",
     "cost": "6 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
@@ -17208,7 +17354,7 @@
     "episode": "Elegy",
     "type": "Adversary",
     "cost": "3 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 3,
       "Health": 4
@@ -17234,7 +17380,7 @@
     "episode": "Gethsemane",
     "type": "Adversary",
     "cost": "7 CP",
-    "stats": {
+    "skills": {
       "Long Range Combat": 5,
       "Close Range Combat": 3,
       "Health": 5
@@ -17247,8 +17393,61 @@
     ],
     "activators": [
       "Conspiracy",
-      "Affiliation site"
+      "Affiliation Site"
     ],
     "gameText": "If the Site prerequisite is ALIEN INVESTIGATION, then this card is free. Any Witnesses contributing to the Site skill check are immediately discarded. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards."
+  },
+  {
+    "title": "Stephen Arvidson",
+    "id": "XF19-0004x42",
+    "set": "Special",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Information",
+      "Believer"
+    ],
+    "skills": {
+      "Computer": 3,
+      "Evidence Collection": 1,
+      "Observation": 1,
+      "Occult Investigation": 2,
+      "Sciences": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck."
+  },
+  {
+    "title": "Guillaume Saladin",
+    "id": "XF19-0019x42",
+    "set": "Special",
+    "rarity": "",
+    "episode": "",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "skills": {
+      "Bureaucracy": 2,
+      "Computer": 2,
+      "Evidence Collection": 1,
+      "Observation": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any RP card. If you use this RP, replace it during your Briefing Phase."
   }
 ]
