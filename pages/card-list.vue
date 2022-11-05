@@ -241,6 +241,8 @@ export default {
       })
     );
 
+    const itemsPerPage = this.$vuetify.breakpoint.xsOnly ? 25 : 50;
+
     return {
       filters,
       headers: [
@@ -252,7 +254,7 @@ export default {
       ],
       search: this.$route.query.q ?? '',
       page: Number(this.$route.query.page ?? 1),
-      itemsPerPage: Number(this.$route.query.itemsPerPage ?? this.$vuetify.breakpoint.xsOnly ? 25 : 50),
+      itemsPerPage: Number(this.$route.query.itemsPerPage ?? itemsPerPage),
       sortBy: this.$route.query.sortBy,
       sortDesc: {
         'true': true,
@@ -362,11 +364,13 @@ export default {
     },
 
     routeQuery() {
+      const itemsPerPage = this.$vuetify.breakpoint.xsOnly ? 25 : 50;
+
       return {
         id: this.selectedCard?.id,
         q: this.search || undefined,
         page: this.page > 1 ? this.page : undefined,
-        itemsPerPage: this.itemsPerPage !== 25 ? this.itemsPerPage : undefined,
+        itemsPerPage: this.itemsPerPage !== itemsPerPage ? this.itemsPerPage : undefined,
         sortBy: typeof this.sortBy === 'string' ? this.sortBy : undefined,
         sortDesc: this.sortDesc,
         showDeck: this.showDeck ? null : undefined,
