@@ -2,112 +2,109 @@
   <layout-default fluid>
     <v-row>
       <v-col
+        cols="12"
         sm="4"
         md="3"
       >
-        <div
-          :style="`top:${$vuetify.application.top}px`"
-          class="position-sticky"
+        <v-card
+          flat
+          class="mb-3"
         >
-          <v-card
-            flat
-            class="mb-3"
+          <v-card-text>
+            <v-text-field
+              :value="search"
+              clearable
+              single-line
+              hide-details
+              type="search"
+              prepend-inner-icon="mdi-magnify"
+              label="Search"
+              class="mt-0 pt-0"
+              @click:clear="search = ''"
+              @click:prepend-inner="onSearch"
+              @keyup.enter.exact="search = $event.target.value"
+            />
+          </v-card-text>
+        </v-card>
+        <div class="d-flex flex-sm-column flex-lg-row align-center align-sm-start align-lg-center">
+          <v-switch
+            v-model="showDeck"
+            :disabled="deckSize === 0"
           >
-            <v-card-text>
-              <v-text-field
-                :value="search"
-                clearable
-                single-line
-                hide-details
-                type="search"
-                prepend-inner-icon="mdi-magnify"
-                label="Search"
-                class="mt-0 pt-0"
-                @click:clear="search = ''"
-                @click:prepend-inner="onSearch"
-                @keyup.enter.exact="search = $event.target.value"
-              />
-            </v-card-text>
-          </v-card>
-          <div class="d-flex flex-sm-column flex-lg-row align-center align-sm-start align-lg-center">
-            <v-switch
-              v-model="showDeck"
-              :disabled="deckSize === 0"
-            >
-              <template #label>
-                <v-badge
-                  :value="deckSize > 0"
-                  color="primary"
-                >
-                  <template #badge>
-                    <span class="black--text">
-                      {{ deckSize }}
-                    </span>
-                  </template>
-                  Cards in deck
-                </v-badge>
-              </template>
-            </v-switch>
-            <v-spacer class="hidden-sm-only hidden-md-only" />
-            <div class="d-flex align-center mb-sm-4 mb-lg-0">
-              <deck-action-save small />
-              <deck-action-stats
-                :deck="$store.getters['deckBuilding/defaultDeck']"
-                small
-                content-class="ml-1"
-              />
-              <deck-action-card-draw
-                :deck="$store.getters['deckBuilding/defaultDeck']"
-                small
-                content-class="ml-1"
-              />
-              <deck-action-clear
-                small
-                class="ml-1"
-              />
-            </div>
-          </div>
-          <v-expand-transition>
-            <div v-if="hasAnyFilters">
-              <v-btn
-                small
-                depressed
-                class="mb-3"
-                @click="clearAllFilters"
+            <template #label>
+              <v-badge
+                :value="deckSize > 0"
+                color="primary"
               >
-                Clear filters
-              </v-btn>
-            </div>
-          </v-expand-transition>
-          <v-expansion-panels
-            v-model="panels"
-            multiple
-          >
-            <v-expansion-panel
-              v-for="(filter, key) in filters"
-              :key="key"
-            >
-              <v-expansion-panel-header>
-                {{ filter.label }} ({{ filter.value.length }})
-              </v-expansion-panel-header>
-              <v-expansion-panel-content>
-                <card-filter-operation
-                  v-if="filter.operation !== undefined"
-                  v-model="filters[key].operation"
-                />
-                <card-filter-checkbox
-                  v-model="filters[key].value"
-                  :type="key"
-                  :items="filter.items"
-                  :operation="filter.operation"
-                  :cards="cards"
-                />
-              </v-expansion-panel-content>
-            </v-expansion-panel>
-          </v-expansion-panels>
+                <template #badge>
+                  <span class="black--text">
+                    {{ deckSize }}
+                  </span>
+                </template>
+                Cards in deck
+              </v-badge>
+            </template>
+          </v-switch>
+          <v-spacer class="hidden-sm-only hidden-md-only" />
+          <div class="d-flex align-center mb-sm-4 mb-lg-0">
+            <deck-action-save small />
+            <deck-action-stats
+              :deck="$store.getters['deckBuilding/defaultDeck']"
+              small
+              content-class="ml-1"
+            />
+            <deck-action-card-draw
+              :deck="$store.getters['deckBuilding/defaultDeck']"
+              small
+              content-class="ml-1"
+            />
+            <deck-action-clear
+              small
+              class="ml-1"
+            />
+          </div>
         </div>
+        <v-expand-transition>
+          <div v-if="hasAnyFilters">
+            <v-btn
+              small
+              depressed
+              class="mb-3"
+              @click="clearAllFilters"
+            >
+              Clear filters
+            </v-btn>
+          </div>
+        </v-expand-transition>
+        <v-expansion-panels
+          v-model="panels"
+          multiple
+        >
+          <v-expansion-panel
+            v-for="(filter, key) in filters"
+            :key="key"
+          >
+            <v-expansion-panel-header>
+              {{ filter.label }} ({{ filter.value.length }})
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <card-filter-operation
+                v-if="filter.operation !== undefined"
+                v-model="filters[key].operation"
+              />
+              <card-filter-checkbox
+                v-model="filters[key].value"
+                :type="key"
+                :items="filter.items"
+                :operation="filter.operation"
+                :cards="cards"
+              />
+            </v-expansion-panel-content>
+          </v-expansion-panel>
+        </v-expansion-panels>
       </v-col>
       <v-col
+        cols="12"
         sm="8"
         md="9"
       >
@@ -189,7 +186,63 @@ export default {
   },
 
   data() {
+    const filters = Object.fromEntries(
+      Object.entries({
+        set: {
+          label: 'Set',
+          items: sets,
+          operation: 'and'
+        },
+        type: {
+          label: 'Type',
+          items: types,
+          operation: 'and'
+        },
+        keywords: {
+          label: 'Keywords',
+          items: keywords,
+          operation: 'and'
+        },
+        activators: {
+          label: 'Activators',
+          items: activators,
+          operation: 'and'
+        },
+        rarity: {
+          label: 'Rarity',
+          items: rarities,
+          operation: 'and'
+        },
+        tags: {
+          label: 'Tags',
+          items: tags,
+          operation: 'and'
+        }
+      }).map(([
+        key,
+        {
+          operation,
+          ...filter
+        }
+      ]) => {
+        const value = this.$route.query[key] ?? '';
+        const and = value.includes('+');
+
+        return [
+          key,
+          {
+            ...filter,
+            value: value
+              .split(and ? '+' : ',')
+              .filter(Boolean),
+            operation: and ? 'and' : operation
+          }
+        ];
+      })
+    );
+
     return {
+      filters,
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
@@ -199,7 +252,7 @@ export default {
       ],
       search: this.$route.query.q ?? '',
       page: Number(this.$route.query.page ?? 1),
-      itemsPerPage: Number(this.$route.query.itemsPerPage ?? 25),
+      itemsPerPage: Number(this.$route.query.itemsPerPage ?? this.$vuetify.breakpoint.xsOnly ? 25 : 50),
       sortBy: this.$route.query.sortBy,
       sortDesc: {
         'true': true,
@@ -214,63 +267,11 @@ export default {
         ],
         showFirstLastPage: true
       },
-      filters: Object.fromEntries(
-        Object.entries({
-          set: {
-            label: 'Set',
-            items: sets,
-            operation: 'and'
-          },
-          type: {
-            label: 'Type',
-            items: types,
-            operation: 'and'
-          },
-          keywords: {
-            label: 'Keywords',
-            items: keywords,
-            operation: 'and'
-          },
-          activators: {
-            label: 'Activators',
-            items: activators,
-            operation: 'and'
-          },
-          rarity: {
-            label: 'Rarity',
-            items: rarities,
-            operation: 'and'
-          },
-          tags: {
-            label: 'Tags',
-            items: tags,
-            operation: 'and'
-          }
-        }).map(([
-          key,
-          {
-            operation,
-            ...filter
-          }
-        ]) => {
-          const value = this.$route.query[key] ?? '';
-          const and = value.includes('+');
-
-          return [
-            key,
-            {
-              ...filter,
-              value: value
-                .split(and ? '+' : ',')
-                .filter(Boolean),
-              operation: and ? 'and' : operation
-            }
-          ];
-        })
-      ),
       cardInfoVisible: false,
       selectedCard: null,
-      panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0 ],
+      panels: this.$vuetify.breakpoint.xsOnly
+        ? []
+        : Object.keys(filters).map((_, index) => index),
       timeoutId: null,
       intersecting: true,
       showDeck: this.$route.query.showDeck === null

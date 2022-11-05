@@ -8,104 +8,99 @@
         />
       </v-col>
       <v-col
-        cols="7"
+        cols="12"
         sm="4"
         md="3"
       >
-        <div
-          :style="`top:${$vuetify.application.top}px`"
-          class="position-sticky"
-        >
-          <div class="d-flex align-center mb-5">
-            <v-switch
-              v-model="showSelected"
-              :disabled="ids.length === 0"
-              hide-details
-              class="mt-0 pt-0"
-              label="Selected"
-            />
-            <v-spacer />
-            <agent-save-preset v-model="ids" />
+        <div class="d-flex align-center mb-5">
+          <v-switch
+            v-model="showSelected"
+            :disabled="ids.length === 0"
+            hide-details
+            class="mt-0 pt-0"
+            label="Selected"
+          />
+          <v-spacer />
+          <agent-save-preset v-model="ids" />
+          <v-btn
+            :disabled="ids.length === 0"
+            icon
+            small
+            title="Clear"
+            class="ml-1"
+            @click="ids = []"
+          >
+            <v-icon small>
+              mdi-close-circle
+            </v-icon>
+          </v-btn>
+        </div>
+        <v-expand-transition>
+          <div v-if="hasAnyFilters">
             <v-btn
-              :disabled="ids.length === 0"
-              icon
               small
-              title="Clear"
-              class="ml-1"
-              @click="ids = []"
+              depressed
+              class="mb-3"
+              @click="clearAllFilters"
             >
-              <v-icon small>
-                mdi-close-circle
-              </v-icon>
+              Clear filters
             </v-btn>
           </div>
-          <v-expand-transition>
-            <div v-if="hasAnyFilters">
-              <v-btn
-                small
-                depressed
-                class="mb-3"
-                @click="clearAllFilters"
-              >
-                Clear filters
-              </v-btn>
-            </div>
-          </v-expand-transition>
-          <v-expansion-panels
-            v-model="panels"
-            multiple
+        </v-expand-transition>
+        <v-expansion-panels
+          v-model="panels"
+          multiple
+        >
+          <v-expansion-panel>
+            <v-expansion-panel-header>
+              Stats
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <div class="mx-n4">
+                <v-simple-table dense>
+                  <tbody>
+                    <tr
+                      v-for="(item, key) in skills"
+                      :key="key"
+                      :class="item.class"
+                    >
+                      <td>{{ key }}</td>
+                      <td>{{ item.value }}</td>
+                    </tr>
+                    <tr>
+                      <td>Cost</td>
+                      <td>{{ totalCost }}</td>
+                    </tr>
+                  </tbody>
+                </v-simple-table>
+              </div>
+            </v-expansion-panel-content>
+          </v-expansion-panel>
+          <v-expansion-panel
+            v-for="(filter, key) in filters"
+            :key="key"
           >
-            <v-expansion-panel>
-              <v-expansion-panel-header>
-                Stats
-              </v-expansion-panel-header>
-              <v-expansion-panel-content>
-                <div class="mx-n4">
-                  <v-simple-table dense>
-                    <tbody>
-                      <tr
-                        v-for="(item, key) in skills"
-                        :key="key"
-                        :class="item.class"
-                      >
-                        <td>{{ key }}</td>
-                        <td>{{ item.value }}</td>
-                      </tr>
-                      <tr>
-                        <td>Cost</td>
-                        <td>{{ totalCost }}</td>
-                      </tr>
-                    </tbody>
-                  </v-simple-table>
-                </div>
-              </v-expansion-panel-content>
-            </v-expansion-panel>
-            <v-expansion-panel
-              v-for="(filter, key) in filters"
-              :key="key"
-            >
-              <v-expansion-panel-header>
-                {{ filter.label }} ({{ filter.value.length }})
-              </v-expansion-panel-header>
-              <v-expansion-panel-content>
-                <card-filter-operation
-                  v-if="filter.operation !== undefined"
-                  v-model="filters[key].operation"
-                />
-                <card-filter-checkbox
-                  v-model="filters[key].value"
-                  :type="key"
-                  :items="filter.items"
-                  :operation="filter.operation"
-                  :cards="cards"
-                />
-              </v-expansion-panel-content>
-            </v-expansion-panel>
-          </v-expansion-panels>
-        </div>
+            <v-expansion-panel-header>
+              {{ filter.label }} ({{ filter.value.length }})
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <card-filter-operation
+                v-if="filter.operation !== undefined"
+                v-model="filters[key].operation"
+              />
+              <card-filter-checkbox
+                v-model="filters[key].value"
+                :type="key"
+                :items="filter.items"
+                :operation="filter.operation"
+                :cards="cards"
+              />
+            </v-expansion-panel-content>
+          </v-expansion-panel>
+        </v-expansion-panels>
       </v-col>
       <v-col
-        cols="5"
+        cols="12"
         sm="8"
         md="9"
       >
@@ -120,7 +115,7 @@
           <v-col
             v-for="card in cards"
             :key="card.title"
-            cols="12"
+            cols="6"
             sm="4"
             md="3"
           >
@@ -180,46 +175,50 @@ export default {
   },
 
   data() {
+    const filters = Object.fromEntries(
+      Object.entries({
+        advancedSkills: {
+          label: 'Skills',
+          items: advancedSkills,
+          operation: 'and'
+        },
+        costInt: {
+          label: 'Cost',
+          items: Array.from({ length: 7 }, (_, index) => index + 1),
+          operation: 'and'
+        }
+      }).map(([
+        key,
+        {
+          operation,
+          ...filter
+        }
+      ]) => {
+        const value = this.$route.query[key] ?? '';
+        const and = value.includes('+');
+
+        return [
+          key,
+          {
+            ...filter,
+            value: value
+              .split(and ? '+' : ',')
+              .filter(Boolean)
+              .map((value) => key === 'costInt' ? Number(value) : value),
+            operation: and ? 'and' : operation
+          }
+        ];
+      })
+    );
+
     return {
+      filters,
       ids: (this.$route.query.ids ?? '')
         .split(',')
         .filter(Boolean),
-      filters: Object.fromEntries(
-        Object.entries({
-          advancedSkills: {
-            label: 'Skills',
-            items: advancedSkills,
-            operation: 'and'
-          },
-          costInt: {
-            label: 'Cost',
-            items: Array.from({ length: 7 }, (_, index) => index + 1),
-            operation: 'and'
-          }
-        }).map(([
-          key,
-          {
-            operation,
-            ...filter
-          }
-        ]) => {
-          const value = this.$route.query[key] ?? '';
-          const and = value.includes('+');
-
-          return [
-            key,
-            {
-              ...filter,
-              value: value
-                .split(and ? '+' : ',')
-                .filter(Boolean)
-                .map((value) => key === 'costInt' ? Number(value) : value),
-              operation: and ? 'and' : operation
-            }
-          ];
-        })
-      ),
-      panels: [ 0 ],
+      panels: this.$vuetify.breakpoint.xsOnly
+        ? []
+        : Array.from({ length: Object.keys(filters).length + 1 }, (_, index) => index),
       timeoutId: null,
       intersecting: true,
       showSelected: this.$route.query.showSelected === null
@@ -384,6 +383,10 @@ export default {
       if (!value) {
         this.showSelected = false;
       }
+    },
+
+    showSelected() {
+      this.clearAllFilters();
     }
   },
 
