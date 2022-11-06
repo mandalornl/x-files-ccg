@@ -2201,7 +2201,7 @@
     "id": "XF96-0121v1",
     "set": "Premiere",
     "rarity": "Common",
-    "episode": "",
+    "episode": null,
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Government",
@@ -2835,7 +2835,7 @@
     "id": "XF96-0163v1",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "7 RP",
     "keywords": [
@@ -3010,7 +3010,7 @@
     "id": "XF96-0169v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "7 RP",
     "keywords": [
@@ -3099,7 +3099,7 @@
     "id": "XF96-0172v1",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "7 RP",
     "keywords": [
@@ -3132,7 +3132,7 @@
     "id": "XF96-0173v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "7 RP",
     "keywords": [
@@ -3164,7 +3164,7 @@
     "id": "XF96-0174v1",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "6 RP",
     "keywords": [
@@ -5601,7 +5601,7 @@
     "id": "XF96-0296v1",
     "set": "Premiere",
     "rarity": "Common",
-    "episode": "",
+    "episode": null,
     "type": "Event",
     "cost": "2 CP",
     "keywords": [
@@ -9003,7 +9003,7 @@
     "id": "XF97-0121v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "",
+    "episode": null,
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Government",
@@ -9749,7 +9749,7 @@
     "id": "XF97-0169v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "7 RP",
     "keywords": [
@@ -9838,7 +9838,7 @@
     "id": "XF97-0173v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "",
+    "episode": null,
     "type": "Agent",
     "cost": "7 RP",
     "keywords": [
@@ -11815,7 +11815,7 @@
     "id": "XF97-0296v2",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "",
+    "episode": null,
     "type": "Event",
     "cost": "2 CP",
     "keywords": [
@@ -16624,8 +16624,8 @@
     "title": "Agent Bonnecaze",
     "id": "XF97-0520x2",
     "set": "22364",
-    "rarity": "",
-    "episode": "",
+    "rarity": "Custom",
+    "episode": null,
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -16649,8 +16649,8 @@
     "title": "Detective Glen Chao",
     "id": "XF97-0521x2",
     "set": "22364",
-    "rarity": "",
-    "episode": "",
+    "rarity": "Custom",
+    "episode": null,
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -16675,8 +16675,8 @@
     "title": "Agent Brian Fuller",
     "id": "XF97-0522x2",
     "set": "22364",
-    "rarity": "",
-    "episode": "",
+    "rarity": "Custom",
+    "episode": null,
     "type": "Agent",
     "cost": "1 RP",
     "keywords": [
@@ -16698,8 +16698,8 @@
     "title": "Agent Frank Burst",
     "id": "Xf97-0523x2",
     "set": "22364",
-    "rarity": "",
-    "episode": "",
+    "rarity": "Custom",
+    "episode": null,
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -16723,8 +16723,8 @@
     "title": "Agent Linda Caleca",
     "id": "XF97-0524x2",
     "set": "22364",
-    "rarity": "",
-    "episode": "",
+    "rarity": "Custom",
+    "episode": null,
     "type": "Agent",
     "cost": "1 RP",
     "keywords": [
@@ -16747,8 +16747,8 @@
     "title": "Lieutenant Brophy",
     "id": "XF97-0525x2",
     "set": "22364",
-    "rarity": "",
-    "episode": "",
+    "rarity": "Custom",
+    "episode": null,
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
