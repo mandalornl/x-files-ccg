@@ -15126,7 +15126,8 @@
       "Negate"
     ],
     "activators": [
-      "Active/conspiracy"
+      "Active",
+      "Conspiracy"
     ],
     "gameText": "Negate any Keyword PHENOMENA card.",
     "tags": [
