@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "sharp": "0.31.2",
+    "xlsx": "0.18.5"
+  }
+}
