@@ -147,7 +147,8 @@ export const rarities = [
   'Uncommon',
   'Rare',
   'Ultra-Rare',
-  'Fixed'
+  'Fixed',
+  'Custom'
 ];
 
 export const tags = [
