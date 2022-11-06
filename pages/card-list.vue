@@ -271,9 +271,7 @@ export default {
       },
       cardInfoVisible: false,
       selectedCard: null,
-      panels: this.$vuetify.breakpoint.xsOnly
-        ? []
-        : Object.keys(filters).map((_, index) => index),
+      panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1, 2 ],
       timeoutId: null,
       intersecting: true,
       showDeck: this.$route.query.showDeck === null

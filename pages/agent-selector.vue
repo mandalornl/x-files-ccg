@@ -216,9 +216,7 @@ export default {
       ids: (this.$route.query.ids ?? '')
         .split(',')
         .filter(Boolean),
-      panels: this.$vuetify.breakpoint.xsOnly
-        ? []
-        : Array.from({ length: Object.keys(filters).length + 1 }, (_, index) => index),
+      panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1, 2 ],
       timeoutId: null,
       intersecting: true,
       showSelected: this.$route.query.showSelected === null
