@@ -5439,7 +5439,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Field during the Deploytment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn."
+    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn."
   },
   {
     "title": "In-Service Training",
@@ -5612,7 +5612,7 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the folowing skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill."
   },
   {
     "title": "A Friend In The FBI",
@@ -6161,7 +6161,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "The Agent may add his skills to a skill check that is occuring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added."
+    "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added."
   },
   {
     "title": "Symbol Of Faith",
@@ -11696,7 +11696,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Field during the Deploytment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn."
+    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn."
   },
   {
     "title": "In-Service Training",
@@ -11826,7 +11826,7 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the folowing skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill."
   },
   {
     "title": "A Friend In The FBI",
@@ -12354,7 +12354,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "The Agent may add his skills to a skill check that is occuring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added."
+    "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added."
   },
   {
     "title": "Symbol Of Faith",
@@ -13776,7 +13776,7 @@
       "Affiliation",
       "Site"
     ],
-    "gameText": "This card may be played on a Site at which the \"Terri Roberts\" Adversary card has been played, ignoring Activator requiremens. When this occurs, both Adversaries attack simultaneously (treat as one combat) and double both cards' LRC, CRC, and HEALTH. Triple both cards' LRC, CRC and HEALTH if the Agents are using OCCULT INVESTIGATION skill."
+    "gameText": "This card may be played on a Site at which the \"Terri Roberts\" Adversary card has been played, ignoring Activator requirements. When this occurs, both Adversaries attack simultaneously (treat as one combat) and double both cards' LRC, CRC, and HEALTH. Triple both cards' LRC, CRC and HEALTH if the Agents are using OCCULT INVESTIGATION skill."
   },
   {
     "title": "Puppet",
@@ -13876,7 +13876,7 @@
       "Result",
       "Site"
     ],
-    "gameText": "This card may be played on a Site at which the \"Margi Kleinjan\" Adversary card has been played, ignoring Activator requiremens. When this occurs, both Adversaries attack simultaneously (treat as one combat) and double both cards' LRC, CRC, and HEALTH. Triple both cards' LRC, CRC and HEALTH if the Agents are using OCCULT INVESTIGATION skill."
+    "gameText": "This card may be played on a Site at which the \"Margi Kleinjan\" Adversary card has been played, ignoring Activator requirements. When this occurs, both Adversaries attack simultaneously (treat as one combat) and double both cards' LRC, CRC, and HEALTH. Triple both cards' LRC, CRC and HEALTH if the Agents are using OCCULT INVESTIGATION skill."
   },
   {
     "title": "The List",
@@ -15108,7 +15108,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permenantly add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play.",
+    "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permanently add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play.",
     "tags": [
       "Affect Agent"
     ]
@@ -16228,7 +16228,7 @@
     "id": "PR96-0003-GAM",
     "set": "Promo",
     "foundIn": "American Entertainment",
-    "episode": "The Erlenmyer Flask",
+    "episode": "The Erlenmeyer Flask",
     "type": "Event",
     "cost": "2 RP",
     "keywords": [
@@ -16669,7 +16669,7 @@
       "Health": 4,
       "Resources": 0
     },
-    "gameText": "An opposing Conspiracy player may pay two conspiracy points to send Detective Chao back to your Bureau if Detective Chao is investigating a Site with CRIMINAL INVESTIGATION, EVIDENCE COLLECTION of BUREAUCRAZY."
+    "gameText": "An opposing Conspiracy player may pay two conspiracy points to send Detective Chao back to your Bureau if Detective Chao is investigating a Site with CRIMINAL INVESTIGATION, EVIDENCE COLLECTION or BUREAUCRACY."
   },
   {
     "title": "Agent Brian Fuller",
