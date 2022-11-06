@@ -29,7 +29,6 @@ export const types = [
 
 export const activators = [
   'Active',
-  'Active/conspiracy',
   'Adversary',
   'Affiliation',
   'Affiliation Site',
@@ -72,7 +71,7 @@ export const activators = [
   'Site',
   'Skeptic',
   'Subterfuge',
-  'Witness',
+  'Witness'
 ];
 
 export const keywords = [
