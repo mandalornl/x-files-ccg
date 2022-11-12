@@ -6275,7 +6275,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill. Adversaries"
+    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill."
   },
   {
     "title": "Slithers In The Night",
@@ -12468,7 +12468,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill. Adversaries"
+    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill."
   },
   {
     "title": "Slithers In The Night",
