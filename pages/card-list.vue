@@ -442,12 +442,6 @@ export default {
       if (value === 0) {
         this.showDeck = false;
       }
-    },
-
-    showDeck() {
-      this.search = '';
-
-      this.clearAllFilters();
     }
   },
 

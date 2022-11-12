@@ -381,10 +381,6 @@ export default {
       if (!value) {
         this.showSelected = false;
       }
-    },
-
-    showSelected() {
-      this.clearAllFilters();
     }
   },
 
