@@ -17,7 +17,7 @@
       </v-icon>
     </template>
     <p>
-      Only <mark class="d-inline py-0">json</mark> files with the formatting below are supported:<br>
+      Only <mark class="d-inline py-0">json</mark> files with the following formatting are supported:<br>
       <mark class="d-block">{{ exampleCode }}</mark>
     </p>
     <p>
