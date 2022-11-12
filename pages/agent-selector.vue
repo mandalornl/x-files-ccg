@@ -114,7 +114,7 @@
         >
           <v-col
             v-for="card in cards"
-            :key="card.title"
+            :key="card.id"
             cols="6"
             sm="4"
             md="3"
