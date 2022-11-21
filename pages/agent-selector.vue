@@ -232,8 +232,13 @@ export default {
       return cards
         .filter(({
           set,
-          type
-        }) => set !== 'Premiere' && type === 'Agent')
+          type,
+          id
+        }) => (
+          set !== 'Premiere'
+          && type === 'Agent'
+          && !(id.startsWith('PR22') && set === '040460')
+        ))
         .map((card) => ({
           ...card,
           costInt: parseInt(card.cost, 10),

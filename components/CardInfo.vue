@@ -214,6 +214,14 @@ export default {
             label: 'Episode',
             component: 'CardFieldString'
           },
+          bio: {
+            label: 'Biographical Information',
+            component: 'CardFieldText'
+          },
+          dialogue: {
+            label: 'Dialogue',
+            component: 'CardFieldText'
+          },
           foundIn: {
             label: 'Found In',
             component: 'CardFieldString'
