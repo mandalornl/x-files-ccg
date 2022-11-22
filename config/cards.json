@@ -17812,13 +17812,13 @@
     "keywords": [
       "Witness",
       "Sciences",
-      "Medical",
+      "Computer",
       "Healing"
     ],
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 3 to one Team's SCIENCES or adds 1 to one Team's MEDICAL skill check. Alternately, you may play this card to heal any one Agent damaged by the effects of \"El Chupacabra\".",
+    "gameText": "Adds 3 to one Team's SCIENCES or adds 2 to one Team's COMPUTER skill check. Alternately, you may play this card to heal any one Agent damaged by the effects of \"El Chupacabra\".",
     "dialogue": "Dr. Steen: \"What you’re looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\nScully: \"Athlete's foot?\""
   },
   {
@@ -18205,7 +18205,7 @@
     "dialogue": "\"The Peacocks built that farm during the Civil War. It still has no electricity, no running water, no heat. They grow their own food, they raise their own pigs, the breed their own cows...raise and breed their own stock...if you get my meaning.\" - Sheriff Andy Taylor"
   },
   {
-    "title": "Demolition Site, Philadelphia, PA",
+    "title": "Liberty Plaza, Philadelphia, PA",
     "id": "XF22-0062x3",
     "set": "040460",
     "rarity": "Custom",
@@ -19131,7 +19131,7 @@
       "Active"
     ],
     "gameText": "Play on a Team during the Deployment Phase. If the Team makes an ALIEN INVESTIGATION 5+ skill check, they may investigate two Sites in either the same state or neighboring states this turn.",
-    "dialogue": "\"Go back to the refinery - see if you can find anybody who knows anything about that truck.\" - Mulder"
+    "dialogue": "\"Someone used Krycek, then Krycek used us. Someone who didn't want that rock in American hands.\" - Mulder"
   },
   {
     "title": "Forensic Excavation",
