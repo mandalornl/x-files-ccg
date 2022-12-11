@@ -22,6 +22,7 @@
               class="mt-0 pt-0"
               @click:clear="search = ''"
               @click:prepend-inner="onSearch"
+              @focus="$event.target.select()"
               @keyup.enter.exact="search = $event.target.value"
             />
           </v-card-text>
