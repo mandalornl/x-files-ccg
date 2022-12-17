@@ -5,7 +5,7 @@ export const cards = cardList.map((card) => {
   if (card.set === '040460') {
     const value = parseInt(card.id.replace(/^xf22-(\d+)x3$/i, '$1'), 10);
 
-    if (isNaN(value) || value > 82) {
+    if (isNaN(value) || value > 138) {
       return {
         ...card,
         image: 'images/back.jpg'
