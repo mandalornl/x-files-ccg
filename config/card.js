@@ -1,23 +1,9 @@
 import cardList from '~/config/cards.json';
 
-export const cards = cardList.map((card) => {
-  // TODO: Remove when all 040460 cards are available.
-  if (card.set === '040460') {
-    const value = parseInt(card.id.replace(/^xf22-(\d+)x3$/i, '$1'), 10);
-
-    if (isNaN(value) || value > 138) {
-      return {
-        ...card,
-        image: 'images/back.jpg'
-      };
-    }
-  }
-
-  return {
-    ...card,
-    image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
-  };
-});
+export const cards = cardList.map((card) => ({
+  ...card,
+  image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+}));
 
 export const sets = [
   'Premiere',
