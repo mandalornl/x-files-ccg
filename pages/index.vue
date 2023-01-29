@@ -32,10 +32,13 @@
             color="primary"
           >
             <v-list-item-avatar
-              color="white"
-              size="24"
+              :color="item.inverseColor ? item.color : 'white'"
+              size="28"
             >
-              <v-icon :color="item.color">
+              <v-icon
+                :color="item.inverseColor ? 'white' : item.color"
+                size="24"
+              >
                 {{ item.icon }}
               </v-icon>
             </v-list-item-avatar>
@@ -62,24 +65,39 @@ export default {
     links: [
       {
         title: 'Alien Investigations',
-        subtitle: 'Watch and learn how to play The X-Files CCG on this YouTube channel.',
+        subtitle: 'Watch and learn how to play The X-Files CCG on this YouTube channel',
         href: 'https://www.youtube.com/channel/UCdoWDLQ-e5MtAbt9fUQeWYw',
         icon: 'mdi-youtube',
         color: 'red'
       },
       {
         title: 'Mike and Matt',
-        subtitle: 'Bringing back The X-Files CCG on their YouTube channel.',
+        subtitle: 'Bringing back The X-Files CCG on their YouTube channel',
         href: 'https://www.youtube.com/c/MMXFILESCCG',
         icon: 'mdi-youtube',
         color: 'red'
       },
       {
         title: 'The X-Files Collectible Card Game Facebook Group',
-        subtitle: 'A fantastic community for those interested in The X-Files CCG.',
+        subtitle: 'A fantastic community for those interested in The X-Files CCG',
         href: 'https://www.facebook.com/groups/xfccg/',
         icon: 'mdi-facebook',
         color: '#4267B2'
+      },
+      {
+        title: 'xfilesccg',
+        subtitle: 'Celebrating all things relating to The X-Files CCG',
+        href: 'https://www.instagram.com/xfilesccg/',
+        icon: 'mdi-instagram',
+        color: '#D300C5',
+        inverseColor: true
+      },
+      {
+        title: 'r/TheXFilesCCG',
+        subtitle: 'A subreddit for X-Files CCG',
+        href: 'https://www.reddit.com/r/TheXFilesCCG/',
+        icon: 'mdi-reddit',
+        color: '#ff3300'
       }
     ]
   })
