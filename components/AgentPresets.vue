@@ -10,6 +10,7 @@
       :key="label"
       :value="preset.join(',')"
       close
+      label
       @click="click(preset)"
       @click:close="remove(label)"
     >

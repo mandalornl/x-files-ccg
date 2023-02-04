@@ -3,6 +3,7 @@
     :color="color"
     :text-color="textColor"
     small
+    label
   >
     {{ value }}
   </v-chip>

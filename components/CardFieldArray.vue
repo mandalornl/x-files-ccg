@@ -5,6 +5,7 @@
         v-for="label in value"
         :key="label"
         small
+        label
         class="ma-1"
         @click="$emit('click', label)"
       >
