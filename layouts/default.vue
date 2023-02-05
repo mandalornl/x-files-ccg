@@ -128,6 +128,10 @@ export default {
 </script>
 
 <style lang="scss">
+html {
+  touch-action: manipulation;
+}
+
 p:last-child {
   margin-bottom: 0;
 }
