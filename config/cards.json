@@ -700,7 +700,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only. Sites"
+    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only."
   },
   {
     "title": "Gibsonton, FL",
@@ -5876,7 +5876,7 @@
       "Active",
       "Briefing"
     ],
-    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill. Equipment"
+    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill."
   },
   {
     "title": "Laptop Computer",
@@ -7545,7 +7545,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only. Sites"
+    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only."
   },
   {
     "title": "Gibsonton, FL",
@@ -12069,7 +12069,7 @@
       "Active",
       "Briefing"
     ],
-    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill. Equipment"
+    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill."
   },
   {
     "title": "Laptop Computer",
@@ -14146,7 +14146,7 @@
       "Law",
       "Independent"
     ],
-    "gameText": "Place two tokens on Detective Manners. Discard one token to search through your Bureau deck and add a Witness to your opponent and shuffle the deck. Bluffs",
+    "gameText": "Place two tokens on Detective Manners. Discard one token to search through your Bureau deck and add a Witness to your opponent and shuffle the deck.",
     "tags": [
       "Search"
     ]
@@ -14962,7 +14962,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds two to the Agent's BEHAVIORAL skill. Events"
+    "gameText": "Adds two to the Agent's BEHAVIORAL skill."
   },
   {
     "title": "Foo Fighter",
@@ -15398,7 +15398,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Played by itself, this card will negate one GOVERNMENT Adversary, discard both. If played on an Agent with the \"Taped Intelligence\" Equipment card attached, remove the \"Taped Intelligence\" card from the game and place this card in your Bureau section. As long as this card is in play, no GOVERNMENT Adversaries may be played on your Agents. Sites",
+    "gameText": "Played by itself, this card will negate one GOVERNMENT Adversary, discard both. If played on an Agent with the \"Taped Intelligence\" Equipment card attached, remove the \"Taped Intelligence\" card from the game and place this card in your Bureau section. As long as this card is in play, no GOVERNMENT Adversaries may be played on your Agents.",
     "tags": [
       "Negate"
     ]
