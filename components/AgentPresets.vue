@@ -38,7 +38,10 @@ export default {
 
   computed: {
     presets() {
-      return this.$store.state.agentSelector.presents;
+      return Object.fromEntries(
+        Object.entries(this.$store.state.agentSelector.presents)
+          .sort(([ a ], [ b ]) => a.localeCompare(b))
+      );
     },
 
     mandatory() {
