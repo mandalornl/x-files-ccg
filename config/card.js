@@ -12,7 +12,8 @@ export const sets = [
   '22364',
   '040460',
   'Promo',
-  'Special'
+  'The Syndicate',
+  'Dream'
 ];
 
 export const types = [
