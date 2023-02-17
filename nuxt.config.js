@@ -15,7 +15,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: (title) => (
-      title ? `${title} - X-Files CCG` : 'X-Files CCG'
+      title ? `${title} - The X-Files CCG` : 'The X-Files CCG'
     ),
     htmlAttrs: {
       lang: 'en'
@@ -25,7 +25,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
-      { hid: 'og:title', property: 'og:title', content: 'X-Files CCG' },
+      { hid: 'og:title', property: 'og:title', content: 'The X-Files CCG' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       { hid: 'og:image', property: 'og:image', content: `${baseUrl}og-1200x630.png` },
       { hid: 'og:image:width', property: 'og:image:width', content: 1200 },

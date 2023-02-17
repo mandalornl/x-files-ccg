@@ -94,7 +94,7 @@ export default {
       },
       {
         title: 'r/TheXFilesCCG',
-        subtitle: 'A subreddit for X-Files CCG',
+        subtitle: 'A subreddit for The X-Files CCG',
         href: 'https://www.reddit.com/r/TheXFilesCCG/',
         icon: 'mdi-reddit',
         color: '#ff3300'
