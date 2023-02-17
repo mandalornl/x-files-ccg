@@ -60,16 +60,12 @@
                 <v-simple-table dense>
                   <tbody>
                     <tr
-                      v-for="(item, key) in skills"
-                      :key="key"
+                      v-for="(item, label) of skills"
+                      :key="label"
                       :class="item.class"
                     >
-                      <td>{{ key }}</td>
+                      <td>{{ label }}</td>
                       <td>{{ item.value }}</td>
-                    </tr>
-                    <tr>
-                      <td>Cost</td>
-                      <td>{{ totalCost }}</td>
                     </tr>
                   </tbody>
                 </v-simple-table>
@@ -228,7 +224,7 @@ export default {
   }),
 
   computed: {
-    agentCards() {
+    availableAgents() {
       return cards
         .filter(({
           set,
@@ -247,7 +243,7 @@ export default {
     },
 
     cards() {
-      return this.agentCards
+      return this.availableAgents
         .filter((card) => {
           if (this.showSelected && !this.ids.includes(card.id)) {
             return false;
@@ -286,52 +282,45 @@ export default {
         });
     },
 
-    skills() {
-      const skills = [
-        ...advancedSkills,
-        ...basicSkills
-      ].reduce((result, key) => ({
-        ...result,
-        [key]: {
-          value: 0,
-          class: undefined
-        }
-      }), {});
+    advancedSkills() {
+      return advancedSkills.reduce((result, key) => {
+        const value = this.getSkillTotal((card) => card.skills[key] ?? 0);
 
-      this.ids.forEach((id) => {
-        const card = this.agentCards.find((card) => card.id === id);
-
-        if (!card) {
-          return;
-        }
-
-        advancedSkills.forEach((key) => {
-          const value = skills[key].value + (card.skills[key] ?? 0);
-
-          skills[key] = {
+        return {
+          ...result,
+          [key]: {
             value,
             class: this.getClass(value)
-          };
-        });
+          }
+        };
+      }, {});
+    },
 
-        basicSkills.forEach((key) => {
-          skills[key].value += (card.skills[key] ?? 0);
-        });
-      });
+    basicSkills() {
+      return basicSkills.reduce((result, key) => {
+        const value = this.getSkillTotal((card) => card.skills[key] ?? 0);
 
-      return skills;
+        return {
+          ...result,
+          [key]: {
+            value
+          }
+        };
+      }, {});
+    },
+
+    skills() {
+      return {
+        ...this.advancedSkills,
+        ...this.basicSkills,
+        'Cost': {
+          value: this.totalCost
+        }
+      };
     },
 
     totalCost() {
-      return this.ids.reduce((total, id) => {
-        const card = this.agentCards.find((card) => card.id === id);
-
-        if (!card) {
-          return total;
-        }
-
-        return total + card.costInt;
-      }, 0);
+      return this.getSkillTotal((card) => card.costInt);
     },
 
     availableCost() {
@@ -406,6 +395,18 @@ export default {
       } else {
         return undefined;
       }
+    },
+
+    getSkillTotal(fn) {
+      return this.ids.reduce((total, id) => {
+        const card = this.availableAgents.find((card) => card.id === id);
+
+        if (!card) {
+          return total;
+        }
+
+        return total + fn(card);
+      }, 0);
     },
 
     clearAllFilters() {
