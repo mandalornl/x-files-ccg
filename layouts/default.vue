@@ -92,7 +92,7 @@ export default {
       {
         to: '/deck-building',
         label: 'Deck Building',
-        icon: 'mdi-archive',
+        icon: 'mdi-wrench',
       },
       {
         to: '/agent-selector',
@@ -108,6 +108,11 @@ export default {
         to: '/faq',
         label: 'FAQ',
         icon: 'mdi-help-circle'
+      },
+      {
+        to: '/downloads',
+        label: 'Downloads',
+        icon: 'mdi-archive'
       }
     ],
     showToTop: false
