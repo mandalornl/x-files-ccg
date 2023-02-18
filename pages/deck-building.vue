@@ -236,7 +236,7 @@ export default {
 
       const anchor = document.createElement('a');
       anchor.download = `${deck.name}.csv`;
-      anchor.href = `data:text/plain;base64,${data}`;
+      anchor.href = `data:text/csv;base64,${data}`;
       anchor.click();
     },
 
