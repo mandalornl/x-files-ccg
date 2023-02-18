@@ -35,12 +35,15 @@ export default {
       const data = Buffer
         .from([
           '"","#","Title","Type","Set","Rarity"',
-          ...cards.map(({
+          ...cards.filter(({ set }) => ![
+            'The Syndicate',
+            'Dream'
+          ].includes(set)).map(({
             id,
             title,
             type,
             set,
-            rarity
+            rarity = ''
           }) => `"","${id}","${title}","${type}","${set}","${rarity}"`)
         ].join('\n'))
         .toString('base64');
