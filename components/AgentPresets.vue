@@ -19,7 +19,6 @@
   </v-chip-group>
 </template>
 
-
 <script>
 import { arrayValue } from '~/mixins/model'
 
