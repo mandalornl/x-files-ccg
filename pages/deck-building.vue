@@ -22,7 +22,10 @@
           sm="4"
           md="3"
         >
-          <v-card :to="deck.new ? '/card-list?showDeck' : undefined">
+          <v-card
+            :to="deck.new ? '/card-list?showSelected' : undefined"
+            :disabled="deck.size === 0"
+          >
             <v-card-text>
               {{ deck.name }} ({{ deck.size }})
             </v-card-text>
@@ -50,7 +53,7 @@
                   @click="load(deck)"
                 >
                   <v-icon small>
-                    mdi-cards
+                    mdi-upload
                   </v-icon>
                 </v-btn>
                 <v-speed-dial
@@ -130,10 +133,15 @@
 
 <script>
 import { cards } from '~/config/card';
+import { download } from '~/mixins/download';
 import { defaultDeckName } from '~/store/deckBuilding';
 
 export default {
   name: 'PageDeckBuilding',
+
+  mixins: [
+    download
+  ],
 
   head: () => ({
     title: 'Deck Building'
@@ -172,7 +180,7 @@ export default {
 
       this.$store.commit('deckBuilding/load', deck.name);
       this.$store.commit('snackbar/setSuccess', 'Deck loaded successfully!');
-      this.$router.push('/card-list?showDeck');
+      this.$router.push('/card-list?showSelected');
     },
 
     downloadJSON(deck) {
@@ -183,10 +191,7 @@ export default {
         })
       ).toString('base64');
 
-      const anchor = document.createElement('a');
-      anchor.download = `${deck.name}.json`;
-      anchor.href = `data:application/json;base64,${data}`;
-      anchor.click();
+      this.download(`data:application/json;base64,${data}`, `${deck.name}.json`);
     },
 
     downloadCSV(deck) {
@@ -234,10 +239,7 @@ export default {
         ].join('\n')
       ).toString('base64');
 
-      const anchor = document.createElement('a');
-      anchor.download = `${deck.name}.csv`;
-      anchor.href = `data:text/csv;base64,${data}`;
-      anchor.click();
+      this.download(`data:text/csv;base64,${data}`, `${deck.name}.csv`);
     },
 
     remove(deck) {

@@ -16,7 +16,7 @@
         @click.prevent="on.click"
       >
         <v-icon :small="small">
-          mdi-shuffle-variant
+          mdi-cards
         </v-icon>
       </v-btn>
     </template>

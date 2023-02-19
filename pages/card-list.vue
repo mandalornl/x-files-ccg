@@ -29,7 +29,7 @@
         </v-card>
         <div class="d-flex flex-sm-column flex-lg-row align-center align-sm-start align-lg-center">
           <v-switch
-            v-model="showDeck"
+            v-model="showSelected"
             :disabled="deckSize === 0"
           >
             <template #label>
@@ -39,7 +39,7 @@
                     {{ deckSize }}
                   </span>
                 </template>
-                Cards in deck
+                Selected
               </v-badge>
             </template>
           </v-switch>
@@ -272,7 +272,7 @@ export default {
       panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1, 2 ],
       timeoutId: null,
       intersecting: true,
-      showDeck: this.$route.query.showDeck === null
+      showSelected: this.$route.query.showSelected === null
     };
   },
 
@@ -307,7 +307,7 @@ export default {
           }
         }
 
-        if (this.showDeck && this.$store.getters['deckBuilding/quantityByCardId'](card.id) === 0) {
+        if (this.showSelected && this.$store.getters['deckBuilding/quantityByCardId'](card.id) === 0) {
           return false;
         }
 
@@ -369,7 +369,7 @@ export default {
         itemsPerPage: this.itemsPerPage !== itemsPerPage ? this.itemsPerPage : undefined,
         sortBy: typeof this.sortBy === 'string' ? this.sortBy : undefined,
         sortDesc: this.sortDesc,
-        showDeck: this.showDeck ? null : undefined,
+        showSelected: this.showSelected ? null : undefined,
         ...Object.fromEntries(
           Object.entries(this.filters).map(([
             key,
@@ -438,7 +438,7 @@ export default {
 
     deckSize(value) {
       if (value === 0) {
-        this.showDeck = false;
+        this.showSelected = false;
       }
     }
   },
