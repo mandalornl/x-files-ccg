@@ -47,7 +47,7 @@ export default {
         },
         {
           name: 'X-Files Ancillary Documentation',
-          click: () => this.download('X-Files Ancillary Documentation.pdf', 'downloads/X-Files Ancillary Documentation.pdf'),
+          click: () => this.download('downloads/X-Files Ancillary Documentation.pdf', 'X-Files Ancillary Documentation.pdf'),
           credits: 'Stephen David Wark',
           icon: 'mdi-file-pdf-box'
         }
