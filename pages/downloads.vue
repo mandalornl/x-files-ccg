@@ -1,30 +1,59 @@
 <template>
   <layout-default>
     <h1>Downloads</h1>
-    <v-row>
-      <v-col
-        cols="12"
-        sm="9"
-        md="8"
-        lg="7"
-      >
-        <v-simple-table>
-          <tbody>
-            <tr @click="downloadChecklist">
-              <td>The X-Files CCG Checklist</td>
-            </tr>
-          </tbody>
-        </v-simple-table>
-      </v-col>
-    </v-row>
+    <v-simple-table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Credits</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr
+          v-for="item of items"
+          :key="item.name"
+          @click="item.click"
+        >
+          <td>{{ item.name }}</td>
+          <td>{{ item.credits }}</td>
+          <td>
+            <v-icon>{{ item.icon }}</v-icon>
+          </td>
+        </tr>
+      </tbody>
+    </v-simple-table>
   </layout-default>
 </template>
 
 <script>
 import { cards } from '~/config/card';
+import { download } from '~/mixins/download';
 
 export default {
   name: 'PageDownloads',
+
+  mixins: [
+    download
+  ],
+
+  data() {
+    return {
+      items: [
+        {
+          name: 'The X-Files CCG Checklist',
+          click: () => this.downloadChecklist(),
+          icon: 'mdi-file-excel'
+        },
+        {
+          name: 'X-Files Ancillary Documentation',
+          click: () => this.download('X-Files Ancillary Documentation.pdf', 'downloads/X-Files Ancillary Documentation.pdf'),
+          credits: 'Stephen David Wark',
+          icon: 'mdi-file-pdf-box'
+        }
+      ]
+    };
+  },
 
   head: () => ({
     title: 'Downloads'
@@ -44,14 +73,11 @@ export default {
             type,
             set,
             rarity = ''
-          }) => `"","${id}","${title}","${type}","${set}","${rarity}"`)
+          }) => `"[ ]","${id}","${title}","${type}","${set}","${rarity}"`)
         ].join('\n'))
         .toString('base64');
 
-      const anchor = document.createElement('a');
-      anchor.download = 'the-x-files-ccg-checklist.csv';
-      anchor.href = `data:text/csv;base64,${data}`;
-      anchor.click();
+      this.download(`data:text/csv;base64,${data}`, 'the-x-files-ccg-checklist.csv');
     }
   }
 }
