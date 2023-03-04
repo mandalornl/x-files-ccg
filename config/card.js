@@ -2,9 +2,7 @@ import cardList from '~/config/cards.json';
 
 export const cards = cardList.map((card) => ({
   ...card,
-  image: card.set === '22364'
-    ? 'images/back.jpg'
-    : `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+  image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
 }));
 
 export const sets = [
