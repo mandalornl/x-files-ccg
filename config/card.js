@@ -2,7 +2,9 @@ import cardList from '~/config/cards.json';
 
 export const cards = cardList.map((card) => ({
   ...card,
-  image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+  image: card.set === '22364'
+    ? 'images/back.jpg'
+    : `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
 }));
 
 export const sets = [
@@ -46,6 +48,7 @@ export const activators = [
   'Computer',
   'Conspiracy',
   'Creature',
+  'Criminal',
   'Criminal Investigation',
   'Event',
   'Evidence Collection',
@@ -55,7 +58,9 @@ export const activators = [
   'Gulag',
   'Healing',
   'Hospital',
+  'Investigation',
   'Medical',
+  'Method',
   'Method Site',
   'Mono',
   'Motive',
@@ -157,7 +162,7 @@ export const rarities = [
   'Rare',
   'Ultra-Rare',
   'Fixed',
-  'Custom'
+  'Community'
 ];
 
 export const tags = [
