@@ -28,7 +28,7 @@ export const xFiles = [
       affiliation: 'Alien',
       motive: 'Control',
       method: 'Manipulation',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'The Gregors': {
       affiliation: 'Alien',
@@ -84,7 +84,7 @@ export const xFiles = [
       affiliation: 'Government',
       motive: 'Knowledge',
       method: 'Manipulation',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'Cigarette Smoking Man': {
       affiliation: 'Government',
@@ -96,7 +96,7 @@ export const xFiles = [
       affiliation: 'Government',
       motive: 'Knowledge',
       method: 'Subterfuge',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     }
   },
   {
@@ -128,7 +128,7 @@ export const xFiles = [
       affiliation: 'Evolutionary',
       motive: 'Survival',
       method: 'Violence',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'Augustus Cole': {
       affiliation: 'Evolutionary',
@@ -178,7 +178,7 @@ export const xFiles = [
       affiliation: 'Primordial',
       motive: 'Survival',
       method: 'Manipulation',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'Lucas Henry': {
       affiliation: 'Primordial',
@@ -190,7 +190,7 @@ export const xFiles = [
       affiliation: 'Primordial',
       motive: 'Knowledge',
       method: 'Manipulation',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'Donnie Pfaster': {
       affiliation: 'Primordial',
@@ -228,7 +228,7 @@ export const xFiles = [
       affiliation: 'Occult',
       motive: 'Ideology',
       method: 'Threats',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'Mrs. Paddock': {
       affiliation: 'Occult',
@@ -246,7 +246,7 @@ export const xFiles = [
       affiliation: 'Occult',
       motive: 'Ideology',
       method: 'Possession',
-      result: 'Physiological'
+      result: 'Physiological Imbalance'
     },
     'The Poltergeist': {
       affiliation: 'Occult',
