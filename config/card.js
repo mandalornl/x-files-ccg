@@ -1,8 +1,28 @@
-import cardList from '~/config/cards.json';
+import premiere from '~/config/card-list/premiere.json';
+import ttiot from '~/config/card-list/ttiot.json';
+import mulder from '~/config/card-list/101361.json';
+import scully from '~/config/card-list/22364.json';
+import season4 from '~/config/card-list/040460.json';
+import promo from '~/config/card-list/promo.json';
+import gencon from '~/config/card-list/gencon.json';
+import syndicate from '~/config/card-list/syndicate.json';
+import dream from '~/config/card-list/dream.json';
 
-export const cards = cardList.map((card) => ({
+export const cards = [
+  ...premiere,
+  ...ttiot,
+  ...mulder,
+  ...scully,
+  ...season4,
+  ...promo,
+  ...gencon,
+  ...syndicate,
+  ...dream
+].map((card) => ({
   ...card,
-  image: `images/${card.set.replaceAll(' ', '-')}/${card.id}.jpg`.toLowerCase()
+  image: `images/${card.set}/${card.id}.jpg`
+    .replaceAll(' ', '-')
+    .toLowerCase()
 }));
 
 export const sets = [
@@ -12,6 +32,7 @@ export const sets = [
   '22364',
   '040460',
   'Promo',
+  'Gen Con',
   'The Syndicate',
   'Dream'
 ];
@@ -160,7 +181,8 @@ export const rarities = [
   'Rare',
   'Ultra-Rare',
   'Fixed',
-  'Community'
+  'Community',
+  'Demo'
 ];
 
 export const tags = [

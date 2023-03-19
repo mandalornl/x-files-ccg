@@ -231,8 +231,11 @@ export default {
           type,
           id
         }) => (
-          set !== 'Premiere'
-          && type === 'Agent'
+          type === 'Agent'
+          && ![
+            'Premiere',
+            'Gen Con'
+          ].includes(set)
           && !(id.startsWith('PR22') && set === '040460')
         ))
         .map((card) => ({

@@ -1,0 +1,6850 @@
+[
+  {
+    "title": "Aura Of Invulnerability",
+    "id": "XF96-0001v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Humbug",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat",
+      "Occult"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any OCCULT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round."
+  },
+  {
+    "title": "First Aid",
+    "id": "XF96-0002v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Jersey Devil",
+    "type": "Combat",
+    "cost": "0 RP",
+    "keywords": [
+      "Combat",
+      "Healing"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Agent in the Field to immediately Heal one point of damage."
+  },
+  {
+    "title": "Face-Off",
+    "id": "XF96-0003v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ice",
+    "type": "Combat",
+    "cost": "2 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card during a LONG RANGE COMBAT round on a combatant you control with an LRC skill. That combatant and one other combatant of the owning player's choice will deal no damage in this LRC round."
+  },
+  {
+    "title": "Rending Claws",
+    "id": "XF96-0004v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Shapes",
+    "type": "Combat",
+    "cost": "0 CP",
+    "keywords": [
+      "Combat",
+      "Primordial",
+      "Occult"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 1 to their CLOSE RANGE COMBAT skill."
+  },
+  {
+    "title": "Fast Strike",
+    "id": "XF96-0005v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "End Game",
+    "type": "Combat",
+    "cost": "4 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant with a CLOSE RANGE COMBAT skill of three or more to allow that combatant to attack twice in a CRC round."
+  },
+  {
+    "title": "Sneak Attack",
+    "id": "XF96-0006v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Tooms",
+    "type": "Combat",
+    "cost": "3 CP",
+    "keywords": [
+      "Combat",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any EVOLUTIONARY Adversary to allow it to deal all of its damage in the round before its opponents. Any opponents sent to the Hospital as a result of this damage do not cause damage this round."
+  },
+  {
+    "title": "Ambush",
+    "id": "XF96-0007v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Anasazi",
+    "type": "Combat",
+    "cost": "2 *P",
+    "keywords": [
+      "Combat",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. The opposing side's LONG RANGE COMBAT attack is negated this round."
+  },
+  {
+    "title": "Kick",
+    "id": "XF96-0008v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Red Museum",
+    "type": "Combat",
+    "cost": "1 *P",
+    "keywords": [
+      "Combat",
+      "Martial Arts"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Combatant that can use MARTIAL ARTS or any combatant opposing a stunned opponent. Add 2 to the combatant's CLOSE RANGE COMBAT damage result this round."
+  },
+  {
+    "title": "Gun Jammed",
+    "id": "XF96-0009v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Little Green Men",
+    "type": "Combat",
+    "cost": "1 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Negates the effects of any one Equipment card that adds to LONG RANGE COMBAT Skill for the duration of this combat.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Hide",
+    "id": "XF96-0010v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Jersey Devil",
+    "type": "Combat",
+    "cost": "1 *P",
+    "keywords": [
+      "Combat",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this on one combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. No damage may be dealt to that combatant in this round and the combatant deals no damage."
+  },
+  {
+    "title": "Dodge",
+    "id": "XF96-0011v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Young at Heart",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this LRC round."
+  },
+  {
+    "title": "Nerve Strike",
+    "id": "XF96-0012v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat",
+      "Martial Arts"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any combatant that can use MARTIAL ARTS to add 2 to their CLOSE RANGE COMBAT skill in this round. In addition, the opponent is considered \"stunned\" for the next round of combat. The opponent will deal no damage in the next round of combat."
+  },
+  {
+    "title": "Webbed",
+    "id": "XF96-0013v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Darkness Falls",
+    "type": "Combat",
+    "cost": "3 CP",
+    "keywords": [
+      "Combat",
+      "Primordial"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any PRIMORDIAL Adversary to add 1 to their CLOSE RANGE COMBAT skill and prevent all damage from one opponent this round."
+  },
+  {
+    "title": "Vicious Fangs",
+    "id": "XF96-0014v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Shapes",
+    "type": "Combat",
+    "cost": "1 CP",
+    "keywords": [
+      "Combat",
+      "Primordial",
+      "Occult"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 2 to their CLOSE RANGE COMBAT skill."
+  },
+  {
+    "title": "Spin Kick",
+    "id": "XF96-0015v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Gender Bender",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat",
+      "Martial Arts"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Combatants that can use MARTIAL ARTS may play this card to add 3 to their CLOSE RANGE COMBAT skill this round."
+  },
+  {
+    "title": "Mind Control",
+    "id": "XF96-0016v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Die Hand Die Verletzt",
+    "type": "Combat",
+    "cost": "4 CP",
+    "keywords": [
+      "Combat",
+      "Occult",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to cause one Agent to allocate all damage to a target of the Adversary's choice this round (including other Agents)."
+  },
+  {
+    "title": "Alien Stealth Technology",
+    "id": "XF96-0017v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fallen Angel",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat",
+      "Alien"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any ALIEN combatant to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round."
+  },
+  {
+    "title": "Block And Attack",
+    "id": "XF96-0018v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ice",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat",
+      "Martial Arts"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Combatants that can use MARTIAL ARTS may use this card to negate two points of damage and still deal their normal damage in a CLOSE RANGE COMBAT round.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Block",
+    "id": "XF96-0019v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ice",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this CRC round."
+  },
+  {
+    "title": "Body Armor",
+    "id": "XF96-0020v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Little Green Men",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat",
+      "Government"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any GOVERNMENT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by one this round."
+  },
+  {
+    "title": "Disarm",
+    "id": "XF96-0021v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ice",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat",
+      "Martial Arts"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Adversaries that can use MARTIAL ARTS may play this card in a CLOSE RANGE COMBAT round to cause one Equipment card from the opposing side to be discarded. If the Equipment normally adds to CRC skill check, then it is discarded before it may do so."
+  },
+  {
+    "title": "Running Gun Battle",
+    "id": "XF96-0022v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "One Breath",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Combatants with a LONG RANGE COMBAT skill of 3+ may use this card to fight one additional round of LRC immediately."
+  },
+  {
+    "title": "Fascination",
+    "id": "XF96-0023v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "3",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat",
+      "Occult"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Adversary to add 1 to its CLOSE RANGE COMBAT skill check. In addition, if the Adversary is OCCULT, play on the chosen Agent in combat to negate his combat skills this round.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Internal Bleeding",
+    "id": "XF96-0024v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Duane Barry",
+    "type": "Combat",
+    "cost": "3 CP",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Agent that has taken two or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until he is fully healed."
+  },
+  {
+    "title": "Covering Fire",
+    "id": "XF96-0025v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Little Green Men",
+    "type": "Combat",
+    "cost": "1 CP",
+    "keywords": [
+      "Combat",
+      "Government"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round.",
+    "tags": [
+      "Split Damage"
+    ]
+  },
+  {
+    "title": "No Way Out",
+    "id": "XF96-0026v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "3",
+    "type": "Combat",
+    "cost": "X *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Hard Punch",
+    "id": "XF96-0027v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Anasazi",
+    "type": "Combat",
+    "cost": "1 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any combatant in a CLOSE RANGE COMBAT round. Add one to the combatant's damage result."
+  },
+  {
+    "title": "Choke Hold",
+    "id": "XF96-0028v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Anasazi",
+    "type": "Combat",
+    "cost": "3 *P",
+    "keywords": [
+      "Combat",
+      "Martial Arts"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant that can use MARTIAL ARTS. The combatant applies a choke hold. If the combatant causes damage in CLOSE RANGE COMBAT then the damaged Adversary/Agent takes no further part in the combat."
+  },
+  {
+    "title": "Fast Draw",
+    "id": "XF96-0029v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Combat",
+    "cost": "2 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any one combatant who would not normally be allowed to fight a round of LONG RANGE COMBAT. The combatant must still have LRC skill. The combatant may fight one round of LRC as normal."
+  },
+  {
+    "title": "Watch Out!",
+    "id": "XF96-0030v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Blood",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card when your opponent is about to assign damage. You now choose which of the Agents or Adversaries under your control take the damage. The damage may not be split unless you play a card that allows you to do so."
+  },
+  {
+    "title": "Hit And Run",
+    "id": "XF96-0031v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Colony",
+    "type": "Combat",
+    "cost": "3 RP",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved."
+  },
+  {
+    "title": "Handcuff",
+    "id": "XF96-0032v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Squeeze",
+    "type": "Combat",
+    "cost": "3 RP",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card in a CLOSE RANGE COMBAT round after damage has been dealt. If the Agents dealt two or more points more damage than their opponent, combat ends immediately. In addition, place the opposing Adversary in the Agents' Bureau section. The player may discard this card at any time to add two points of damage to any future combat involving an Adversary with the same Keywords."
+  },
+  {
+    "title": "Illusionary Foe",
+    "id": "XF96-0033v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Sleepless",
+    "type": "Combat",
+    "cost": "4 CP",
+    "keywords": [
+      "Combat",
+      "Occult",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to negate all damage allocated to that Adversary this round.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Run For It!",
+    "id": "XF96-0034v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Combat",
+    "cost": "2 RP",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any Agent to immediately end combat for that Agent. Finish the combat without the Agent. The Agent takes no damage from the combat and may still contribute his skills to other skill checks."
+  },
+  {
+    "title": "Terminal Damage",
+    "id": "XF96-0035v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Die Hand Die Verletzt",
+    "type": "Combat",
+    "cost": "10 CP",
+    "keywords": [
+      "Combat",
+      "Killer"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Agent that has taken 5 or more damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent cannot leave the Hospital until fully healed. Subtract 5 from the Agent's Cost. If the Cost is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue and Weiss are immune to this effect.)"
+  },
+  {
+    "title": "Flaming Wall",
+    "id": "XF96-0036v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fire",
+    "type": "Combat",
+    "cost": "2 CP",
+    "keywords": [
+      "Combat",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any EVOLUTIONARY Adversary to cause one point of damage to each opponent in a LONG RANGE COMBAT round. This is in addition to any other damage caused by the Adversary in this round."
+  },
+  {
+    "title": "Massive Internal Damage",
+    "id": "XF96-0037v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "One Breath",
+    "type": "Combat",
+    "cost": "8 CP",
+    "keywords": [
+      "Combat",
+      "Killer"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Agent that has taken four or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until fully healed. Subtract 4 from the Agent's Cost. If the result is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue, and Weiss are immune to this effect)."
+  },
+  {
+    "title": "Semi-Jacketed Hollow Points",
+    "id": "XF96-0038v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Anasazi",
+    "type": "Combat",
+    "cost": "2 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to add 2 points to that combatant's LRC skill."
+  },
+  {
+    "title": "Stunning Blow",
+    "id": "XF96-0039v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Combat",
+    "cost": "2 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this on any opponent who has just taken damage. The opponent is considered \"stunned\" for the next round of combat. This opponent will deal no damage in the next round of combat."
+  },
+  {
+    "title": "Take Cover!",
+    "id": "XF96-0040v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Blood",
+    "type": "Combat",
+    "cost": "2 *P",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant to decrease damage from one LONG RANGE COMBAT source by two points this round."
+  },
+  {
+    "title": "Energy Strike",
+    "id": "XF96-0041v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Combat",
+    "cost": "3 CP",
+    "keywords": [
+      "Combat",
+      "Alien",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only."
+  },
+  {
+    "title": "Gibsonton, FL",
+    "id": "XF96-0042v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Humbug",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Medical"
+    ],
+    "prerequisite": "MEDICAL 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Excelsius Dei Convalescent Home, Worcester, MA",
+    "id": "XF96-0043v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Excelsius Dei",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Method",
+      "Occult Investigation",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Broad Street, Philadelphia, PA",
+    "id": "XF96-0044v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Shadows",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "CRIMINAL INVESTIGATION 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Ellens Air Base, ID",
+    "id": "XF96-0045v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Deep Throat",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Bureaucracy"
+    ],
+    "prerequisite": "BUREAUCRACY 4+",
+    "question": "You may ask one AFFILIATION question."
+  },
+  {
+    "title": "Coastal Northwest Oregon",
+    "id": "XF96-0046v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Pilot",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Alien Investigation"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 4+",
+    "question": "You may ask one AFFILIATION question."
+  },
+  {
+    "title": "Olympic National Forest, WA",
+    "id": "XF96-0047v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Darkness Falls",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Evidence Collection"
+    ],
+    "prerequisite": "EVIDENCE COLLECTION 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Arlington, VA",
+    "id": "XF96-0048v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Calusari",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Occult Investigation"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 4+",
+    "question": "You may ask one AFFILIATION question."
+  },
+  {
+    "title": "Lake Okobogee, Campsite #53, Sioux City, IA",
+    "id": "XF96-0049v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Conduit",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Motive",
+      "Alien Investigation"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 4+",
+    "question": "You may ask one MOTIVE question."
+  },
+  {
+    "title": "Newark, NJ",
+    "id": "XF96-0050v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Host",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Evidence Collection"
+    ],
+    "prerequisite": "EVIDENCE COLLECTION 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Central Prison, Raleigh, NC",
+    "id": "XF96-0051v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Beyond the Sea",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Method",
+      "Occult Investigation",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Genetics Clinic, Marin County, CA",
+    "id": "XF96-0052v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Eve",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Medical"
+    ],
+    "prerequisite": "MEDICAL 4+",
+    "question": "You may ask one AFFILIATION question."
+  },
+  {
+    "title": "Cumberland Prison, VA",
+    "id": "XF96-0053v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "F. Emasculata",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Subterfuge"
+    ],
+    "prerequisite": "SUBTERFUGE 4+",
+    "question": "You may ask one AFFILIATION question."
+  },
+  {
+    "title": "Mt. Avalon, WA",
+    "id": "XF96-0054v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Firewalker",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Sciences"
+    ],
+    "prerequisite": "SCIENCES 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Northeast Georgetown Medical Center, Washington, DC",
+    "id": "XF96-0055v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "One Breath",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Medical"
+    ],
+    "prerequisite": "MEDICAL 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Nasa Mission Control, Houston, TX",
+    "id": "XF96-0056v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Space",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Result",
+      "Sciences",
+      "Observation"
+    ],
+    "prerequisite": "SCIENCES 5+ or OBSERVATION 5+",
+    "question": "You may ask one AFFILIATION question or one RESULT question."
+  },
+  {
+    "title": "New York City, NY",
+    "id": "XF96-0057v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Sleepless",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Result",
+      "Medical",
+      "Behavioral"
+    ],
+    "prerequisite": "MEDICAL 5+ or BEHAVIORAL 5+",
+    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Fairfield Zoo, Fairfield, ID",
+    "id": "XF96-0058v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fearful Symmetry",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Motive",
+      "Observation"
+    ],
+    "prerequisite": "OBSERVATION 4+",
+    "question": "You may ask one MOTIVE question."
+  },
+  {
+    "title": "Deadhorse, AK",
+    "id": "XF96-0059v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "End Game",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Result",
+      "Alien Investigation",
+      "Evidence Collection"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
+    "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation Of Evidence\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Containment Facility, Georgetown, MD",
+    "id": "XF96-0060v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Observation"
+    ],
+    "prerequisite": "OBSERVATION 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "University Of Maryland, Baltimore, MD",
+    "id": "XF96-0061v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Lazarus",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "CRIMINAL INVESTIGATION 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Chaco House, Dudley, AR",
+    "id": "XF96-0062v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Our Town",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Motive",
+      "Subterfuge",
+      "Behavioral"
+    ],
+    "prerequisite": "SUBTERFUGE 5+ or BEHAVIORAL 5+",
+    "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Aubrey, MO",
+    "id": "XF96-0063v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Aubrey",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Motive",
+      "Behavioral"
+    ],
+    "prerequisite": "BEHAVIORAL 4+",
+    "question": "You may ask one MOTIVE question."
+  },
+  {
+    "title": "Cape Cod, MA",
+    "id": "XF96-0064v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fire",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Sciences"
+    ],
+    "prerequisite": "SCIENCES 4+",
+    "question": "You may ask one AFFILIATION question."
+  },
+  {
+    "title": "Icy Cape, AK",
+    "id": "XF96-0065v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Ice",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Evidence Collection"
+    ],
+    "prerequisite": "EVIDENCE COLLECTION 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Farmington, NM",
+    "id": "XF96-0066v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Anasazi",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Method",
+      "Alien Investigation",
+      "Computer"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
+    "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "U.F.O. Wreckage, Townsend, WI",
+    "id": "XF96-0067v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Result",
+      "Alien Investigation",
+      "Bureaucracy"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
+    "question": "You may ask one MOTIVE question or one RESULT question."
+  },
+  {
+    "title": "Mattawa, WA",
+    "id": "XF96-0068v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "E.B.E.",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Bureaucracy"
+    ],
+    "prerequisite": "BUREAUCRACY 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Mahan Propulsion Laboratory, Colson, WA",
+    "id": "XF96-0069v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Roland",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Motive",
+      "Computer"
+    ],
+    "prerequisite": "COMPUTER 4+",
+    "question": "You may ask one MOTIVE question."
+  },
+  {
+    "title": "Church Of The Red Museum, Delta Glen, WI",
+    "id": "XF96-0070v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Red Museum",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Method",
+      "Subterfuge",
+      "Medical"
+    ],
+    "prerequisite": "SUBTERFUGE 5+ or MEDICAL 5+",
+    "question": "You may ask one AFFILIATION question or one METHOD question."
+  },
+  {
+    "title": "Psychiatric Hospital, Richmond, VA",
+    "id": "XF96-0071v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Soft Light",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Computer"
+    ],
+    "prerequisite": "COMPUTER 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Washington Monument, Washington, DC",
+    "id": "XF96-0072v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Young at Heart",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Result",
+      "Behavioral",
+      "Observation"
+    ],
+    "prerequisite": "BEHAVIORAL 5+ or OBSERVATION 5+",
+    "question": "You may ask one MOTIVE question or one RESULT question."
+  },
+  {
+    "title": "Marion, VA",
+    "id": "XF96-0073v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Duane Barry",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Behavioral"
+    ],
+    "prerequisite": "BEHAVIORAL 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Arecibo, Puerto Rico",
+    "id": "XF96-0074v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Little Green Men",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Method",
+      "Alien Investigation",
+      "Computer"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
+    "question": "You may ask one AFFILIATION question or one METHOD question."
+  },
+  {
+    "title": "Sea Off Tildeskan, Norway",
+    "id": "XF96-0075v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Dod Kalm",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Observation"
+    ],
+    "prerequisite": "OBSERVATION 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Aleister Crowley High School, Milford Haven, NH",
+    "id": "XF96-0076v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Did Hand Die Verletzt",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Result",
+      "Occult Investigation",
+      "Observation"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 5+ or OBSERVATION 5+",
+    "question": "You may ask one AFFILIATION or one RESULT question."
+  },
+  {
+    "title": "Los Angeles, CA",
+    "id": "XF96-0077v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "3",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Method",
+      "Occult Investigation",
+      "Evidence Collection"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
+    "question": "You may ask one AFFILIATION question or one METHOD question."
+  },
+  {
+    "title": "Minneapolis, MN",
+    "id": "XF96-0078v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Irresistible",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Method",
+      "Result",
+      "Medical",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "MEDICAL 5+ or CRIMINAL INVESTIGATION 5+",
+    "question": "You may ask one METHOD question or one RESULT question."
+  },
+  {
+    "title": "Franklin, PA",
+    "id": "XF96-0079v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Blood",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "CRIMINAL INVESTIGATION 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Eurisko Building, Crystal City, VA",
+    "id": "XF96-0080v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ghost in the Machine",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Method",
+      "Result",
+      "Computer",
+      "Bureaucracy"
+    ],
+    "prerequisite": "COMPUTER 5+ or BUREAUCRACY 5+",
+    "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Folkstone, NC",
+    "id": "XF96-0081v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fresh Bones",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Motive",
+      "Bureaucracy",
+      "Behavioral"
+    ],
+    "prerequisite": "BUREAUCRACY 5+ or BEHAVIORAL 5+",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question."
+  },
+  {
+    "title": "Outskirts Of Atlantic City, NJ",
+    "id": "XF96-0082v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Jersey Devil",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Motive",
+      "Subterfuge",
+      "Observation"
+    ],
+    "prerequisite": "SUBTERFUGE 5+ or OBSERVATION 5+",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question."
+  },
+  {
+    "title": "Browning, MT",
+    "id": "XF96-0083v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Shapes",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Motive",
+      "Occult Investigation"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 4+",
+    "question": "You may ask one MOTIVE question."
+  },
+  {
+    "title": "Steveston, MA",
+    "id": "XF96-0084v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Gender Bender",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Behavioral"
+    ],
+    "prerequisite": "BEHAVIORAL 4+",
+    "question": "You may ask one RESULT question."
+  },
+  {
+    "title": "Skyland Mountain, VA",
+    "id": "XF96-0085v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ascension",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Method",
+      "Subterfuge"
+    ],
+    "prerequisite": "SUBTERFUGE 4+",
+    "question": "You may ask one METHOD question."
+  },
+  {
+    "title": "Baltimore, MD",
+    "id": "XF96-0086v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Squeeze",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Method",
+      "Result",
+      "Sciences",
+      "Evidence Collection"
+    ],
+    "prerequisite": "SCIENCES 5+ or EVIDENCE COLLECTION 5+",
+    "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the skill check prerequisite is 4+.",
+    "tags": [
+      "Reduce Prerequisite"
+    ]
+  },
+  {
+    "title": "Detective Kelly Ryan",
+    "id": "XF96-0087v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Soft Light",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
+    "tags": [
+      "Change Keyword"
+    ]
+  },
+  {
+    "title": "Sinus Cavity Implant",
+    "id": "XF96-0088v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Pilot",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Conspiracy",
+      "Alien",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing cad is played on the Agent."
+  },
+  {
+    "title": "Peter Tanaka",
+    "id": "XF96-0089v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Firewalker",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Primordial"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+.",
+    "tags": [
+      "Change Prerequisite"
+    ]
+  },
+  {
+    "title": "Section Chief Joseph Mcgrath",
+    "id": "XF96-0090v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Bluff",
+    "cost": "5 CP",
+    "keywords": [
+      "Bluff",
+      "Conspiracy",
+      "Government",
+      "Move"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force one Agent (your choice) back to the Bureau immediately. The Agent may not contribute to any skill checks this turn.",
+    "tags": [
+      "Unique",
+      "Move"
+    ]
+  },
+  {
+    "title": "Cigarette Butts",
+    "id": "XF96-0091v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Ascension",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Conspiracy",
+      "Phenomena",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "Sheriff Daniels",
+    "id": "XF96-0092v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Miracle Man",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Primordial",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+.",
+    "tags": [
+      "Change Prerequisite"
+    ]
+  },
+  {
+    "title": "Dr. Berube",
+    "id": "XF96-0093v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "The Overcoat Man",
+    "id": "XF96-0094v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "One Breath",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "You've Got A Tail",
+    "id": "XF96-0095v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "E.B.E.",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play after a Team investigates a Site to destroy one Event RESOURCE."
+  },
+  {
+    "title": "Pete Calcagni",
+    "id": "XF96-0096v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Die Hand Die Verletzt",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff",
+      "Occult",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "Holtzman, D.S.A.",
+    "id": "XF96-0097v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Conduit",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "Claude Peterson",
+    "id": "XF96-0098v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Ghost in the Machine",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "The Conundrum",
+    "id": "XF96-0099v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Humbug",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Evidence Collection"
+    ],
+    "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Paul Mossinger",
+    "id": "XF96-0100v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Deep Throat",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "Intruder Counter-Measures Program",
+    "id": "XF96-0101v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ghost in the Machine",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to add 2 CP to your pool immediately.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Dr. Aaron Monte",
+    "id": "XF96-0102v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Tooms",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
+    "tags": [
+      "Change Keyword"
+    ]
+  },
+  {
+    "title": "Poisonous Gases",
+    "id": "XF96-0103v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena",
+      "Primordial"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Laser Barrier",
+    "id": "XF96-0104v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agent's skills to one skill check (your choice) that the Team makes this turn."
+  },
+  {
+    "title": "Nasty Surprise",
+    "id": "XF96-0105v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Roland",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to add five tokens to your CP pool.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Sleep Deprivation",
+    "id": "XF96-0106v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "E.B.E.",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Decrease all of the skill levels on one Agent (your choice) by 1 for this turn only.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Radioactive Area",
+    "id": "XF96-0107v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fallen Angel",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect."
+  },
+  {
+    "title": "Ghost In The Machine",
+    "id": "XF96-0108v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Ghost in the Machine",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT.",
+    "tags": [
+      "Change Keyword"
+    ]
+  },
+  {
+    "title": "Unnatural Aging",
+    "id": "XF96-0109v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Dod Kalm",
+    "type": "Bluff",
+    "cost": "5 CP",
+    "keywords": [
+      "Bluff",
+      "Alien",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Car Troubles",
+    "id": "XF96-0110v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Shadows",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena",
+      "Move"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on a Team of three or more Agents moving to the same Site. The Team may only send two Agents to that Site (owning player's choice). Any extra Agents remain in the Team but may not contribute their skills to any checks this turn. In addition, playing this card will prevent the use of the \"Evasive Maneuver\" card by this Team this turn."
+  },
+  {
+    "title": "Puzzles Within Puzzles",
+    "id": "XF96-0111v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "One Breath",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to negate one Keyword CRIMINAL INVESTIGATION card.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Government Cover-Up",
+    "id": "XF96-0112v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Anasazi",
+    "type": "Bluff",
+    "cost": "X CP",
+    "keywords": [
+      "Bluff",
+      "Conspiracy",
+      "Phenomena",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "tags": [
+      "Decrease Skill"
+    ]
+  },
+  {
+    "title": "Hazardous Sample",
+    "id": "XF96-0113v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Ice",
+    "type": "Bluff",
+    "cost": "4 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "Henry Trondheim",
+    "id": "XF96-0114v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Dod Kalm",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "Detective Miles",
+    "id": "XF96-0115v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Pilot",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Alien"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Pay 1 CP to move up to 2 RP from your opponent's RP pool to your CP pool immediately.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Detective Thompson",
+    "id": "XF96-0116v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Jersey Devil",
+    "type": "Bluff",
+    "cost": "3 CP",
+    "keywords": [
+      "Bluff",
+      "Primordial"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+.",
+    "tags": [
+      "Change Prerequisite"
+    ]
+  },
+  {
+    "title": "Harry Cokely",
+    "id": "XF96-0117v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Aubrey",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD.",
+    "tags": [
+      "Change Keyword"
+    ]
+  },
+  {
+    "title": "Detective Tony Fiore",
+    "id": "XF96-0118v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Born Again",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff",
+      "Occult"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "B.J. Morrow, Genetic Trait Recipient",
+    "id": "XF96-0119v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Aubrey",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Control",
+      "Method": "Possession",
+      "Result": "Insanity"
+    }
+  },
+  {
+    "title": "Augustus Cole, A.K.A. The Preacher",
+    "id": "XF96-0120v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Sleepless",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Control",
+      "Method": "Manipulation",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "The Cigarette-Smoking Man",
+    "id": "XF96-0121v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": null,
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Ideology",
+      "Method": "Threats",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Duane Barry",
+    "id": "XF96-0122v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Duane Barry",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Survival",
+      "Method": "Violence",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "The Jersey Devil",
+    "id": "XF96-0123v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Jersey Devil",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Security",
+      "Method": "Violence",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "The Host",
+    "id": "XF96-0124v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "The Host",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Survival",
+      "Method": "Violence",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "Lucas Henry, Serial Killer",
+    "id": "XF96-0125v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Beyond the Sea",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Control",
+      "Method": "Violence",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "Arthur Grable",
+    "id": "XF96-0126v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Roland",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Knowledge",
+      "Method": "Possession",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Warren James Dupré, The Lazarus Man",
+    "id": "XF96-0127v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Lazarus",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Survival",
+      "Method": "Possession",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "Colonel Wharton, Zombie Master",
+    "id": "XF96-0128v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fresh Bones",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Knowledge",
+      "Method": "Subterfuge",
+      "Result": "Insanity"
+    }
+  },
+  {
+    "title": "Alien Dna Steroid Program (project Purity Control)",
+    "id": "XF96-0129v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Red Museum",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Knowledge",
+      "Method": "Subterfuge",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "The Gregors",
+    "id": "XF96-0130v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Colony",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Security",
+      "Method": "Manipulation",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Sheriff Tom Arens, Cannibal",
+    "id": "XF96-0131v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Our Town",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Ideology",
+      "Method": "Subterfuge",
+      "Result": "Insanity"
+    }
+  },
+  {
+    "title": "The Vampire, A.K.A. The Unholy Spirit",
+    "id": "XF96-0132v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "3",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Survival",
+      "Method": "Subterfuge",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Central Operating System, Artificial Intelligence",
+    "id": "XF96-0133v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Ghost in the Machine",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Security",
+      "Method": "Violence",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Volcanic Spore",
+    "id": "XF96-0134v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Firewalker",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Survival",
+      "Method": "Manipulation",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "Michael Holvey, The Evil One",
+    "id": "XF96-0135v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "The Calusari",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Ideology",
+      "Method": "Possession",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "Eugene Victor Tooms",
+    "id": "XF96-0136v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Squeeze",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Survival",
+      "Method": "Subterfuge",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Howard Graves, The Poltergeist",
+    "id": "XF96-0137v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Shadows",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Security",
+      "Method": "Threats",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Dr. Banton And His Shadow",
+    "id": "XF96-0138v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Soft Light",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Ideology",
+      "Method": "Threats",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Alien Listeners",
+    "id": "XF96-0139v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Little Green Men",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Ideology",
+      "Method": "Subterfuge",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Commander Colin Henderson",
+    "id": "XF96-0140v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fallen Angel",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Security",
+      "Method": "Subterfuge",
+      "Result": "Manipulation of Evidence"
+    }
+  },
+  {
+    "title": "Arctic Worm",
+    "id": "XF96-0141v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Ice",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Survival",
+      "Method": "Possession",
+      "Result": "Insanity"
+    }
+  },
+  {
+    "title": "The Manitou",
+    "id": "XF96-0142v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Shapes",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Control",
+      "Method": "Violence",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Leonard Vance",
+    "id": "XF96-0143v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Miracle Man",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Knowledge",
+      "Method": "Manipulation",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "Ancestor Spirits",
+    "id": "XF96-0144v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Excelsius Dei",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Ideology",
+      "Method": "Threats",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "Ed Funsch, Postal Worker",
+    "id": "XF96-0145v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Blood",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Control",
+      "Method": "Possession",
+      "Result": "Insanity"
+    }
+  },
+  {
+    "title": "Mrs. Paddock, A.K.A. The Dark Angel",
+    "id": "XF96-0146v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Die Hand Die Verletzt",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Occult",
+      "Motive": "Ideology",
+      "Method": "Threats",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Dod Kalm",
+    "id": "XF96-0147v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Dod Kalm",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Control",
+      "Method": "Manipulation",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "John Barnett",
+    "id": "XF96-0148v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Young At Heart",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Control",
+      "Method": "Violence",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Alien Conservationist",
+    "id": "XF96-0149v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fearful Symmetry",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Ideology",
+      "Method": "Subterfuge",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "Faciphaga Emasculata",
+    "id": "XF96-0150v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "F. Emasculata",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Knowledge",
+      "Method": "Manipulation",
+      "Result": "Physiological Imbalance"
+    }
+  },
+  {
+    "title": "Donnie Pfaster, Death Fetishist",
+    "id": "XF96-0151v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Irresistible",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Ideology",
+      "Method": "Subterfuge",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Brother Martin, Rogue Kindred",
+    "id": "XF96-0152v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Gender Bender",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Knowledge",
+      "Method": "Violence",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Alien Abductors",
+    "id": "XF96-0153v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fallen Angel",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Knowledge",
+      "Method": "Subterfuge",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "Eve",
+    "id": "XF96-0154v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Eve",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Knowledge",
+      "Method": "Violence",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "Alien Experimenters",
+    "id": "XF96-0155v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Pilot",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Alien",
+      "Motive": "Survival",
+      "Method": "Possession",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Reverse Engineers",
+    "id": "XF96-0156v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Deep Throat",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Government",
+      "Motive": "Security",
+      "Method": "Threats",
+      "Result": "Insanity"
+    }
+  },
+  {
+    "title": "The Swarm",
+    "id": "XF96-0157v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Darkness Falls",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Primordial",
+      "Motive": "Survival",
+      "Method": "Violence",
+      "Result": "Abduction"
+    }
+  },
+  {
+    "title": "Leonard, Detachable Congenital Twin",
+    "id": "XF96-0158v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Humbug",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Control",
+      "Method": "Violence",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Cecil L'ively",
+    "id": "XF96-0159v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fire",
+    "type": "X-File",
+    "characteristics": {
+      "Affiliation": "Evolutionary",
+      "Motive": "Control",
+      "Method": "Threats",
+      "Result": "Death"
+    }
+  },
+  {
+    "title": "Section Chief Scott Blevins",
+    "id": "XF96-0160v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Pilot",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Neutral",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 1,
+      "Bureaucracy": 3,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Treat Section Chief Blevins as a RES 2 if he is in the Bureau Section. If he is in the Bureau Section, he may contribute to the Conspiracy Pool instead of the Resources Pool during the Briefing Phase."
+  },
+  {
+    "title": "Albert Hosteen",
+    "id": "XF96-0161v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Anasazi",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 2,
+      "Medical": 2,
+      "Observation": 1,
+      "Occult Investigation": 4,
+      "Subterfuge": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played.",
+    "tags": [
+      "Examine Hand"
+    ]
+  },
+  {
+    "title": "Agent Alex Krycek",
+    "id": "XF96-0162v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "Ascension",
+    "type": "Agent",
+    "cost": "6 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Neutral",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Sciences": 1,
+      "Subterfuge": 4,
+      "Long Range Combat": 4,
+      "Close Range Combat": 2,
+      "Health": 5,
+      "Resources": 2
+    },
+    "gameText": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Agent Fox Mulder",
+    "id": "XF96-0163v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": null,
+    "type": "Agent",
+    "cost": "7 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 4,
+      "Behavioral": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Observation": 2,
+      "Occult Investigation": 3,
+      "Sciences": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 5,
+      "Resources": 2
+    },
+    "gameText": "RP's generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero cost.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Lt. Brian Tillman, Aubrey Police Department",
+    "id": "XF96-0164v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Aubrey",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Law"
+    ],
+    "skills": {
+      "Bureaucracy": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Occult Investigation": 1,
+      "Sciences": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Agent Rich",
+    "id": "XF96-0165v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Duane Barry",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Behavioral": 2,
+      "Computer": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Subterfuge": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Agent Lucy Kazdin",
+    "id": "XF96-0166v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Duane Barry",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Alien Investigation": 1,
+      "Behavioral": 3,
+      "Computer": 1,
+      "Medical": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "If one of your Agents is Abducted, you may immediately draw two cards."
+  },
+  {
+    "title": "Agent Jack Willis",
+    "id": "XF96-0167v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Lazarus",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Behavioral": 2,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Occult Investigation": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 5,
+      "Resources": 1
+    },
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search"
+    ]
+  },
+  {
+    "title": "Inspector Phoebe Green",
+    "id": "XF96-0168v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Fire",
+    "type": "Agent",
+    "cost": "5 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Law"
+    ],
+    "skills": {
+      "Criminal Investigation": 3,
+      "Evidence Collection": 2,
+      "Observation": 3,
+      "Sciences": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place a token on this card. Discard a token to move Agent Fox Mulder from anywhere on the table to the Team Phoebe Green is in. Mulder may assist in any skill check made by the team. In this manner, Mulder may assist on two Sites in one turn.",
+    "tags": [
+      "Move"
+    ]
+  },
+  {
+    "title": "Agent Fox Mulder",
+    "id": "XF96-0169v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": null,
+    "type": "Agent",
+    "cost": "7 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 4,
+      "Behavioral": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Observation": 2,
+      "Occult Investigation": 3,
+      "Sciences": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 5,
+      "Resources": 2
+    },
+    "gameText": "RP's generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero cost."
+  },
+  {
+    "title": "Agent Alex Krycek",
+    "id": "XF96-0170v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Ascension",
+    "type": "Agent",
+    "cost": "6 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Neutral",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Sciences": 1,
+      "Subterfuge": 4,
+      "Long Range Combat": 4,
+      "Close Range Combat": 2,
+      "Health": 5,
+      "Resources": 2
+    },
+    "gameText": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase."
+  },
+  {
+    "title": "Agent Nancy Spiller",
+    "id": "XF96-0171v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Ghost in the Machine",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Bureaucracy": 2,
+      "Computer": 1,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Medical": 3,
+      "Sciences": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Agent Dana Scully",
+    "id": "XF96-0172v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": null,
+    "type": "Agent",
+    "cost": "7 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Behavioral": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Medical": 4,
+      "Observation": 2,
+      "Occult Investigation": 1,
+      "Sciences": 3,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 2
+    },
+    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
+    "tags": [
+      "Unique",
+      "Examine Hand"
+    ]
+  },
+  {
+    "title": "Agent Dana Scully",
+    "id": "XF96-0173v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": null,
+    "type": "Agent",
+    "cost": "7 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Behavioral": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Medical": 4,
+      "Observation": 2,
+      "Occult Investigation": 1,
+      "Sciences": 3,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 2
+    },
+    "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
+    "tags": [
+      "Examine Hand"
+    ]
+  },
+  {
+    "title": "Assistant Director Walter Skinner",
+    "id": "XF96-0174v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": null,
+    "type": "Agent",
+    "cost": "6 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Neutral",
+      "Skeptic"
+    ],
+    "skills": {
+      "Bureaucracy": 4,
+      "Criminal Investigation": 3,
+      "Evidence Collection": 2,
+      "Subterfuge": 3,
+      "Long Range Combat": 2,
+      "Close Range Combat": 3,
+      "Health": 5,
+      "Resources": 1
+    },
+    "gameText": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Dr. Charles Burk",
+    "id": "XF96-0175v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "The Calusari",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 1,
+      "Computer": 4,
+      "Observation": 1,
+      "Occult Investigation": 2,
+      "Sciences": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Place one token on this card. Discard a token to negate one OCCULT Adversary.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Agent Tom Colton",
+    "id": "XF96-0176v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Squeeze",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Behavioral": 1,
+      "Bureaucracy": 1,
+      "Criminal Investigation": 2,
+      "Sciences": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 3,
+      "Resources": 2
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Agent Janus, Trained Medic",
+    "id": "XF96-0177v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Duane Barry",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Computer": 2,
+      "Evidence Collection": 1,
+      "Medical": 3,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Agent Moe Bocks",
+    "id": "XF96-0178v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Irresistible",
+    "type": "Agent",
+    "cost": "5 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Believer"
+    ],
+    "skills": {
+      "Alien Investigation": 2,
+      "Bureaucracy": 1,
+      "Criminal Investigation": 3,
+      "Evidence Collection": 2,
+      "Observation": 1,
+      "Sciences": 1,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Agent Reggie Purdue",
+    "id": "XF96-0179v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Young At Heart",
+    "type": "Agent",
+    "cost": "5 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "skills": {
+      "Behavioral": 1,
+      "Computer": 2,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Observation": 2,
+      "Subterfuge": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search"
+    ]
+  },
+  {
+    "title": "Assistant Director Walter Skinner",
+    "id": "XF96-0180v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Ascension",
+    "type": "Agent",
+    "cost": "6 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Neutral",
+      "Skeptic"
+    ],
+    "skills": {
+      "Bureaucracy": 4,
+      "Criminal Investigation": 3,
+      "Evidence Collection": 2,
+      "Subterfuge": 3,
+      "Long Range Combat": 2,
+      "Close Range Combat": 3,
+      "Health": 5,
+      "Resources": 1
+    },
+    "gameText": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table."
+  },
+  {
+    "title": "Agent Weiss",
+    "id": "XF96-0181v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Colony",
+    "type": "Agent",
+    "cost": "4 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Computer": 1,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 2,
+      "Observation": 2,
+      "Subterfuge": 1,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck.",
+    "tags": [
+      "Search"
+    ]
+  },
+  {
+    "title": "Agent Jerry Lamana",
+    "id": "XF96-0182v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Ghost in the Machine",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "skills": {
+      "Bureaucracy": 2,
+      "Computer": 3,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn.",
+    "tags": [
+      "Examine Hand"
+    ]
+  },
+  {
+    "title": "Agent Karen Kosseff, Counselor",
+    "id": "XF96-0183v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Irresistible",
+    "type": "Agent",
+    "cost": "3 RP",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Believer"
+    ],
+    "skills": {
+      "Behavioral": 3,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Medical": 1,
+      "Occult Investigation": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "tags": [
+      "Replenish Token"
+    ]
+  },
+  {
+    "title": "Sheriff Spencer",
+    "id": "XF96-0184v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Blood",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Criminal Investigation"
+    ],
+    "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check."
+  },
+  {
+    "title": "Dr. Blockhead",
+    "id": "XF96-0185v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Humbug",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Evolutionary",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Evolutionary",
+      "Negate"
+    ],
+    "gameText": "Negates one EVOLUTIONARY CREATURE."
+  },
+  {
+    "title": "The Thinker",
+    "id": "XF96-0186v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Anasazi",
+    "type": "Witness",
+    "cost": "5 RP",
+    "keywords": [
+      "Witness"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent."
+  },
+  {
+    "title": "Byers",
+    "id": "XF96-0187v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "E.B.E.",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Computer"
+    ],
+    "activators": [
+      "Active",
+      "Computer"
+    ],
+    "gameText": "Adds 1 to one Team's COMPUTER skill check."
+  },
+  {
+    "title": "Emil And Zoe",
+    "id": "XF96-0188v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Deep Throat",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Observation"
+    ],
+    "activators": [
+      "Active",
+      "Observation"
+    ],
+    "gameText": "Adds 2 to one Team's OBSERVATION skill check."
+  },
+  {
+    "title": "Dr. Davey",
+    "id": "XF96-0189v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Soft Light",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Sciences"
+    ],
+    "activators": [
+      "Active",
+      "Sciences"
+    ],
+    "gameText": "Adds 2 to one Team's SCIENCES skill check."
+  },
+  {
+    "title": "Billy Miles",
+    "id": "XF96-0190v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Pilot",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Alien Investigation"
+    ],
+    "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check."
+  },
+  {
+    "title": "Dr. Diamond",
+    "id": "XF96-0191v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Jersey Devil",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 to one Team's BEHAVIORAL skill check once during your turn."
+  },
+  {
+    "title": "Detective Frank Briggs",
+    "id": "XF96-0192v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Squeeze",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Criminal Investigation"
+    ],
+    "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check."
+  },
+  {
+    "title": "Dr. Grissom",
+    "id": "XF96-0193v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Sleepless",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Evolutionary",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 RP to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
+    "tags": [
+      "Unique",
+      "Recurring Resource"
+    ]
+  },
+  {
+    "title": "Kevin Morris, A.K.A. The Conduit",
+    "id": "XF96-0194v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Conduit",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Alien Investigation",
+      "Evidence Collection",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 RP to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
+    "tags": [
+      "Unique",
+      "Recurring Resource"
+    ]
+  },
+  {
+    "title": "Detective Sharon Lazard",
+    "id": "XF96-0195v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Born Again",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Active",
+      "Evidence Collection"
+    ],
+    "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check."
+  },
+  {
+    "title": "Dr. Lakos",
+    "id": "XF96-0196v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Dod Kalm",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Medical"
+    ],
+    "activators": [
+      "Active",
+      "Medical"
+    ],
+    "gameText": "Adds 2 to one Team's MEDICAL skill check."
+  },
+  {
+    "title": "The Calusari",
+    "id": "XF96-0197v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Calusari",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Negate",
+      "Occult"
+    ],
+    "activators": [
+      "Active",
+      "Occult",
+      "Creature"
+    ],
+    "gameText": "Negates one OCCULT CREATURE."
+  },
+  {
+    "title": "Bill Mulder",
+    "id": "XF96-0198v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Colony",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Negate",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Active",
+      "Subterfuge"
+    ],
+    "gameText": "Adds 2 to one Agent's SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game."
+  },
+  {
+    "title": "Charley Tskany",
+    "id": "XF96-0199v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Shapes",
+    "type": "Witness",
+    "cost": "4 RP",
+    "keywords": [
+      "Witness",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to a Team. This Witness will add his skills to the appropriate skill check like an Agent, CRC: 2, LRC: 2, and HEALTH: 3. If he is sent to the Hospital, or at any time there are no Agents in the Team, remove the card from the game.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Dr. Osborne",
+    "id": "XF96-0200v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "F. Emasculata",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Government",
+      "Medical",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 RP to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
+    "tags": [
+      "Unique",
+      "Recurring Resource"
+    ]
+  },
+  {
+    "title": "Michelle Generoo",
+    "id": "XF96-0201v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Space",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Bureaucracy",
+      "Computer",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 RP to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
+    "tags": [
+      "Unique",
+      "Recurring Resource"
+    ]
+  },
+  {
+    "title": "Sir Malcolm Marsden",
+    "id": "XF96-0202v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Fire",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Active",
+      "Bureaucracy"
+    ],
+    "gameText": "Adds 1 to one Team's BUREAUCRACY skill check."
+  },
+  {
+    "title": "Samantha Mulder",
+    "id": "XF96-0203v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Colony",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Subterfuge",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 to one Team's SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play."
+  },
+  {
+    "title": "Max Fenig",
+    "id": "XF96-0204v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Alien Investigation"
+    ],
+    "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is thee target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated."
+  },
+  {
+    "title": "Dr. Hodge",
+    "id": "XF96-0205v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Ice",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Medical"
+    ],
+    "activators": [
+      "Active",
+      "Medical"
+    ],
+    "gameText": "Adds 1 to one Team's MEDICAL skill check."
+  },
+  {
+    "title": "Doug Spinney",
+    "id": "XF96-0206v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Darkness Falls",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Sciences"
+    ],
+    "activators": [
+      "Active",
+      "Sciences"
+    ],
+    "gameText": "Adds 1 to one Team's SCIENCES skill check."
+  },
+  {
+    "title": "Dr. Sheila Braun",
+    "id": "XF96-0207v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Born Again",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Behavioral"
+    ],
+    "activators": [
+      "Active",
+      "Behavioral"
+    ],
+    "gameText": "Adds 2 to one Team's BEHAVIORAL skill check."
+  },
+  {
+    "title": "U.S. Marshall Tapia",
+    "id": "XF96-0208v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "F. Emasculata",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Active",
+      "Evidence Collection"
+    ],
+    "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check."
+  },
+  {
+    "title": "Brad Wilczek",
+    "id": "XF96-0209v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ghost in the Machine",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Computer"
+    ],
+    "activators": [
+      "Active",
+      "Computer"
+    ],
+    "gameText": "Adds 2 to one Team's COMPUTER skill check."
+  },
+  {
+    "title": "Dr. Nollette",
+    "id": "XF96-0210v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Roland",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Observation",
+      "Sciences",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 RP to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
+    "tags": [
+      "Unique",
+      "Recurring Resource"
+    ]
+  },
+  {
+    "title": "Ish-Tribal Elder",
+    "id": "XF96-0211v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Shapes",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Occult Investigation"
+    ],
+    "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check."
+  },
+  {
+    "title": "Sheriff Mazeroski",
+    "id": "XF96-0212v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Red Museum",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Alien",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Government",
+      "Pawn"
+    ],
+    "gameText": "Negates one GOVERNMENT PAWN"
+  },
+  {
+    "title": "Lt. Colonel Marcus Aurelius Belt",
+    "id": "XF96-0213v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Space",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Alien",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Alien",
+      "Creature"
+    ],
+    "gameText": "Negates one ALIEN CREATURE."
+  },
+  {
+    "title": "Gung Bituen",
+    "id": "XF96-0214v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Excelsius Dei",
+    "type": "Witness",
+    "cost": "4 RP",
+    "keywords": [
+      "Witness",
+      "Occult",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to a Team. Enables your Agents to deal damage to OCCULT CREATUREs as normal. For example, you may use LRC against POLTERGEISTs and VAMPIREs. If at any time there are no Agents in the Team to which this card is attached, discard this card."
+  },
+  {
+    "title": "Kristen Kilar",
+    "id": "XF96-0215v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "3",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation",
+      "Occult Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 RP to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
+    "tags": [
+      "Unique",
+      "Recurring Resource"
+    ]
+  },
+  {
+    "title": "Gerd Thomas",
+    "id": "XF96-0216v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Red Museum",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Observation"
+    ],
+    "activators": [
+      "Active",
+      "Observation"
+    ],
+    "gameText": "Adds 1 to one Team's OBSERVATION skill check."
+  },
+  {
+    "title": "Dr. Daniel Trepkos",
+    "id": "XF96-0217v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Firewalker",
+    "type": "Witness",
+    "cost": "2 RP",
+    "keywords": [
+      "Witness",
+      "Negate",
+      "Primordial"
+    ],
+    "activators": [
+      "Active",
+      "Primordial",
+      "Creature"
+    ],
+    "gameText": "Negates one PRIMORDIAL CREATURE."
+  },
+  {
+    "title": "Maggie Holvey",
+    "id": "XF96-0218v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "The Calusari",
+    "type": "Witness",
+    "cost": "1 RP",
+    "keywords": [
+      "Witness",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Occult Investigation"
+    ],
+    "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check."
+  },
+  {
+    "title": "Luther Lee Boggs",
+    "id": "XF96-0219v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Beyond the Sea",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Occult"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card at anytime during your turn to examine your opponent's hand.",
+    "tags": [
+      "Examine Hand"
+    ]
+  },
+  {
+    "title": "Senator Richard Matheson",
+    "id": "XF96-0220v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Little Green Men",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Bureaucracy",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded."
+  },
+  {
+    "title": "Successful Diagnosis",
+    "id": "XF96-0221v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Darkness Falls",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Healing"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place on a Team in the Hospital containing an injured Agent. The Agent heals 2 damage immediately."
+  },
+  {
+    "title": "Deep Throat",
+    "id": "XF96-0222v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "Deep Throat",
+    "type": "Event",
+    "cost": "5 RP",
+    "keywords": [
+      "Event",
+      "Question"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Ask any one Characteristic question regarding one opponent's X-File. Remove this card from the game. The effects of this card may not be negated.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Shutting Down The X-Files",
+    "id": "XF96-0223v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "3",
+    "type": "Event",
+    "cost": "3 CP",
+    "keywords": [
+      "Event",
+      "Move",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on any Team containing Agent Fox Mulder and/or Agent Dana Scully. Mulder must immediately be moved to the Bureau. Scully must immediately be moved to the Hospital (undamaged). Neither my contribute their skills to skill checks this turn."
+  },
+  {
+    "title": "Reporters At The Crime Scene",
+    "id": "XF96-0224v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fallen Angel",
+    "type": "Event",
+    "cost": "1 CP",
+    "keywords": [
+      "Event",
+      "Question"
+    ],
+    "activators": [
+      "Multiplayer",
+      "Conspiracy"
+    ],
+    "gameText": "Play when one player has just asked a Characteristic question and you were not the Directed player. If the player achieved the prerequisite skill number exactly, then he must tell all opponents the answer to the Characteristic question."
+  },
+  {
+    "title": "I Want To Believe",
+    "id": "XF96-0225v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Conduit",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Alien Investigation",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check."
+  },
+  {
+    "title": "Road Trip",
+    "id": "XF96-0226v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ascension",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Move",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 6+ skill check they may investigate two Sites this turn. Resolve each Site individually."
+  },
+  {
+    "title": "Hidden Transmitter",
+    "id": "XF96-0227v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Question",
+      "Government",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Multiplayer"
+    ],
+    "gameText": "Play after an opponent Team successfully asks a Characteristic question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Medical Treatment",
+    "id": "XF96-0228v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Colony",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Healing"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on an Agent in the Hospital. The Agent heals one token of damage immediately."
+  },
+  {
+    "title": "Agent Weiss Killed By Unknown Toxin",
+    "id": "XF96-0229v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Colony",
+    "type": "Event",
+    "cost": "10 CP",
+    "keywords": [
+      "Event",
+      "Killer",
+      "Alien"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "If your opponent includes Agent Weiss in any skill check in the Field, Agent Weiss is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "The Cigarette-Smoking Man Strikes",
+    "id": "XF96-0230v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Anasazi",
+    "type": "Event",
+    "cost": "5 CP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn.",
+    "tags": [
+      "Change Keyword"
+    ]
+  },
+  {
+    "title": "Eve 7",
+    "id": "XF96-0231v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Eve",
+    "type": "Event",
+    "cost": "X CP",
+    "keywords": [
+      "Event",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Bluff"
+    ],
+    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 per Bluff removed."
+  },
+  {
+    "title": "Street Contacts",
+    "id": "XF96-0232v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "One Breath",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck.",
+    "tags": [
+      "Search"
+    ]
+  },
+  {
+    "title": "Government Arrests Suspects",
+    "id": "XF96-0233v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Conduit",
+    "type": "Event",
+    "cost": "1 CP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Negate one Witness that modifies ALIEN INVESTIGATION or BUREAUCRACY skill."
+  },
+  {
+    "title": "Red Tape",
+    "id": "XF96-0234v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Host",
+    "type": "Event",
+    "cost": "3 CP",
+    "keywords": [
+      "Event",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play during the Briefing Phase to prevent one opponent from drawing any cards during the remainder of this turn."
+  },
+  {
+    "title": "S.W.A.T. Training",
+    "id": "XF96-0235v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Jersey Devil",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Training"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal and in addition has a +1 in one of the following skills: LRC, CRC or the ability to use MARTIAL ARTS Combat cards. Place this card below the Agent to remind you of the increased skill."
+  },
+  {
+    "title": "Fingerprints",
+    "id": "XF96-0236v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Tooms",
+    "type": "Event",
+    "cost": "2 RCP",
+    "keywords": [
+      "Event",
+      "Evidence Collection",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on one Team in the Field. If the Team makes an EVIDENCE COLLECTION skill check 5+, then they may add 2 to any Site skill check. Discard this card after you've used the modifier."
+  },
+  {
+    "title": "Back Tracking Program",
+    "id": "XF96-0237v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Little Green Men",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Computer"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Computer"
+    ],
+    "gameText": "Play this card to negate any Keyword COMPUTER card.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Agent Lamana Dies In Fatal Elevator Accident",
+    "id": "XF96-0238v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ghost in the Machine",
+    "type": "Event",
+    "cost": "10 CP",
+    "keywords": [
+      "Event",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "If your opponent includes Agent Lamana in any skill check in the Field, Agent Lamana is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Evidence Destroyed",
+    "id": "XF96-0239v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Pilot",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Evidence Collection"
+    ],
+    "gameText": "Negate one Keyword EVIDENCE COLLECTION card."
+  },
+  {
+    "title": "Surfing The Net",
+    "id": "XF96-0240v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Colony",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Computer"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Have a Team make a COMPUTER 4+ skill check. If successful, draw three cards from your chosen opponent's Bureau deck and choose one to place in your Bureau Section face down. Place the other two cards back on top of your opponent's Bureau Deck in any order. You may use the chosen card when appropriate but you must pay the cost. Return the card to its owner's Discard Pile after it has been used. Leave this card on top of the card you've taken from your opponent to remind you that the card you took is considered an EVENT, RESOURCE."
+  },
+  {
+    "title": "Government Sanctioned Pheromone Experiments",
+    "id": "XF96-0241v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Blood",
+    "type": "Event",
+    "cost": "9 CP",
+    "keywords": [
+      "Event",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Thorough Documentation",
+    "id": "XF96-0242v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Roland",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Evidence Collection",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play prior to a Site skill check. If the Site skill check is successful, place this card in your Bureau Section. You may discard this card in any of your investigation phases to add 2 to a Site skill check. Discard this card after you've used the modifier."
+  },
+  {
+    "title": "Skinner Chooses A Side",
+    "id": "XF96-0243v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "End Game",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play when Assistant Director Walter Skinner is in the Bureau Section of the table and the AFFILIATION of your opponent's X-File is known. Add the following modifiers to Skinner's skills: +1 BUREAUCRACY, +1 SUBTERFUGE. Skinner is now immune to the \"Skinner Adopts The Company Line\" card. Place two tokens on this card. Discard a token to negate one Event card. Place this card below Skinner to remind you of the increased skills.",
+    "tags": [
+      "Unique",
+      "Affect Agent",
+      "Negate"
+    ]
+  },
+  {
+    "title": "Overwhelming Force",
+    "id": "XF96-0244v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Calusari",
+    "type": "Event",
+    "cost": "3 CP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "You may now play up to three Adversary cards simultaneously. All cards played using this card count as one Adversary card for game purposes (e.g., the \"Overwhelming Force\" card and all Adversaries can be negated as one card). The Adversaries all deal damage and take damage separately.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Warning From The Loa",
+    "id": "XF96-0245v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fresh Bones",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Occult"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Force an opponent player to reveal any Adversary cards in his hand. If your opponent has one or more, discard one at random.",
+    "tags": [
+      "Unique",
+      "Discard"
+    ]
+  },
+  {
+    "title": "Evidence Overlooked",
+    "id": "XF96-0246v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Lazarus",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Observation",
+      "Resource"
+    ],
+    "activators": [
+      "Active",
+      "Site"
+    ],
+    "gameText": "If the Team makes an OBSERVATION 4+ skill check, they gain a +1 to the Site skill check. Discard this card after you've used the modifier."
+  },
+  {
+    "title": "Message From The Stars",
+    "id": "XF96-0247v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Event",
+    "cost": "5 RP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Question",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active",
+      "Alien",
+      "Adversary"
+    ],
+    "gameText": "Negate one ALIEN Adversary. In addition, if the Team makes an ALIEN INVESTIGATION skill check 6+, they may ask either one AFFILIATION question or one MOTIVE question.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Dana Scully, Abducted",
+    "id": "XF96-0248v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "Ascension",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event",
+      "Alien"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "If an Abduction card is played on a Team of Agents that includes Scully, Scully must be the Agent abducted instead. When Agent Scully returns to play she has the following modifiers added to her skills: +1 ALIEN INVESTIGATION, +1 OCCULT INVESTIGATION, +1 OBSERVATION, Keyword BELIEVER. Place this card below Scully to remind you of the increased skills. Place two tokens on this card. Discard a token to search through your Bureau deck and add any Healing card to your hand. Show it to your opponent and shuffle your deck.",
+    "tags": [
+      "Unique",
+      "Affect Agent"
+    ]
+  },
+  {
+    "title": "Reading The Signs",
+    "id": "XF96-0249v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fresh Bones",
+    "type": "Event",
+    "cost": "0 RP",
+    "keywords": [
+      "Event",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 from their opponent's Conspiracy Pool and add them to their Resource Pool."
+  },
+  {
+    "title": "Agent Jack Willis Shot To Death In Bank Robbery",
+    "id": "XF96-0250v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Lazarus",
+    "type": "Event",
+    "cost": "10 CP",
+    "keywords": [
+      "Event",
+      "Killer",
+      "Occult"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "If your opponent includes Agent Willis in any skill check in the Field, Agent Willis is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Skinner Adopts The Company Line",
+    "id": "XF96-0251v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Tooms",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Move",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn.",
+    "tags": [
+      "Affect Agent"
+    ]
+  },
+  {
+    "title": "Safe House",
+    "id": "XF96-0252v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Red Museum",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Witness"
+    ],
+    "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect.",
+    "tags": [
+      "Modify Witness"
+    ]
+  },
+  {
+    "title": "Crop Circles",
+    "id": "XF96-0253v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Gender Bender",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Alien",
+      "Resource"
+    ],
+    "activators": [
+      "Active",
+      "Site",
+      "Alien Investigation"
+    ],
+    "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check."
+  },
+  {
+    "title": "Langly",
+    "id": "XF96-0254v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Bluff"
+    ],
+    "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "Expedite Request For Resources",
+    "id": "XF96-0255v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Jersey Devil",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then you may search through your Bureau Deck and draw one Equipment card to add to your hand. Show the card to your opponents and then shuffle your deck."
+  },
+  {
+    "title": "Paperwork",
+    "id": "XF96-0256v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Conduit",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Unexplainable Time Loss",
+    "id": "XF96-0257v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Pilot",
+    "type": "Event",
+    "cost": "5 CP",
+    "keywords": [
+      "Alien",
+      "Event",
+      "Sciences"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Clone",
+    "id": "XF96-0258v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "End Game",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Alien",
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card on any Witness that has just been played. The owning player must shuffle the Witness back into their Bureau deck immediately and does not benefit from the Witness."
+  },
+  {
+    "title": "Suspect Description",
+    "id": "XF96-0259v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Young at Heart",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team that fails a Site skill check when combat was involved. If the Team makes a CRIMINAL INVESTIGATION 3+ skill check, place the Site in the Bureau. At the start of your Briefing Phase, you may place the Site into your hand."
+  },
+  {
+    "title": "Smoke Screen",
+    "id": "XF96-0260v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Tooms",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Bureaucracy",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then designate a Team in the Field. As long as no new members are added to that Team, GOVERNMENT Adversaries may not attack that Team. This card remains in effect until a new Agent is added to the Team."
+  },
+  {
+    "title": "Dark Forces Align",
+    "id": "XF96-0261v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Die Hand Die Verletzt",
+    "type": "Event",
+    "cost": "6 CP",
+    "keywords": [
+      "Event",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on an opponent Team in any Section. For the rest of the turn, that Team is considered to have a single Characteristic SITE Keyword (i.e., RESULT SITE). You may choose any one Characteristic for the Keyword."
+  },
+  {
+    "title": "Computer Access Denied",
+    "id": "XF96-0262v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ghost in the Machine",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Computer"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Improved Channels",
+    "id": "XF96-0263v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "One Breath",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "The Team must make a BUREAUCRACY 4+ skill check. If successful, you may now have up to ten cards in hand at the end of your turn. This condition stays in effect until you are forced to discard this card. Discard this card if one of your Agents is moved from or to the Bureau Section of the table for any reason."
+  },
+  {
+    "title": "The Erlenmeyer Flask",
+    "id": "XF96-0264v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Event",
+    "cost": "4 RP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Alien Investigation",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Negates any one card played against your Team during a BUREAUCRACY or ALIEN INVESTIGATION skill check.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Krycek, The Double Agent",
+    "id": "XF96-0265v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Ascension",
+    "type": "Event",
+    "cost": "6 CP",
+    "keywords": [
+      "Event",
+      "Government",
+      "Killer"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat.",
+    "tags": [
+      "Affect Agent"
+    ]
+  },
+  {
+    "title": "Spying Mission",
+    "id": "XF96-0266v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fallen Angel",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on any Team. If the Team makes a SUBTERFUGE 4+ skill check, it may use this card to immediately negate any one card that requires them to make a non-combat skill check."
+  },
+  {
+    "title": "Authorized Access Only",
+    "id": "XF96-0267v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Deep Throat",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Government",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Equipment Malfunction",
+    "id": "XF96-0268v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "The Local Law Enforcement Are Uncooperative",
+    "id": "XF96-0269v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Jersey Devil",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Criminal Investigation"
+    ],
+    "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card."
+  },
+  {
+    "title": "The Lone Gunmen",
+    "id": "XF96-0270v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active",
+      "Site"
+    ],
+    "gameText": "Play \"The Lone Gunmen\" card on a Site. While played on a Site, The Lone Gunmen are considered a Keyword WITNESS card. A Site with The Lone Gunmen played on it stays in the Field until they are removed. During your Briefing Phase, pay 1 RP to place a token on the Site. When a Team investigates the Site, each token adds 1 to the skill check. Discard The Lone Gunmen after the skill check is resolved.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Alien Discretion",
+    "id": "XF96-0271v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Space",
+    "type": "Event",
+    "cost": "X+1 RP",
+    "keywords": [
+      "Event",
+      "Alien",
+      "Phenomena"
+    ],
+    "activators": [
+      "Active",
+      "Site"
+    ],
+    "gameText": "Play on a Team about to investigate a Site with ALIEN INVESTIGATION as a prerequisite. Discard all cards assigned as Bluff cards at that Site. X = the number of Bluffs at the Site."
+  },
+  {
+    "title": "Fingernail Scrapings",
+    "id": "XF96-0272v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Blood",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Evidence Collection",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "If the Team makes an EVIDENCE COLLECTION 4+ skill check, they gain a +1 to a Site skill check. Discard this card after you've used the modifier."
+  },
+  {
+    "title": "Trust No One",
+    "id": "XF96-0273v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn.",
+    "tags": [
+      "Modify Witness"
+    ]
+  },
+  {
+    "title": "Lula Phillips",
+    "id": "XF96-0274v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Lazarus",
+    "type": "Event",
+    "cost": "1 CP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your CP pool.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "No Place Is Safe",
+    "id": "XF96-0275v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Squeeze",
+    "type": "Event",
+    "cost": "5 CP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "For the remainder of this turn, the Bureau is considered to have a single Characteristic SITE Keyword. You may choose any one Characteristic for the Keyword (i.e., RESULT SITE)."
+  },
+  {
+    "title": "Blackmail",
+    "id": "XF96-0276v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "One Breath",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Bureaucracy",
+      "Question"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play when you have just guessed incorrectly the identity of an X-File. Select a Team in your Bureau. If that Team successfully completes a BUREAUCRACY 4+ skill check, your opponent does not get to ask you a penalty question."
+  },
+  {
+    "title": "Dissection",
+    "id": "XF96-0277v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Pilot",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the RP pool.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Hack Into Government Files",
+    "id": "XF96-0278v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Anasazi",
+    "type": "Event",
+    "cost": "5 RP",
+    "keywords": [
+      "Event",
+      "Computer"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team to make a COMPUTER 4+ skill check. If successful, you may select any card in your collection and add it to your hand. The card need not be part of your Bureau deck. Nor may it exceed the limit of two cards per deck.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Application For FBI Resources Approved",
+    "id": "XF96-0279v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Sleepless",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event",
+      "Bureaucracy",
+      "Move"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "If the Team makes a BUREAUCRACY 4+ skill check, you may borrow any one of your opponent's Agents. It may not be an Agent you already control. Add the Agent to the Team for the remainder of the turn. Afterward, the Agent returns to the original owner's control. The Agent must be returned to the Team it belonged to or sent to the Hospital if the Agent was reduced to 0 HEALTH during a combat."
+  },
+  {
+    "title": "Expert Briefing",
+    "id": "XF96-0280v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Anasazi",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Training"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn the Agent may be deployed as normal and in addition has a +1 in one of the following skills: OBSERVATION, BEHAVIORAL or SUBTERFUGE. Place this card below the Agent to remind you of the increased skill."
+  },
+  {
+    "title": "Access Personnel Files",
+    "id": "XF96-0281v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Duane Barry",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Computer",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Multiplayer"
+    ],
+    "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "Hard Evidence",
+    "id": "XF96-0282v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Pilot",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Evidence"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Add five tokens to your RP pool.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Relentless Pursuit",
+    "id": "XF96-0283v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Gender Bender",
+    "type": "Event",
+    "cost": "X RP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play to prevent the opposing player from drawing cards after the player has paid, but before the cards are drawn. X = The number of cards that the opposing player has paid to draw."
+  },
+  {
+    "title": "Counterintelligence Measures",
+    "id": "XF96-0284v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "6 CP",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card after your opponent has asked a Characteristic Question regarding your X-File. After you answer the question, your opponent must answer the question as well. Your opponent may still guess your X-File identity if normally allowed to do so, but you may not.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Deductive Reasoning",
+    "id": "XF96-0285v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Conduit",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event",
+      "Question",
+      "Criminal"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team that has just completed a combat. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, then they may ask whether or not the Adversary has a Keyword that is the same as the AFFILIATION of the controller's X-File."
+  },
+  {
+    "title": "Grid Pattern Search",
+    "id": "XF96-0286v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Lazarus",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Select one card from your Discard Pile and place it in your hand.",
+    "tags": [
+      "Search"
+    ]
+  },
+  {
+    "title": "Driving",
+    "id": "XF96-0287v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Conduit",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Move",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn."
+  },
+  {
+    "title": "In-Service Training",
+    "id": "XF96-0288v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Little Green Men",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Training"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: COMPUTER, MEDICAL, or SCIENCES. Place this card below the Agent to remind you of the increased skill."
+  },
+  {
+    "title": "Rejuvenating Caves",
+    "id": "XF96-0289v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Gender Bender",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your CP pool. The tokens become CP tokens. When all counters have been removed, discard this card.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Alien Experimentation",
+    "id": "XF96-0290v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Duane Barry",
+    "type": "Event",
+    "cost": "5 CP",
+    "keywords": [
+      "Event",
+      "Negate",
+      "Alien"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Event"
+    ],
+    "gameText": "Negate any one Keyword EVENT card."
+  },
+  {
+    "title": "Hidden Grave",
+    "id": "XF96-0291v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Conduit",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Medical"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Take any Witness from your opponent's Discard Pile and use it for one skill check immediately at no cost."
+  },
+  {
+    "title": "Trap",
+    "id": "XF96-0292v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "End Game",
+    "type": "Event",
+    "cost": "3 CP",
+    "keywords": [
+      "Event",
+      "Observation"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat.",
+    "tags": [
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "X",
+    "id": "XF96-0293v1",
+    "set": "Premiere",
+    "rarity": "Ultra-Rare",
+    "episode": "Sleepless",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Adversary"
+    ],
+    "gameText": "Negate any one Keyword ADVERSARY card."
+  },
+  {
+    "title": "Assigned To The X-Files",
+    "id": "XF96-0294v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Pilot",
+    "type": "Event",
+    "cost": "X+1 RP",
+    "keywords": [
+      "Event",
+      "Bureaucracy",
+      "Killer"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent sill apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Plague Of Locusts",
+    "id": "XF96-0295v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Miracle Man",
+    "type": "Event",
+    "cost": "4 CP",
+    "keywords": [
+      "Event",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Force an opponent Team to make an OCCULT INVESTIGATION 4+ skill check. If they fail, negate all Witnesses that are modifying the Team's skill check.",
+    "tags": [
+      "Unique",
+      "Force Skill Check"
+    ]
+  },
+  {
+    "title": "X-Files Research",
+    "id": "XF96-0296v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": null,
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Training"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill."
+  },
+  {
+    "title": "A Friend In The FBI",
+    "id": "XF96-0297v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your RP pool. The tokens become RP tokens. When all counters have been removed, discard this card.",
+    "tags": [
+      "Resource"
+    ]
+  },
+  {
+    "title": "Written Report",
+    "id": "XF96-0298v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Move"
+    ],
+    "activators": [
+      "Active",
+      "Move"
+    ],
+    "gameText": "Play when an Agent is forced to return to the Bureau. Prior to moving, the Team may make a CRIMINAL INVESTIGATION 5+ skill check. If successful, the Agent does not have to return to the Bureau."
+  },
+  {
+    "title": "Government Mindwipe Serum",
+    "id": "XF96-0299v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Deep Throat",
+    "type": "Event",
+    "cost": "2 3P",
+    "keywords": [
+      "Event",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
+    "tags": [
+      "Discard"
+    ]
+  },
+  {
+    "title": "Travel Arrangements",
+    "id": "XF96-0300v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Deep Throat",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Move"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "You may move one of your Agents to any Section immediately. This card may not be played once an Adversary has forced combat until after the combat is resolved. The Agent may join any Team that occupies the new Section."
+  },
+  {
+    "title": "Decoy",
+    "id": "XF96-0301v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fresh Bones",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Subterfuge",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Adversary"
+    ],
+    "gameText": "Play when an Adversary is allowed to enter combat with a single Agent. If the Team to which the Agent is attached makes a SUBTERFUGE 4+ skill check, the Adversary is negated."
+  },
+  {
+    "title": "Autopsy",
+    "id": "XF96-0302v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Host",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Medical"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn.",
+    "tags": [
+      "Modify Witness"
+    ]
+  },
+  {
+    "title": "Evasive Maneuvers",
+    "id": "XF96-0303v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Event",
+    "cost": "4 RP",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Adversary"
+    ],
+    "gameText": "Negate one non-PHENOMENA Adversary."
+  },
+  {
+    "title": "Frohike",
+    "id": "XF96-0304v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Blood",
+    "type": "Event",
+    "cost": "3 RP",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Event"
+    ],
+    "gameText": "This card will negate one Event card played on your Team.",
+    "tags": [
+      "Negate"
+    ]
+  },
+  {
+    "title": "Agent Reggie Purdue Found Strangled",
+    "id": "XF96-0305v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Young at Heart",
+    "type": "Event",
+    "cost": "10 CP",
+    "keywords": [
+      "Event",
+      "Killer",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "If your opponent includes Agent Purdue in any skill check in the Field, Agent Purdue is instantly killed and removed from the game.",
+    "tags": [
+      "Unique"
+    ]
+  },
+  {
+    "title": "Road Hazard",
+    "id": "XF96-0306v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ascension",
+    "type": "Event",
+    "cost": "1 CP",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Move"
+    ],
+    "gameText": "Negate one card with the Keyword MOVE."
+  },
+  {
+    "title": "Core Training",
+    "id": "XF96-0307v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Lazarus",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Training"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill."
+  },
+  {
+    "title": "Samuel Hartley",
+    "id": "XF96-0308v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Miracle Man",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Occult",
+      "Killer"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team in the Field that has just had an Agent removed from the game this turn. Make an OCCULT INVESTIGATION skill check of 4+. If successful, the Agent remains in play."
+  },
+  {
+    "title": "True Grit",
+    "id": "XF96-0309v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Behavioral"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play when an Agent is forced to go to the Hospital. He must still go to the Hospital by the end of this turn but he may add his skills to one skill check before going."
+  },
+  {
+    "title": "Decreased Workload",
+    "id": "XF96-0310v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Host",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Active",
+      "Briefing"
+    ],
+    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill."
+  },
+  {
+    "title": "Laptop Computer",
+    "id": "XF96-0311v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Pilot",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 2 to the Agent's COMPUTER skill."
+  },
+  {
+    "title": "Gas Chromatograph",
+    "id": "XF96-0312v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Firewalker",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Agents equipped with a Gas Chromatograph have access to the field office crime lab. Adds 1 to the Agent's SCIENCES skill."
+  },
+  {
+    "title": "Wire-Tap",
+    "id": "XF96-0313v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Little Green Men",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's SUBTERFUGE skill."
+  },
+  {
+    "title": "Binoculars",
+    "id": "XF96-0314v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Little Green Men",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's OBSERVATION skill."
+  },
+  {
+    "title": "Medi-Kit",
+    "id": "XF96-0315v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Duane Barry",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Healing",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "An agent with MEDICAL skill may use the Medi-Kit to heal one wound on any agent in the Team once per turn. The may prevent an Agent from going to the Hospital."
+  },
+  {
+    "title": "Kevlar Vest",
+    "id": "XF96-0316v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Young at Heart",
+    "type": "Equipment",
+    "cost": "3 RP",
+    "keywords": [
+      "Equipment",
+      "Armor",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "The Kevlar Vest will absorb three points of damage. Place three tokens on this card. Discard a token to prevent one point of damage. Discard the Vest when all the tokens have been discarded. Excess damage is applied to the Agent as normal."
+  },
+  {
+    "title": "Glock 19 Semi-Automatic Pistol",
+    "id": "XF96-0317v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Young at Heart",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Weapon Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill."
+  },
+  {
+    "title": "High Resolution Camera",
+    "id": "XF96-0318v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "The Calusari",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Mechanical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill."
+  },
+  {
+    "title": "High-Powered Flashlight",
+    "id": "XF96-0319v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Little Green Men",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 2 to the Agent's OBSERVATION skill."
+  },
+  {
+    "title": "Government Car",
+    "id": "XF96-0320v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "E.B.E.",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Mechanical",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION skill."
+  },
+  {
+    "title": "Knife",
+    "id": "XF96-0321v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Die Hand Die Verletzt",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Weapon",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill."
+  },
+  {
+    "title": "Taped Intelligence",
+    "id": "XF96-0322v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Anasazi",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 2 to the Agent's BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agent's Team when investigating a Site, even when they would otherwise be barred from doing so."
+  },
+  {
+    "title": "Walther PPK 7.65 Hold Out Weapon",
+    "id": "XF96-0323v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Lazarus",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Weapon",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 2 to the Agent's CLOSE RANGE COMBAT skill."
+  },
+  {
+    "title": "Geiger Counter",
+    "id": "XF96-0324v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "E.B.E.",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill."
+  },
+  {
+    "title": "Hospital Crash Cart",
+    "id": "XF96-0325v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "One Breath",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Healing",
+      "Special"
+    ],
+    "activators": [
+      "Hospital"
+    ],
+    "gameText": "This piece of Equipment does not need to be attached to any Agent. Place three tokens on the Hospital Crash Cart. Discard one token to heal one point of damage to an Agent in the Hospital. Discard when all three tokens have been expended."
+  },
+  {
+    "title": "Cellular Phone",
+    "id": "XF96-0326v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Blood",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added."
+  },
+  {
+    "title": "Symbol Of Faith",
+    "id": "XF96-0327v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "One Breath",
+    "type": "Equipment",
+    "cost": "3 RP",
+    "keywords": [
+      "Equipment",
+      "Mystic"
+    ],
+    "activators": [
+      "Field",
+      "Believer"
+    ],
+    "gameText": "OCCULT Adversaries may not assign damage to this Agent unless there are no other eligible targets. If the Agent is the only eligible target then the damage from OCCULT Adversaries is halved."
+  },
+  {
+    "title": "Electron Emission Microscope",
+    "id": "XF96-0328v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Young at Heart",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Agents equipped with an Electron Emission Microscope have access to the field office crime lab. Adds 1 to the Agent's MEDICAL skill."
+  },
+  {
+    "title": "Shotgun",
+    "id": "XF96-0329v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Shapes",
+    "type": "Equipment",
+    "cost": "6 RP",
+    "keywords": [
+      "Equipment",
+      "Weapon",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice).",
+    "tags": [
+      "Split Damage"
+    ]
+  },
+  {
+    "title": "Mini-14 Assault Rifle",
+    "id": "XF96-0330v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fallen Angel",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Weapon",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice).",
+    "tags": [
+      "Split Damage"
+    ]
+  },
+  {
+    "title": "Mojo Bag",
+    "id": "XF96-0331v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fresh Bones",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Mystic"
+    ],
+    "activators": [
+      "Field",
+      "Believer"
+    ],
+    "gameText": "Subtract one point from each damaging hit caused by an OCCULT CREATURE. In addition, OCCULT Adversaries may not play combat cards on Agents equipped with a Mojo Bag."
+  },
+  {
+    "title": "Lie Detector",
+    "id": "XF96-0332v1",
+    "set": "Premiere",
+    "rarity": "Common",
+    "episode": "Squeeze",
+    "type": "Equipment",
+    "cost": "2 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill."
+  },
+  {
+    "title": "Slithers In The Night",
+    "id": "XF96-0333v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Die Hand Die Verletzt",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 6,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation Site"
+    ],
+    "gameText": null
+  },
+  {
+    "title": "Alien Harvester",
+    "id": "XF96-0334v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Duane Barry",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Alien Investigation"
+    ],
+    "gameText": "Your opponent may not spread out Agents until this card is resolved. Hold this card twelve inches up and twelve inches away from the opponent's Team. Flip the card so that it spins through the air. All of the Agents in the Investigating Team that are being touched by the Alien Harvester are abducted! Discard any Equipment attached to the abducted Agents. The Agents are placed ten cards down, face up, in the Bureau deck. When the Agent cards reach the top of the deck, the Agents are immediately moved to the Hospital (though they are not damaged).",
+    "tags": [
+      "Unique",
+      "Non-combative"
+    ]
+  },
+  {
+    "title": "Hunter In The Dark",
+    "id": "XF96-0335v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "The Jersey Devil",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Skip Long Range"
+    ]
+  },
+  {
+    "title": "Crew-Cut Man",
+    "id": "XF96-0336v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards."
+  },
+  {
+    "title": "Alien Bounty Hunter",
+    "id": "XF96-0337v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Colony",
+    "type": "Adversary",
+    "cost": "12 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 6,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
+  },
+  {
+    "title": "The Host Attacks",
+    "id": "XF96-0338v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "The Host",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 2,
+      "Health": 3
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature",
+      "Killer"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed."
+  },
+  {
+    "title": "Pvt. McAlpin, Zombie",
+    "id": "XF96-0339v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Fresh Bones",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 5,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
+    "tags": [
+      "Reduce Damage"
+    ]
+  },
+  {
+    "title": "Good People, Good Food",
+    "id": "XF96-0340v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Our Town",
+    "type": "Adversary",
+    "cost": "8 CP",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 3,
+      "Health": 10
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split Damage"
+    ]
+  },
+  {
+    "title": "The Sandman",
+    "id": "XF96-0341v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Sleepless",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "skills": {
+      "Long Range Combat": "Special",
+      "Close Range Combat": "Special",
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
+  },
+  {
+    "title": "Abduction",
+    "id": "XF96-0342v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Duane Barry",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Alien Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Alien Investigation"
+    ],
+    "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
+    "tags": [
+      "Non-combative"
+    ]
+  },
+  {
+    "title": "Squeeze",
+    "id": "XF96-0343v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Squeeze",
+    "type": "Adversary",
+    "cost": "3 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Skip Long Range"
+    ]
+  },
+  {
+    "title": "The Psychotic Attack",
+    "id": "XF96-0344v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Fire",
+    "type": "Adversary",
+    "cost": "4 CP",
+    "skills": {
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
+    "tags": [
+      "Split Damage"
+    ]
+  },
+  {
+    "title": "The Mechanic",
+    "id": "XF96-0345v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation Site"
+    ],
+    "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards."
+  },
+  {
+    "title": "Darkness Falls",
+    "id": "XF96-0346v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Darkness Falls",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
+    "tags": [
+      "Non-combative"
+    ]
+  },
+  {
+    "title": "Suppressed Fury",
+    "id": "XF96-0347v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Beyond the Sea",
+    "type": "Adversary",
+    "cost": "5 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 2,
+      "Health": 9
+    },
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round."
+  },
+  {
+    "title": "Living Machine",
+    "id": "XF96-0348v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Ghost in the Machine",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 4,
+      "Health": 7
+    },
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Computer"
+    ],
+    "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1.",
+    "tags": [
+      "Skip Long Range"
+    ]
+  },
+  {
+    "title": "Operation Falcon Blue Berets",
+    "id": "XF96-0349v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Fallen Angel",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 3,
+      "Health": 8
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
+    "tags": [
+      "Split Damage"
+    ]
+  },
+  {
+    "title": "Pheromone-Induced Psychosis",
+    "id": "XF96-0350v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Blood",
+    "type": "Adversary",
+    "cost": "3 CP",
+    "skills": {
+      "Long Range Combat": "Special",
+      "Close Range Combat": "Special",
+      "Health": 3
+    },
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness card is discarded and the Team is attacked! The Creature's LONG RANGE COMBAT and CLOSE RANGE COMBAT are equal to the Witness's modifier. If the Witness has no modifier, treat the Witness as a +3."
+  },
+  {
+    "title": "Deadly Blur",
+    "id": "XF96-0351v1",
+    "set": "Premiere",
+    "rarity": "Uncommon",
+    "episode": "Fallen Angel",
+    "type": "Adversary",
+    "cost": "7 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 4,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
+    "tags": [
+      "Reduce Damage"
+    ]
+  },
+  {
+    "title": "The Manitou Stalks His Prey",
+    "id": "XF96-0352v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "Shapes",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 6,
+      "Health": 8
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him."
+  },
+  {
+    "title": "Poltergeist Attack",
+    "id": "XF96-0353v1",
+    "set": "Premiere",
+    "rarity": "Fixed",
+    "episode": "Shadows",
+    "type": "Adversary",
+    "cost": "3 CP",
+    "skills": {
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 2
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Occult Investigation"
+    ],
+    "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded."
+  },
+  {
+    "title": "Kiss Of The Vampire",
+    "id": "XF96-0354v1",
+    "set": "Premiere",
+    "rarity": "Rare",
+    "episode": "3",
+    "type": "Adversary",
+    "cost": "10 CP",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 5,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play this card on a Team in the Field that plays a Witness. Discard the Witness card. The Witness actually becomes a lesser vampire that attacks the Team in conjunction with the master vampire, with a CLOSE RANGE COMBAT rating of 3 and a HEALTH rating of 3. LONG RANGE COMBAT will cause no damage to eiter vampire. The Truth Is Out There Combat"
+  }
+]
