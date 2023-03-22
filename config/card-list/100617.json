@@ -1,0 +1,525 @@
+[
+  {
+    "title": "Delaney Arvidson",
+    "id": "XF19-0001x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Agent",
+    "cost": "3 RP",
+    "skills": {
+      "Behavioral": 1,
+      "Evidence Collection": 2,
+      "Observation": 2,
+      "Subterfuge": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 2,
+      "Health": 3,
+      "Resources": 2
+    },
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Cute",
+      "Believer"
+    ],
+    "gameText": "Place one token on this card. Discard a token to negate one CREATURE Adversary.",
+    "bio": "Delaney Arvidson is a spiritually gifted child and reluctant eater of lima beans. The daughter of Stephen and Katina, Delaney assisted Mulder and Scully in the rescue of her favorite stuffed animal, Knuffle Bunny."
+  },
+  {
+    "title": "Knuffle Bunny",
+    "id": "XF19-0002x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Special"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill. Adds 2 to the Agent's OCCULT INVESTIGATION skill if the assigned Agent has the Keyword CUTE.",
+    "dialogue": "Delaney: \"Will you help me find Knuffle Bunny?\"\nMulder: \"Knuffle Bunny?\"\nKatina: It's her favorite stuffed animal. It went missing a couple of days ago.\""
+  },
+  {
+    "title": "Seamus the Cat",
+    "id": "XF19-0003x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Bluff",
+    "cost": "2 CP",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to gently push two cards off the top of your opponent's Bureau deck. The two cards are discarded.",
+    "dialogue": "Mulder: \"What do you think, Scully? Should we ask him what he knows about the missing Knuffle Bunny?\"\nScully: \"I think we've dealt with enough cats, Mulder.\""
+  },
+  {
+    "title": "Stephen Arvidson",
+    "id": "XF19-0004x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Agent",
+    "cost": "4 RP",
+    "skills": {
+      "Computer": 3,
+      "Evidence Collection": 1,
+      "Observation": 1,
+      "Occult Investigation": 2,
+      "Sciences": 1,
+      "Subterfuge": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Information",
+      "Believer"
+    ],
+    "gameText": "Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck.",
+    "bio": "Stephen Arvidson is a reference librarian and the father of Delaney Arvidson. He and his wife sought to conceal their daughter's psychokinetic abilities. His research into Texas folklore uncovered evidence of a monster stalking the outskirts of Houston."
+  },
+  {
+    "title": "Unearthing the Monster",
+    "id": "XF19-0005x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Event",
+    "cost": "2 RP",
+    "keywords": [
+      "Event",
+      "Observation",
+      "Adversary"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on a Team in the Field. If the Team makes an OBSERVATION 4+ skill check, then you may search through your Bureau Deck and add any keyword CREATURE Adversary to your hand.",
+    "dialogue": "Mulder: \"What is it, Delaney? What do you see?\"\nDelaney: \"The monster. It lives here.\"\nMulder: \"We have to go. We have to leave right now!\""
+  },
+  {
+    "title": "Katina Arvidson",
+    "id": "XF19-0006x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to one Team's BEHAVIORAL or adds 1 to one Team's OCCULT INVESTIGATION skill check.",
+    "dialogue": "Katina: \"We couldn't bring ourselves to tell you. I mean, how do you tell someone your child can do things with her mind? How could anyone ever understand?\"\nScully: \"Believe me, Mrs. Arvidson, we do understand.\""
+  },
+  {
+    "title": "Living Scarecrow",
+    "id": "XF19-0007x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 5,
+      "Health": 6
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "This Adversary may use OCCULT cards. LRC and CRC attacks cause only half damage (rounded up) to the Living Scarecrow. This Adversary is vulnerable to the full effect of the \"Psychokinetic Attack\".",
+    "dialogue": "Mulder: \"Like other effigies, the scarecrow is an unintelligent creation, classically used by farmers to protect their crops.\"\nStephen Arvidson: \"Right, except this thing wasn't just scaring off birds. It killed our neighbors.\""
+  },
+  {
+    "title": "Psychokinetic Attack",
+    "id": "XF19-0008x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Fragile",
+    "type": "Combat",
+    "cost": "3 RP",
+    "keywords": [
+      "Combat",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any Agent with OCCULT INVESTIGATION skill of 1+ to make one LONG RANGE COMBAT attack at LRC skill: 7. The opposing side's LRC attack is negated if the damaged combatant's Health is reduced to 0.",
+    "dialogue": "\"I know this won't come as a shock to you, Mr. and Mrs. Arvidson, but your daughter has a unique psychokinetic ability. One that would give Carrie a run for her money.\" - Mulder"
+  },
+  {
+    "title": "More Men in Black",
+    "id": "XF19-0009x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Schooled",
+    "type": "Event",
+    "cost": "2 CP",
+    "keywords": [
+      "Event",
+      "Government",
+      "Conspiracy"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If unsuccessful, the Site Prerequisite is increased by 1 for each Agent on the Team that does not have a SUBTERFUGE skill value.",
+    "dialogue": "Mulder: \"Where's the guy who looks like Alex Trebek?\"\nMIB Ray: \"Why does everyone keep saying that? Dude looked nothing like him!\"\nMulder: \"Looked? As in past tense? What happened? Did he retire?\"\nMIB Rei: \"Nah, man. Pancreatic cancer, if you can believe that?\""
+  },
+  {
+    "title": "Reproduction Movie Props",
+    "id": "XF19-0010x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Schooled",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Special"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Adds 2 to the Agent's SUBTERFUGE skill.",
+    "dialogue": "Mulder: \"I'll bite, boys. What's with the toy guns?\"\nMIB Rei: \"To help us blend in.\"\nMIB Ray: \"There's a cosplay convention in town. Pretty smart, huh?\"\nMIB Rei: \"It was my idea.\""
+  },
+  {
+    "title": "Peter Shultz",
+    "id": "XF19-0011x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Schooled",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Computer",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Active",
+      "Computer",
+      "Evidence Collection"
+    ],
+    "gameText": "Adds 2 to one Team's COMPUTER or adds 1 to one Team's EVIDENCE COLLECTION skill check.",
+    "dialogue": "Mulder: \"Who found the body?\"\nScully: \"Peter Shultz. He works in Tech Support for the college. As it happens, he's the uncle of Delaney Arvidson, the child we met last month in Texas. It's probably just a coincidence.\"\nMulder: \"You know how I feel about coincidences.\""
+  },
+  {
+    "title": "Lauren Evans Osborne",
+    "id": "XF19-0012x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Schooled",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Observation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's OBSERVATION skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded.",
+    "dialogue": "\"Whenever I see him, my vision goes blurry and this…sickness overtakes me. He's always there, no matter where I go.\" - Lauren, on encountering Slender Man"
+  },
+  {
+    "title": "Whitman College, Walla Walla, WA",
+    "id": "XF19-0013x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Schooled",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Result",
+      "Computer",
+      "Sciences"
+    ],
+    "prerequisite": "COMPUTER 5+ or SCIENCES 5+",
+    "question": "You may ask one AFFILIATION question or one RESULT question.",
+    "dialogue": "Scully: \"Last night, a faculty member was found dead in the stairwell under suspicious circumstances.\"\nMulder: \"Can we skip to the part where you explain why this is a FBI matter?\""
+  },
+  {
+    "title": "Slender Man",
+    "id": "XF19-0014x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Schooled",
+    "type": "Adversary",
+    "cost": "6 CP",
+    "skills": {
+      "Long Range Combat": 3,
+      "Close Range Combat": 4,
+      "Health": 7
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and the Team is attacked! Agents must immediately discard all attached \"Camera\" Equipment cards. Slender Man is unaffected by MARTIAL ARTS attacks. Damage caused by this Adversary may be split among all opponents (Directed Player's choice).",
+    "dialogue": "I saw a pale figure, tall, in a black suit… He had no face, no eyes\" - Lauren Evans\nOsborne"
+  },
+  {
+    "title": "Lurking in Plain Sight",
+    "id": "XF19-0015x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Halloween",
+    "type": "Event",
+    "cost": "5 CP",
+    "keywords": [
+      "Event",
+      "Occult",
+      "Observation"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team to make an OBSERVATION 4+ skill check. If they fail, apply a -3 modifier to the Site skill check and your opponent must discard all Witness cards from their hand.",
+    "dialogue": "Mulder: \"What is it, Scully?\"\nScully: \"I thought I saw someone, watching from over there. Did you see him?\"\nMulder: \"No, but then again my eyesight's not what it used to be.\""
+  },
+  {
+    "title": "Michael Myers",
+    "id": "XF19-0016x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Halloween",
+    "type": "Adversary",
+    "cost": "10 CP",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 7,
+      "Health": 8
+    },
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "This Adversary regenerates (Heals) two points of HEALTH at the beginning of each combat round as long as his HEALTH is not at 0. Michael Myers may use SUBTERFUGE cards. If killed in combat, return Myers to your Bureau Deck and shuffle.",
+    "dialogue": "Scully: \"You're the Oxford psychologist. What are we up against?\"\nMulder: \"I'm not convinced what we're dealing with is entirely human.\""
+  },
+  {
+    "title": "Haddonfield, IL",
+    "id": "XF19-0017x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Halloween",
+    "type": "Site",
+    "cost": "2 RP",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Motive",
+      "Criminal Investigation"
+    ],
+    "prerequisite": "CRIMINAL INVESTIGATION 4+.",
+    "question": "You may ask one MOTIVE question.",
+    "dialogue": "\"Since 1978, Haddonfield has been synonymous with Michael Myers, the notorious serial killer who stalked and killed an untold number of people.\" - Mulder"
+  },
+  {
+    "title": "Confronting the Shape",
+    "id": "XF19-0018x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Halloween",
+    "type": "Event",
+    "cost": "1 RP",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Adversary"
+    ],
+    "gameText": "Play this card when an Adversary is about to enter Combat with a single Agent. Search through your Bureau Deck and add any one Combat card to your hand. Reshuffle your Bureau Deck.",
+    "dialogue": "\"Federal Agent! Drop your weapon!\" - Mulder"
+  },
+  {
+    "title": "Yumi Sagiuchi Shultz",
+    "id": "XF19-0019x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Storm-Sun's Bale",
+    "type": "Agent",
+    "cost": "3 RP",
+    "skills": {
+      "Computer": 1,
+      "Evidence Collection": 1,
+      "Medical": 1,
+      "Observation": 2,
+      "Occult Investigation": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 1
+    },
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "gameText": "Place one token on this card. Discard a token to negate one non-Combat effect that forces an Agent on the Team to go to the Hospital.",
+    "bio": "Yumi Sagiuchi Shultz is violist for the Bergen Philharmonic Orchestra in Norway. She and her husband, Martin, encountered Agents Mulder and Scully during their investigation into several bizarre attacks by troll-like creatures."
+  },
+  {
+    "title": "Martin Shultz",
+    "id": "XF19-0020x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Storm-Sun's Bale",
+    "type": "Witness",
+    "cost": "3 RP",
+    "keywords": [
+      "Witness",
+      "Observation",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to one Team's OBSERVATION or OCCULT INVESTIGATION skill check. This card is free if played on a Team that includes Yumi Sagiuchi Shultz.",
+    "dialogue": "Martin Shultz: \"Are you the FBI Agents my sister contacted?\"\nScully: \"That's right. I admit we were reluctant to travel all this way, but she insisted that your situation her warranted our attention.\"\nMulder: \"I'd say she was right.\""
+  },
+  {
+    "title": "Hanseatic Quarter, Bergen, Norway",
+    "id": "XF19-0021x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Storm-Sun's Bale",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Method",
+      "Observation",
+      "Occult Investigation"
+    ],
+    "prerequisite": "OBSERVATION 5+ or OCCULT INVESTIGATION 5+",
+    "question": "You may ask one MOTIVE question or one METHOD question.",
+    "dialogue": "Scully: \"There's a lot of history in these ramshackle warehouses.\"\nMulder: \"This harbor town wears its maritime heritage proudly, but I'm more interested in what dark otherworlds may exist beneath its rustic veneer.\""
+  },
+  {
+    "title": "Old Leprosy Hospital, Bergen, Norway",
+    "id": "XF19-0022x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Storm-Sun's Bale",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Method",
+      "Result",
+      "Medical",
+      "Observation"
+    ],
+    "prerequisite": "MEDICAL 5+ or OBSERVATION 5+",
+    "question": "You may ask one METHOD question or one RESULT question.",
+    "dialogue": "Scully: \"This place looks a lot like the one I saw in West Virginia.\"\nMartin Shultz: \"This area was once the leprosy capital of the world. The facility was abandoned in the mid-twentieth century.\""
+  },
+  {
+    "title": "Funicular",
+    "id": "XF19-0023x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Storm-Sun's Bale",
+    "type": "Equipment",
+    "cost": "4 RP",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Move"
+    ],
+    "gameText": "Attach this card to an Agent in the Field. Discard this card to search through your Bureau Deck and add any one Keyword MOVE card to your hand. Show the card to your opponent and shuffle your Bureau Deck. If the card is immediately playable, you may do so for zero RP cost.",
+    "dialogue": "\"It's safer than riding a tram.\" - Mulder"
+  },
+  {
+    "title": "Troll Territory [in progress]",
+    "id": "XF19-0024x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Storm-Sun's Bale",
+    "type": "Bluff",
+    "cost": "1 CP",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to reduce the [CP] Cost of all Keyword SUBTERFUGE cards played at this Site by 1. Additionally, any OCCULT or EVOLUTIONARY Adversaries played at this Site may use SUBTERFUGE Combat cards.",
+    "dialogue": "Scully: \"The stench is unbearable.\"\nMulder: \"I think we've wandered into troll territory, Scully.\""
+  },
+  {
+    "title": "Guillaume Saladin [in progress]",
+    "id": "XF19-0025x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Les Naufrageurs",
+    "type": "Agent",
+    "cost": "4 RP",
+    "skills": {
+      "Bureaucracy": 2,
+      "Computer": 2,
+      "Evidence Collection": 1,
+      "Observation": 1,
+      "Long Range Combat": null,
+      "Health": 4,
+      "Resources": 1
+    },
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Resource card. If you use this RP, replace it during your Briefing Phase.",
+    "bio": "As a supply chain manager, Guillaume Saladin ensures that the store he oversees is consistently stocked. Guillaume watches 90s TV shows and collects vinyl records. His beloved cat, Choléra, is never far from his side."
+  }
+]

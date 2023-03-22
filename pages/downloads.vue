@@ -65,7 +65,7 @@ export default {
         .from([
           '"","#","Title","Type","Set","Rarity"',
           ...cards.filter(({ set }) => ![
-            'The Syndicate',
+            '100617',
             'Dream'
           ].includes(set)).map(({
             id,

@@ -5,7 +5,7 @@ import scully from '~/config/card-list/22364.json';
 import season4 from '~/config/card-list/040460.json';
 import promo from '~/config/card-list/promo.json';
 import gencon from '~/config/card-list/gencon.json';
-import syndicate from '~/config/card-list/syndicate.json';
+import delaney from '~/config/card-list/100617.json';
 import dream from '~/config/card-list/dream.json';
 
 export const cards = [
@@ -16,7 +16,7 @@ export const cards = [
   ...season4,
   ...promo,
   ...gencon,
-  ...syndicate,
+  ...delaney,
   ...dream
 ].map((card) => ({
   ...card,
@@ -33,7 +33,7 @@ export const sets = [
   '040460',
   'Promo',
   'Gen Con',
-  'The Syndicate',
+  '100617',
   'Dream'
 ];
 
@@ -125,6 +125,7 @@ export const keywords = [
   'Creature',
   'Criminal',
   'Criminal Investigation',
+  'Cute',
   'Electrical',
   'Equipment',
   'Escape',
