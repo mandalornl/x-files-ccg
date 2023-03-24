@@ -479,7 +479,7 @@
     "dialogue": "\"It's safer than riding a tram.\" - Mulder"
   },
   {
-    "title": "Troll Territory [in progress]",
+    "title": "Troll Territory",
     "id": "XF19-0024x42",
     "set": "100617",
     "rarity": "Community",
@@ -494,11 +494,11 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to reduce the [CP] Cost of all Keyword SUBTERFUGE cards played at this Site by 1. Additionally, any OCCULT or EVOLUTIONARY Adversaries played at this Site may use SUBTERFUGE Combat cards.",
+    "gameText": "Play this card to reduce the CP Cost of all Keyword SUBTERFUGE cards played at this Site by 1. While this card is in play, any OCCULT or EVOLUTIONARY Adversaries played at this Site may use SUBTERFUGE Combat cards.",
     "dialogue": "Scully: \"The stench is unbearable.\"\nMulder: \"I think we've wandered into troll territory, Scully.\""
   },
   {
-    "title": "Guillaume Saladin [in progress]",
+    "title": "Guillaume Saladin",
     "id": "XF19-0025x42",
     "set": "100617",
     "rarity": "Community",
@@ -510,7 +510,8 @@
       "Computer": 2,
       "Evidence Collection": 1,
       "Observation": 1,
-      "Long Range Combat": null,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
       "Health": 4,
       "Resources": 1
     },
