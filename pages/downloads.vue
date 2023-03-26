@@ -41,14 +41,20 @@ export default {
     return {
       items: [
         {
-          name: 'The X-Files CCG Checklist',
+          name: 'Checklist',
           click: () => this.downloadChecklist(),
           icon: 'mdi-file-excel'
         },
         {
-          name: 'X-Files Ancillary Documentation',
-          click: () => this.download('downloads/X-Files Ancillary Documentation.pdf', 'X-Files Ancillary Documentation.pdf'),
+          name: 'Ancillary Documentation',
+          click: () => this.download('downloads/xfccgad.pdf', 'The X-Files CCG - Ancillary Documentation.pdf'),
           credits: 'Stephen David Wark',
+          icon: 'mdi-file-pdf-box'
+        },
+        {
+          name: 'Rules Assistant',
+          click: () => this.download('downloads/xfccgra.pdf', 'The X-Files CCG - Rules Assistant.pdf'),
+          credits: 'Chris Heard',
           icon: 'mdi-file-pdf-box'
         }
       ]
@@ -84,7 +90,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.v-data-table::v-deep tbody tr:not(.v-data-table__empty-wrapper) {
-  cursor: pointer;
+.v-data-table::v-deep tbody tr {
+  &:not(.v-data-table__empty-wrapper) {
+    cursor: pointer;
+  }
+
+  td {
+    white-space: nowrap;
+  }
 }
 </style>
