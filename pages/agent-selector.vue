@@ -236,7 +236,10 @@ export default {
             'Premiere',
             'Gen Con'
           ].includes(set)
-          && !(id.startsWith('PR22') && set === '040460')
+          && ![
+            'PR22-0001-MUL',
+            'PR22-0002-SCU'
+          ].includes(id)
         ))
         .map((card) => ({
           ...card,
