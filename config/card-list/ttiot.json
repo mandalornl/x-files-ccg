@@ -6410,7 +6410,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to cause one point of damage to every Agent in a Team for each Cost card discarded from your hand, up to a maximum of three points of damage. X = number of Cost cards discarded.",
+    "gameText": "Play this card to cause one point of damage to every Agent in a Team for each CP Cost card discarded from your hand, up to a maximum of three points of damage. X = number of CP Cost cards discarded.",
     "tags": [
       "Unique"
     ]
