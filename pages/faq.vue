@@ -159,11 +159,15 @@ export default {
   },
 
   mounted() {
+    const options = {
+      duration: 0
+    };
+
     if (this.oldQuestion >= 0) {
-      this.$vuetify.goTo(this.$refs.oldQuestion[this.oldQuestion]);
+      this.$vuetify.goTo(this.$refs.oldQuestion[this.oldQuestion], options);
     } else {
       if (this.newQuestion >= 0) {
-        this.$vuetify.goTo(this.$refs.newQuestion[this.newQuestion]);
+        this.$vuetify.goTo(this.$refs.newQuestion[this.newQuestion], options);
       }
     }
   },
