@@ -5569,7 +5569,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent sill apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost.",
+    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent still apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost.",
     "tags": [
       "Unique"
     ]
