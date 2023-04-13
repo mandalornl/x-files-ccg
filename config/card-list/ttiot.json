@@ -6713,7 +6713,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau Deck and select an Agent with a Cost of 4 or less. Add this Agent to your team of Agents in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pzy X+1 upkeep or discard this card and the selected Agent.",
+    "gameText": "Search through your Bureau Deck and select an Agent with a Cost of 4 or less. Add this Agent to your team of Agents in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pay X+1 upkeep or discard this card and the selected Agent.",
     "tags": [
       "Unique",
       "Search"
