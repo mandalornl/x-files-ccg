@@ -1,28 +1,27 @@
 <template>
   <layout-default>
     <h1>Downloads</h1>
-    <v-simple-table>
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Credits</th>
-          <th>Type</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr
-          v-for="item of items"
-          :key="item.name"
-          @click="item.click"
-        >
-          <td>{{ item.name }}</td>
-          <td>{{ item.credits }}</td>
-          <td>
-            <v-icon>{{ item.icon }}</v-icon>
-          </td>
-        </tr>
-      </tbody>
-    </v-simple-table>
+    <v-list>
+      <v-list-item
+        v-for="item of items"
+        :key="item.label"
+        :href="item.href"
+        :download="item.download"
+        target="_blank"
+      >
+        <v-list-item-content>
+          <v-list-item-title>
+            {{ item.label }}
+          </v-list-item-title>
+          <v-list-item-subtitle v-if="item.credits">
+            {{ item.credits }}
+          </v-list-item-subtitle>
+        </v-list-item-content>
+        <v-list-item-icon v-if="item.icon">
+          <v-icon>{{ item.icon }}</v-icon>
+        </v-list-item-icon>
+      </v-list-item>
+    </v-list>
   </layout-default>
 </template>
 
@@ -38,24 +37,49 @@ export default {
   ],
 
   data() {
+    const data = Buffer
+      .from([
+        '"","#","Title","Type","Set","Rarity"',
+        ...cards.filter(({ set }) => ![
+          '100617',
+          'Dream'
+        ].includes(set)).map(({
+          id,
+          title,
+          type,
+          set,
+          rarity = ''
+        }) => `"[ ]","${id}","${title}","${type}","${set}","${rarity}"`)
+      ].join('\n'))
+      .toString('base64');
+
     return {
       items: [
         {
-          name: 'Checklist',
-          click: () => this.downloadChecklist(),
+          label: 'Card Checklist',
+          href: `data:text/csv;base64,${data}`,
+          download: 'the-x-files-ccg-checklist.csv',
           icon: 'mdi-file-excel'
         },
         {
-          name: 'Ancillary Documentation',
-          click: () => this.download('downloads/xfccgad.pdf', 'The X-Files CCG - Ancillary Documentation.pdf'),
+          label: 'Ancillary Documentation',
+          href: 'downloads/xfccgad.pdf',
+          download: 'The X-Files CCG - Ancillary Documentation.pdf',
           credits: 'Stephen David Wark',
           icon: 'mdi-file-pdf-box'
         },
         {
-          name: 'Rules Assistant',
-          click: () => this.download('downloads/xfccgra.pdf', 'The X-Files CCG - Rules Assistant.pdf'),
+          label: 'Rules Assistant',
+          href: 'downloads/xfccgra.pdf',
+          download: 'The X-Files CCG - Rules Assistant.pdf',
           credits: 'Chris Heard',
           icon: 'mdi-file-pdf-box'
+        },
+        {
+          label: 'Card Templates',
+          href: 'https://drive.google.com/drive/folders/1ozW8clUaQZkg7Z43AKSk6moOvRjKhYYd?usp=share_link',
+          credits: 'Robert Castleberry',
+          icon: 'mdi-image-multiple'
         }
       ]
     };
@@ -63,40 +87,6 @@ export default {
 
   head: () => ({
     title: 'Downloads'
-  }),
-
-  methods: {
-    downloadChecklist() {
-      const data = Buffer
-        .from([
-          '"","#","Title","Type","Set","Rarity"',
-          ...cards.filter(({ set }) => ![
-            '100617',
-            'Dream'
-          ].includes(set)).map(({
-            id,
-            title,
-            type,
-            set,
-            rarity = ''
-          }) => `"[ ]","${id}","${title}","${type}","${set}","${rarity}"`)
-        ].join('\n'))
-        .toString('base64');
-
-      this.download(`data:text/csv;base64,${data}`, 'the-x-files-ccg-checklist.csv');
-    }
-  }
+  })
 }
 </script>
-
-<style lang="scss" scoped>
-.v-data-table::v-deep tbody tr {
-  &:not(.v-data-table__empty-wrapper) {
-    cursor: pointer;
-  }
-
-  td {
-    white-space: nowrap;
-  }
-}
-</style>
