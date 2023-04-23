@@ -28,6 +28,7 @@
             v-for="item in links"
             :key="item.href"
             :href="item.href"
+            :three-line="item.multiline"
             target="_blank"
             color="primary"
           >
@@ -65,32 +66,36 @@ export default {
     links: [
       {
         title: 'Alien Investigations',
-        subtitle: 'Watch and learn how to play The X-Files CCG on this YouTube channel',
-        href: 'https://www.youtube.com/channel/UCdoWDLQ-e5MtAbt9fUQeWYw',
+        subtitle: 'Are you a fan of the long-defunct The X-Files Collectible Card Game (CCG)? Are you interested in watching the game and learning how to play? Then look no further!',
+        href: 'https://www.youtube.com/@alieninvestigations19',
         icon: 'mdi-youtube',
-        color: 'red'
+        color: 'red',
+        multiline: true
       },
       {
         title: 'Mike and Matt',
-        subtitle: 'Bringing back The X-Files CCG on their YouTube channel',
-        href: 'https://www.youtube.com/c/MMXFILESCCG',
+        subtitle: 'A Channel devoted soley to the X Files Card Game. Hosted by Matt and Mike who have been playing the game since 1996!',
+        href: 'https://www.youtube.com/@MMXFILESCCG',
         icon: 'mdi-youtube',
-        color: 'red'
+        color: 'red',
+        multiline: true
       },
       {
-        title: 'The X-Files Collectible Card Game Facebook Group',
-        subtitle: 'A fantastic community for those interested in The X-Files CCG',
+        title: 'The X-Files Collectible Card Game',
+        subtitle: 'For fans and collectors of The X-Files CCG, originally produced and distributed by The United States Playing Card Company.',
         href: 'https://www.facebook.com/groups/xfccg/',
         icon: 'mdi-facebook',
-        color: '#4267B2'
+        color: '#4267B2',
+        multiline: true
       },
       {
         title: 'xfilesccg',
-        subtitle: 'Celebrating all things relating to The X-Files CCG',
+        subtitle: 'Celebrating all things relating to The X-Files Customizable Card Game (CCG), produced briefly by the United States Playing Card Co in the mid-1990s.',
         href: 'https://www.instagram.com/xfilesccg/',
         icon: 'mdi-instagram',
         color: '#D300C5',
-        inverseColor: true
+        inverseColor: true,
+        multiline: true
       },
       {
         title: 'r/TheXFilesCCG',
