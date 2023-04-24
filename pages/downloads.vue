@@ -40,16 +40,18 @@ export default {
     const data = Buffer
       .from([
         '"","#","Title","Type","Set","Rarity"',
-        ...cards.filter(({ set }) => ![
-          '100617',
-          'Dream'
+        ...cards.filter(({ set }) => [
+          'Premiere',
+          'The Truth is Out There',
+          '101361',
+          'Promo'
         ].includes(set)).map(({
           id,
           title,
           type,
           set,
           rarity = ''
-        }) => `"[ ]","${id}","${title}","${type}","${set}","${rarity}"`)
+        }) => `"[ ]","${id}","${title.replaceAll('"', '\'')}","${type}","${set}","${rarity}"`)
       ].join('\n'))
       .toString('base64');
 
