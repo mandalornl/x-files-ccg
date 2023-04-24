@@ -74,7 +74,7 @@ export default {
       },
       {
         title: 'Mike and Matt',
-        subtitle: 'A Channel devoted soley to the X Files Card Game. Hosted by Matt and Mike who have been playing the game since 1996!',
+        subtitle: 'A Channel devoted solely to the X Files Card Game. Hosted by Matt and Mike who have been playing the game since 1996!',
         href: 'https://www.youtube.com/@MMXFILESCCG',
         icon: 'mdi-youtube',
         color: 'red',
