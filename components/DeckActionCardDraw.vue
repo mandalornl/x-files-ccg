@@ -58,6 +58,7 @@
 </template>
 
 <script>
+import shuffle from 'lodash/shuffle';
 import sampleSize from 'lodash/sampleSize';
 
 import { cards } from '~/config/card';
@@ -129,7 +130,7 @@ export default {
 
   methods: {
     drawCards() {
-      this.hand = sampleSize(this.cards, 8);
+      this.hand = sampleSize(shuffle(this.cards), 8);
     }
   }
 }
