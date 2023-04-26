@@ -1,7 +1,7 @@
 <template>
   <v-img
     :src="card.image"
-    :alt="card.name"
+    :alt="card.title"
     :aspect-ratio="5/7"
     lazy-src="images/back.jpg"
     class="rounded grey darken-3"
