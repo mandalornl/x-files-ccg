@@ -122,13 +122,13 @@
               outlined
               @click="toggle(card)"
             >
-              <card-img :card="card">
+              <card-image :card="card">
                 <agent-tooltip
                   :card="card"
                   :filters="filters"
                   content-class="ma-1"
                 />
-              </card-img>
+              </card-image>
             </v-card>
           </v-col>
         </v-row>

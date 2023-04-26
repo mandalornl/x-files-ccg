@@ -27,10 +27,10 @@
                 v-bind="attrs"
                 v-on="on"
               >
-                <card-img :card="card" />
+                <card-image :card="card" />
               </div>
             </template>
-            <card-img
+            <card-image
               :card="card"
               class="rounded-lg"
             />

@@ -40,7 +40,7 @@
             cols="6"
             sm="3"
           >
-            <card-img :card="card" />
+            <card-image :card="card" />
           </v-col>
         </v-row>
       </v-card-text>

@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: 'CardImg',
+  name: 'CardImage',
 
   props: {
     card: {
