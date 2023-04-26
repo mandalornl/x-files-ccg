@@ -73,7 +73,6 @@
 
 <script>
 import sampleSize from 'lodash/sampleSize';
-import shuffle from 'lodash/shuffle';
 
 import { cards } from '~/config/card';
 import cube from '~/config/fcu-cube.json';
@@ -92,7 +91,7 @@ export default {
 
   methods: {
     drawAgents() {
-      const agentsInCube = shuffle(Object.keys(cube.agent));
+      const agentsInCube = Object.keys(cube.agent);
 
       const player1 = sampleSize(agentsInCube, 8);
       const player2 = sampleSize(agentsInCube.filter((id) => !player1.includes(id)), 8);
@@ -102,19 +101,17 @@ export default {
     },
 
     drawCards() {
-      const cardsInCube = shuffle(
-        Object.entries(cube)
-          .filter(([ key ]) => key !== 'agent')
-          .flatMap(([ , cards ]) => (
-            Object.entries(cards).reduce((result, [
-              id,
-              length
-            ]) => ([
-              ...result,
-              ...Array.from({ length }, (_, index) => `${id}.${index}`)
-            ]), [])
-          ))
-      );
+      const cardsInCube = Object.entries(cube)
+        .filter(([ key ]) => key !== 'agent')
+        .flatMap(([ , cards ]) => (
+          Object.entries(cards).reduce((result, [
+            id,
+            length
+          ]) => ([
+            ...result,
+            ...Array.from({ length }, (_, index) => `${id}.${index}`)
+          ]), [])
+        ));
 
       const player1 = sampleSize(cardsInCube, 120);
       const player2 = sampleSize(cardsInCube.filter((id) => !player1.includes(id)), 120);
