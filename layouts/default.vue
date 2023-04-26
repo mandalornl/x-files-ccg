@@ -105,6 +105,11 @@ export default {
         icon: 'mdi-format-list-checks'
       },
       {
+        to: '/fcu-cube',
+        label: 'FCU Cube',
+        icon: 'mdi-cube-outline'
+      },
+      {
         to: '/faq',
         label: 'FAQ',
         icon: 'mdi-help-circle'
