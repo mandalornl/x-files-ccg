@@ -73,6 +73,7 @@
                 disable-pagination
                 item-key="uid"
                 mobile-breakpoint="0"
+                @click:row="selectedCard = $event"
               />
             </v-col>
           </v-row>
@@ -93,7 +94,9 @@
                   :key="card.uid"
                   cols="3"
                 >
-                  <card-image :card="card" />
+                  <div @click="selectedCard = card">
+                    <card-image :card="card" />
+                  </div>
                 </v-col>
               </v-row>
             </v-col>
@@ -101,6 +104,11 @@
         </v-slide-x-reverse-transition>
       </div>
     </v-slide-y-reverse-transition>
+    <card-info
+      v-model="cardInfoVisible"
+      :card="selectedCard"
+      disable-pagination
+    />
   </layout-default>
 </template>
 
@@ -123,7 +131,9 @@ export default {
         { text: 'Type', value: 'type', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Rarity', value: 'rarity', class: 'text-no-wrap', cellClass: 'text-no-wrap' }
       ],
-      view: this.$route.query.view ?? 'grid'
+      view: this.$route.query.view ?? 'grid',
+      cardInfoVisible: false,
+      selectedCard: null
     };
   },
 
@@ -142,7 +152,17 @@ export default {
       if (route.fullPath !== this.$route.fullPath) {
         this.$router.replace(route);
       }
-    }
+    },
+
+    cardInfoVisible(value) {
+      if (!value) {
+        this.selectedCard = null;
+      }
+    },
+
+    selectedCard(value) {
+      this.cardInfoVisible = !!value;
+    },
   },
 
   methods: {

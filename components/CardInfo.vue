@@ -35,7 +35,10 @@
               class="rounded-lg"
             />
           </v-dialog>
-          <div class="d-flex align-center justify-space-between mt-1">
+          <div
+            v-if="!disablePagination"
+            class="d-flex align-center justify-space-between mt-1"
+          >
             <v-btn
               :disabled="cardIndex === -1 || cardIndex === 0"
               icon
@@ -158,6 +161,10 @@ export default {
     cardsLength: {
       type: Number,
       default: 0
+    },
+    disablePagination: {
+      type: Boolean,
+      default: false
     }
   },
 
@@ -254,6 +261,10 @@ export default {
 
   watch: {
     internalValue(value) {
+      if (this.disablePagination) {
+        return;
+      }
+
       if (value) {
         window.addEventListener('keyup', this.onKeyup, false);
       } else {
@@ -263,7 +274,9 @@ export default {
   },
 
   beforeDestroy() {
-    window.removeEventListener('keyup', this.onKeyup, false);
+    if (!this.disablePagination) {
+      window.removeEventListener('keyup', this.onKeyup, false);
+    }
   },
 
   methods: {
