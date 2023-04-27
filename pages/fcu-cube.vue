@@ -1,5 +1,5 @@
 <template>
-  <layout-default>
+  <layout-default large>
     <h1>Introduction</h1>
     <p>The X-Files CCG 'FCU' (Fixed, Common & Uncommon) Cube is a card set designed to replicate the feeling of deck construction by booster pack or sealed deck opening without the need for such products.</p>
     <p>The cardlist for this cube includes only common, uncommon and fixed cards from the Premiere/The Truth is Out There and 101361 editions, with the aim that this will make creating the card pool it uses possible for the widest number of collectors, without compromising on interesting gameplay.</p>
@@ -33,41 +33,74 @@
         Draw Cards
       </v-btn>
       <v-btn
+        :disabled="players.length === 0"
         small
         depressed
-        @click="clear"
+        @click="players = []"
       >
         Clear
       </v-btn>
+      <v-btn
+        :disabled="players.length === 0"
+        small
+        depressed
+        @click="view = view === 'grid' ? 'list' : 'grid'"
+      >
+        View
+        <v-icon right>
+          mdi-view-{{ view }}
+        </v-icon>
+      </v-btn>
     </div>
-    <v-fade-transition>
-      <v-row v-if="player1.length > 0 && player2.length > 0">
-        <v-col cols="6">
-          <h3>Player 1</h3>
-          <v-row>
+    <v-slide-y-reverse-transition>
+      <div v-if="players.length > 0">
+        <v-slide-x-reverse-transition mode="out-in">
+          <v-row
+            v-if="view === 'list'"
+            key="list"
+          >
             <v-col
-              v-for="card of player1"
-              :key="card.uid"
-              cols="3"
+              v-for="(cards, index) of players"
+              :key="index"
+              cols="12"
+              sm="6"
             >
-              <card-image :card="card" />
+              <h3>Player {{ index + 1 }}</h3>
+              <v-data-table
+                :headers="headers"
+                :items="cards"
+                hide-default-footer
+                disable-pagination
+                item-key="uid"
+                mobile-breakpoint="0"
+              />
             </v-col>
           </v-row>
-        </v-col>
-        <v-col cols="6">
-          <h3>Player 2</h3>
-          <v-row>
+          <v-row
+            v-else
+            key="grid"
+          >
             <v-col
-              v-for="card of player2"
-              :key="card.uid"
-              cols="3"
+              v-for="(cards, index) of players"
+              :key="index"
+              cols="12"
+              sm="6"
             >
-              <card-image :card="card" />
+              <h3>Player {{ index + 1 }}</h3>
+              <v-row>
+                <v-col
+                  v-for="card of cards"
+                  :key="card.uid"
+                  cols="3"
+                >
+                  <card-image :card="card" />
+                </v-col>
+              </v-row>
             </v-col>
           </v-row>
-        </v-col>
-      </v-row>
-    </v-fade-transition>
+        </v-slide-x-reverse-transition>
+      </div>
+    </v-slide-y-reverse-transition>
   </layout-default>
 </template>
 
@@ -80,14 +113,37 @@ import cube from '~/config/fcu-cube.json';
 export default {
   name: 'PageFCUCube',
 
-  data: () => ({
-    player1: [],
-    player2: []
-  }),
+  data() {
+    return {
+      players: [],
+      headers: [
+        { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
+        { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
+        { text: 'Title', value: 'title', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
+        { text: 'Type', value: 'type', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
+        { text: 'Rarity', value: 'rarity', class: 'text-no-wrap', cellClass: 'text-no-wrap' }
+      ],
+      view: this.$route.query.view ?? 'grid'
+    };
+  },
 
   head: () => ({
     title: 'FCU Cube'
   }),
+
+  watch: {
+    view(view) {
+      const { route } = this.$router.resolve({
+        query: {
+          view
+        }
+      });
+
+      if (route.fullPath !== this.$route.fullPath) {
+        this.$router.replace(route);
+      }
+    }
+  },
 
   methods: {
     drawAgents() {
@@ -96,8 +152,10 @@ export default {
       const player1 = sampleSize(agentsInCube, 8);
       const player2 = sampleSize(agentsInCube.filter((id) => !player1.includes(id)), 8);
 
-      this.player1 = this.getCards(player1);
-      this.player2 = this.getCards(player2);
+      this.players = [
+        this.getCards(player1),
+        this.getCards(player2)
+      ];
     },
 
     drawCards() {
@@ -116,8 +174,10 @@ export default {
       const player1 = sampleSize(cardsInCube, 120);
       const player2 = sampleSize(cardsInCube.filter((id) => !player1.includes(id)), 120);
 
-      this.player1 = this.getCards(player1);
-      this.player2 = this.getCards(player2);
+      this.players = [
+        this.getCards(player1),
+        this.getCards(player2)
+      ];
     },
 
     getCards(items) {
@@ -135,11 +195,6 @@ export default {
 
           return collator.compare(a.type, b.type);
         });
-    },
-
-    clear() {
-      this.player1 = [];
-      this.player2 = [];
     }
   }
 }
