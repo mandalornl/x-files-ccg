@@ -1600,7 +1600,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1641,7 +1641,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1661,7 +1661,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1719,7 +1719,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1739,7 +1739,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1781,7 +1781,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1998,7 +1998,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed Cost, where X = the number of paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
