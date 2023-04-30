@@ -2273,14 +2273,12 @@
     "cost": "2 RP",
     "keywords": [
       "Witness",
-      "Criminal",
-      "Investigation",
+      "Criminal Investigation",
       "Observation"
     ],
     "activators": [
       "Active",
-      "Criminal",
-      "Investigation",
+      "Criminal Investigation",
       "Observation"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION or OBSERVATION skill check.",
