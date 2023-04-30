@@ -21,12 +21,14 @@
           cols="12"
           sm="4"
           md="3"
+          class="d-flex flex-column"
         >
           <v-card
             :to="deck.new ? '/card-list?showSelected' : undefined"
             :disabled="deck.size === 0"
+            class="d-flex flex-column flex-fill"
           >
-            <v-card-text>
+            <v-card-text class="flex-fill">
               {{ deck.name }} ({{ deck.size }})
             </v-card-text>
             <v-card-actions>
