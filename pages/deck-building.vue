@@ -175,13 +175,13 @@ export default {
     load(deck) {
       if (
         this.$store.getters['deckBuilding/sizeByName']() > 0
-        && !confirm('The current deck loaded is not empty. Load anyways?')
+        && !confirm('You already have another deck opened. Open this deck instead?')
       ) {
         return;
       }
 
       this.$store.commit('deckBuilding/load', deck.name);
-      this.$store.commit('snackbar/setSuccess', 'Deck loaded successfully!');
+      this.$store.commit('snackbar/setSuccess', 'Deck opened successfully!');
       this.$router.push('/card-list?showSelected');
     },
 
@@ -266,7 +266,7 @@ export default {
 
             if (
               this.$store.getters['deckBuilding/hasName'](deck.name)
-              && !confirm(`A deck with name '${deck.name}' already exists. Overwrite anyways?`)
+              && !confirm(`A deck with name '${deck.name}' already exists. Do you want to overwrite anyways?`)
             ) {
               continue;
             }

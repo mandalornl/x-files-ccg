@@ -31,12 +31,12 @@ export default {
 
   methods: {
     clear() {
-      if (!confirm('Are you sure you want to clear the deck?')) {
+      if (!confirm('Are you sure you want to clear the selected cards?')) {
         return;
       }
 
       this.$store.dispatch('deckBuilding/clear');
-      this.$store.commit('snackbar/setSuccess', 'Deck cleared successfully!');
+      this.$store.commit('snackbar/setSuccess', 'Cards cleared successfully!');
     }
   }
 }
