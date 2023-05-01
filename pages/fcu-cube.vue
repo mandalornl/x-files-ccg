@@ -113,7 +113,7 @@
 </template>
 
 <script>
-import sampleSize from 'lodash/sampleSize';
+import shuffle from 'lodash/shuffle';
 
 import { cards } from '~/config/card';
 import cube from '~/config/fcu-cube.json';
@@ -141,13 +141,18 @@ export default {
     title: 'FCU Cube'
   }),
 
+  computed: {
+    routeQuery() {
+      return {
+        sig: this.createSig(this.players),
+        view: this.view === 'grid' ? undefined: this.view
+      };
+    }
+  },
+
   watch: {
-    view(view) {
-      const { route } = this.$router.resolve({
-        query: {
-          view
-        }
-      });
+    routeQuery(query) {
+      const { route } = this.$router.resolve({ query });
 
       if (route.fullPath !== this.$route.fullPath) {
         this.$router.replace(route);
@@ -162,41 +167,64 @@ export default {
 
     selectedCard(value) {
       this.cardInfoVisible = !!value;
-    },
+    }
   },
 
-  methods: {
-    drawAgents() {
-      const agentsInCube = Object.keys(cube.agent);
+  mounted() {
+    const [
+      player1 = [],
+      player2 = []
+    ] = this.getPlayersFromSig();
 
-      const player1 = sampleSize(agentsInCube, 8);
-      const player2 = sampleSize(agentsInCube.filter((id) => !player1.includes(id)), 8);
-
+    if (player1.length > 0 && player2.length > 0) {
       this.players = [
         this.getCards(player1),
         this.getCards(player2)
       ];
+    }
+  },
+
+  methods: {
+    drawAgents() {
+      this.drawPool([ 'agent' ], 8);
     },
 
     drawCards() {
-      const cardsInCube = Object.entries(cube)
-        .filter(([ key ]) => key !== 'agent')
-        .flatMap(([ , cards ]) => (
-          Object.entries(cards).reduce((result, [
-            id,
-            length
-          ]) => ([
-            ...result,
-            ...Array.from({ length }, (_, index) => `${id}.${index}`)
-          ]), [])
-        ));
+      this.drawPool([
+        'adversary',
+        'combat',
+        'event',
+        'bluff',
+        'site',
+        'witness',
+        'equipment'
+      ], 120);
+    },
 
-      const player1 = sampleSize(cardsInCube, 120);
-      const player2 = sampleSize(cardsInCube.filter((id) => !player1.includes(id)), 120);
+    drawPool(keys, size) {
+      const cardsInCube = shuffle(
+        Object.entries(cube)
+          .filter(([ key ]) => keys.includes(key))
+          .flatMap(([ , cards ]) => (
+            Object.entries(cards).reduce((result, [
+              id,
+              length
+            ]) => ([
+              ...result,
+              ...Array.from({ length }, (_, index) => `${id}.${index}`)
+            ]), [])
+          ))
+      );
+
+      const players = [ [], [] ];
+
+      for (let i = 0; i < size * 2; i++) {
+        players[i % 2].push(cardsInCube.shift());
+      }
 
       this.players = [
-        this.getCards(player1),
-        this.getCards(player2)
+        this.getCards(players[0]),
+        this.getCards(players[1])
       ];
     },
 
@@ -215,6 +243,26 @@ export default {
 
           return collator.compare(a.type, b.type);
         });
+    },
+
+    createSig(players) {
+      if (players.length === 0) {
+        return undefined;
+      }
+
+      const data = JSON.stringify(players.map((cards) => cards.map(({ uid }) => uid)));
+
+      return encodeURIComponent(Buffer.from(data).toString('base64'));
+    },
+
+    getPlayersFromSig() {
+      try {
+        const sig = decodeURIComponent(this.$route.query.sig ?? '[]');
+
+        return JSON.parse(Buffer.from(sig, 'base64').toString());
+      } catch {
+        return [];
+      }
     }
   }
 }
