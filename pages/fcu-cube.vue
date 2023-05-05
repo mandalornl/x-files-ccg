@@ -201,10 +201,10 @@ export default {
       ], 120);
     },
 
-    drawPool(keys, size) {
+    drawPool(types, size) {
       const cardsInCube = shuffle(
         Object.entries(cube)
-          .filter(([ key ]) => keys.includes(key))
+          .filter(([ type ]) => types.includes(type))
           .flatMap(([ , cards ]) => (
             Object.entries(cards).reduce((result, [
               id,
