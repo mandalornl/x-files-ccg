@@ -51,27 +51,6 @@
           v-model="panels"
           multiple
         >
-          <v-expansion-panel>
-            <v-expansion-panel-header>
-              Stats
-            </v-expansion-panel-header>
-            <v-expansion-panel-content>
-              <div class="mx-n4">
-                <v-simple-table dense>
-                  <tbody>
-                    <tr
-                      v-for="(item, label) of skills"
-                      :key="label"
-                      :class="item.class"
-                    >
-                      <td>{{ label }}</td>
-                      <td>{{ item.value }}</td>
-                    </tr>
-                  </tbody>
-                </v-simple-table>
-              </div>
-            </v-expansion-panel-content>
-          </v-expansion-panel>
           <v-expansion-panel
             v-for="(filter, key) in filters"
             :key="key"
@@ -93,6 +72,27 @@
               />
             </v-expansion-panel-content>
           </v-expansion-panel>
+          <v-expansion-panel>
+            <v-expansion-panel-header>
+              Stats
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <div class="mx-n4">
+                <v-simple-table dense>
+                  <tbody>
+                    <tr
+                      v-for="item of skills"
+                      :key="item.label"
+                      :class="item.textColor"
+                    >
+                      <td>{{ item.label }}</td>
+                      <td>{{ item.value }}</td>
+                    </tr>
+                  </tbody>
+                </v-simple-table>
+              </div>
+            </v-expansion-panel-content>
+          </v-expansion-panel>
         </v-expansion-panels>
       </v-col>
       <v-col
@@ -100,6 +100,43 @@
         sm="8"
         md="9"
       >
+        <v-sheet
+          :style="{ top: `${$vuetify.application.top + 8}px` }"
+          class="position-sticky mb-4 mx-sm-n3 px-1 py-2 rounded-lg z-index-1"
+        >
+          <v-row
+            v-for="(items, index) of skillRows"
+            :key="index"
+            no-gutters
+          >
+            <v-col
+              v-for="item of items"
+              :key="item.label"
+              class="d-flex justify-center"
+            >
+              <v-tooltip
+                :color="item.iconColor"
+                top
+                open-delay="150"
+                content-class="black--text"
+              >
+                <template #activator="{ on, attrs }">
+                  <v-btn
+                    :color="item.iconColor"
+                    icon
+                    v-bind="attrs"
+                    v-on="on"
+                  >
+                    <v-icon :color="item.iconColor">
+                      {{ item.icon }}
+                    </v-icon>
+                  </v-btn>
+                </template>
+                {{ item.label }} ({{ item.value }})
+              </v-tooltip>
+            </v-col>
+          </v-row>
+        </v-sheet>
         <v-row
           v-intersect="{
             handler: onIntersect,
@@ -135,6 +172,7 @@
         <v-fade-transition>
           <div
             v-if="!intersecting"
+            style="top: 50%; left: 0; right: 0"
             class="position-sticky"
           >
             <v-btn
@@ -212,7 +250,7 @@ export default {
       ids: (this.$route.query.ids ?? '')
         .split(',')
         .filter(Boolean),
-      panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1, 2 ],
+      panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1 ],
       timeoutId: null,
       intersecting: true,
       showSelected: this.$route.query.showSelected === null
@@ -289,40 +327,56 @@ export default {
     },
 
     advancedSkills() {
-      return advancedSkills.reduce((result, key) => {
-        const value = this.getSkillTotal((card) => card.skills[key] ?? 0);
+      return advancedSkills.map((label) => {
+        const value = this.getSkillTotal((card) => card.skills[label] ?? 0);
 
         return {
-          ...result,
-          [key]: {
-            value,
-            class: this.getClass(value)
-          }
-        };
-      }, {});
+          label,
+          value,
+          textColor: this.getTextColor(value),
+          icon: this.getIcon(label),
+          iconColor: this.getIconColor(value)
+        }
+      });
     },
 
     basicSkills() {
-      return basicSkills.reduce((result, key) => {
-        const value = this.getSkillTotal((card) => card.skills[key] ?? 0);
+      return basicSkills.map((label) => {
+        const value = this.getSkillTotal((card) => card.skills[label] ?? 0);
 
         return {
-          ...result,
-          [key]: {
-            value
-          }
-        };
-      }, {});
+          label,
+          value,
+          textColor: 'white--text',
+          icon: this.getIcon(label),
+          iconColor: 'white'
+        }
+      });
     },
 
     skills() {
-      return {
+      return [
         ...this.advancedSkills,
         ...this.basicSkills,
-        'Cost': {
-          value: this.totalCost
+        {
+          label: 'Cost',
+          value: this.totalCost,
+          textColor: 'white--text',
+          icon: this.getIcon('Cost'),
+          iconColor: 'white'
         }
-      };
+      ];
+    },
+
+    skillRows() {
+      if (this.$vuetify.breakpoint.smAndDown) {
+        return [
+          this.skills.slice(0, 8),
+          this.skills.slice(8)
+        ];
+      }
+
+      return [ this.skills ];
     },
 
     totalCost() {
@@ -378,7 +432,7 @@ export default {
     },
 
     'ids.length'(value) {
-      if (!value) {
+      if (value === 0) {
         this.showSelected = false;
       }
     }
@@ -389,18 +443,53 @@ export default {
   },
 
   methods: {
-    getClass(value) {
+    getTextColor(value) {
       if (value >= 7) {
-        return 'cyan--text text--accent-2';
+        return 'light-blue--text text--accent-2';
       } else if (value >= 4) {
-        return 'primary--text';
+        return 'green--text text--accent-2';
       } else if (value === 3) {
-        return 'amber--text text--lighten-2';
+        return 'orange--text text--accent-2';
       } else if (value === 2) {
         return 'red--text text--accent-2';
       } else {
-        return undefined;
+        return 'grey--text text--lighten-1';
       }
+    },
+
+    getIconColor(value) {
+      if (value >= 7) {
+        return 'light-blue accent-2';
+      } else if (value >= 4) {
+        return 'green accent-2';
+      } else if (value === 3) {
+        return 'orange accent-2';
+      } else if (value === 2) {
+        return 'red accent-2';
+      } else {
+        return 'grey lighten-1';
+      }
+    },
+
+    getIcon(value) {
+      return {
+        'Alien Investigation': 'mdi-alien-outline',
+        'Behavioral': 'mdi-head-cog-outline',
+        'Bureaucracy': 'mdi-bank',
+        'Computer': 'mdi-desktop-classic',
+        'Criminal Investigation': 'mdi-account-search',
+        'Evidence Collection': 'mdi-archive-search-outline',
+        'Medical': 'mdi-hospital-box-outline',
+        'Occult Investigation': 'mdi-pentagram',
+        'Observation': 'mdi-cctv',
+        'Sciences': 'mdi-flask-outline',
+        'Subterfuge': 'mdi-incognito',
+        'Long Range Combat': 'mdi-pistol',
+        'Close Range Combat': 'mdi-knife-military',
+        'Health': 'mdi-heart-pulse',
+        'Resources': 'mdi-dice-d20',
+        'Cost': 'mdi-police-badge'
+      }[value] ?? null;
     },
 
     getSkillTotal(fn) {
@@ -444,11 +533,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss" scoped>
-.position-sticky {
-  top: 50%;
-  left: 0;
-  right: 0;
-}
-</style>

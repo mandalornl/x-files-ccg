@@ -158,6 +158,12 @@ h1, h2, h3, h4, h5, h6 {
   position: sticky !important;
 }
 
+@for $i from 1 through 10 {
+  .z-index-#{$i} {
+    z-index: $i;
+  }
+}
+
 .v-dialog--scrollable .v-card__text {
   max-height: 100vh;
 }
