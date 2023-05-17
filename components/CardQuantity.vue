@@ -1,5 +1,8 @@
 <template>
-  <v-badge :value="quantity > 0">
+  <v-badge
+    :value="quantity > 0"
+    inline
+  >
     <template #badge>
       <span class="black--text">
         {{ quantity }}

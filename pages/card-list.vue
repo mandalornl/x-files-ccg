@@ -33,7 +33,10 @@
             :disabled="deckSize === 0"
           >
             <template #label>
-              <v-badge :value="deckSize > 0">
+              <v-badge
+                :value="deckSize > 0"
+                inline
+              >
                 <template #badge>
                   <span class="black--text">
                     {{ deckSize }}
