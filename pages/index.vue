@@ -81,6 +81,14 @@ export default {
         multiline: true
       },
       {
+        title: 'Studio Sequim',
+        subtitle: 'Anything related to customizable card games, including and not limited to The X-Files CCG.',
+        href: 'https://www.youtube.com/@studiosequim920',
+        icon: 'mdi-youtube',
+        color: 'red',
+        multiline: true
+      },
+      {
         title: 'The X-Files Collectible Card Game',
         subtitle: 'For fans and collectors of The X-Files CCG, originally produced and distributed by The United States Playing Card Company.',
         href: 'https://www.facebook.com/groups/xfccg/',
