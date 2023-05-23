@@ -111,6 +111,13 @@ export default {
         href: 'https://www.reddit.com/r/TheXFilesCCG/',
         icon: 'mdi-reddit',
         color: '#ff3300'
+      },
+      {
+        title: 'Tabletop Simulator - The X-Files CCG',
+        subtitle: 'A great way to play the game online using a custom made module for TTS.',
+        href: 'https://steamcommunity.com/sharedfiles/filedetails/?id=2384875184',
+        icon: 'mdi-steam',
+        color: 'blue darken-4'
       }
     ]
   })
