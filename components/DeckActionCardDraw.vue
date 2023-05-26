@@ -35,12 +35,36 @@
       <v-card-text ref="text">
         <v-row>
           <v-col
-            v-for="card in hand"
+            v-for="(card, index) of hand"
             :key="card.uid"
             cols="6"
             sm="3"
           >
-            <card-image :card="card" />
+            <div
+              v-if="index === hand.length - 1"
+              class="d-flex align-center justify-center fill-height"
+            >
+              <v-slide-x-reverse-transition mode="out-in">
+                <card-image
+                  v-if="drawForTurn"
+                  key="card"
+                  :card="card"
+                />
+                <v-btn
+                  v-else
+                  key="button"
+                  small
+                  depressed
+                  @click="drawForTurn = true"
+                >
+                  Draw for turn
+                </v-btn>
+              </v-slide-x-reverse-transition>
+            </div>
+            <card-image
+              v-else
+              :card="card"
+            />
           </v-col>
         </v-row>
       </v-card-text>
@@ -83,7 +107,8 @@ export default {
 
   data: () => ({
     dialog: false,
-    hand: []
+    hand: [],
+    drawForTurn: false
   }),
 
   computed: {
@@ -130,6 +155,7 @@ export default {
   methods: {
     drawCards() {
       this.hand = sampleSize(this.cards, 8);
+      this.drawForTurn = false;
     }
   }
 }
