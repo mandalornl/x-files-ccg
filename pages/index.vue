@@ -89,6 +89,14 @@ export default {
         multiline: true
       },
       {
+        title: 'Chasing The Dragon',
+        subtitle: 'A little Internet corner dedicated to nerd culture with a strong focus on CCGs including the X-Files',
+        href: 'https://www.youtube.com/@chasingthedragonmedia',
+        icon: 'mdi-youtube',
+        color: 'red',
+        multiline: true
+      },
+      {
         title: 'The X-Files Collectible Card Game',
         subtitle: 'For fans and collectors of The X-Files CCG, originally produced and distributed by The United States Playing Card Company.',
         href: 'https://www.facebook.com/groups/xfccg/',
