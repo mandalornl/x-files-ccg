@@ -90,7 +90,7 @@ export default {
       },
       {
         title: 'Chasing The Dragon',
-        subtitle: 'A little Internet corner dedicated to nerd culture with a strong focus on CCGs including the X-Files',
+        subtitle: 'A little Internet corner dedicated to nerd culture with a strong focus on CCGs including the X-Files.',
         href: 'https://www.youtube.com/@chasingthedragonmedia',
         icon: 'mdi-youtube',
         color: 'red',
