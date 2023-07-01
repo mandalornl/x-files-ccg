@@ -305,7 +305,7 @@
     "dialogue": "Scully: \"He can’t have gotten far.\"\nMulder: \"This guy can squeeze into a coffee can, Scully. He could be anywhere.\""
   },
   {
-    "title": "Gerry Schnauz",
+    "title": "Gerry Schnauz Senses Your Unrest",
     "id": "XF22-0009x3",
     "set": "040460",
     "rarity": "Community",
@@ -327,7 +327,7 @@
       "Conspiracy",
       "Agent"
     ],
-    "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card atop the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed. ",
+    "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card on top of the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed.",
     "dialogue": "\"She's safe…from the howlers. She's all right now.\" - Gerry Schnauz"
   },
   {
@@ -433,7 +433,7 @@
     "dialogue": "\"I would just as soon kill you, but please, don’t make me. My work is done.\" - Vassily Peskow"
   },
   {
-    "title": "John Lee Roche",
+    "title": "The Mad Hatter",
     "id": "XF22-0014x3",
     "set": "040460",
     "rarity": "Community",
@@ -448,14 +448,14 @@
     "keywords": [
       "Adversary",
       "Primordial",
-      "Creature",
-      "Abduction"
+      "Abduction",
+      "Creature"
     ],
     "activators": [
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play this card on a Field Team that plays a Witness. John Lee Roche abducts the Witness and the Team must must make a CRIMINAL INVESTIGATION 5+ skill check. If unsuccessful, the Site skill check is failed and the Witness is removed from the game. If the Team makes the skill check, Roche is negated and removed from the game.",
+    "gameText": "Play this card on a Team in the Field that plays a Witness. The Mad Hatter abducts the Witness and the Team is forced to make a CRIMINAL INVESTIGATION 5+ skill check. If unsuccessful, the Site skill check is failed and the Witness is removed from the game. If the Team makes the skill check, this card is negated and removed from the game.",
     "dialogue": "\"You bring my hearts and give them back to me…I'll tell you everything you want to know.\" - John Lee Roche"
   },
   {
@@ -668,7 +668,7 @@
     "dialogue": "\"I came here to kill you.\" - Old Man Nichols"
   },
   {
-    "title": "Eddie Van Blundht",
+    "title": "Small Potatoes",
     "id": "XF22-0023x3",
     "set": "040460",
     "rarity": "Community",
@@ -2933,7 +2933,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force Agent Mulder to the Hospital (undamaged). Place three tokens on this card and remove a token during your opponent's Healing Phases. Mulder must remain in the Hospital until either all tokens are removed or a Healing card is played. When all tokens have been removed, discard this card. ",
+    "gameText": "Force Agent Mulder to the Hospital (undamaged). Place three tokens on this card and remove a token during your opponent's Healing Phases. Mulder must remain in the Hospital until either all tokens are removed or a Healing card is played. When all tokens have been removed, discard this card.",
     "dialogue": "The Cigarette-Smoking Man: \"What information?\"\nFirst Elder: \"That Mrs. Mulder's life is in danger, that left unprotected…she may come to an unnatural end.\""
   },
   {
