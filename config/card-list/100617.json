@@ -475,6 +475,9 @@
       "Electrical",
       "Move"
     ],
+    "activators": [
+      "Field"
+    ],
     "gameText": "Attach this card to an Agent in the Field. Discard this card to search through your Bureau Deck and add any one Keyword MOVE card to your hand. Show the card to your opponent and shuffle your Bureau Deck. If the card is immediately playable, you may do so for zero RP cost.",
     "dialogue": "\"It's safer than riding a tram.\" - Mulder"
   },
