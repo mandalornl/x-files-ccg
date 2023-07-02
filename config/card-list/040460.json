@@ -3579,7 +3579,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's RES value. This card may be attached at zero cost if played after one of your Agents have been removed from the game. Each player may only have one of this card in their deck.",
+    "gameText": "Adds 1 to the Agent's RES value. This card may be attached at zero cost if played after one of your Agents has been removed from the game. Each player may only have one of this card in their deck.",
     "dialogue": "\"I just thought it was a pretty cool keychain.\" - Mulder"
   },
   {
