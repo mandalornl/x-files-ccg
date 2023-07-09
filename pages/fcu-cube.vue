@@ -65,7 +65,6 @@
               cols="12"
               sm="6"
             >
-              <h3>Player {{ index + 1 }}</h3>
               <v-data-table
                 :headers="headers"
                 :items="cards"
@@ -87,7 +86,6 @@
               cols="12"
               sm="6"
             >
-              <h3>Player {{ index + 1 }}</h3>
               <v-row>
                 <v-col
                   v-for="card of cards"
@@ -267,3 +265,15 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.row > .col-12 {
+  &:nth-child(odd) {
+    background-color: #5c0e0e;
+  }
+
+  &:nth-child(even) {
+    background-color: #012c4e;
+  }
+}
+</style>
