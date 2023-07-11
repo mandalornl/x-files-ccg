@@ -90,7 +90,9 @@
                 <v-col
                   v-for="card of cards"
                   :key="card.uid"
-                  cols="3"
+                  cols="6"
+                  sm="4"
+                  md="3"
                 >
                   <div @click="selectedCard = card">
                     <card-image :card="card" />
