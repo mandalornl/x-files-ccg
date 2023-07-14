@@ -170,7 +170,6 @@ export const keywords = [
   'Subterfuge',
   'Training',
   'Weapon',
-  'Weapon Standard',
   'Witness'
 ];
 

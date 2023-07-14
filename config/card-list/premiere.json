@@ -5995,7 +5995,8 @@
     "cost": "4 RP",
     "keywords": [
       "Equipment",
-      "Weapon Standard"
+      "Weapon",
+      "Standard"
     ],
     "activators": [
       "Bureau"
