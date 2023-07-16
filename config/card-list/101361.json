@@ -1360,7 +1360,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Place this card in one of your opponents Fields. Your opponent must subtract 2 from the he generates each turn while this card is in his Field. Your opponent may pay 7 to force you to discard this card."
+    "gameText": "Place this card in one of your opponents Fields. Your opponent must subtract 2 from the RP he generates each turn while this card is in his Field. Your opponent may pay 7 RP to force you to discard this card."
   },
   {
     "title": "Circuit Board Implant",
