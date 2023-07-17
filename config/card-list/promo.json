@@ -241,7 +241,7 @@
     "foundIn": "InQuest #25",
     "episode": "Pusher",
     "type": "Event",
-    "cost": "3 *P",
+    "cost": "3 PP",
     "keywords": [
       "Event"
     ],
@@ -322,7 +322,7 @@
     "foundIn": "Scrye 4/2",
     "episode": "Humbug",
     "type": "Event",
-    "cost": "5 *P",
+    "cost": "5 PP",
     "keywords": [
       "Event"
     ],
@@ -358,7 +358,7 @@
     "foundIn": "Gamer Spring '97, Collect May '97",
     "episode": "Piper Maru",
     "type": "Event",
-    "cost": "0 *P",
+    "cost": "0 PP",
     "keywords": [
       "Event"
     ],
@@ -375,7 +375,7 @@
     "foundIn": "France and some issues of Scrye 4.3",
     "episode": "Piper Maru",
     "type": "Event",
-    "cost": "2*P",
+    "cost": "2PP",
     "keywords": [
       "Event",
       "Phenomena"
@@ -416,7 +416,7 @@
     "foundIn": "Combo #30",
     "episode": "Piper Maru",
     "type": "Event",
-    "cost": "2 *P",
+    "cost": "2 PP",
     "keywords": [
       "Event",
       "Bureaucracy"

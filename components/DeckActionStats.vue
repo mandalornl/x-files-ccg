@@ -41,7 +41,7 @@
             <deck-stats-type :cards="cards" />
           </v-col>
           <v-col
-            v-for="type in [ 'RP', 'CP', '*P' ]"
+            v-for="type in [ 'RP', 'CP', 'PP' ]"
             :key="type"
             cols="12"
             sm="4"
