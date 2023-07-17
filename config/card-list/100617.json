@@ -525,5 +525,64 @@
     ],
     "gameText": "Place 1 RP on this card. This RP may be used to pay for any ACTIVE card. If you use this RP, replace it during your Briefing Phase.",
     "bio": "As a supply chain manager, Guillaume Saladin ensures that the store he oversees is consistently stocked. Guillaume watches 90's TV shows and collects vinyl records. His beloved cat, Choléra, is never far from his side."
+  },
+  {
+    "title": "Fort Boyard, Coastal West France",
+    "id": "XF19-0026x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Les Naufrageurs",
+    "type": "Site",
+    "cost": "1 RP",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Method",
+      "Result",
+      "Evidence Collection",
+      "Observation"
+    ],
+    "prerequisite": "EVIDENCE COLLECTION 5+ or OBSERVATION 5+",
+    "question": "You may ask one METHOD question or one RESULT question.",
+    "dialogue": "Mulder: \"This fort was built under Napoleon, right?\"\nGuillaume Saladin: \"Yes, and Louis-Philippe. It was a military prison before it was abandoned around 1900.\""
+  },
+  {
+    "title": "Don't Turn Around!",
+    "id": "XF19-0027x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Les Naufrageurs",
+    "type": "Bluff",
+    "cost": "4 CP",
+    "keywords": [
+      "Bluff",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to apply a -2 modifier to the Site skill check. In addition, one Agent on the Team (your choice) may not contribute their Combat skills this turn.",
+    "dialogue": "Mulder: \"Scully? Are you seeing this?\"\nScully: \"Listen to me very carefully, Guillaume. We're gonna get you outta there.\""
+  },
+  {
+    "title": "Choléra the Cat",
+    "id": "XF19-0028x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Les Naufrageurs",
+    "type": "Equipment",
+    "cost": "3 RP",
+    "keywords": [
+      "Equipment",
+      "Special",
+      "Weapon",
+      "Healing"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill. Place a token on this card. Remove a token to search through your Bureau Deck and add any one Keyword HEALING card to your hand. Shuffle your deck.",
+    "dialogue": "\"Pretty fierce feline you got there. We've seen our share of 'em in the States.\" - Mulder"
   }
 ]
