@@ -195,7 +195,10 @@
 <script>
 import { Intersect } from 'vuetify/lib/directives';
 
-import { cards } from '~/config/card';
+import {
+  cards,
+  sets
+} from '~/config/card';
 import {
   advancedSkills,
   basicSkills
@@ -219,6 +222,14 @@ export default {
         costInt: {
           label: 'Cost',
           items: Array.from({ length: 7 }, (_, index) => index + 1),
+          operation: 'and'
+        },
+        set: {
+          label: 'Set',
+          items: sets.filter((value) => ![
+            'Premiere',
+            'Gen Con'
+          ].includes(value)),
           operation: 'and'
         }
       }).map(([
