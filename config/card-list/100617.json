@@ -6,16 +6,17 @@
     "rarity": "Community",
     "episode": "Fragile",
     "type": "Agent",
-    "cost": "3 RP",
+    "cost": "4 RP",
     "skills": {
       "Behavioral": 1,
-      "Evidence Collection": 2,
+      "Evidence Collection": 3,
+      "Observation": 2,
       "Occult Investigation": 2,
       "Subterfuge": 1,
       "Long Range Combat": 1,
       "Close Range Combat": 2,
-      "Health": 3,
-      "Resources": 2
+      "Health": 4,
+      "Resources": 1
     },
     "keywords": [
       "Agent",
@@ -23,8 +24,8 @@
       "Cute",
       "Believer"
     ],
-    "gameText": "Place one token on this card. Discard a token to negate one CREATURE Adversary.",
-    "bio": "Delaney Arvidson is a spiritually gifted child and reluctant eater of lima beans. The daughter of Stephen and Katina, Delaney assisted Mulder and Scully in the rescue of her favorite stuffed animal, Knuffle Bunny."
+    "gameText": "Place one token on this card. Remove a token to negate one Keyword CREATURE Adversary.",
+    "bio": "As a toddler, Delaney Arvidson was imbued with psychokinetic abilities, the result of prolonged exposure to mystical runes hidden within her favorite stuffed animal. Agents Mulder and Scully learned of her powers while investigating a string of grisly murders near Delaney's home."
   },
   {
     "title": "Knuffle Bunny",
@@ -36,13 +37,13 @@
     "cost": "4 RP",
     "keywords": [
       "Equipment",
-      "Special"
+      "Mystic"
     ],
     "activators": [
       "Field"
     ],
-    "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill. Adds 2 to the Agent's OCCULT INVESTIGATION skill if the assigned Agent has the Keyword CUTE.",
-    "dialogue": "Delaney: \"Will you help me find Knuffle Bunny?\"\nMulder: \"Knuffle Bunny?\"\nKatina: It's her favorite stuffed animal. It went missing a couple of days ago.\""
+    "gameText": "Adds 2 to the Agent's EVIDENCE COLLECTION skill. OCCULT Adversaries must assign damage to this Agent. This card is free if attached Agent has the Keyword CUTE.",
+    "dialogue": "Delaney: \"Will you help us find Knuffle Bunny?\"\nMulder: \"Knuffle Bunny?\"\nKatina Arvidson: \"Her stuffed animal. It went missing two days ago.\""
   },
   {
     "title": "Seamus the Cat",
