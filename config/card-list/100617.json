@@ -585,5 +585,31 @@
     ],
     "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill. Place a token on this card. Remove a token to search through your Bureau Deck and add any one Keyword HEALING card to your hand. Shuffle your deck.",
     "dialogue": "\"Pretty fierce feline you got there. We've seen our share of 'em in the States.\" - Mulder"
+  },
+  {
+    "title": "David Pease",
+    "id": "XF19-0029x42",
+    "set": "100617",
+    "rarity": "Community",
+    "episode": "Verum lamia non coruscent",
+    "type": "Agent",
+    "cost": "4 RP",
+    "skills": {
+      "Bureaucracy": 1,
+      "Computer": 2,
+      "Evidence Collection": 1,
+      "Observation": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 1
+    },
+    "keywords": [
+      "Agent",
+      "Independent",
+      "Believer"
+    ],
+    "gameText": "Place a token on this card. Remove a token to search your Bureau deck to draw any one Keyword Equipment card. Show this card to your opponent, add it to your hand and shuffle your deck.",
+    "bio": "As a self-proclaimed \"data nerd\", David Pease provides information, research and resources. Growing up in a region rife with paranormal activities, he is ready to bring his research to practical use. David has keen observation skills and firearms training."
   }
 ]
