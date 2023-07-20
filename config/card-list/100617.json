@@ -42,7 +42,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Adds 2 to the Agent's EVIDENCE COLLECTION skill. OCCULT Adversaries must assign damage to this Agent. This card is free if attached Agent has the Keyword CUTE.",
+    "gameText": "Adds 2 to the Agent's EVIDENCE COLLECTION skill. OCCULT Adversaries must assign damage to this Agent. This card is free if the attached Agent has the Keyword CUTE.",
     "dialogue": "Delaney: \"Will you help us find Knuffle Bunny?\"\nMulder: \"Knuffle Bunny?\"\nKatina Arvidson: \"Her stuffed animal. It went missing two days ago.\""
   },
   {
