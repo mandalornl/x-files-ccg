@@ -137,7 +137,6 @@ export const keywords = [
   'Independent',
   'Information',
   'Insanity',
-  'Investigation',
   'Killer',
   'Law',
   'Martial Arts',
