@@ -515,7 +515,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Draw the top three cards from your Bureau deck. If any of the drawn cards are playable and contain Keyword CONSPIRACY, you may immediately play one (your choice) for zero [CP] Cost. Discard the remaining cards drawn from your Bureau deck.",
+    "gameText": "Draw the top three cards from your Bureau deck. If any of the drawn cards are playable and contain Keyword CONSPIRACY, you may immediately play one (your choice) for zero CP Cost. Discard the remaining cards drawn from your Bureau deck.",
     "dialogue": "Mulder: \"I'm looking for Mr Kallenchuk.\"\nJeraldine Kallenchuk: \"I'm sorry, Mr Kallenchuk is out of town. Perhaps I can help you with something?\""
   },
   {
