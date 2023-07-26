@@ -691,12 +691,14 @@
     "type": "Combat",
     "cost": "4 CP",
     "keywords": [
-      "Combat"
+      "Combat",
+      "Government",
+      "Subterfuge"
     ],
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any human or humanoid Adversary during CLOSE RANGE COMBAT. The Adversary may capture any one Agent from the opposing Team with HEALTH 3 (ignoring modifiers). Any damage done to the Adversary during this CRC round is applied to the captured Agent instead. Any excess damage is applied to the Adversary as normal.",
+    "gameText": "Play during CLOSE RANGE COMBAT on any Adversary with the Keyword GOVERNMENT or that is capable of using SUBTERFUGE cards. The Adversary may capture any one Agent from the opposing Team with HEALTH 3 (ignoring modifiers). Any damage done to the Adversary during this CRC round is applied to the captured Agent instead. Any excess damage is applied to the Adversary as normal.",
     "dialogue": "[…]"
   },
   {
