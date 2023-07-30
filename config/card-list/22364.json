@@ -42,7 +42,7 @@
     "rarity": "Community",
     "episode": "Jose Chung's From Outer Space",
     "type": "Combat",
-    "cost": "X PP",
+    "cost": "X *P",
     "keywords": [
       "Combat"
     ],
@@ -1157,7 +1157,7 @@
     "rarity": "Community",
     "episode": "Hell Money",
     "type": "Event",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Event"
     ],
@@ -1245,7 +1245,7 @@
     "rarity": "Community",
     "episode": "731",
     "type": "Event",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Event"
     ],
@@ -1298,7 +1298,7 @@
     "rarity": "Community",
     "episode": "Jose Chung's From Outer Space",
     "type": "Event",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Event"
     ],
@@ -1697,7 +1697,7 @@
     "rarity": "Community",
     "episode": "The Walk",
     "type": "Event",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Event"
     ],

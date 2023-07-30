@@ -1917,7 +1917,7 @@
     "rarity": "Community",
     "episode": "Herrenvolk",
     "type": "Event",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Event",
       "Resource"
@@ -2165,7 +2165,7 @@
     "rarity": "Community",
     "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Event",
-    "cost": "5 PP",
+    "cost": "5 *P",
     "keywords": [
       "Event",
       "Negate",

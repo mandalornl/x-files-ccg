@@ -40,7 +40,7 @@
     "rarity": "Uncommon",
     "episode": "Ice",
     "type": "Combat",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Combat"
     ],
@@ -74,7 +74,7 @@
     "rarity": "Rare",
     "episode": "End Game",
     "type": "Combat",
-    "cost": "4 PP",
+    "cost": "4 *P",
     "keywords": [
       "Combat"
     ],
@@ -107,7 +107,7 @@
     "rarity": "Common",
     "episode": "Anasazi",
     "type": "Combat",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Combat",
       "Subterfuge"
@@ -124,7 +124,7 @@
     "rarity": "Common",
     "episode": "Red Museum",
     "type": "Combat",
-    "cost": "1 PP",
+    "cost": "1 *P",
     "keywords": [
       "Combat",
       "Martial Arts"
@@ -141,7 +141,7 @@
     "rarity": "Common",
     "episode": "Little Green Men",
     "type": "Combat",
-    "cost": "1 PP",
+    "cost": "1 *P",
     "keywords": [
       "Combat"
     ],
@@ -157,7 +157,7 @@
     "rarity": "Common",
     "episode": "The Jersey Devil",
     "type": "Combat",
-    "cost": "1 PP",
+    "cost": "1 *P",
     "keywords": [
       "Combat",
       "Subterfuge"
@@ -174,7 +174,7 @@
     "rarity": "Uncommon",
     "episode": "Young at Heart",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat"
     ],
@@ -190,7 +190,7 @@
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat",
       "Martial Arts"
@@ -242,7 +242,7 @@
     "rarity": "Rare",
     "episode": "Gender Bender",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat",
       "Martial Arts"
@@ -294,7 +294,7 @@
     "rarity": "Rare",
     "episode": "Ice",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat",
       "Martial Arts"
@@ -314,7 +314,7 @@
     "rarity": "Uncommon",
     "episode": "Ice",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat"
     ],
@@ -364,7 +364,7 @@
     "rarity": "Uncommon",
     "episode": "One Breath",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat"
     ],
@@ -436,14 +436,14 @@
     "rarity": "Uncommon",
     "episode": "3",
     "type": "Combat",
-    "cost": "X PP",
+    "cost": "X *P",
     "keywords": [
       "Combat"
     ],
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 PP, whichever is greater.",
+    "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater.",
     "tags": [
       "Negate"
     ]
@@ -455,7 +455,7 @@
     "rarity": "Common",
     "episode": "Anasazi",
     "type": "Combat",
-    "cost": "1 PP",
+    "cost": "1 *P",
     "keywords": [
       "Combat"
     ],
@@ -471,7 +471,7 @@
     "rarity": "Rare",
     "episode": "Anasazi",
     "type": "Combat",
-    "cost": "3 PP",
+    "cost": "3 *P",
     "keywords": [
       "Combat",
       "Martial Arts"
@@ -488,7 +488,7 @@
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
     "type": "Combat",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Combat"
     ],
@@ -640,7 +640,7 @@
     "rarity": "Uncommon",
     "episode": "Anasazi",
     "type": "Combat",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Combat"
     ],
@@ -656,7 +656,7 @@
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
     "type": "Combat",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Combat"
     ],
@@ -672,7 +672,7 @@
     "rarity": "Uncommon",
     "episode": "Blood",
     "type": "Combat",
-    "cost": "2 PP",
+    "cost": "2 *P",
     "keywords": [
       "Combat"
     ],
@@ -6483,7 +6483,7 @@
     "rarity": "Ultra-Rare",
     "episode": "One Breath",
     "type": "Event",
-    "cost": "4 PP",
+    "cost": "4 *P",
     "keywords": [
       "Event"
     ],
