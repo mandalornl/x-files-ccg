@@ -118,6 +118,11 @@ export default {
         to: '/downloads',
         label: 'Downloads',
         icon: 'mdi-archive'
+      },
+      {
+        to: '/advanced-rules',
+        label: 'Advanced Rules',
+        icon: 'mdi-book-open-variant'
       }
     ],
     showToTop: false
