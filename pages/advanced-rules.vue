@@ -26,7 +26,7 @@
     </h4>
     <p>In the Advanced Game, you may choose any number of Agents you like for your initial <b>Team</b>, provided there are no duplicates and the sum of all Agents' Costs does not exceed 20.The Agent's Cost is a rating relative to each Agent's game value and appears in the lower right corner of the Agent card. Your Team should be a minimum of three Agents, but can be more. Each player is allowed to have the same Agent.</p>
     <p>Each player divides the surface area they are playing on into three sections: the <b>Bureau</b>, the <b>Fields</b> and the <b>Hospital</b>. Your Agents begin the game in the Bureau section.</p>
-    <p>Creat a <b>Discard Pile</b> face-up next to your Bureau Deck when it becomes necessary. This will be used for discarding excess cards and cards you have used. Should the Bureau Deck ever run out of cards, shuffle your Discard Pile to recreate the Bureau Deck and  cotinue play.</p>
+    <p>Create a <b>Discard Pile</b> face-up next to your Bureau Deck when it becomes necessary. This will be used for discarding excess cards and cards you have used. Should the Bureau Deck ever run out of cards, shuffle your Discard Pile to recreate the Bureau Deck and  cotinue play.</p>
     <p><b>The X-Files Notebook</b> and <b>tokens</b> will also be needed for the Advanced Game. The Notebook is a checklist used to track information about your opponent's X-File(s). Tokens will be used to track certain information</p>
     <p class="mb-0">
       <b>Advanced Game Set-up Summary</b>:
@@ -56,25 +56,25 @@
     <ol>
       <li>
         <b>Briefing Phase</b>
-        <ul>
+        <ol class="list-style-type--lower-alpha">
           <li>The Investigating Player may draw one card.</li>
           <li>The Investigating Player may use his Agents to create Resource Points (RP's) and the may buy cards at the rate of <b>1</b> RP each.</li>
           <li>All players except for the Investigating Player may discard cards with an RP value and gain an equal number of Conspiracy Points (CP's). These players may purchase cards at the price of <b>1</b> CP each.</li>
-        </ul>
+        </ol>
       </li>
       <li>
         <b>Healing Phase (applies to all Agents in the Hospital)</b>
-        <ul>
+        <ol class="list-style-type--lower-alpha">
           <li>Agents with 0-3 HEALTH heal on point damage.</li>
           <li>Agents with 4+ HEALTH heal two points damage.</li>
-        </ul>
+        </ol>
       </li>
       <li>
         <b>Requisition Phase</b>
-        <ul>
+        <ol class="list-style-type--lower-alpha">
           <li>The Investigating Player may pay for and assign Equipment to any Agent who meets the Equipment card's requirement.</li>
           <li>Agents in the same location may exchange Equipment.</li>
-        </ul>
+        </ol>
       </li>
     </ol>
     <p class="text-center">
@@ -86,15 +86,15 @@
     >
       <li>
         <b>Case Assignment Phase</b>
-        <ul>
+        <ol class="list-style-type--lower-alpha">
           <li>The Investigating Player places Sites in his Field section.</li>
           <li>The Investigating Player announces which opponent each Site will be directed toward.</li>
           <li>All opponents may assign Bluffs to any Sites played.</li>
-        </ul>
+        </ol>
       </li>
       <li>
         <b>Investigation Phase</b>
-        <ul>
+        <ol class="list-style-type--lower-alpha">
           <li>New Agent Teams may be designated for the Field Section.</li>
           <li>The Investigating Player decides which Teams they will send to each Site.</li>
           <li>Each Site investigated is resolved separately.<br>The Investigating Player chooses a resolution sequence.</li>
@@ -103,14 +103,14 @@
           <li>Any player may pay for and play cards. The effects are immediately resolved.</li>
           <li>
             When Combat is initiated, investigation activities cease and the Combat is immediately resolved.<br>The Combat order proceeds as follows:
-            <ul>
-              <li>LONG RANGE COMBAT (LRC) damage allocation.</li>
-              <li>CLOSE RANGE COMBAT (CRC) damage allocation.</li>
+            <ol class="list-style-type--lower-roman">
+              <li>LONG RANGE COMBAT (LRC). Damage allocation.</li>
+              <li>CLOSE RANGE COMBAT (CRC). Damage allocation.</li>
               <li>Repeat CLOSE RANGE COMBAT rounds until the Adversary is killed or all Agents are sent to the Hospital.</li>
-            </ul>
+            </ol>
           </li>
           <li>If the Agents succesfully meet the Site Prerequisite after completing the Skill Check Subroutine, they may ask the Directed Player a question and/or quess their X-File identity.</li>
-        </ul>
+        </ol>
       </li>
       <li>
         <b>Debriefing Phase</b><br>All players may discard cards.
@@ -155,11 +155,8 @@
       class="text-center"
     >
       <p>
-        <resource-pool>2</resource-pool>
-        <conspiracy-pool class="mx-2">
-          4
-        </conspiracy-pool>
-        <star-pool>7</star-pool></p>
+        [[IMAGE]] [[IMAGE]] [[IMAGE]]
+      </p>
       <p>Examples of <resource-pool /> (RP), <conspiracy-pool /> (CP) and <star-pool /> (*P) cost icons as seen on cards.</p>
     </v-alert>
     <p class="text-center">
@@ -208,9 +205,9 @@
       text
       color="info"
     >
-      <p>Randy and Les are about to play a two-player Advanced Game. Each player constructs a sixty-card deck. Both players now choose an X-File and place the card face down. Randy selects Agents Fox Mulder, Dana Scully, Special Agent Karen Kosseff, and Jerry Lamana prior to starting the game. Agents Mulder and Scully each have a cost of <b>7</b> <resource-pool />. Agents Kosseff and Lamana each have a Cost of <b>3</b> <resource-pool />. Randy's Agent's total Cost is <b>20</b>. Since he is allowed no more than <b>20</b> <resource-pool /> for his starting Agents, this is a valid selection. He could have selected any Agents with a total Cost of <b>20</b> or less. Les also selects <b>20</b> points worth of Agents.</p>
-      <p>Randy and Les each creat Bureau, Field and Hospital Sections on their playing surface. Each player places his Agents in the Bureau to start the game. Both player shuffle their cards and have the opponent cut them. These cards are placed face down in their Bureau Sections and become the Bureau decks. Randy and Les draw seven cards each to begin play.</p>
-      <p>Each player now creates a Resource Pool (<resource-pool />) and a Conspiracy Pool (<conspiracy-pool />). Randy uses pennies as <resource-pool /> tokens and places five by his Bureau Deck to create this pool. He uses nickels for <resource-pool /> tokens and places five by his X-File card. Les does the same. Randy wins a coin toss and elects to go first. Randy and Les are now ready to begin the Advanced Game.</p>
+      <p>{{ playerOne }} and {{ playerTwo }} are about to play a two-player Advanced Game. Each player constructs a sixty-card deck. Both players now choose an X-File and place the card face down. {{ playerOne }} selects Agents Fox Mulder, Dana Scully, Special Agent Karen Kosseff, and Jerry Lamana prior to starting the game. Agents Mulder and Scully each have a cost of <b>7</b> <resource-pool />. Agents Kosseff and Lamana each have a Cost of <b>3</b> <resource-pool />. {{ playerOne }}'s Agent's total Cost is <b>20</b>. Since he is allowed no more than <b>20</b> <resource-pool /> for his starting Agents, this is a valid selection. He could have selected any Agents with a total Cost of <b>20</b> or less. {{ playerTwo }} also selects <b>20</b> points worth of Agents.</p>
+      <p>{{ playerOne }} and {{ playerTwo }} each create Bureau, Field and Hospital Sections on their playing surface. Each player places his Agents in the Bureau to start the game. Both player shuffle their cards and have the opponent cut them. These cards are placed face down in their Bureau Sections and become the Bureau decks. {{ playerOne }} and {{ playerTwo }} draw seven cards each to begin play.</p>
+      <p>Each player now creates a Resource Pool (<resource-pool />) and a Conspiracy Pool (<conspiracy-pool />). {{ playerOne }} uses pennies as <resource-pool /> tokens and places five by his Bureau Deck to create this pool. He uses nickels for <resource-pool /> tokens and places five by his X-File card. {{ playerTwo }} does the same. {{ playerOne }} wins a coin toss and elects to go first. {{ playerOne }} and {{ playerTwo }} are now ready to begin the Advanced Game.</p>
     </v-alert>
     <p class="text-center">
       13
@@ -276,7 +273,7 @@
       color="info"
     >
       [[IMAGE]]<br>
-      Randy consults his "Townsend, WI" Site card. He discovers the Keywords "<b>SITE</b>", "<b>MULTI</b>", "<b>MOTIVE</b>", "<b>RESULT</b>", "<b>ALIEN INVESTIGATION</b>" and "<b>BUREAUCRACY</b>". From this, Randy determines that the card is a Site with multiple Skills and questions. The Skills which can be used are Alien Investigation or Bureaucracy and the question hey may ask upon a successful investigation is either a RESULT or MOTIVE question.
+      {{ playerOne }} consults his "Townsend, WI" Site card. He discovers the Keywords "<b>SITE</b>", "<b>MULTI</b>", "<b>MOTIVE</b>", "<b>RESULT</b>", "<b>ALIEN INVESTIGATION</b>" and "<b>BUREAUCRACY</b>". From this, {{ playerOne }} determines that the card is a Site with multiple Skills and questions. The Skills which can be used are Alien Investigation or Bureaucracy and the question hey may ask upon a successful investigation is either a RESULT or MOTIVE question.
     </v-alert>
     <p>There are serveral cards which change another card's Keywords. When this occurs, only the Keyword is changed. The rest of the card remains unchanged.</p>
     <h3>Resources</h3>
@@ -284,11 +281,280 @@
     <p class="text-center">
       17
     </p>
+    <h3 id="18">
+      Detailed Advanced Game Phase Descriptions
+    </h3>
+    <h4 class="red--text">
+      The Briefing Phase
+    </h4>
+    <p>At the beginning of the Briefing Phase, the Investigating Player may draw one card. This is a "free" draw and occurs regardless of any Agent's current status.</p>
+    <p>The Investigating Player may then use his Agents to create <b>Resource Points</b> (RPs or <resource-pool />). Then they may purchase cards. Cards ar purchased from the top of the Bureau Deck at the cost of <b>1</b> <resource-pool /> each. The Investigating Player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Resource Pool</b> section on page <page-link>11</page-link>.</p>
+    <p>Any of the Investigating Player's opponents may now discard cards from their hand with an <resource-pool /> or <star-pool /> Cost and gain an equal number of <conspiracy-pool />s. This is optional. Cards that are exchanged are placed face up on the Discard Pile.</p>
+    <p>Each opponent of the Investigating Player may purchase cards from the top of the Bureau Deck at the cost of <b>1</b> <conspiracy-pool /> each. Purchasing cards is done after <resource-pool /> cards have been sold. Each player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Conspiracy Pool</b> section on page <page-link>12</page-link>.</p>
+    <p class="text-center">
+      18
+    </p>
+    <h3 id="19">
+      Turn Example: Briefing Phase
+    </h3>
+    <v-alert
+      text
+      color="info"
+    >
+      <p>{{ playerOne }} begins his turn with the Briefing Phase. He draws one card as a "free" draw. He uses his Agents' Resource (RES) numbers to create <resource-pool />s. Scully and Mulder both have a RES number of 2 and Kosseff and Lamana both have the RES numner 1. {{ playerOne }} would add all six tokens to his Resource Pool, however Mulder's Game Effect is that the <resource-pool />s he generates must be used to purchase cards. Therefore, {{ playerOne }} spends <b>2</b> <resource-pool />s and draws two cards. He could have chose to purchase more if desired. {{ playerOne }} has ten cards in his hand and nine tokens in his Resource Pool.</p>
+      <p>{{ playerTwo }} now has the chance to gain <conspiracy-pool />s. {{ playerTwo }} may exchange cards with an <resource-pool /> or <star-pool /> value for an equal number of <conspiracy-pool />s. {{ playerTwo }} trades in a Shotgun Equipment card, a Deep Throat Event card, and an Ambush Combat card. The Shotgun card has a <resource-pool /> Cost of <b>6</b>, the Deep Throat card <b>5</b> and the Ambush card <b>2</b>. {{ playerTwo }} adds <b>13</b> <conspiracy-pool /> to his Conspiracy Pool. {{ playerTwo }} now has <b>18</b> <conspiracy-pool /> in his Conspiracy Pool. {{ playerTwo }} purchases 2 cards from the top of his Bureau Deck for <b>1</b> <conspiracy-pool /> each. {{ playerTwo }} has <b>16</b> <conspiracy-pool /> in his Conspiracy Pool after purchasing cards.</p>
+    </v-alert>
+    <p class="text-center">
+      19
+    </p>
+    <h3 id="20">
+      Detailed Advanced Game Phase Descriptions continued…
+    </h3>
+    <h4 class="red--text">
+      The Healing Phase
+    </h4>
+    <p>During this phase, Agents with damage are allowed to recover HEALTH points. Only Agents in the Hospital may heal during this phase. Healing works as follows:</p>
+    <ul class="mb-4">
+      <li>
+        <b>Agents with a permanent HEALTH rating of 3 or less:</b><br>
+        Heal 1 point of damage now.
+      </li>
+      <li>
+        <b>Agents with a permanent HEALTH rating of 4 or higher:</b><br>
+        Heal 2 points of damage now.
+      </li>
+    </ul>
+    <p>Only Agents with a current HEALTH rating of 3 or higher after the Healing Phase are allowed to leave the Hospital during the Deployment Phase. This is true regardless of whether the trip to the Hospital was voluntary or a forced result of Combat. In the Event that an Agent has a permanent HEALTH Rating of less than 3, then the Agent may leave the Hospital when fully healed.</p>
+    <p>Agents in the Hospital may not contribute their Skills to any Skill Checks.</p>
+    <p>The permanent HEALTH Rating is the <b>HEALTH</b> listed on upper right of the Agent card.</p>
+    <v-alert
+      text
+      color="info"
+      class="text-center"
+    >
+      [[IMAGE]] A typical Agent HEALTH Rating.
+    </v-alert>
+    <p class="text-center">
+      20
+    </p>
+    <h4
+      id="21"
+      class="red--text"
+    >
+      The Requisition Phase
+    </h4>
+    <p>FBI Agents have access to an assortment of Equipment to aid in the investigation. To obtain Equipment, Agents must Requisition it. All Equipment cards state the requirements for Requisition in their Activators. Frequently, the Agent will need to be in the Bureau to get Equipment.</p>
+    <p>The Investigating Player may pay for and assign Equipment to any Agent who meets the requirement on the Equipment card. Furthermore, Agents in the same Team (please see <b>Teams</b> on page <page-link>23</page-link>) are allowed to exchange Equipment during this phase. Agents may not have more than one of any particular item, but may have as many total pieces of different Equipment as they wish. Also, an Agent may only use one piece of Equipment to modify a single Skill Check.</p>
+    <p><b>Example:</b></p>
+    <v-alert
+      text
+      color="info"
+    >
+      {{ playerOne }} has Scully in the field. In Long Range Combat she has two weapons, one which adds 3 to her LRC and one which adds 2. {{ playerOne }} may not have her use both at once. He must choose one weapon. Naturally, he chooses the one which does more damage.
+    </v-alert>
+    <v-alert
+      text
+      color="info"
+      class="text-center"
+    >
+      [[IMAGE]]
+    </v-alert>
+    <p class="text-center">
+      21
+    </p>
+    <h3 id="22">
+      Turn Example: Healing and Requisition Phases
+    </h3>
+    <v-alert
+      text
+      color="info"
+    >
+      <p>{{ playerOne }} now enters the Healing Phase. Since this is his first turn, no Healing will occur or is needed.</p>
+      <p>Let's assume that Agent Mulder has taken 5 damage and Agent Kosseff 3. Both Agents are moved to the Hospital since their HEALTH ratings have been reduced to 0. {{ playerOne }} has placed five tokens on Mulder and three on Kosseff. He does this to show that Mulder has taken all 5 points of his HEALTH in damage and Kosseff has taken all 3 of hers as well. During the Healing Phase, {{ playerOne }} removes two tokens from Mulder's card because this permanent HEALTH rating is 4+. He also removes one token from Kosseff's card because her permanent HEALTH rating is 3 or less. Neither Agent may leave the Hospital this turn, as they must heave at least 3 HEALTH to do so. The Healing Phase is completed.</p>
+      <p>Remember in our turn example, no one is actually hurt or in the Hospital yet.</p>
+      <p>{{ playerOne }} now begins his Requisition Phase. {{ playerOne }} has a "Knife" card in his hand. The "Knife" adds 1 to the Agent's CRC skill. This Equipment card has the Activator word "<b>BUREAU</b>". Since all of {{ playerOne }}'s Agents began the game in the Bureau, he may pay for and assign the Equipment card to any of his Agents. {{ playerOne }} removes the <b>2</b> <resource-pool /> Cost from his Resource Pool and places the Equipment card with Agent Mulder. {{ playerOne }} now has <b>7</b> <resource-pool />s left in his Resource Pool. {{ playerOne }} does not want to Requisition any more Equipment and has completed the Requisition Phase.</p>
+    </v-alert>
+    <p class="text-center">
+      22
+    </p>
+    <h4
+      id="23"
+      class="red--text"
+    >
+      The Deployment Phase
+    </h4>
+    <p>During the Deployment Phase, each FBI Agent is sent to the location where they will be carrying out actions. All Agents may be moved to the desired location; the <b>Bureau</b>, the <b>Field</b> or the <b>Hospital</b>. An Agent in the Hospital who is not eligible to leave may not be moved.</p>
+    <p>Agents must be in the Field in order to participate in a Site Investigation during the <b>Investigation Phase</b>.</p>
+    <h2>Teams</h2>
+    <p>During this phase, you may designate new <b>Agent Teams</b>. An Agent Team is simply a group of one or more Agents. This group may be any numner. You may designate more than one Team in the same Section if you choose. One instance where you would designate more than one Team in the same Section would be if you wanted to investigate two Sites in one turn. In this instance, you would create two Teams in the Field section. You will also have the oppertunity to designate new Teams in the Field Section at the beginning of the Investigation Phase. Any single Agent may not be part of more than one Team at a time. If new Teams are not designated, it is assumed that the most recent Team designations still apply.</p>
+    <p class="text-center">
+      23
+    </p>
+    <h3 id="24">
+      Advanced Game Phase Descriptions continued…
+    </h3>
+    <h4 class="red--text">
+      The Case Assignment Phase
+    </h4>
+    <p>At the beginning of the Case Assignment Phase, the Investigating Player places all Sites in the Field Section that he might investigate. The Investigating Player must also pay the Cost listed on the Site card at the this time. Note that a Site being placed on the table doesn't necessarily mean that the player must ever investigate that Site.</p>
+    <p>All opponents may assign Bluffs to any and/or all Sites played by the Investigating Player at this time. See the <b>Bluff</b> section on the following page.</p>
+    <p>Sites played by the Investigating Player but not investigated during the Investigation Phase are moved to the Discard Pile at the end of the turn unless a Bluff is placed under the Site.</p>
+    <p>Some Site cards give you a choice between two Prerequisite skills you may use. You must announce which Skill you will be using prior to investigating the Site. Once you announce which Skill you are using, you may not change to the other.</p>
+    <p>If you have two identical Sites in your hand, you may not use them both in the same turn.</p>
+    <p class="text-center">
+      24
+    </p>
+    <h2 id="25">
+      The Bluff
+    </h2>
+    <p>Bluff cards contain the Keyword "<b>Bluff</b>" and typically hinder an investigation. Cards with the Keyword "BLUFF" may be played in two ways.</p>
+    <ol class="mb-4">
+      <li>Cards with the Keyword "BLUFF" may be placed face down beneath a Site during the <b>Case Assignment</b> Phase by any player except the Investigating Player. Bluff cards played beneath a Site may be purchased for <b>1</b> <conspiracy-pool /> less then the Bluff card's stated Cost. The Cost is paid when the Site investigation is attempted. A Cost can never be less than 0. You cannot gain tokens as a result of playing a Bluff card with 0 Cost.</li>
+      <li>Cards with the Keyword "BLUFF" may be played as normal Conspiracy cards at full Cost.</li>
+    </ol>
+    <p>Bluffs are designed to make the Investigating Player think twice about the chance of successful investigation. Any card may be placed face down underneath the Site. These cards do not actually have to be Keyword "BLUFF" cards (non-Bluffs played as a Bluff are revealed and discarded upon Site investigation). They may in effect be "bluff" Bluffs. Cards placed under a Site as a Bluff remain there until the Site is investigated.</p>
+    <p>When a Site with a Bluff is investigated, the card is revealed immediately. All cards placed as Bluffs are revealed, regardless of whether or not they contain the Keyword "BLUFF". If a card placed beneath a Site does not contain the Keyword "BLUFF", the owning player cannot afford to pay for the Bluff, or the owning player does not want to use the Bluff, the card is discarded.</p>
+    <p>If the Site is not investigated this turn, the Site will remain in play with the Bluff underneath it until an investigation is attempted or the game ends. An Agent Team that investigates a Site with Bluffs beneath it "activates" these Bluffs. They are referred to as the <b>Activating Team</b>.</p>
+    <p class="text-center">
+      25
+    </p>
+    <h3 id="26">
+      Turn Example: Deployment and Case Assignment Phases
+    </h3>
+    <v-alert
+      text
+      color="info"
+    >
+      <p>{{ playerOne }} has now reached the Deployment Phase. All of {{ playerOne }}'s Agents are currently in the Bureau. {{ playerOne }} moves Agents Mulder, Scully, and Kosseff from the Bureau to the Field. {{ playerOne }} leaves Jerry Lamana in the Bureau. The Deployment Phase is now completed.</p>
+      <p>The Case Assignment Phase is next. {{ playerOne }} places the Site "Aubrey, MO" in the Field section of the table and pays the <b>2</b> <resource-pool /> Cost indicated on the Site card. {{ playerOne }} now has <b>5</b> <resource-pool />s left in his Resource Pool. The "Aubrey, MO" card has a Prerequisite of BEHAVIORAL 4+. This means that {{ playerOne }}'s Agents investigating the Site must have 4 of more BEHAVIORAL skill in order to ask a question about {{ playerTwo }}'s X-File. Since {{ playerOne }} and {{ playerTwo }} are playing a two-player game, {{ playerTwo }} is the Directed Player by default. In a multi-player game, {{ playerOne }} would have to announce which player the Site is directed toward. {{ playerTwo }} places two Bluffs beneath the Site. The Bluffs will not be revealed or paid for until the Site is actually investigated. The Case Assignment Phase is completed.</p>
+    </v-alert>
+    <p class="text-center">
+      26
+    </p>
+    <h3
+      id="27"
+      class="red--text"
+    >
+      The Investigation Phase
+    </h3>
+    <p>The Investigating Player must allocate all Agents currently in the Field to the Site(s) they plan to investigate. The Investigating Player does not have to investigate a Site card. New Teams may now be formed in the Field section only. See the <b>Deployment Phase</b> rules on page <page-link>23</page-link> for more information on forming Agent Teams.</p>
+    <p>Generally, Agents may not participate in more than one Site investigation per turn. An Agent does not necessarily have to participate in any investigations whil in the Field. Often the player will choose to investigate only one Site, however multiple or no Sites are permissible.</p>
+    <p>Each Site investigated is resolved separately. If more than one Site is being investigated, the Investigating Player chooses the resolution order.</p>
+    <p>Begin a Skill Check Subroutine for the Site Prerequisite. See the <b>Skill Check Subroutine</b> section of these rules on the following page for further information.</p>
+    <v-alert type="info">
+      A particular Site may only be investigated by one Agent team during a single turn.
+    </v-alert>
+    <v-alert type="info">
+      In order to successfully investigate a Site, at least one Agent must be there.
+    </v-alert>
+    <p class="text-center">
+      27
+    </p>
+    <h3 id="28">
+      Advanced Phase Descriptions continued…
+    </h3>
+    <p>
+      <b>Skill Check Subroutine</b><br>
+      Whenever a Skill Check is initiated, perform a Skill Check Subroutine. The Skill Check Subroutine proceeds as follows:
+    </p>
+    <ol class="list-style-type--lower-alpha mb-4">
+      <li>Announce to your opponent the Skill being used, the amount needed, and the Skill level currently possessed by the Agent Team.</li>
+      <li>Each Player may pay for and play cards.</li>
+    </ol>
+    <p>The current Skill level may now be modified by cards played by each player attempting to successfully complete or foil the Skill Check. The Active Player has the option to pay for and play the first card. After this, cards may be bought an played by any player. Cards must be paid for from the appropriate pool by the player who owns the card. See the <b>Pools</b> section on page <page-link>10</page-link> for further information.</p>
+    <p>Multiple cards may be played prior to one card being resolved. In these instances, the last card played is resolved first. Cards are played until all players decide to play no more. One type of card which can be played is an Adversary card. These cards result in Combat. See the <b>Combat</b> section on page <page-link>31</page-link> for further information.</p>
+    <p>After a card is used, place it face up on your Discard Pile. Playing a card may initiate a new Skill Check Subroutine. If this occurs, resolve this new Skill Check before resolving the original Skill Check.</p>
+    <p>Certain cards may have lasting effects. This will be noted on the individual card.</p>
+    <p class="text-center">
+      28
+    </p>
+    <ol
+      id="29"
+      start="3"
+      class="list-style-type--lower-alpha mb-4"
+    >
+      <li>Resolve the Skill Check.</li>
+    </ol>
+    <p>If the Agent Team successfully meets the Skill level needed after all card effects and any additional Skill Check Subroutines have been resolved, then the appropriate effect is applied. This ends the Skill Check Subroutine.</p>
+    <v-alert
+      colored-border
+      type="info"
+    >
+      There are two special cases when exceptions to the Skill Check Subroutine process occur. The first is during a Site investigation. During a Site investigation, Bluffs placed beneath a Site are revealed and resolved before any cards are played in step 2. See the <b>Bluff</b> section on page <page-link>25</page-link> for information on resolving Bluffs.
+    </v-alert>
+    <v-alert
+      colored-border
+      type="info"
+    >
+      The second special case is during Combat. In Combat, repeat the Skill Check Subroutine process by conducting additional Combat rounds until the Adversary's HEALTH has been reduced to 0 or all Agents have been sent to the Hospital. Also, only Combat cards may be played during a Combat Skill Check Subroutine. See the <b>Combat</b> section on page <page-link>31</page-link> for further information.
+    </v-alert>
+    <v-divider />
+    <v-alert type="info">
+      Cards may be played during a Skill Check Subroutine initiating an additional Skill Check. When this occurs, the current Skill Check Subroutine is put on hold and another Skill Check Subroutine is initiated for the new Skill Check. Also, two of the same card can't be used for the same Skill Check Subroutine; i.e., two of the same Witness on the same Skill Check.
+    </v-alert>
+    <p class="text-center">
+      29
+    </p>
+    <h3 id="30">
+      Turn Example: Investigation Phase
+    </h3>
+    <v-alert
+      text
+      color="info"
+    >
+      <p>The Investigation Phase is the next phase in {{ playerOne }}'s turn. {{ playerOne }} chooses to investigate "Aubrey, MO" with all three Agents as a Team in the Field. {{ playerOne }} currently has a BEHAVIORAL skill level of 7 (Mulder 3, Kosseff 3, Scully 1). The Bluffs {{ playerTwo }} placed beneath the Site are now immediately revealed. {{ playerTwo }}'s first Bluff is the "Car Troubles" card. This card forces {{ playerOne }} to investigate with only two Agents. {{ playerOne }} chooses to leave Scully behind, as she is only contributing 1 to the Site Prerequisite. {{ playerTwo }} pays <b>2</b> <conspiracy-pool /> for the Bluff. The actual Bluff Cost is 3, but Bluffs played face down in the Case Assignment Phase Cost <b>1</b> <conspiracy-pool /> less. {{ playerTwo }} now has <b>14</b> <conspiracy-pool /> in his Conspiracy Pool. {{ playerTwo }}'s second Bluff is not an actual Bluff. {{ playerTwo }} placed the Site card "Cape Cod, MA" underneath the Site to discourage {{ playerOne }} from investigating it. The Site card played as a Bluff is moved to {{ playerTwo }}'s Discard Pile.</p>
+      <p>{{ playerOne }} now has a BEHAVIORAL skill level of 6 (Mulder 3, Kosseff 3). {{ playerTwo }} does not want {{ playerOne }} to ask a question, so he plays the Adversary card "The Manitou Stalks His Prey". The Manitou card contains the Activators "<b>CONSPIRACY</b>" and "<b>MOTIVE SITE</b>". Since it is not {{ playerTwo }}'s turn, the "<b>CONSPIRACY</b>" condition is satisfied. The "<b>MOTIVE SITE</b>" condition is also satisfied because the "Aubrey, MO" Site contains this Keyword. {{ playerTwo }} may play the Adversary card. {{ playerTwo }} pays the <b>6</b> <conspiracy-pool /> Cost and now has <b>8</b> <conspiracy-pool /> left in his Conspiracy Pool. {{ playerOne }} immediately plays his Event card "X" which negates one Adversary. {{ playerOne }} pays the <b>3</b> <resource-pool /> Cost and now has <b>2</b> <resource-pool /> left in his Resource Pool.</p>
+      <p>With {{ playerOne }} still meeting the Site Prerequisite, {{ playerTwo }} decides to play another Adversary. {{ playerTwo }} plays his "Good People, Good Food" card for <b>8</b> <conspiracy-pool />. {{ playerTwo }} now has <b>0</b> <conspiracy-pool /> in his Conspiracy Pool. {{ playerOne }} cannot negate this card and Combat is initiated.</p>
+    </v-alert>
+    <p class="text-center">
+      30
+    </p>
+    <h3 id="31">
+      Combat
+    </h3>
+    <p>When you encounter an Adversary which is not negated, Combat will follow. Unless an opponent plays a card which specifically allows him to do so, only one Adversary may be encountered at a time. Therefore, if opponents want to play more than one Adversary, each is resolved during a separate Combat.</p>
+    <p>Combat typically occurs in two rounds. The first round is <b>Long Range Combat (LRC)</b> and the second is <b>Close Range Combat (CRC)</b>. Only one round of Long Range Combat occurs. After Long Range Combat, Close Range Combat rounds are repeated until the Adversary is killed or all Agents are sent to the Hospital. All damage inflicted during each round occurs simultaneously. Thus, it is possible for an Agent or Adversary to be removed by Combat and still inflict damage for that round.</p>
+    <p class="text-center">
+      31
+    </p>
   </layout-default>
 </template>
 
 <script>
-export default {}
+import sample from 'lodash/sample';
+
+export default {
+  data: () => ({
+    players: [
+      'Stephen',
+      'Guillaume',
+      'David',
+      'Nathan',
+      'Joost',
+      'Alastair',
+      'Jonathan',
+      'Mike',
+      'Nick',
+      'Franck',
+      'Matt',
+      'Dave'
+    ]
+  }),
+
+  head: () => ({
+    title: 'Advanced Rules and Procedures Manual'
+  }),
+
+  computed: {
+    playerOne() {
+      return sample(this.players);
+    },
+
+    playerTwo() {
+      return sample(this.players.filter((value) => value !== this.playerOne));
+    }
+  }
+}
 </script>
 
 <style lang="scss" scoped>
@@ -296,15 +562,23 @@ b {
   color: var(--v-primary-base);
 }
 
-.v-alert b {
-  color: lightskyblue;
+.v-alert.v-alert--text {
+  a, b {
+    color: lightskyblue;
+  }
 }
 
-ol ul {
-  list-style-type: lower-alpha;
-
-  ul {
-    list-style-type: lower-roman;
+.v-alert:not(.v-alert--text) {
+  a, b {
+    color: currentColor;
   }
+}
+
+.list-style-type--lower-alpha {
+  list-style-type: lower-alpha;
+}
+
+.list-style-type--lower-roman {
+  list-style-type: lower-roman;
 }
 </style>
