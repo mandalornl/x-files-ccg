@@ -1,11 +1,13 @@
 <template>
   <layout-default>
     <h1>Advanced Rules and Procedures Manual</h1>
+    <h3>Table of Contents</h3>
+    <table-of-contents class="mb-4" />
     <h3 id="4">
       The X-Files<sup>TM</sup> Collectible Card Game
     </h3>
     <p>Welcome to <b>The X-Files Collectible Card Game</b> Advanced Game. The Advanced Game incorporates many of the nuances of <b>The X-Files</b> television series and is designed for the more serious gamer and <b>The X-Files</b> fan.</p>
-    <p>If you have not previously read the <b>Basic Game</b> rule book, we recommend that you read pages <page-link>4</page-link> through <page-link>7</page-link>; these pages will give you an introduction to <b>The X-Files Collectible Card Game</b> and the game's objective. If you are proceeding to the Advanced Game after learning the Basic Game, go on to the <b>Game Setup</b> section on the following page.</p>
+    <p>If you have not previously read the <b>Basic Game</b> rule book, we recommend that you read pages <anchor-link>4</anchor-link> through <anchor-link>7</anchor-link>; these pages will give you an introduction to <b>The X-Files Collectible Card Game</b> and the game's objective. If you are proceeding to the Advanced Game after learning the Basic Game, go on to the <b>Game Setup</b> section on the following page.</p>
     <p>In the Advanced Game, you will construct your deck of cards for game play. This gives each player greater control over the outcome of the game than in the Basic Game, where players use Starter Decks.The Advanced Game will allow each player to cater their Agents and cards to the Skills and strategy desired. It will be up to you to help Mulder and Scully solve their current X-File.</p>
     <p class="text-center">
       4
@@ -14,9 +16,9 @@
       Advanced Game Set-up
     </h3>
     <p>The <b>Advanced Game</b> is designed for two or more players. The game is won by the first player who identifies one opponent's X-File. Game set-up for Advanced Game is similar to that of the Basic Game.</p>
-    <p>For the Advanced Game, remove all Keyword <b>"Killer"</b> cards (see <b>Killer Cards</b> on page <page-link>42</page-link>). An explanation of all card types can be found on pages <page-link>48</page-link> through <page-link>63</page-link> of these rules. Agent cards may also be included in your deck for use during the game. They are shuffled into your deck and may assist for one turn (see <b>Playing Cards</b> section on page <page-link>14</page-link>). Separate your X-File cards and place them to the side.</p>
+    <p>For the Advanced Game, remove all Keyword <b>"Killer"</b> cards (see <b>Killer Cards</b> on page <anchor-link>42</anchor-link>). An explanation of all card types can be found on pages <anchor-link>48</anchor-link> through <anchor-link>63</anchor-link> of these rules. Agent cards may also be included in your deck for use during the game. They are shuffled into your deck and may assist for one turn (see <b>Playing Cards</b> section on page <anchor-link>14</anchor-link>). Separate your X-File cards and place them to the side.</p>
     <p>In the Advanced Game, you will be <u>constructing</u> your <b>Bureau Deck</b>. Your deck must have a minimum of sixty cards but may have more if you like. Your starting Agents and the X-File do not count toward this minimum. You may choose any cards, provided no more than two of the same card are used. You may include Agents in your deck. An Agent from your hand can be used to help out for one turn.</p>
-    <p>Pay attention to the <b>Cost</b> to play each card. Having many cards that you cannot afford to play can de detrimental (see the <b>Playing Cards</b> section on page <page-link>41</page-link>). Note that you will probably want to create the Bureau Deck in conjunction with selecting Agents and an X-File. For additional Deck Construction suggestions, see page <page-link>46</page-link> of these rules.</p>
+    <p>Pay attention to the <b>Cost</b> to play each card. Having many cards that you cannot afford to play can de detrimental (see the <b>Playing Cards</b> section on page <anchor-link>41</anchor-link>). Note that you will probably want to create the Bureau Deck in conjunction with selecting Agents and an X-File. For additional Deck Construction suggestions, see page <anchor-link>46</anchor-link> of these rules.</p>
     <p>As in the Basic Game, select an X-File card.Place your X-File face down in a prominent place, as you may need to refer to it when your opponent asks questions.</p>
     <p class="text-center">
       5
@@ -124,7 +126,7 @@
     </h3>
     <p>In the Advanced Game, cards must be paid for in order to use their effects. This is done through the use of two pools: the <b>Resource Pool (RP)</b> and <b>Conspiracy Pool (CP)</b>. Each player will have one Conspiracy Pool and one Resource Pool.</p>
     <v-alert type="info">
-      At the beginning of an Advanced Game, create the Resource Pool by placing five tokens in your Bureau section. Creat the Conspiracy Pool by placing five tokens by your X-File.
+      At the beginning of an Advanced Game, create the Resource Pool by placing five tokens in your Bureau section. Create the Conspiracy Pool by placing five tokens by your X-File.
     </v-alert>
     <p>The Resource and Conspiracy Pools are used to pay for cards played by each player. All cards will have an <b>RP</b>, <b>CP</b> or <b>*P</b> icon - <resource-pool />, <conspiracy-pool /> or <star-pool /> -- under their Cost.</p>
     <v-simple-table class="mb-4">
@@ -219,9 +221,9 @@
     <p>Each card will have a <resource-pool />, <conspiracy-pool /> or <star-pool /> under their <b>Cost</b> value. This indicates from which pool the cost must be paid. <resource-pool /> stands for <b>Resource Pool</b>, <conspiracy-pool /> for <b>Conspiracy Pool</b> and <star-pool /> for either.</p>
     <p>Cards with a <resource-pool /> may only be paid for by the <b>Active Player</b>.</p>
     <p>Cards with a <conspiracy-pool /> Cost may only be paid for by the <b>Conspiracy</b>.</p>
-    <p>Cards with a <star-pool /> may be used by either force -- however, whichever force uses it must pay for it. See the <b>Pools</b> section on page <page-link>10</page-link> for further information.</p>
+    <p>Cards with a <star-pool /> may be used by either force -- however, whichever force uses it must pay for it. See the <b>Pools</b> section on page <anchor-link>10</anchor-link> for further information.</p>
     <p>If a card has multiple effects, indicated by the phrase "Alternately" appearing on the card, the owning player must specify which effect is being used upon playing the card. They may not change to the other effect later.</p>
-    <p>In addition, all cards contain <b>Keywords</b> and <b>Activators</b>. These often serve as codes indicating when cards may be playerd. See the <b>Keywords</b> section on page <page-link>17</page-link> and the <b>Activators</b> section on page <page-link>16</page-link> for further information.</p>
+    <p>In addition, all cards contain <b>Keywords</b> and <b>Activators</b>. These often serve as codes indicating when cards may be playerd. See the <b>Keywords</b> section on page <anchor-link>17</anchor-link> and the <b>Activators</b> section on page <anchor-link>16</anchor-link> for further information.</p>
     <p class="text-center">
       14
     </p>
@@ -234,9 +236,23 @@
     <v-alert
       text
       color="info"
-      class="text-center"
+      class="d-flex justify-center text-center"
     >
-      A typical Agent Card [[IMAGE]]
+      <v-row
+        no-gutters
+        justify="center"
+      >
+        <v-col
+          cols="6"
+          sm="5"
+          md="4"
+          lg="3"
+          xl="2"
+        >
+          <card-image :card="agentCard" />
+        </v-col>
+      </v-row>
+      A typical Agent Card
     </v-alert>
     <p class="text-center">
       15
@@ -252,7 +268,7 @@
     <v-alert type="info">
       All Activators must be in effect in order for the card to be played.
     </v-alert>
-    <p>See the <b>Turn Example: Investigation Phase</b> section on page <page-link>27</page-link> for an example of Activator use.</p>
+    <p>See the <b>Turn Example: Investigation Phase</b> section on page <anchor-link>27</anchor-link> for an example of Activator use.</p>
     <v-alert
       text
       color="info"
@@ -288,9 +304,9 @@
       The Briefing Phase
     </h4>
     <p>At the beginning of the Briefing Phase, the Investigating Player may draw one card. This is a "free" draw and occurs regardless of any Agent's current status.</p>
-    <p>The Investigating Player may then use his Agents to create <b>Resource Points</b> (RPs or <resource-pool />). Then they may purchase cards. Cards ar purchased from the top of the Bureau Deck at the cost of <b>1</b> <resource-pool /> each. The Investigating Player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Resource Pool</b> section on page <page-link>11</page-link>.</p>
+    <p>The Investigating Player may then use his Agents to create <b>Resource Points</b> (RPs or <resource-pool />). Then they may purchase cards. Cards ar purchased from the top of the Bureau Deck at the cost of <b>1</b> <resource-pool /> each. The Investigating Player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Resource Pool</b> section on page <anchor-link>11</anchor-link>.</p>
     <p>Any of the Investigating Player's opponents may now discard cards from their hand with an <resource-pool /> or <star-pool /> Cost and gain an equal number of <conspiracy-pool />s. This is optional. Cards that are exchanged are placed face up on the Discard Pile.</p>
-    <p>Each opponent of the Investigating Player may purchase cards from the top of the Bureau Deck at the cost of <b>1</b> <conspiracy-pool /> each. Purchasing cards is done after <resource-pool /> cards have been sold. Each player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Conspiracy Pool</b> section on page <page-link>12</page-link>.</p>
+    <p>Each opponent of the Investigating Player may purchase cards from the top of the Bureau Deck at the cost of <b>1</b> <conspiracy-pool /> each. Purchasing cards is done after <resource-pool /> cards have been sold. Each player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Conspiracy Pool</b> section on page <anchor-link>12</anchor-link>.</p>
     <p class="text-center">
       18
     </p>
@@ -344,7 +360,7 @@
       The Requisition Phase
     </h4>
     <p>FBI Agents have access to an assortment of Equipment to aid in the investigation. To obtain Equipment, Agents must Requisition it. All Equipment cards state the requirements for Requisition in their Activators. Frequently, the Agent will need to be in the Bureau to get Equipment.</p>
-    <p>The Investigating Player may pay for and assign Equipment to any Agent who meets the requirement on the Equipment card. Furthermore, Agents in the same Team (please see <b>Teams</b> on page <page-link>23</page-link>) are allowed to exchange Equipment during this phase. Agents may not have more than one of any particular item, but may have as many total pieces of different Equipment as they wish. Also, an Agent may only use one piece of Equipment to modify a single Skill Check.</p>
+    <p>The Investigating Player may pay for and assign Equipment to any Agent who meets the requirement on the Equipment card. Furthermore, Agents in the same Team (please see <b>Teams</b> on page <anchor-link>23</anchor-link>) are allowed to exchange Equipment during this phase. Agents may not have more than one of any particular item, but may have as many total pieces of different Equipment as they wish. Also, an Agent may only use one piece of Equipment to modify a single Skill Check.</p>
     <p><b>Example:</b></p>
     <v-alert
       text
@@ -437,7 +453,7 @@
     >
       The Investigation Phase
     </h3>
-    <p>The Investigating Player must allocate all Agents currently in the Field to the Site(s) they plan to investigate. The Investigating Player does not have to investigate a Site card. New Teams may now be formed in the Field section only. See the <b>Deployment Phase</b> rules on page <page-link>23</page-link> for more information on forming Agent Teams.</p>
+    <p>The Investigating Player must allocate all Agents currently in the Field to the Site(s) they plan to investigate. The Investigating Player does not have to investigate a Site card. New Teams may now be formed in the Field section only. See the <b>Deployment Phase</b> rules on page <anchor-link>23</anchor-link> for more information on forming Agent Teams.</p>
     <p>Generally, Agents may not participate in more than one Site investigation per turn. An Agent does not necessarily have to participate in any investigations whil in the Field. Often the player will choose to investigate only one Site, however multiple or no Sites are permissible.</p>
     <p>Each Site investigated is resolved separately. If more than one Site is being investigated, the Investigating Player chooses the resolution order.</p>
     <p>Begin a Skill Check Subroutine for the Site Prerequisite. See the <b>Skill Check Subroutine</b> section of these rules on the following page for further information.</p>
@@ -461,8 +477,8 @@
       <li>Announce to your opponent the Skill being used, the amount needed, and the Skill level currently possessed by the Agent Team.</li>
       <li>Each Player may pay for and play cards.</li>
     </ol>
-    <p>The current Skill level may now be modified by cards played by each player attempting to successfully complete or foil the Skill Check. The Active Player has the option to pay for and play the first card. After this, cards may be bought an played by any player. Cards must be paid for from the appropriate pool by the player who owns the card. See the <b>Pools</b> section on page <page-link>10</page-link> for further information.</p>
-    <p>Multiple cards may be played prior to one card being resolved. In these instances, the last card played is resolved first. Cards are played until all players decide to play no more. One type of card which can be played is an Adversary card. These cards result in Combat. See the <b>Combat</b> section on page <page-link>31</page-link> for further information.</p>
+    <p>The current Skill level may now be modified by cards played by each player attempting to successfully complete or foil the Skill Check. The Active Player has the option to pay for and play the first card. After this, cards may be bought an played by any player. Cards must be paid for from the appropriate pool by the player who owns the card. See the <b>Pools</b> section on page <anchor-link>10</anchor-link> for further information.</p>
+    <p>Multiple cards may be played prior to one card being resolved. In these instances, the last card played is resolved first. Cards are played until all players decide to play no more. One type of card which can be played is an Adversary card. These cards result in Combat. See the <b>Combat</b> section on page <anchor-link>31</anchor-link> for further information.</p>
     <p>After a card is used, place it face up on your Discard Pile. Playing a card may initiate a new Skill Check Subroutine. If this occurs, resolve this new Skill Check before resolving the original Skill Check.</p>
     <p>Certain cards may have lasting effects. This will be noted on the individual card.</p>
     <p class="text-center">
@@ -476,17 +492,11 @@
       <li>Resolve the Skill Check.</li>
     </ol>
     <p>If the Agent Team successfully meets the Skill level needed after all card effects and any additional Skill Check Subroutines have been resolved, then the appropriate effect is applied. This ends the Skill Check Subroutine.</p>
-    <v-alert
-      colored-border
-      type="info"
-    >
-      There are two special cases when exceptions to the Skill Check Subroutine process occur. The first is during a Site investigation. During a Site investigation, Bluffs placed beneath a Site are revealed and resolved before any cards are played in step 2. See the <b>Bluff</b> section on page <page-link>25</page-link> for information on resolving Bluffs.
+    <v-alert colored-border>
+      There are two special cases when exceptions to the Skill Check Subroutine process occur. The first is during a Site investigation. During a Site investigation, Bluffs placed beneath a Site are revealed and resolved before any cards are played in step 2. See the <b>Bluff</b> section on page <anchor-link>25</anchor-link> for information on resolving Bluffs.
     </v-alert>
-    <v-alert
-      colored-border
-      type="info"
-    >
-      The second special case is during Combat. In Combat, repeat the Skill Check Subroutine process by conducting additional Combat rounds until the Adversary's HEALTH has been reduced to 0 or all Agents have been sent to the Hospital. Also, only Combat cards may be played during a Combat Skill Check Subroutine. See the <b>Combat</b> section on page <page-link>31</page-link> for further information.
+    <v-alert colored-border>
+      The second special case is during Combat. In Combat, repeat the Skill Check Subroutine process by conducting additional Combat rounds until the Adversary's HEALTH has been reduced to 0 or all Agents have been sent to the Hospital. Also, only Combat cards may be played during a Combat Skill Check Subroutine. See the <b>Combat</b> section on page <anchor-link>31</anchor-link> for further information.
     </v-alert>
     <v-divider />
     <v-alert type="info">
@@ -517,11 +527,94 @@
     <p class="text-center">
       31
     </p>
+    <h3 id="32">
+      Long Range Combat
+    </h3>
+    <p>Combat typically starts with <b>Long Range Combat (LRC)</b>. Some Adversaries will attack by surprise or other special method involving the skipping of Long Range Combat, but this wil be stated on the specific card.</p>
+    <p>Long Range Combat skill is listed on Adversary and Agent cards. A <b>Skill Check Subroutine</b> must be initiated to determine the damage done by the Agents and Adversary. See the Skill Check Subroutine section on page <anchor-link>28</anchor-link> of these rules. Add up all combatant's LRC numbers to determine the amount of damage done. Combat cards are now played and their effect added. See the Combat Card section of these rules on page <anchor-link>35</anchor-link> for further information. Also, add the modifiers of any Equipment which adds to Long Range Combat.</p>
+    <p>Damage inflicted by Agents may be applied separately if there are multiple targets, however, each particular Agent's damage cannot be split. Damage inflicted by a single Adversary on an Agent Team is allocated to one Agent. Each player decides which opponent will receive the inflicted damage.</p>
+    <p>An Agent is moved to the Hospital when his HEALTH rating has been reduced to 0. Any reduction that results in a negative HEALTH rating for an Agent is considered to be HEALTH rating 0. No negative HEALTH ratings occur. An Adversary is killed (and discarded) when its HEALTH rating has been reduced to 0. Some Adversaries will not have Long Range Combat ability, noted by an <b>N/A</b> listed as its LRC.</p>
+    <p>If the Adversary has been killed or if all Agents have been sent to the Hospital, Combat ends. If not, Combat continues with <b>Close Range Combat</b> rounds.</p>
+    <p class="text-center">
+      32
+    </p>
+    <h3 id="33">
+      Close Range Combat
+    </h3>
+    <p><b>Close Range Combat (CRC)</b> follows the Long Range Combat round. Close Range Combat skill is listed on Adversary and Agent cards. Again, both players may use Combat cards. See the Combat Card section on page <anchor-link>35</anchor-link> of these rules. A Skill Check Subroutine again must be initiated to determine damage done by both the Adversary and the Agents. See the Skill Check Subroutine section on page <anchor-link>28</anchor-link> of these rules. Add on the effects of any Combat cards. Also, add the modifiers of any Equipment which adds to Close Range Combat. Apply the results in the same manner as Long Range Combat.</p>
+    <p>When all Agents are sent to the Hospital or de Adversary's HEALTH is reduced to 0, Combat ends. Regardless of the outcome of Combat, the Adversary card is placed on the owning player's Discard Pile after Combat completion. If Combat has not yet been resolved, repeat Close Range Combat rounds until the Adversary is killed or all Agents have been sent to the Hospital.</p>
+    <v-alert type="info">
+      An Agent with HEALTH great than 0 may stay in the Field and is not obligated to go to the Hospital unless a card effect states otherwise. If they choose to go to the Hospital, they may not leave until they have at least 3 HEALTH or are fully healed. See the Healing Phase section on page <anchor-link>20</anchor-link> for more information.
+    </v-alert>
+    <v-alert type="info">
+      Witness with HEALTH are treated as Agents in Combat rounds. Thus, Combat cards may be used on a Witness with HEALTH. If a Witness's HEALTH is reduced to 0, move the Witness card to the owning player's Discard Pile.
+    </v-alert>
+    <p class="text-center">
+      33
+    </p>
+    <h3 id="34">
+      Tracking Damage
+    </h3>
+    <p>In order to keep track of damage, you will need some sort of token. This may be as simple as pennies added for each damage point received or removed for each point healed.</p>
+    <p>One method is the use of six-sided dice. For example, Agent Mulder (HEALTH rating 5) received 3 damage in Combat. Place a six-sided die on his card with the 3 facing upward. This symbolizes that he has taken 3 damage and has 2 HEALTH left. Now, assume he takes another three points damage. Mulder has taken a total of 6 points of damage. Since an Agent's HEALTH cannot drop below 0, Mulder now has 0 HEALTH.</p>
+    <p>Mulder is immediately moved to the Hospital and may not contribute his skills to any Skill Checks. Place the 5 facing upward. This symbolizes that he needs to recover 5 HEALTH to be at full strength. During the next turn, the die is changed to show 3 facing upward symbolizing the healing of two points, a current HEALTH rating of 2, but three points needed to be healed to Mulder to have full HEALTH. If Mulder leaves prior to having full HEALTH (remember that he must have a minimum of 3 HEALTH to leave), the die indicating his current damage sustained remains on the Agent card.</p>
+    <p>Another effective method is the use of tokens, for example, pennies. Place a penny on the Agent's card for each point of damage they have received. These pennies are similarly removed as an Agent heals in the Hospital. Experiment and use whichever method you find most convenient.</p>
+    <p class="text-center">
+      34
+    </p>
+    <h3 id="35">
+      Combat Cards
+    </h3>
+    <p>Combat cards may be paid for and played during both the Long Range Combat and Close Range Combat rounds and typically enhance or reduce the damage done. Some Combat Cards will have a <star-pool /> next to the cost number instead of a <resource-pool /> or <conspiracy-pool />. This denotes that either the Conspiracy or Active Player may use these cards. The card must be paid for by whomever uses it (Active Player or Conspiracy).</p>
+    <p>Each player may use as many Combat cards as they like, provided their Cost is paid.</p>
+    <v-alert type="info">
+      Combat cards are the only cards that can be played in a Combat Skill Check Subroutine.
+    </v-alert>
+    <p>The player who played the Adversary has the option to pay for an play the first Combat card. After this, any player may pay for and play Combat cards. Combat cards are resolved on a last-played/first-resolved basis. The results are then applied to the specific Combat round.</p>
+    <v-alert
+      text
+      color="info"
+      class="d-flex justify-center"
+    >
+      <v-row
+        no-gutters
+        justify="center"
+      >
+        <v-col
+          cols="6"
+          sm="5"
+          md="4"
+          lg="3"
+          xl="2"
+        >
+          <card-image :card="combatCard" />
+        </v-col>
+      </v-row>
+    </v-alert>
+    <p class="text-center">
+      35
+    </p>
+    <h3 id="36">
+      Turn Example: Combat
+    </h3>
+    <v-alert
+      text
+      color="info"
+    >
+      <p>Combat begins with one Long Range Combat round. The Adversary "Good People, Good Food" has no LRC Skill and thus does no damage during this round. Mulder has 2 LRC Skill and Kosseff has 1 LRC Skill. Neither player chooses to play Combat cards. The Agents inflict 3 damage during the Long Range Combat round. {{ playerTwo }} places three tokens on the Adversary card, denoting the 3 damage done.</p>
+      <p>Combat proceeds to the Close Range Combat round. Close Range rounds will be repeated until all Agents are sent to the Hospital or the Adversary has been killed. In Close Range Combat Mulder has 2 CRC and Kosseff has 1 CRC. Mulder also has the "Knife" he Requisitioned earlier which adds +1 to CRC. The Agents have done an additional 4 damage for a cumulative total of 7. The Adversary does 3 Damage. {{ playerTwo }} assigns the 3 damage to Kosseff, resulting in her having 0 HEALTH. {{ playerOne }} immediately plays a Combat card. It is the "First Aid" card which immediately heals 1 point damage at the Cost of 0 <resource-pool />. {{ playerOne }} uses this to add 1 HEALTH to Agent Kosseff and prevent her from having to go to the Hospital. The Adversary now has 3 HEALTH left and Kosseff has 1 HEALTH remaining.</p>
+      <p>Another round of Close Range Combat occurs. {{ playerOne }}'s Agents do an additional 4 damage and the Adversary's HEALTH is exceeded. The Adversary card is moved to {{ playerTwo }}'s Discard Pile. The Adversary still does its 3 damage. {{ playerTwo }} assign the damage to Kosseff, who now has HEALTH 0 and is immediately moved to the Hospital with three tokens placed on her card.</p>
+    </v-alert>
+    <p class="text-center">
+      36
+    </p>
   </layout-default>
 </template>
 
 <script>
 import sample from 'lodash/sample';
+
+import { cards } from '~/config/card';
 
 export default {
   data: () => ({
@@ -552,6 +645,48 @@ export default {
 
     playerTwo() {
       return sample(this.players.filter((value) => value !== this.playerOne));
+    },
+
+    adversaryCard() {
+      return this.drawCardByType('Adversary');
+    },
+
+    agentCard() {
+      return this.drawCardByType('Agent');
+    },
+
+    bluffCard() {
+      return this.drawCardByType('Bluff');
+    },
+
+    combatCard() {
+      return this.drawCardByType('Combat');
+    },
+
+    equipmentCard() {
+      return this.drawCardByType('Equipment');
+    },
+
+    eventCard() {
+      return this.drawCardByType('Event');
+    },
+
+    siteCard() {
+      return this.drawCardByType('Site');
+    },
+
+    witnessCard() {
+      return this.drawCardByType('Witness');
+    },
+
+    xFileCard() {
+      return this.drawCardByType('X-File');
+    }
+  },
+
+  methods: {
+    drawCardByType(value) {
+      return sample(cards.filter(({ type }) => type === value));
     }
   }
 }

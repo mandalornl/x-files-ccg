@@ -55,7 +55,7 @@
           top
           right
           color="primary"
-          @click="$vuetify.goTo(0)"
+          @click="gotoTop"
         >
           <v-icon color="black">
             mdi-chevron-up
@@ -137,6 +137,13 @@ export default {
   methods: {
     scroll(event) {
       this.showToTop = event.currentTarget.scrollY > this.$vuetify.application.top;
+    },
+
+    gotoTop() {
+      this.$router.replace({
+        hash: undefined
+      });
+      this.$vuetify.goTo(0);
     }
   }
 }

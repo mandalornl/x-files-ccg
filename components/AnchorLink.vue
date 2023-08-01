@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'PageLink',
+  name: 'AnchorLink',
 
   render(createElement) {
     const page = this.$slots.default?.[0]?.text?.trim?.() ?? '';
