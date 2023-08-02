@@ -3,6 +3,7 @@
     :src="card.image"
     :alt="card.title"
     :aspect-ratio="5/7"
+    :max-width="maxWidth"
     lazy-src="images/back.jpg"
     class="rounded grey darken-3"
   >
@@ -18,6 +19,10 @@ export default {
     card: {
       type: Object,
       default: () => ({})
+    },
+    maxWidth: {
+      type: [ String, Number ],
+      default: undefined
     }
   }
 }

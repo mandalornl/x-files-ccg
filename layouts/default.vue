@@ -154,7 +154,7 @@ html {
   touch-action: manipulation;
 }
 
-p:last-child {
+p ~ p:last-child {
   margin-bottom: 0;
 }
 
