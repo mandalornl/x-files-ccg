@@ -236,10 +236,11 @@
       <v-alert
         text
         color="info"
+        class="text-center"
       >
         <card-image
           :card="agentCard"
-          max-width="280"
+          max-width="256"
           class="mx-auto"
         />
         A typical Agent Card
@@ -532,7 +533,7 @@
       <p><b>Close Range Combat (CRC)</b> follows the Long Range Combat round. Close Range Combat skill is listed on Adversary and Agent cards. Again, both players may use Combat cards. See the Combat Card section on page <anchor-link>35</anchor-link> of these rules. A Skill Check Subroutine again must be initiated to determine damage done by both the Adversary and the Agents. See the Skill Check Subroutine section on page <anchor-link>28</anchor-link> of these rules. Add on the effects of any Combat cards. Also, add the modifiers of any Equipment which adds to Close Range Combat. Apply the results in the same manner as Long Range Combat.</p>
       <p>When all Agents are sent to the Hospital or de Adversary's HEALTH is reduced to 0, Combat ends. Regardless of the outcome of Combat, the Adversary card is placed on the owning player's Discard Pile after Combat completion. If Combat has not yet been resolved, repeat Close Range Combat rounds until the Adversary is killed or all Agents have been sent to the Hospital.</p>
       <v-alert type="info">
-        An Agent with HEALTH great than 0 may stay in the Field and is not obligated to go to the Hospital unless a card effect states otherwise. If they choose to go to the Hospital, they may not leave until they have at least 3 HEALTH or are fully healed. See the Healing Phase section on page <anchor-link>20</anchor-link> for more information.
+        An Agent with HEALTH greater than 0 may stay in the Field and is not obligated to go to the Hospital unless a card effect states otherwise. If they choose to go to the Hospital, they may not leave until they have at least 3 HEALTH or are fully healed. See the Healing Phase section on page <anchor-link>20</anchor-link> for more information.
       </v-alert>
       <v-alert type="info">
         Witness with HEALTH are treated as Agents in Combat rounds. Thus, Combat cards may be used on a Witness with HEALTH. If a Witness's HEALTH is reduced to 0, move the Witness card to the owning player's Discard Pile.
@@ -558,14 +559,14 @@
       <v-alert type="info">
         Combat cards are the only cards that can be played in a Combat Skill Check Subroutine.
       </v-alert>
-      <p>The player who played the Adversary has the option to pay for an play the first Combat card. After this, any player may pay for and play Combat cards. Combat cards are resolved on a last-played/first-resolved basis. The results are then applied to the specific Combat round.</p>
+      <p>The player who played the Adversary has the option to pay for and play the first Combat card. After this, any player may pay for and play Combat cards. Combat cards are resolved on a last-played/first-resolved basis. The results are then applied to the specific Combat round.</p>
       <v-alert
         text
         color="info"
       >
         <card-image
           :card="combatCard"
-          max-width="280"
+          max-width="256"
           class="mx-auto"
         />
       </v-alert>
@@ -1126,13 +1127,17 @@ b, i {
 
     text-align: right;
 
-    @media (min-width: 768px) {
-      width: 20%;
-    }
+    width: 20%;
   }
 
   td:nth-child(2) {
     width: 0;
+  }
+
+  @media (max-width: 767px) {
+    td:last-child {
+      white-space: nowrap;
+    }
   }
 }
 </style>
