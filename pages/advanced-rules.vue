@@ -1003,9 +1003,266 @@
     </section>
     <section id="46">
       <h2>Deck Construction</h2>
-      <p>…</p>
+      <p>This following is a brief section on deck construction to help get you started with building your Bureau Deck. Remember, you may not use more than two of any particular card.</p>
+      <p>The first card to include, and possibly most important, is the Site card. These cards are important, as Agents need to ask questions about the opposing X-File in order to win the game. In a deck of sixty cards, you will probably want to include at least fifteen Site cards. Site cards should be about one quarter of your deck. They should also be coordinated around your Agents' strengths. Your Agent Team will have some skills with a total much larger than others. The Bureau Deck should have a proportionally large number of Site cards that utilize these skills.</p>
+      <p>All other cards fit into two basic categories: (1) Cards that help you. (2) Cards that hinder your opponents. The mix should center around your personal strategy or play style.</p>
+      <p><b>Cards that help you</b>: These cards include Witnesses, Events, Combat Cards and Agents. Events have varied effects. Your will probably want more of these than any other card type. Witnesses usually add to a Skill Check. Combat Cards aid in Combat situations. You will probably want about an even number of these two cards but less of these than Event cards. In the Advanced Game, Agents can also be included in your deck to aid during one turn. While helpful, they tend to be expensive and you will probably only be able to utilize a few.</p>
       <p class="text-center">
         46
+      </p>
+    </section>
+    <section id="47">
+      <p><b>Cards that hinder your opponent</b>: These cards include Events, Adversaries, Bluffs and Combat Cards. Again, you will probably want to include more Events than any other card type. Adversaries affect opponents by inflicting damage during Combat and sending them to the Hospital where they cannot contribute to a Skill Check. Bluffs normally subtract from a Skill Check outright. At this point, you will likely need to decide the main way that you want to hinder your opponent. This can be through Adversary of Bluff cards. Whichever you choose, you will likely want more of these than the other. Combat cards can be used to increase the power of Adversaries.</p>
+      <p>The final consideration is the Cost to play your cards. It is not wise to have many powerfull cards if you cannot afford to play them. The proper combination of more expansive cards and less expansive cards will prove to be the most effective.</p>
+      <h3>Sample Deck Quantities, by Suit (60 total):</h3>
+      <v-simple-table class="mb-4">
+        <tbody>
+          <tr>
+            <td>Sites</td>
+            <td>15</td>
+            <td>Events</td>
+            <td>15</td>
+          </tr>
+          <tr>
+            <td>Adversaries</td>
+            <td>7</td>
+            <td>Witnesses</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Bluffs</td>
+            <td>6</td>
+            <td>Combat</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Equipment</td>
+            <td>5</td>
+            <td>Agents</td>
+            <td>1</td>
+          </tr>
+        </tbody>
+      </v-simple-table>
+      <p class="text-center">
+        47
+      </p>
+    </section>
+    <section id="48">
+      <h2>The Nine Different Suits</h2>
+      <p>The X-Files cards are divided into nine basic suits based on how the card is used in the game. Before going further, it is important to note that many cards will appear to "break" rules defined in the Basic or Advanced Game. When any contradiction arises between card effects and rules, the card effect supersedes the rules. Most of the information contained on a card is common to all cards.</p>
+      <p>Common Information on All Cards</p>
+      <ol class="mb-4">
+        <li>The <b>Name</b> of the card.</li>
+        <li>The <b>Card Type</b>: Indicates the card's function within the game.</li>
+        <li>The <b>Advanced Indicator</b>: If there is a yellow-green "X" here, it denotes that the card is used only in the Advanced Game.</li>
+        <li>The <b>Card Number</b>: A unique identifier for each card in the set.</li>
+        <li>The <b>Activators</b>: Indicates when this card may be played.</li>
+        <li>The <b>Keywords</b>: Indicates what type of cards may be used against the particular card.</li>
+        <li>The <b>Game Effect</b>: Explains the effect of this card when played.</li>
+        <li>The <b>Card Cost</b>: Indicates the amount it will cost in Resource Points (<resource-pool />), Conspiracy Points (<conspiracy-pool />) or either (<star-pool />) to play the card from a hand in an Advanced Game.</li>
+        <li>The <b>Story Line</b>: Consists of a brief quote or phrase relating to the subject of the card, taken from <b>The X-Files</b> television series.</li>
+      </ol>
+      <p class="text-center">
+        48
+      </p>
+    </section>
+    <section id="49">
+      <v-alert
+        text
+        color="info"
+        class="text-center"
+      >
+        <card-image
+          :card="witnessCard"
+          max-width="256"
+          class="mx-auto"
+        />
+        A typical game card
+      </v-alert>
+      <p class="text-center">
+        49
+      </p>
+    </section>
+    <section id="50">
+      <h2>Event Cards</h2>
+      <p>Some Event cards hinder your opponent's Agents in the pursuit of the truth: your X-File's identity. Others help your Agents complete their mission. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="eventCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        50
+      </p>
+    </section>
+    <section id="51">
+      <h2>Witness Cards</h2>
+      <p>Witness cards help Agents investigate Sites and usually modify Skill Checks. Witness cards are said to be unique. This means that only one of each specific card may be applied in a single Skill Check. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="witnessCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        51
+      </p>
+    </section>
+    <section id="52">
+      <h2>Bluff Cards</h2>
+      <p>Bluff cards help deter your opponents from successful Site investigation, usually by subtracting from Skill Checks. In the Basic Game, they are played during the Investigation Phase. Additionally, in the Advanced Game, they may be placed beneath the Site during the Case Assignment Phase. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="bluffCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        52
+      </p>
+    </section>
+    <section id="53">
+      <h2>Equipment Cards</h2>
+      <p>Equipment cards help Agents by permanently modifying a Skill as long as the Equipment is possessed. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="equipmentCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        53
+      </p>
+    </section>
+    <section id="54">
+      <h2>Combat Cards</h2>
+      <p>Combat cards modify the results of Combat in the Advanced Game only. These cards are removed for the Basic Game. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="combatCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        54
+      </p>
+    </section>
+    <section id="55">
+      <h2>Adversary Cards</h2>
+      <p>Adversary cards hinder opposing Agents by engaging them in Combat. Each card will note when it may be played. These cards contain the common information listed on page <anchor-link>48</anchor-link> and the following additional information.</p>
+      <ol class="mb-4">
+        <li>The<b>Adversary's statistics:</b> Tells the <b>HEALTH</b>, <b>LRC</b>, and <b>CRC</b> of this Adversary.</li>
+      </ol>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="adversaryCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        55
+      </p>
+    </section>
+    <section id="56">
+      <h2>Site Cards</h2>
+      <p>Site Cards form the basis of your investigation. Note that some Site cards have two questions and Skills that you may choose between while others have only one. These cards contain the common information listed on page <anchor-link>48</anchor-link> and the following additional information.</p>
+      <ol class="mb-4">
+        <li>The <b>Site PREREQUISITE</b>: Each Site will list a Prerequisite that must be met in order to use the Site card effectively. In most cases this will be a Skill followed by a number. The number is the level of Skill the Agents in the field must obtain to use the card.</li>
+        <li>The <b>QUESTION</b>: The type of question you may ask your opponent regarding the X-File they have chosen for this game. In order to ask the question, your investigating Team must meet the card's Prerequisite.</li>
+      </ol>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="siteCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        56
+      </p>
+    </section>
+    <section id="57">
+      <h2>Agent Cards</h2>
+      <p>Agents are the nemesis of the X-File. While X-Files attempt to maintain their secrecy, the Agents are trying to identify them. These cards contain the common information listed on page <anchor-link>48</anchor-link>, with the exception that Agent cards do not have Activators. Agent cards also contain the following additional information.</p>
+      <ol class="mb-4">
+        <li>The <b>Agent's list of SKILLS</b>: These are each Agent's unique abilities. One skill is Criminal Investigation, a composite of many basic skills an Agent learned while at the FBI Academy.</li>
+        <li>The <b>Agent's HEALTH</b>: The statistic that determines how much damage each Agent can sustain before being Hospitalized.</li>
+        <li>The <b>Resource Number (RES)</b>: The number of point an Agent can contribute to the Resource Pool during the Briefing Phase.</li>
+      </ol>
+      <v-alert
+        text
+        color="info"
+      >
+        <card-image
+          :card="agentCard"
+          max-width="256"
+          class="mx-auto"
+        />
+      </v-alert>
+      <p class="text-center">
+        57
+      </p>
+    </section>
+    <section id="58">
+      <h2>X-File Cards</h2>
+      <p>The X-File card represents the power behind each conspiracy. It is up to your Team of investigators to determine who or what the X-File is during the course of the game. An X-File card contains unique information from the other suits which is highlighted on the next few pages.</p>
+      <p>An X-File card contains the following information.</p>
+      <ol class="mb-4">
+        <li>The <b>Name</b> of the X-File</li>
+        <li>The X-File's <b>AFFILIATION</b>: Each X-File has a specific Classification.</li>
+        <li>The X-File's <b>MOTIVE</b>: Each X-File is driven to do what it does for a reason.</li>
+        <li>The X-File's <b>METHOD</b>: Each X-File goes about achieving its objectives in a different way.</li>
+        <li>The X-File's <b>RESULT</b>: The actions that each X-File takes usually have specific results.</li>
+        <li>The <b>Type</b> of card: This helps to remind you of the function of the card.</li>
+        <li>The <b>Story Line</b>: A brief quote or phrase explaining the relationship between the X-File and <b>The X-Files</b> television series.</li>
+      </ol>
+      <p class="text-center">
+        58
+      </p>
+    </section>
+    <section id="59">
+      <v-alert
+        text
+        color="info"
+        class="text-center"
+      >
+        <card-image
+          :card="xFileCard"
+          max-width="256"
+          class="mx-auto"
+        />
+        A typical X-File card
+      </v-alert>
+      <p class="text-center">
+        59
       </p>
     </section>
   </layout-default>
