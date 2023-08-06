@@ -1,6 +1,6 @@
 <template>
   <nuxt-link
-    :to="to"
+    :to="route"
     replace
   >
     <slot>{{ value }}</slot>
@@ -19,12 +19,12 @@ export default {
   },
 
   computed: {
-    to() {
-      const { href } = this.$router.resolve({
+    route() {
+      const { route } = this.$router.resolve({
         hash: `#${this.value}`
       });
 
-      return href;
+      return route;
     }
   }
 }
