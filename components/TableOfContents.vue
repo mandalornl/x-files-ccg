@@ -10,197 +10,197 @@ export default {
     pages: [
       {
         label: 'Introduction',
-        to: '#4'
+        hash: 4
       },
       {
         label: 'Game Set-up',
-        to: '#5'
+        hash: 5
       },
       {
         label: 'The X-Files (TM) CCG Advanced Turn Sequence',
-        to: '#8'
+        hash: 8
       },
       {
         label: 'Pools',
-        to: '#10',
+        hash: 10,
         children: [
           {
             label: 'Resource Pool',
-            to: '#11'
+            hash: 11
           },
           {
             label: 'Conspiracy Pool',
-            to: '#12'
+            hash: 12
           }
         ]
       },
       {
         label: 'Playing Cards',
-        to: '#14',
+        hash: 14,
         children: [
           {
             label: 'Agent Cards',
-            to: '#15'
+            hash: 15
           },
           {
             label: 'Activators',
-            to: '#16'
+            hash: 16
           },
           {
             label: 'Keywords',
-            to: '#17'
+            hash: 17
           },
           {
             label: 'Resources',
-            to: '#17'
+            hash: 17
           }
         ]
       },
       {
         label: 'Detailed Advanced Turn Explanations',
-        to: '#18',
+        hash: 18,
         children: [
           {
             label: 'Briefing Phase',
-            to: '#18'
+            hash: 18
           },
           {
             label: 'Healing Phase',
-            to: '#20'
+            hash: 20
           },
           {
             label: 'Requisition Phase',
-            to: '#21'
+            hash: 21
           },
           {
             label: 'Deployment Phase',
-            to: '#23',
+            hash: 23,
             children: [
               {
                 label: 'Teams',
-                to: '#23'
+                hash: 23
               }
             ]
           },
           {
             label: 'Case Assignment Phase',
-            to: '#24',
+            hash: 24,
             children: [
               {
                 label: 'The Bluff',
-                to: '#25'
+                hash: 25
               }
             ]
           },
           {
             label: 'Investigation Phase',
-            to: '#27',
+            hash: 27,
             children: [
               {
                 label: 'Skill Check Subroutine',
-                to: '#28'
+                hash: 28
               },
               {
                 label: 'Combat',
-                to: '#31',
+                hash: 31,
                 children: [
                   {
                     label: 'Long Range Combat (LRC)',
-                    to: '#32'
+                    hash: 32
                   },
                   {
                     label: 'Close Range Combat (CRC)',
-                    to: '#33'
+                    hash: 33
                   },
                   {
                     label: 'Tracking Damage',
-                    to: '#34'
+                    hash: 34
                   },
                   {
                     label: 'Combat Cards',
-                    to: '#35'
+                    hash: 35
                   }
                 ]
               },
               {
                 label: 'Site Resolution',
-                to: '#37'
+                hash: 37
               }
             ]
           },
           {
             label: 'Debriefing Phase',
-            to: '#38'
+            hash: 38
           }
         ]
       },
       {
         label: 'Multi-Player Changes',
-        to: '#40'
+        hash: 40
       },
       {
         label: 'Optional Rules',
-        to: '#42'
+        hash: 42
       },
       {
         label: 'Deck Construction',
-        to: '#46'
+        hash: 46
       },
       {
         label: 'The Nine Different Suits',
-        to: '#48',
+        hash: 48,
         children: [
           {
             label: 'Event Cards',
-            to: '#50'
+            hash: 50
           },
           {
             label: 'Witness Cards',
-            to: '#51'
+            hash: 51
           },
           {
             label: 'Bluff Cards',
-            to: '#52'
+            hash: 52
           },
           {
             label: 'Equipment Cards',
-            to: '#53'
+            hash: 53
           },
           {
             label: 'Combat Cards',
-            to: '#54'
+            hash: 54
           },
           {
             label: 'Adversary Cards',
-            to: '#55'
+            hash: 55
           },
           {
             label: 'Site Cards',
-            to: '#56'
+            hash: 56
           },
           {
             label: 'Agent Cards',
-            to: '#57'
+            hash: 57
           },
           {
             label: 'X-File Cards',
-            to: '#58',
+            hash: 58,
             children: [
               {
                 label: 'Affiliations',
-                to: '#60'
+                hash: 60
               },
               {
                 label: 'Motives',
-                to: '#61'
+                hash: 61
               },
               {
                 label: 'Methods',
-                to: '#62'
+                hash: 62
               },
               {
                 label: 'Results',
-                to: '#63'
+                hash: 63
               }
             ]
           }
@@ -208,18 +208,18 @@ export default {
       },
       {
         label: 'Glossary',
-        to: '#64'
+        hash: 64
       },
       {
         label: 'Glossary: Skills',
-        to: '#65'
+        hash: 65
       },
       {
-        label: 'Basic Game Quick Reference',
+        label: 'Advanced Game Quick Reference',
         children: [
           {
             label: 'Sequence of Play',
-            to: '#BackCover'
+            hash: 'BackCover'
           }
         ]
       }

@@ -8,7 +8,7 @@
     <section id="4">
       <h2>The X-Files<sup>TM</sup> Collectible Card Game</h2>
       <p>Welcome to <b>The X-Files Collectible Card Game</b> Advanced Game. The Advanced Game incorporates many of the nuances of <b>The X-Files</b> television series and is designed for the more serious gamer and <b>The X-Files</b> fan.</p>
-      <p>If you have not previously read the <b>Basic Game</b> rule book, we recommend that you read pages <anchor-link>4</anchor-link> through <anchor-link>7</anchor-link>; these pages will give you an introduction to <b>The X-Files Collectible Card Game</b> and the game's objective. If you are proceeding to the Advanced Game after learning the Basic Game, go on to the <b>Game Setup</b> section on the following page.</p>
+      <p>If you have not previously read the <b>Basic Game</b> rule book, we recommend that you read pages <hash-link value="4" /> through <hash-link value="7" />; these pages will give you an introduction to <b>The X-Files Collectible Card Game</b> and the game's objective. If you are proceeding to the Advanced Game after learning the Basic Game, go on to the <b>Game Setup</b> section on the following page.</p>
       <p>In the Advanced Game, you will construct your deck of cards for game play. This gives each player greater control over the outcome of the game than in the Basic Game, where players use Starter Decks.The Advanced Game will allow each player to cater their Agents and cards to the Skills and strategy desired. It will be up to you to help Mulder and Scully solve their current X-File.</p>
       <p class="text-center">
         4
@@ -17,9 +17,9 @@
     <section id="5">
       <h2>Advanced Game Set-up</h2>
       <p>The <b>Advanced Game</b> is designed for two or more players. The game is won by the first player who identifies one opponent's X-File. Game set-up for Advanced Game is similar to that of the Basic Game.</p>
-      <p>For the Advanced Game, remove all Keyword <b>"Killer"</b> cards (see <b>Killer Cards</b> on page <anchor-link>42</anchor-link>). An explanation of all card types can be found on pages <anchor-link>48</anchor-link> through <anchor-link>63</anchor-link> of these rules. Agent cards may also be included in your deck for use during the game. They are shuffled into your deck and may assist for one turn (see <b>Playing Cards</b> section on page <anchor-link>14</anchor-link>). Separate your X-File cards and place them to the side.</p>
+      <p>For the Advanced Game, remove all Keyword <b>"Killer"</b> cards (see <b>Killer Cards</b> on page <hash-link value="42" />). An explanation of all card types can be found on pages <hash-link value="48" /> through <hash-link value="63" /> of these rules. Agent cards may also be included in your deck for use during the game. They are shuffled into your deck and may assist for one turn (see <b>Playing Cards</b> section on page <hash-link value="14" />). Separate your X-File cards and place them to the side.</p>
       <p>In the Advanced Game, you will be <u>constructing</u> your <b>Bureau Deck</b>. Your deck must have a minimum of sixty cards but may have more if you like. Your starting Agents and the X-File do not count toward this minimum. You may choose any cards, provided no more than two of the same card are used. You may include Agents in your deck. An Agent from your hand can be used to help out for one turn.</p>
-      <p>Pay attention to the <b>Cost</b> to play each card. Having many cards that you cannot afford to play can de detrimental (see the <b>Playing Cards</b> section on page <anchor-link>41</anchor-link>). Note that you will probably want to create the Bureau Deck in conjunction with selecting Agents and an X-File. For additional Deck Construction suggestions, see page <anchor-link>46</anchor-link> of these rules.</p>
+      <p>Pay attention to the <b>Cost</b> to play each card. Having many cards that you cannot afford to play can de detrimental (see the <b>Playing Cards</b> section on page <hash-link value="41" />). Note that you will probably want to create the Bureau Deck in conjunction with selecting Agents and an X-File. For additional Deck Construction suggestions, see page <hash-link value="46" /> of these rules.</p>
       <p>As in the Basic Game, select an X-File card.Place your X-File face down in a prominent place, as you may need to refer to it when your opponent asks questions.</p>
       <p class="text-center">
         5
@@ -221,9 +221,9 @@
       <p>Each card will have a <resource-pool />, <conspiracy-pool /> or <star-pool /> under their <b>Cost</b> value. This indicates from which pool the cost must be paid. <resource-pool /> stands for <b>Resource Pool</b>, <conspiracy-pool /> for <b>Conspiracy Pool</b> and <star-pool /> for either.</p>
       <p>Cards with a <resource-pool /> may only be paid for by the <b>Active Player</b>.</p>
       <p>Cards with a <conspiracy-pool /> Cost may only be paid for by the <b>Conspiracy</b>.</p>
-      <p>Cards with a <star-pool /> may be used by either force -- however, whichever force uses it must pay for it. See the <b>Pools</b> section on page <anchor-link>10</anchor-link> for further information.</p>
+      <p>Cards with a <star-pool /> may be used by either force -- however, whichever force uses it must pay for it. See the <b>Pools</b> section on page <hash-link value="10" /> for further information.</p>
       <p>If a card has multiple effects, indicated by the phrase "Alternately" appearing on the card, the owning player must specify which effect is being used upon playing the card. They may not change to the other effect later.</p>
-      <p>In addition, all cards contain <b>Keywords</b> and <b>Activators</b>. These often serve as codes indicating when cards may be playerd. See the <b>Keywords</b> section on page <anchor-link>17</anchor-link> and the <b>Activators</b> section on page <anchor-link>16</anchor-link> for further information.</p>
+      <p>In addition, all cards contain <b>Keywords</b> and <b>Activators</b>. These often serve as codes indicating when cards may be playerd. See the <b>Keywords</b> section on page <hash-link value="17" /> and the <b>Activators</b> section on page <hash-link value="16" /> for further information.</p>
       <p class="text-center">
         14
       </p>
@@ -259,7 +259,7 @@
       <v-alert type="info">
         All Activators must be in effect in order for the card to be played.
       </v-alert>
-      <p>See the <b>Turn Example: Investigation Phase</b> section on page <anchor-link>27</anchor-link> for an example of Activator use.</p>
+      <p>See the <b>Turn Example: Investigation Phase</b> section on page <hash-link value="27" /> for an example of Activator use.</p>
       <v-alert
         text
         color="info"
@@ -295,9 +295,9 @@
         The Briefing Phase
       </h2>
       <p>At the beginning of the Briefing Phase, the Investigating Player may draw one card. This is a "free" draw and occurs regardless of any Agent's current status.</p>
-      <p>The Investigating Player may then use his Agents to create <b>Resource Points</b> (RPs or <resource-pool />). Then they may purchase cards. Cards ar purchased from the top of the Bureau Deck at the cost of <b>1</b> <resource-pool /> each. The Investigating Player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Resource Pool</b> section on page <anchor-link>11</anchor-link>.</p>
+      <p>The Investigating Player may then use his Agents to create <b>Resource Points</b> (RPs or <resource-pool />). Then they may purchase cards. Cards ar purchased from the top of the Bureau Deck at the cost of <b>1</b> <resource-pool /> each. The Investigating Player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Resource Pool</b> section on page <hash-link value="11" />.</p>
       <p>Any of the Investigating Player's opponents may now discard cards from their hand with an <resource-pool /> or <star-pool /> Cost and gain an equal number of <conspiracy-pool />s. This is optional. Cards that are exchanged are placed face up on the Discard Pile.</p>
-      <p>Each opponent of the Investigating Player may purchase cards from the top of the Bureau Deck at the cost of <b>1</b> <conspiracy-pool /> each. Purchasing cards is done after <resource-pool /> cards have been sold. Each player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Conspiracy Pool</b> section on page <anchor-link>12</anchor-link>.</p>
+      <p>Each opponent of the Investigating Player may purchase cards from the top of the Bureau Deck at the cost of <b>1</b> <conspiracy-pool /> each. Purchasing cards is done after <resource-pool /> cards have been sold. Each player must announce how many cards they are purchasing and do so at one time. They may not purchase some and choose to purchase more later. See the <b>Conspiracy Pool</b> section on page <hash-link value="12" />.</p>
       <p class="text-center">
         18
       </p>
@@ -350,7 +350,7 @@
         The Requisition Phase
       </h2>
       <p>FBI Agents have access to an assortment of Equipment to aid in the investigation. To obtain Equipment, Agents must Requisition it. All Equipment cards state the requirements for Requisition in their Activators. Frequently, the Agent will need to be in the Bureau to get Equipment.</p>
-      <p>The Investigating Player may pay for and assign Equipment to any Agent who meets the requirement on the Equipment card. Furthermore, Agents in the same Team (please see <b>Teams</b> on page <anchor-link>23</anchor-link>) are allowed to exchange Equipment during this phase. Agents may not have more than one of any particular item, but may have as many total pieces of different Equipment as they wish. Also, an Agent may only use one piece of Equipment to modify a single Skill Check.</p>
+      <p>The Investigating Player may pay for and assign Equipment to any Agent who meets the requirement on the Equipment card. Furthermore, Agents in the same Team (please see <b>Teams</b> on page <hash-link value="23" />) are allowed to exchange Equipment during this phase. Agents may not have more than one of any particular item, but may have as many total pieces of different Equipment as they wish. Also, an Agent may only use one piece of Equipment to modify a single Skill Check.</p>
       <p><b>Example:</b></p>
       <v-alert
         text
@@ -441,7 +441,7 @@
       <h2 class="red--text">
         The Investigation Phase
       </h2>
-      <p>The Investigating Player must allocate all Agents currently in the Field to the Site(s) they plan to investigate. The Investigating Player does not have to investigate a Site card. New Teams may now be formed in the Field section only. See the <b>Deployment Phase</b> rules on page <anchor-link>23</anchor-link> for more information on forming Agent Teams.</p>
+      <p>The Investigating Player must allocate all Agents currently in the Field to the Site(s) they plan to investigate. The Investigating Player does not have to investigate a Site card. New Teams may now be formed in the Field section only. See the <b>Deployment Phase</b> rules on page <hash-link value="23" /> for more information on forming Agent Teams.</p>
       <p>Generally, Agents may not participate in more than one Site investigation per turn. An Agent does not necessarily have to participate in any investigations whil in the Field. Often the player will choose to investigate only one Site, however multiple or no Sites are permissible.</p>
       <p>Each Site investigated is resolved separately. If more than one Site is being investigated, the Investigating Player chooses the resolution order.</p>
       <p>Begin a Skill Check Subroutine for the Site Prerequisite. See the <b>Skill Check Subroutine</b> section of these rules on the following page for further information.</p>
@@ -465,8 +465,8 @@
         <li>Announce to your opponent the Skill being used, the amount needed, and the Skill level currently possessed by the Agent Team.</li>
         <li>Each Player may pay for and play cards.</li>
       </ol>
-      <p>The current Skill level may now be modified by cards played by each player attempting to successfully complete or foil the Skill Check. The Active Player has the option to pay for and play the first card. After this, cards may be bought an played by any player. Cards must be paid for from the appropriate pool by the player who owns the card. See the <b>Pools</b> section on page <anchor-link>10</anchor-link> for further information.</p>
-      <p>Multiple cards may be played prior to one card being resolved. In these instances, the last card played is resolved first. Cards are played until all players decide to play no more. One type of card which can be played is an Adversary card. These cards result in Combat. See the <b>Combat</b> section on page <anchor-link>31</anchor-link> for further information.</p>
+      <p>The current Skill level may now be modified by cards played by each player attempting to successfully complete or foil the Skill Check. The Active Player has the option to pay for and play the first card. After this, cards may be bought an played by any player. Cards must be paid for from the appropriate pool by the player who owns the card. See the <b>Pools</b> section on page <hash-link value="10" /> for further information.</p>
+      <p>Multiple cards may be played prior to one card being resolved. In these instances, the last card played is resolved first. Cards are played until all players decide to play no more. One type of card which can be played is an Adversary card. These cards result in Combat. See the <b>Combat</b> section on page <hash-link value="31" /> for further information.</p>
       <p>After a card is used, place it face up on your Discard Pile. Playing a card may initiate a new Skill Check Subroutine. If this occurs, resolve this new Skill Check before resolving the original Skill Check.</p>
       <p>Certain cards may have lasting effects. This will be noted on the individual card.</p>
       <p class="text-center">
@@ -482,10 +482,10 @@
       </ol>
       <p>If the Agent Team successfully meets the Skill level needed after all card effects and any additional Skill Check Subroutines have been resolved, then the appropriate effect is applied. This ends the Skill Check Subroutine.</p>
       <v-alert colored-border>
-        There are two special cases when exceptions to the Skill Check Subroutine process occur. The first is during a Site investigation. During a Site investigation, Bluffs placed beneath a Site are revealed and resolved before any cards are played in step 2. See the <b>Bluff</b> section on page <anchor-link>25</anchor-link> for information on resolving Bluffs.
+        There are two special cases when exceptions to the Skill Check Subroutine process occur. The first is during a Site investigation. During a Site investigation, Bluffs placed beneath a Site are revealed and resolved before any cards are played in step 2. See the <b>Bluff</b> section on page <hash-link value="25" /> for information on resolving Bluffs.
       </v-alert>
       <v-alert colored-border>
-        The second special case is during Combat. In Combat, repeat the Skill Check Subroutine process by conducting additional Combat rounds until the Adversary's HEALTH has been reduced to 0 or all Agents have been sent to the Hospital. Also, only Combat cards may be played during a Combat Skill Check Subroutine. See the <b>Combat</b> section on page <anchor-link>31</anchor-link> for further information.
+        The second special case is during Combat. In Combat, repeat the Skill Check Subroutine process by conducting additional Combat rounds until the Adversary's HEALTH has been reduced to 0 or all Agents have been sent to the Hospital. Also, only Combat cards may be played during a Combat Skill Check Subroutine. See the <b>Combat</b> section on page <hash-link value="31" /> for further information.
       </v-alert>
       <v-divider />
       <v-alert type="info">
@@ -520,7 +520,7 @@
     <section id="32">
       <h2>Long Range Combat</h2>
       <p>Combat typically starts with <b>Long Range Combat (LRC)</b>. Some Adversaries will attack by surprise or other special method involving the skipping of Long Range Combat, but this wil be stated on the specific card.</p>
-      <p>Long Range Combat skill is listed on Adversary and Agent cards. A <b>Skill Check Subroutine</b> must be initiated to determine the damage done by the Agents and Adversary. See the Skill Check Subroutine section on page <anchor-link>28</anchor-link> of these rules. Add up all combatant's LRC numbers to determine the amount of damage done. Combat cards are now played and their effect added. See the Combat Card section of these rules on page <anchor-link>35</anchor-link> for further information. Also, add the modifiers of any Equipment which adds to Long Range Combat.</p>
+      <p>Long Range Combat skill is listed on Adversary and Agent cards. A <b>Skill Check Subroutine</b> must be initiated to determine the damage done by the Agents and Adversary. See the Skill Check Subroutine section on page <hash-link value="28" /> of these rules. Add up all combatant's LRC numbers to determine the amount of damage done. Combat cards are now played and their effect added. See the Combat Card section of these rules on page <hash-link value="35" /> for further information. Also, add the modifiers of any Equipment which adds to Long Range Combat.</p>
       <p>Damage inflicted by Agents may be applied separately if there are multiple targets, however, each particular Agent's damage cannot be split. Damage inflicted by a single Adversary on an Agent Team is allocated to one Agent. Each player decides which opponent will receive the inflicted damage.</p>
       <p>An Agent is moved to the Hospital when his HEALTH rating has been reduced to 0. Any reduction that results in a negative HEALTH rating for an Agent is considered to be HEALTH rating 0. No negative HEALTH ratings occur. An Adversary is killed (and discarded) when its HEALTH rating has been reduced to 0. Some Adversaries will not have Long Range Combat ability, noted by an <b>N/A</b> listed as its LRC.</p>
       <p>If the Adversary has been killed or if all Agents have been sent to the Hospital, Combat ends. If not, Combat continues with <b>Close Range Combat</b> rounds.</p>
@@ -530,10 +530,10 @@
     </section>
     <section id="33">
       <h2>Close Range Combat</h2>
-      <p><b>Close Range Combat (CRC)</b> follows the Long Range Combat round. Close Range Combat skill is listed on Adversary and Agent cards. Again, both players may use Combat cards. See the Combat Card section on page <anchor-link>35</anchor-link> of these rules. A Skill Check Subroutine again must be initiated to determine damage done by both the Adversary and the Agents. See the Skill Check Subroutine section on page <anchor-link>28</anchor-link> of these rules. Add on the effects of any Combat cards. Also, add the modifiers of any Equipment which adds to Close Range Combat. Apply the results in the same manner as Long Range Combat.</p>
+      <p><b>Close Range Combat (CRC)</b> follows the Long Range Combat round. Close Range Combat skill is listed on Adversary and Agent cards. Again, both players may use Combat cards. See the Combat Card section on page <hash-link value="35" /> of these rules. A Skill Check Subroutine again must be initiated to determine damage done by both the Adversary and the Agents. See the Skill Check Subroutine section on page <hash-link value="28" /> of these rules. Add on the effects of any Combat cards. Also, add the modifiers of any Equipment which adds to Close Range Combat. Apply the results in the same manner as Long Range Combat.</p>
       <p>When all Agents are sent to the Hospital or de Adversary's HEALTH is reduced to 0, Combat ends. Regardless of the outcome of Combat, the Adversary card is placed on the owning player's Discard Pile after Combat completion. If Combat has not yet been resolved, repeat Close Range Combat rounds until the Adversary is killed or all Agents have been sent to the Hospital.</p>
       <v-alert type="info">
-        An Agent with HEALTH greater than 0 may stay in the Field and is not obligated to go to the Hospital unless a card effect states otherwise. If they choose to go to the Hospital, they may not leave until they have at least 3 HEALTH or are fully healed. See the Healing Phase section on page <anchor-link>20</anchor-link> for more information.
+        An Agent with HEALTH greater than 0 may stay in the Field and is not obligated to go to the Hospital unless a card effect states otherwise. If they choose to go to the Hospital, they may not leave until they have at least 3 HEALTH or are fully healed. See the Healing Phase section on page <hash-link value="20" /> for more information.
       </v-alert>
       <v-alert type="info">
         Witness with HEALTH are treated as Agents in Combat rounds. Thus, Combat cards may be used on a Witness with HEALTH. If a Witness's HEALTH is reduced to 0, move the Witness card to the owning player's Discard Pile.
@@ -678,325 +678,297 @@
       <p>The X-File Powers were designed to add flavor and strategy in selecting an X-File. They are optional. Both players must agree in order to use the X-File Powers in Advanced Game play.</p>
       <p>As your opponent gets closer to identifying your X-File, the X-File gains added powers to thwart the Agents. These powers are based on the specific characteristics your opponent knows. Prior to using any of these powers, the controlling player must announce the specific characteristic of his X-File that allows him to use a power. This might seem redundant in a two-player game, but has significance in a multi-player game, as all players might not have already identified the characteristic. Additionally, you can choose to announce a particular characteristic to all opponents and gain that corresponding special effect. The X-Files power gained with a specific Characteristic being revealed are:</p>
       <h3 class="blue--text text--darken-2">
-        AFFILIATION
+        Affiliation
       </h3>
-      <v-simple-table class="x-file-powers">
-        <tbody>
-          <tr>
-            <td>Alien</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="blue darken-2"
-              >
-                <v-icon small>
-                  mdi-ufo-outline
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>ALIEN Adversaries may be played on any Site.</td>
-          </tr>
-          <tr>
-            <td>Evolutionary</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="blue darken-2"
-              >
-                <v-icon small>
-                  mdi-dna
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>EVOLUTIONARY Adversaries may be played on any Site.</td>
-          </tr>
-          <tr>
-            <td>Government</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="blue darken-2"
-              >
-                <v-icon small>
-                  mdi-bank
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>GOVERNMENT Adversaries may be played on any Site.</td>
-          </tr>
-          <tr>
-            <td>Occult</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="blue darken-2"
-              >
-                <v-icon small>
-                  mdi-pentagram
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>OCCULT Adversaries may be played on any Site.</td>
-          </tr>
-          <tr>
-            <td>Primordial</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="blue darken-2"
-              >
-                <v-icon small>
-                  mdi-bug
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>PRIMORDIAL Adversaries may be played on any Site.</td>
-          </tr>
-        </tbody>
-      </v-simple-table>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-ufo-outline</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Alien
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              ALIEN Adversaries may be played on any Site.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-dna</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Evolutionary
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              EVOLUTIONARY Adversaries may be played on any Site.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-bank</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Government
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              GOVERNMENT Adversaries may be played on any Site.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-pentagram</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Occult
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              OCCULT Adversaries may be played on any Site.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-bug</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Primordial
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              PRIMORDIAL Adversaries may be played on any Site.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
       <p class="text-center">
         43
       </p>
     </section>
     <section id="44">
       <h3 class="purple--text text--darken-2">
-        METHOD
+        Method
       </h3>
-      <v-simple-table class="x-file-powers mb-4">
-        <tbody>
-          <tr>
-            <td>Manipulation</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="purple darken-2"
-              >
-                <v-icon small>
-                  mdi-head-cog-outline
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>You may play <conspiracy-pool /> cost Events for one <conspiracy-pool /> less.</td>
-          </tr>
-          <tr>
-            <td>Possession</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="purple darken-2"
-              >
-                <v-icon small>
-                  mdi-drama-masks
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Place two tokens on your X-File. Discard a token to force one of your opponent's Agents who was damaged in Combat this turn to attack his own Team immediately. The Agent is under your control and will fight until reduced to 0 HEALTH or Combat ends.</td>
-          </tr>
-          <tr>
-            <td>Subterfuge</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="purple darken-2"
-              >
-                <v-icon small>
-                  mdi-fingerprint
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>You may force your opponent to discard one card from his hand (their choice) once per turn during their Healing Phase.</td>
-          </tr>
-          <tr>
-            <td>Threats</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="purple darken-2"
-              >
-                <v-icon small>
-                  mdi-alert
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Place three tokens on your X-File. Discard a token to negate one Witness card played by your opponent.</td>
-          </tr>
-          <tr>
-            <td>Violence</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="purple darken-2"
-              >
-                <v-icon small>
-                  mdi-pistol
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Place two tokens on your X-File. Discard a token to draw an eligible Adversary card from your Discard Pile and play it immediately for two <conspiracy-pool /> less.</td>
-          </tr>
-        </tbody>
-      </v-simple-table>
-      <h3 class="orange--text text--darken-2">
-        MOTIVE
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-head-cog-outline</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Manipulation
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              You may play <conspiracy-pool /> cost Events for one <conspiracy-pool /> less.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-drama-masks</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Possession
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place two tokens on your X-File. Discard a token to force one of your opponent's Agents who was damaged in Combat this turn to attack his own Team immediately. The Agent is under your control and will fight until reduced to 0 HEALTH or Combat ends.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-fingerprint</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Subterfuge
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              You may force your opponent to discard one card from his hand (their choice) once per turn during their Healing Phase.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-alert</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Threats
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place three tokens on your X-File. Discard a token to negate one Witness card played by your opponent.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-pistol</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Violence
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place two tokens on your X-File. Discard a token to draw an eligible Adversary card from your Discard Pile and play it immediately for two <conspiracy-pool /> less.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <h3 class="orange--text text--darken-2 text-center">
+        Motive
       </h3>
-      <v-simple-table class="x-file-powers">
-        <tbody>
-          <tr>
-            <td>Control</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="orange darken-2"
-              >
-                <v-icon small>
-                  mdi-handcuffs
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>You may force your opponent to discard one <resource-pool /> once per turn during their Healing Phase.</td>
-          </tr>
-          <tr>
-            <td>Ideology</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="orange darken-2"
-              >
-                <v-icon small>
-                  mdi-pillar
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Once per turn you may change one Keyword on a card to any other Keyword.</td>
-          </tr>
-          <tr>
-            <td>Knowledge</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="orange darken-2"
-              >
-                <v-icon small>
-                  mdi-book-open-variant
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Place two tokens on your X-File. Discard a token to examine your opponent's hand immediately after drawing cards in the Briefing Phase.</td>
-          </tr>
-        </tbody>
-      </v-simple-table>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-handcuffs</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Control
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              You may force your opponent to discard one <resource-pool /> once per turn during their Healing Phase.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-pillar</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Ideology
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Once per turn you may change one Keyword on a card to any other Keyword.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-book-open-variant</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Knowledge
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place two tokens on your X-File. Discard a token to examine your opponent's hand immediately after drawing cards in the Briefing Phase.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
       <p class="text-center">
         44
       </p>
     </section>
     <section id="45">
-      <v-simple-table class="x-file-powers mb-4">
-        <tbody>
-          <tr>
-            <td>Security</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="orange darken-2"
-              >
-                <v-icon small>
-                  mdi-lock
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>You may play BLUFF cards for one <conspiracy-pool /> less. Note that this will now be two <conspiracy-pool /> less if the Bluff is placed under a Site. A Bluff can be free, but you can never gain tokens by playing a card.</td>
-          </tr>
-          <tr>
-            <td>Survival</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="orange darken-2"
-              >
-                <v-icon>mdi-hospital</v-icon>
-              </v-avatar>
-            </td>
-            <td>Place one damage token on any one of your opponent's Agents (your choice) once per turn during the Healing Phase. The same Agent may not be damaged on consecutive turns.</td>
-          </tr>
-        </tbody>
-      </v-simple-table>
-      <h3 class="light-green--text">
-        RESULT
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-lock</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Security
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              You may play BLUFF cards for one <conspiracy-pool /> less. Note that this will now be two <conspiracy-pool /> less if the Bluff is placed under a Site. A Bluff can be free, but you can never gain tokens by playing a card.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-hospital</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Survival
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place one damage token on any one of your opponent's Agents (your choice) once per turn during the Healing Phase. The same Agent may not be damaged on consecutive turns.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <h3 class="light-green--text text-center">
+        Result
       </h3>
-      <v-simple-table class="x-file-powers mb-4">
-        <tbody>
-          <tr>
-            <td>Abduction</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="light-green"
-              >
-                <v-icon small>
-                  mdi-van-utility
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Place two tokens on your X-File. Discard one token to Abduct one Agent of your choice. The Agent is placed face up ten cards down in the owning player's Bureau Deck. When the last card covering the Agent is drawn, the Agent is immediately moved to the Hospital (undamaged).</td>
-          </tr>
-          <tr>
-            <td>Death</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="light-green"
-              >
-                <v-icon small>
-                  mdi-skull
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>You may play one Combat card on an Adversary you control for free once per Combat.</td>
-          </tr>
-          <tr>
-            <td>Insanity</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="light-green"
-              >
-                <v-icon small>
-                  mdi-brain
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Every Witness played by your opponent's Teams inflicts one point of damage to one Agent in that Team (opponent's choice).</td>
-          </tr>
-          <tr>
-            <td>Manipulation of Evidence</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="light-green"
-              >
-                <v-icon small>
-                  mdi-puzzle
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Your opponent must pay one extra <resource-pool /> for each Site card they play.</td>
-          </tr>
-          <tr>
-            <td>Physiological Imbalance</td>
-            <td>
-              <v-avatar
-                size="24"
-                color="light-green"
-              >
-                <v-icon small>
-                  mdi-pulse
-                </v-icon>
-              </v-avatar>
-            </td>
-            <td>Place three tokens on your X-File. Discard a token to apply a <b>-2</b> modifier to any one Agent's Skill Check. You may do this once per turn.</td>
-          </tr>
-        </tbody>
-      </v-simple-table>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="light-green darken-2">
+            <v-icon>mdi-van-utility</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Abduction
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place two tokens on your X-File. Discard one token to Abduct one Agent of your choice. The Agent is placed face up ten cards down in the owning player's Bureau Deck. When the last card covering the Agent is drawn, the Agent is immediately moved to the Hospital (undamaged).
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green darken-2">
+            <v-icon>mdi-skull</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Death
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              You may play one Combat card on an Adversary you control for free once per Combat.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green darken-2">
+            <v-icon>mdi-brain</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Insanity
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Every Witness played by your opponent's Teams inflicts one point of damage to one Agent in that Team (opponent's choice).
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green darken-2">
+            <v-icon>mdi-puzzle</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Manipulation of Evidence
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Your opponent must pay one extra <resource-pool /> for each Site card they play.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green darken-2">
+            <v-icon>mdi-pulse</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Physiological Imbalance
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Place three tokens on your X-File. Discard a token to apply a <b>-2</b> modifier to any one Agent's Skill Check. You may do this once per turn.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
       <p class="text-center">
         45
       </p>
@@ -1085,7 +1057,7 @@
     </section>
     <section id="50">
       <h2>Event Cards</h2>
-      <p>Some Event cards hinder your opponent's Agents in the pursuit of the truth: your X-File's identity. Others help your Agents complete their mission. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <p>Some Event cards hinder your opponent's Agents in the pursuit of the truth: your X-File's identity. Others help your Agents complete their mission. These cards contain only the common information listed on page <hash-link value="48" />.</p>
       <v-alert
         text
         color="info"
@@ -1102,7 +1074,7 @@
     </section>
     <section id="51">
       <h2>Witness Cards</h2>
-      <p>Witness cards help Agents investigate Sites and usually modify Skill Checks. Witness cards are said to be unique. This means that only one of each specific card may be applied in a single Skill Check. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <p>Witness cards help Agents investigate Sites and usually modify Skill Checks. Witness cards are said to be unique. This means that only one of each specific card may be applied in a single Skill Check. These cards contain only the common information listed on page <hash-link value="48" />.</p>
       <v-alert
         text
         color="info"
@@ -1119,7 +1091,7 @@
     </section>
     <section id="52">
       <h2>Bluff Cards</h2>
-      <p>Bluff cards help deter your opponents from successful Site investigation, usually by subtracting from Skill Checks. In the Basic Game, they are played during the Investigation Phase. Additionally, in the Advanced Game, they may be placed beneath the Site during the Case Assignment Phase. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <p>Bluff cards help deter your opponents from successful Site investigation, usually by subtracting from Skill Checks. In the Basic Game, they are played during the Investigation Phase. Additionally, in the Advanced Game, they may be placed beneath the Site during the Case Assignment Phase. These cards contain only the common information listed on page <hash-link value="48" />.</p>
       <v-alert
         text
         color="info"
@@ -1136,7 +1108,7 @@
     </section>
     <section id="53">
       <h2>Equipment Cards</h2>
-      <p>Equipment cards help Agents by permanently modifying a Skill as long as the Equipment is possessed. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <p>Equipment cards help Agents by permanently modifying a Skill as long as the Equipment is possessed. These cards contain only the common information listed on page <hash-link value="48" />.</p>
       <v-alert
         text
         color="info"
@@ -1153,7 +1125,7 @@
     </section>
     <section id="54">
       <h2>Combat Cards</h2>
-      <p>Combat cards modify the results of Combat in the Advanced Game only. These cards are removed for the Basic Game. These cards contain only the common information listed on page <anchor-link>48</anchor-link>.</p>
+      <p>Combat cards modify the results of Combat in the Advanced Game only. These cards are removed for the Basic Game. These cards contain only the common information listed on page <hash-link value="48" />.</p>
       <v-alert
         text
         color="info"
@@ -1170,7 +1142,7 @@
     </section>
     <section id="55">
       <h2>Adversary Cards</h2>
-      <p>Adversary cards hinder opposing Agents by engaging them in Combat. Each card will note when it may be played. These cards contain the common information listed on page <anchor-link>48</anchor-link> and the following additional information.</p>
+      <p>Adversary cards hinder opposing Agents by engaging them in Combat. Each card will note when it may be played. These cards contain the common information listed on page <hash-link value="48" /> and the following additional information.</p>
       <ol class="mb-4">
         <li>The<b>Adversary's statistics:</b> Tells the <b>HEALTH</b>, <b>LRC</b>, and <b>CRC</b> of this Adversary.</li>
       </ol>
@@ -1190,7 +1162,7 @@
     </section>
     <section id="56">
       <h2>Site Cards</h2>
-      <p>Site Cards form the basis of your investigation. Note that some Site cards have two questions and Skills that you may choose between while others have only one. These cards contain the common information listed on page <anchor-link>48</anchor-link> and the following additional information.</p>
+      <p>Site Cards form the basis of your investigation. Note that some Site cards have two questions and Skills that you may choose between while others have only one. These cards contain the common information listed on page <hash-link value="48" /> and the following additional information.</p>
       <ol class="mb-4">
         <li>The <b>Site PREREQUISITE</b>: Each Site will list a Prerequisite that must be met in order to use the Site card effectively. In most cases this will be a Skill followed by a number. The number is the level of Skill the Agents in the field must obtain to use the card.</li>
         <li>The <b>QUESTION</b>: The type of question you may ask your opponent regarding the X-File they have chosen for this game. In order to ask the question, your investigating Team must meet the card's Prerequisite.</li>
@@ -1211,7 +1183,7 @@
     </section>
     <section id="57">
       <h2>Agent Cards</h2>
-      <p>Agents are the nemesis of the X-File. While X-Files attempt to maintain their secrecy, the Agents are trying to identify them. These cards contain the common information listed on page <anchor-link>48</anchor-link>, with the exception that Agent cards do not have Activators. Agent cards also contain the following additional information.</p>
+      <p>Agents are the nemesis of the X-File. While X-Files attempt to maintain their secrecy, the Agents are trying to identify them. These cards contain the common information listed on page <hash-link value="48" />, with the exception that Agent cards do not have Activators. Agent cards also contain the following additional information.</p>
       <ol class="mb-4">
         <li>The <b>Agent's list of SKILLS</b>: These are each Agent's unique abilities. One skill is Criminal Investigation, a composite of many basic skills an Agent learned while at the FBI Academy.</li>
         <li>The <b>Agent's HEALTH</b>: The statistic that determines how much damage each Agent can sustain before being Hospitalized.</li>
@@ -1264,6 +1236,731 @@
       <p class="text-center">
         59
       </p>
+    </section>
+    <section id="60">
+      <h2 class="blue--text text--darken-2">
+        Affiliations
+      </h2>
+      <p>Each X-File has a specific classification</p>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-ufo-outline</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Alien
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is not of this world.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-bank</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Government
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is a member of the government who, for whatever reason, desires to keep secret the existence of paranormal phenomena.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-dna</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Evolutionary
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is a product of evolution, either natural or induced by man.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-bug</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Primordial
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is of this world, but for whatever reason they are as yet undiscovered.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="blue darken-2">
+            <v-icon>mdi-pentagram</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Occult
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is not bound by the normal laws of science, and exists outside of what we consider normal reality.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <p class="text-center">
+        60
+      </p>
+    </section>
+    <section id="61">
+      <h2 class="orange--text text--darken-2">
+        Motives
+      </h2>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon large>
+              mdi-hospital
+            </v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Survival
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File merely wishes to exist. It does what it does not through malice but because it would otherwise cease to exist.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-lock</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Security
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is concerned with insuring that all threats to its existence are eliminated.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-handcuffs</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Control
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is driven by a need to control its environment. Closely related to security, this motive is based not on eliminating threats so much as being in a position of power in order to direct others to do the X-File's bidding.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-book-open-variant</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Knowledge
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is driven by the search for knowledge. It views knowledge as the only thing of real value and lets nothing get in its way.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="orange darken-2">
+            <v-icon>mdi-pillar</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Ideology
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File acts upon its systematic belief system. Its beliefs are to strong that it acts regardless of the effect on others.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <p class="text-center">
+        61
+      </p>
+    </section>
+    <section id="62">
+      <h2 class="purple--text text--darken-2">
+        Methods
+      </h2>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-pistol</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Violence
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The most direct method, usually only the most savage X-Files resort to this method as it often results in discovery and elimination.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-head-cog-outline</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Manipulation
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File uses subtle suggestion or powers to control others and achieve objectives through their actions.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-fingerprint</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Subterfuge
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              This method relies on trickery and deceiving one's opponent to accomplish goals. It is different from manipulation in that the X-File is directly involved in the act as opposed to manipulating someone else into action.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-drama-masks</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Possession
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File forcefully takes control of another and uses that person to achieve its goals. This can be done through the implanting of an alien device or through supernatural possession of the body.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="purple darken-2">
+            <v-icon>mdi-alert</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Threats
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File is in a position of power and uses direct threats to compel others to do its bidding.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <p class="text-center">
+        62
+      </p>
+    </section>
+    <section id="63">
+      <h2 class="light-green--text">
+        Results
+      </h2>
+      <v-list class="mb-4">
+        <v-list-item>
+          <v-list-item-avatar color="light-green">
+            <v-icon>mdi-skull</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Death
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The victim of the X-File's actions is found deceased.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green">
+            <v-icon>mdi-brain</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Insanity
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Those who come into contact with this X-File are unable to mentally cope with the encounter.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green">
+            <v-icon>mdi-pulse</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Physiological Imbalance
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File's victim is detrimentally altered as a result of the experience. These changes often cause severe debilitation and can ultimately result in death.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green">
+            <v-icon>mdi-van-utility</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Abduction
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              Victims of this X-File's actions tend to disappear and are never seen again or are found in strange places long after they disappeared with no memory of the experience.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item>
+          <v-list-item-avatar color="light-green">
+            <v-icon>mdi-puzzle</v-icon>
+          </v-list-item-avatar>
+          <v-list-item-content>
+            <v-list-item-title>
+              Manipulation of Evidence
+            </v-list-item-title>
+            <v-list-item-subtitle>
+              The X-File's actions result in the loss or destruction of evidence pertaining of the X-File or one of their security issues.
+            </v-list-item-subtitle>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+      <p class="text-center">
+        63
+      </p>
+    </section>
+    <section id="64">
+      <h2>Glossary</h2>
+      <p><b>Activator</b>: Signifies when a particular card may be played. In general, there are three different categories of Activators in the game: Active, Conspiracy, all others.</p>
+      <p><b>Active</b>: A condition which exists when it is your turn. Commonly listed as an Activator.</p>
+      <p><b>Active Player</b>: The player whose turn it currently is. Also known as the Investigating Player.</p>
+      <p><b>Alternately</b>: Cards featuring this word offer a choice of more than one game effect which can be used during game play, however, only one game effect may be chosen.</p>
+      <p><b>Conspiracy</b>: A condition which exists when it is not your turn, commonly listed as an Activator.</p>
+      <p><b>Directed Player</b>: A player targeted by a Site. Also known as a Conspiracy player.</p>
+      <p><b>Investigating Player</b>: The player whose turn it currently is. Also know as the Active player.</p>
+      <p><b>Keyword</b>: Signifies what categories a particular card falls under and serves as the basis for Activators.</p>
+      <p><b>Negate</b>: Cancels the effect or influence of a target card; the target card is then placed in its owner's Discard pile.</p>
+      <p><b>Non-Active Players</b>: Refers to a player when it is not their turn and they are not the target of a Site. Also known as a Conspiracy player.</p>
+      <p><b>Skills</b>: Unique abilities that a particular Agent possesses, which aid him/her in various situations throughout the game.</p>
+      <p class="text-center">
+        64
+      </p>
+    </section>
+    <section id="65">
+      <h2>Glossary: Skills</h2>
+      <p><b>Alien Investigation</b>: The pursuit of evidence that points to the existence of extra-terrestrial life.</p>
+      <p><b>Behavioral</b>: Understanding of human psychology/sociology.</p>
+      <p><b>Bureaucracy</b>: Adeptness in influencing governmental entities to bypass obstacles, acquire resources, gain favors, etc.</p>
+      <p><b>Close Range Combat</b>: Expertise in hand-to-hand, close-quarter fighting.</p>
+      <p><b>Computer</b>: Knowledge of the intricacies of computer functions, and the means of acquiring electronic information.</p>
+      <p><b>Criminal Investigation</b>: Aptitude in law enforcement procedures following a crime (witness questioning, surveillance, suspect arrests, etc).</p>
+      <p><b>Evidence Collection</b>: Proficiency if gathering clues at a crime scene (fingerprints, bloodstains, etc).</p>
+      <p><b>Long Range Combat</b>: Expertness in handling long range weaponry (assault rifles, shotguns, etc).</p>
+      <p><b>Medical</b>: Proficiency in trauma care and first aid.</p>
+      <p><b>Observation</b>: Having a knack in spotting minute details that might otherwise have been missed at a crime scene (misplaced/missing objects, unusual evidence left behind, etc).</p>
+      <p><b>Occult Investigation</b>: Pursuit of evidence that leads to the existence of paranormal phenomena.</p>
+      <p><b>Sciences</b>: Understanding of the natural laws of the physical world.</p>
+      <p><b>Subterfuge</b>: Deftness in covert operations and situations that involve hiding, sneaking and espionage.</p>
+      <p class="text-center">
+        65
+      </p>
+    </section>
+    <section id="66">
+      <v-simple-table class="mb-4">
+        <tbody>
+          <tr>
+            <td>Activator</td>
+            <td>
+              <hash-link value="16" />
+            </td>
+            <td>Healing</td>
+            <td>
+              <hash-link value="20" />
+            </td>
+          </tr>
+          <tr>
+            <td>Active</td>
+            <td>
+              <hash-link value="8" />
+            </td>
+            <td>Healing Phase</td>
+            <td>
+              <hash-link value="20" />
+            </td>
+          </tr>
+          <tr>
+            <td>Adversaries</td>
+            <td>
+              <hash-link value="55" />
+            </td>
+            <td>HEALTH</td>
+            <td>
+              <hash-link value="20" />
+            </td>
+          </tr>
+          <tr>
+            <td>AFFILIATION</td>
+            <td>
+              <hash-link value="60" />
+            </td>
+            <td>Hospital</td>
+            <td>
+              <hash-link value="6" />
+            </td>
+          </tr>
+          <tr>
+            <td>Bluff</td>
+            <td>
+              <hash-link value="25" />
+            </td>
+            <td>Investigating Player</td>
+            <td>
+              <hash-link value="8" />
+            </td>
+          </tr>
+          <tr>
+            <td>Bluffs</td>
+            <td>
+              <hash-link value="52" />
+            </td>
+            <td>Investigation Phase</td>
+            <td>
+              <hash-link value="27" />
+            </td>
+          </tr>
+          <tr>
+            <td>Briefing Phase</td>
+            <td>
+              <hash-link value="18" />
+            </td>
+            <td>Keyword</td>
+            <td>
+              <hash-link value="17" />
+            </td>
+          </tr>
+          <tr>
+            <td>Bureau</td>
+            <td>
+              <hash-link value="6" />
+            </td>
+            <td>METHOD</td>
+            <td>
+              <hash-link value="62" />
+            </td>
+          </tr>
+          <tr>
+            <td>Bureau Deck</td>
+            <td>
+              <hash-link value="5" />
+            </td>
+            <td>MOTIVE</td>
+            <td>
+              <hash-link value="61" />
+            </td>
+          </tr>
+          <tr>
+            <td>Case Assignment Phase</td>
+            <td>
+              <hash-link value="24" />
+            </td>
+            <td>Notebook</td>
+            <td>
+              <hash-link value="6" />
+            </td>
+          </tr>
+          <tr>
+            <td>Characteristic</td>
+            <td>
+              <hash-link value="37" />
+            </td>
+            <td>Phase</td>
+            <td>
+              <hash-link value="8" />
+            </td>
+          </tr>
+          <tr>
+            <td>Conspiracy</td>
+            <td>
+              <hash-link value="12" />
+            </td>
+            <td>Pools</td>
+            <td>
+              <hash-link value="10" />
+            </td>
+          </tr>
+          <tr>
+            <td>CP (<conspiracy-pool />)</td>
+            <td>
+              <hash-link value="8" />
+            </td>
+            <td>Prerequisite</td>
+            <td>
+              <hash-link value="24" />
+            </td>
+          </tr>
+          <tr>
+            <td>Damage</td>
+            <td>
+              <hash-link value="34" />
+            </td>
+            <td>Requisition Phase</td>
+            <td>
+              <hash-link value="21" />
+            </td>
+          </tr>
+          <tr>
+            <td>Debriefing Phase</td>
+            <td>
+              <hash-link value="38" />
+            </td>
+            <td>Resource</td>
+            <td>
+              <hash-link value="11" />
+            </td>
+          </tr>
+          <tr>
+            <td>Deployment Phase</td>
+            <td>
+              <hash-link value="23" />
+            </td>
+            <td>RESULT</td>
+            <td>
+              <hash-link value="63" />
+            </td>
+          </tr>
+          <tr>
+            <td>Directed Player</td>
+            <td>
+              <hash-link value="8" />
+            </td>
+            <td>RP (<resource-pool />)</td>
+            <td>
+              <hash-link value="8" />
+            </td>
+          </tr>
+          <tr>
+            <td>Discard Pile</td>
+            <td>
+              <hash-link value="6" />
+            </td>
+            <td>Sites</td>
+            <td>
+              <hash-link value="56" />
+            </td>
+          </tr>
+          <tr>
+            <td>Equipment</td>
+            <td>
+              <hash-link value="53" />
+            </td>
+            <td>Skill Check</td>
+            <td>
+              <hash-link value="28" />
+            </td>
+          </tr>
+          <tr>
+            <td>Events</td>
+            <td>
+              <hash-link value="50" />
+            </td>
+            <td>Skill Check Subroutine</td>
+            <td>
+              <hash-link value="28" />
+            </td>
+          </tr>
+          <tr>
+            <td>Field</td>
+            <td>
+              <hash-link value="6" />
+            </td>
+            <td>Team</td>
+            <td>
+              <hash-link value="23" />
+            </td>
+          </tr>
+          <tr>
+            <td>Game Effect</td>
+            <td>
+              <hash-link value="15" />
+            </td>
+            <td>Witness</td>
+            <td>
+              <hash-link value="51" />
+            </td>
+          </tr>
+        </tbody>
+      </v-simple-table>
+      <p class="text-center">
+        66
+      </p>
+    </section>
+    <section id="67">
+      <table class="credits">
+        <tbody>
+          <tr>
+            <td><b>Game Designers</b>:</td>
+            <td>Ron Kent & Duncan Macdonell</td>
+          </tr>
+          <tr>
+            <td><b>Playtest Coordinators</b>:</td>
+            <td>Andy Graumann & Mark Hinds</td>
+          </tr>
+          <tr>
+            <td><b>Playtest Web support</b>:</td>
+            <td>Ryan Vener & Jesus Valdovinos</td>
+          </tr>
+          <tr>
+            <td><b>Project Manager</b>:</td>
+            <td>Randy Osuna</td>
+          </tr>
+          <tr>
+            <td><b>Rules</b>:</td>
+            <td>Andy Graumann</td>
+          </tr>
+          <tr>
+            <td><b>Graphic Design & Production</b>:</td>
+            <td>November Lazar Scher, Inc.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p><b>Special Thanks to</b>: Game Empire in San Diego, Terry Stasch of Print World in Santee, Les Kollegian, Joanne White, Jack Everitt, David Spangler, Mara Kent, and Joy Macdonell.</p>
+      <p><b>Playtesters</b>: Mike Durnell, David Spangler, Patrick McKee, Robert Lear, Ralph Anderson, Mike Yang, Brian Woodward, Corey Lopardi, Vinnie Verrinoldi, <b>David May</b>, Roxanne Barbour, Dmitri Salcedo, Robert Mair, Scott Parker, Eric Whitten, Richard Pontius, Brian Schutt, Geoffrey Colman, Bill Pollock, Jeff Odum, Tony Chin, Tim Cropley, David Thiel, Michael Mykita, Adrian McCanna, Tomas Espino Jr., Micah Davenport, Rebeca Richardson, Kris Richardson, Robin Horsley, Donald Richardson, Angela Mykita, Jeffrey Sweeney, Kimberly Rogalski, Terran McCanna, Tony St. Clair, Floris van Velden, Ronald Nusteling, Jonathan Yu, Jason Linette, James Lee, Patrick McDonough, Donald Bowles, Tiffany LaRue, Liza Rivera, Victoria Pingarron, Greg Marshall, Joseph Carco, David Bowder, Chuck May, Cathy Mayo, John Gee, Colleen Nechuolodoff, Aidan Spangler, John-Michael Spangler, Travis Illig, Holly Pettit, Ken Grey, Desmond White, Denis Roy, Mike Meaney, Matt Pontius, Vasanth Bala, Jeffrey Alexander, Steve Jay, Brian Cohen, Scott Colman, Victor Nolasco, Lance Olson, John Wilkes, Derek Lofthouse, William Barrett, Shakira Khan, Alonzo Sanchez, Brent Griffith, Kok Ping Liew, Catherine Cropley, Michael Wise, Sheridan Green, Barbara Sylvis, Edmund Sylvis, Sandra Boggs, Ray Wisneski, Gordon Jefferson, Fabian Melero, Nick Henderson, Kamar Bratko, Ronnie Parks, Joshua Pasto, Tim Washington, John Maure, William Kendall, Tony Story, Omar Ghannoum, David Linch, Dave Kufner, Geoffrey Brizzolara, Robert Diaz, John Mack, Thomas Alnwick, Marc Alnwick, James Dieter, David Obrien, Brett Blankenship, Alberto Gois, Joe Gois, Mical Bernabe, Frankie Sandburg, Mike Walker, Joshua Rigrod, Kyle Smith, Caroline Braun, Michael DeBoard, Scott King, Randy Vorachack, Paddy Heiliger, Cheryl Kallenbach, Brian Kallenbach, Chuck Kallenbach II, Richard Engler, Claude Mona, Cynthia Quo, Jeffrey Hembroff, Thomas Skalski, Scott Willems, Frederic Gingras, Frederic Genest, Jean-Francois Laplante, Jean-Philippe Thibault, Omar Ghannoum, David Mogilner, Jon Ciesielski, and everyone else who helped in the game testing process.</p>
+    </section>
+    <section id="BackCover">
+      <h2 class="red--text text-center">
+        Advanced Game Quick Reference
+      </h2>
+      <h3 class="text-center">
+        Sequence of Play
+      </h3>
+      <ul>
+        <li>
+          Briefing Phase
+          <ul>
+            <li>
+              <hash-link value="18">
+                Draw Card
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="18">
+                Create <resource-pool />s (Resource Points)
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="18">
+                Buy Cards for <resource-pool />s (RPs)
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="18">
+                Opponents Sell Cards for <conspiracy-pool /> (CPs)
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="18">
+                Opponents Buy Cards for <conspiracy-pool />s (CPs)
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Healing Phase
+          <ul>
+            <li>
+              <hash-link value="20">
+                Agents Recover HEALTH
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Requisition Phase
+          <ul>
+            <li>
+              <hash-link value="21">
+                Agents Obtain Equipment
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Deployment Phase
+          <ul>
+            <li>
+              <hash-link value="23">
+                Agents Assigned to Section
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Case Assignment Phase
+          <ul>
+            <li>
+              <hash-link value="24">
+                Site Card Played
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="25">
+                Assign Bluffs
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Investigation Phase
+          <ul>
+            <li>
+              <hash-link value="27">
+                Assign Agents to Sites
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="27">
+                Site(s) Investigated
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="27">
+                Resolve Bluffs
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="28">
+                Play Cards
+              </hash-link>
+            </li>
+            <li>
+              <hash-link value="37">
+                Resolve Site
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          Debriefing Phase
+          <ul>
+            <li>
+              <hash-link value="38">
+                Discard Excess Cards
+              </hash-link>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </section>
   </layout-default>
 </template>
@@ -1341,9 +2038,40 @@ export default {
     }
   },
 
+  watch: {
+    '$route.hash'(value) {
+      this.goto(value);
+    }
+  },
+
+  mounted() {
+    if (this.$route.hash) {
+      this.goto(this.$route.hash);
+    }
+  },
+
   methods: {
     drawCardByType(value) {
-      return sample(cards.filter(({ type }) => type === value));
+      return sample(cards.filter(({
+        type,
+        set
+      }) => type === value && ![
+        'Gen Con',
+        'Dream'
+      ].includes(set)));
+    },
+
+    goto(hash) {
+      const id = hash.split('#')[1];
+      const element = document.getElementById(id);
+
+      if (!element) {
+        return;
+      }
+
+      this.$nextTick(() => {
+        this.$vuetify.goTo(element);
+      });
     }
   }
 }
@@ -1370,6 +2098,12 @@ b, i {
   }
 }
 
+.v-list-item__title,
+.v-list-item__subtitle {
+  overflow: auto;
+  white-space: normal;
+}
+
 .list-style-type--lower-alpha {
   list-style-type: lower-alpha;
 }
@@ -1378,22 +2112,18 @@ b, i {
   list-style-type: lower-roman;
 }
 
-.x-file-powers {
-  td:first-child {
-    font-weight: 500;
+.credits {
+  width: 100%;
 
-    text-align: right;
+  padding-bottom: 16px;
 
-    width: 20%;
-  }
+  td {
+    padding: 4px 0;
 
-  td:nth-child(2) {
-    width: 0;
-  }
+    &:first-child {
+      text-align: right;
 
-  @media (max-width: 767px) {
-    td:last-child {
-      white-space: nowrap;
+      padding-right: 8px;
     }
   }
 }

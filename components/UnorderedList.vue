@@ -4,12 +4,12 @@
       v-for="item of items"
       :key="item.label"
     >
-      <nuxt-link
-        v-if="item.to !== undefined"
-        :to="item.to"
+      <hash-link
+        v-if="item.hash !== undefined"
+        :value="item.hash"
       >
         {{ item.label }}
-      </nuxt-link>
+      </hash-link>
       <template v-else>
         {{ item.label }}
       </template>
