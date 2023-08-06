@@ -717,7 +717,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Place two tokens on this card. Remove a token to add 1 to one Team's OBSERVATION skill check. During your Briefing Phase you may replenish all tokens for 2 RP after the last token has been removed.",
+    "gameText": "Place two tokens on this card. Remove a token to add 1 to one Team's OBSERVATION skill check once per turn. During your Briefing Phase you may replenish all tokens for 2 RP after the last token has been removed.",
     "dialogue": "[…]"
   },
   {
@@ -727,7 +727,7 @@
     "rarity": "Community",
     "episode": "Scramble, Scramble, Scramble",
     "type": "Event",
-    "cost": "4 RP",
+    "cost": "4 CP",
     "keywords": [
       "Event",
       "Government"
