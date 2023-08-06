@@ -2120,6 +2120,8 @@ b, i {
   td {
     padding: 4px 0;
 
+    vertical-align: top;
+
     &:first-child {
       text-align: right;
 
