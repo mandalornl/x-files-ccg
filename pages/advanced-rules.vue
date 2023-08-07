@@ -822,7 +822,7 @@
           </v-list-item-content>
         </v-list-item>
       </v-list>
-      <h3 class="orange--text text--darken-2 text-center">
+      <h3 class="orange--text text--darken-2">
         Motive
       </h3>
       <v-list class="mb-4">
@@ -899,7 +899,7 @@
           </v-list-item-content>
         </v-list-item>
       </v-list>
-      <h3 class="light-green--text text-center">
+      <h3 class="light-green--text">
         Result
       </h3>
       <v-list class="mb-4">
