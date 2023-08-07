@@ -321,7 +321,7 @@
         The Healing Phase
       </h2>
       <p>During this phase, Agents with damage are allowed to recover HEALTH points. Only Agents in the Hospital may heal during this phase. Healing works as follows:</p>
-      <ul class="mb-4">
+      <ul>
         <li>
           <b>Agents with a permanent HEALTH rating of 3 or less:</b><br>
           Heal 1 point of damage now.
@@ -413,7 +413,7 @@
     <section id="25">
       <h2>The Bluff</h2>
       <p>Bluff cards contain the Keyword "<b>Bluff</b>" and typically hinder an investigation. Cards with the Keyword "BLUFF" may be played in two ways.</p>
-      <ol class="mb-4">
+      <ol>
         <li>Cards with the Keyword "BLUFF" may be placed face down beneath a Site during the <b>Case Assignment</b> Phase by any player except the Investigating Player. Bluff cards played beneath a Site may be purchased for <b>1</b> <conspiracy-pool /> less then the Bluff card's stated Cost. The Cost is paid when the Site investigation is attempted. A Cost can never be less than 0. You cannot gain tokens as a result of playing a Bluff card with 0 Cost.</li>
         <li>Cards with the Keyword "BLUFF" may be played as normal Conspiracy cards at full Cost.</li>
       </ol>
@@ -461,7 +461,7 @@
         <b>Skill Check Subroutine</b><br>
         Whenever a Skill Check is initiated, perform a Skill Check Subroutine. The Skill Check Subroutine proceeds as follows:
       </p>
-      <ol class="list-style-type--lower-alpha mb-4">
+      <ol class="list-style-type--lower-alpha">
         <li>Announce to your opponent the Skill being used, the amount needed, and the Skill level currently possessed by the Agent Team.</li>
         <li>Each Player may pay for and play cards.</li>
       </ol>
@@ -476,7 +476,7 @@
     <section id="29">
       <ol
         start="3"
-        class="list-style-type--lower-alpha mb-4"
+        class="list-style-type--lower-alpha"
       >
         <li>Resolve the Skill Check.</li>
       </ol>
@@ -662,7 +662,7 @@
       <p>The following rules were designed to add fun and intrigue into <b>The X-Files CCG</b> experience. They are not part of the official rules and you may choose to play with any or all of them as desired. In order to use an optional rule, both players must agree. If either player objects, an optional rule may not be used.</p>
       <h2>Game Play and Deck Construction</h2>
       <p>The following two optional rules are designed to make game outcome more centered around game play and deck construction . Both may be used together or separately. These are:</p>
-      <ol class="mb-4">
+      <ol>
         <li>Upon successfully investigating a Site card, the Investigating Player may ask a Characteristic Question <b>OR</b> quest the opponent's X-File identity…not both.</li>
         <li>A player has only ONE chance to guess the opponent's X-File identity per game. If an incorrect guess is made, your opponent automatically wins.</li>
       </ol>
@@ -1023,7 +1023,7 @@
       <h2>The Nine Different Suits</h2>
       <p>The X-Files cards are divided into nine basic suits based on how the card is used in the game. Before going further, it is important to note that many cards will appear to "break" rules defined in the Basic or Advanced Game. When any contradiction arises between card effects and rules, the card effect supersedes the rules. Most of the information contained on a card is common to all cards.</p>
       <p>Common Information on All Cards</p>
-      <ol class="mb-4">
+      <ol>
         <li>The <b>Name</b> of the card.</li>
         <li>The <b>Card Type</b>: Indicates the card's function within the game.</li>
         <li>The <b>Advanced Indicator</b>: If there is a yellow-green "X" here, it denotes that the card is used only in the Advanced Game.</li>
@@ -1143,7 +1143,7 @@
     <section id="55">
       <h2>Adversary Cards</h2>
       <p>Adversary cards hinder opposing Agents by engaging them in Combat. Each card will note when it may be played. These cards contain the common information listed on page <hash-link value="48" /> and the following additional information.</p>
-      <ol class="mb-4">
+      <ol>
         <li>The<b>Adversary's statistics:</b> Tells the <b>HEALTH</b>, <b>LRC</b>, and <b>CRC</b> of this Adversary.</li>
       </ol>
       <v-alert
@@ -1163,7 +1163,7 @@
     <section id="56">
       <h2>Site Cards</h2>
       <p>Site Cards form the basis of your investigation. Note that some Site cards have two questions and Skills that you may choose between while others have only one. These cards contain the common information listed on page <hash-link value="48" /> and the following additional information.</p>
-      <ol class="mb-4">
+      <ol>
         <li>The <b>Site PREREQUISITE</b>: Each Site will list a Prerequisite that must be met in order to use the Site card effectively. In most cases this will be a Skill followed by a number. The number is the level of Skill the Agents in the field must obtain to use the card.</li>
         <li>The <b>QUESTION</b>: The type of question you may ask your opponent regarding the X-File they have chosen for this game. In order to ask the question, your investigating Team must meet the card's Prerequisite.</li>
       </ol>
@@ -1184,7 +1184,7 @@
     <section id="57">
       <h2>Agent Cards</h2>
       <p>Agents are the nemesis of the X-File. While X-Files attempt to maintain their secrecy, the Agents are trying to identify them. These cards contain the common information listed on page <hash-link value="48" />, with the exception that Agent cards do not have Activators. Agent cards also contain the following additional information.</p>
-      <ol class="mb-4">
+      <ol>
         <li>The <b>Agent's list of SKILLS</b>: These are each Agent's unique abilities. One skill is Criminal Investigation, a composite of many basic skills an Agent learned while at the FBI Academy.</li>
         <li>The <b>Agent's HEALTH</b>: The statistic that determines how much damage each Agent can sustain before being Hospitalized.</li>
         <li>The <b>Resource Number (RES)</b>: The number of point an Agent can contribute to the Resource Pool during the Briefing Phase.</li>
@@ -1207,7 +1207,7 @@
       <h2>X-File Cards</h2>
       <p>The X-File card represents the power behind each conspiracy. It is up to your Team of investigators to determine who or what the X-File is during the course of the game. An X-File card contains unique information from the other suits which is highlighted on the next few pages.</p>
       <p>An X-File card contains the following information.</p>
-      <ol class="mb-4">
+      <ol>
         <li>The <b>Name</b> of the X-File</li>
         <li>The X-File's <b>AFFILIATION</b>: Each X-File has a specific Classification.</li>
         <li>The X-File's <b>MOTIVE</b>: Each X-File is driven to do what it does for a reason.</li>
@@ -2084,6 +2084,14 @@ section {
 
 b, i {
   color: var(--v-primary-base);
+}
+
+ol, ul {
+  margin-bottom: 16px;
+
+  ol, ul {
+    margin-bottom: 0;
+  }
 }
 
 .v-alert.v-alert--text {
