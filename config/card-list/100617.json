@@ -774,7 +774,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Place this Witness in the Field. Once during your Briefing Phase look at the top card of your Bureau Deck. You may put that card on the bottom of your Bureau Deck.",
+    "gameText": "Once during your Briefing Phase look at the top card of your Bureau Deck. You may put that card on the bottom of your Bureau Deck.",
     "dialogue": "[…]"
   }
 ]
