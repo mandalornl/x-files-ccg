@@ -29,7 +29,7 @@
       <h3>Advanced Game Set-up continued…</h3>
       <p>In the Advanced Game, you may choose any number of Agents you like for your initial <b>Team</b>, provided there are no duplicates and the sum of all Agents' Costs does not exceed 20.The Agent's Cost is a rating relative to each Agent's game value and appears in the lower right corner of the Agent card. Your Team should be a minimum of three Agents, but can be more. Each player is allowed to have the same Agent.</p>
       <p>Each player divides the surface area they are playing on into three sections: the <b>Bureau</b>, the <b>Fields</b> and the <b>Hospital</b>. Your Agents begin the game in the Bureau section.</p>
-      <p>Create a <b>Discard Pile</b> face-up next to your Bureau Deck when it becomes necessary. This will be used for discarding excess cards and cards you have used. Should the Bureau Deck ever run out of cards, shuffle your Discard Pile to recreate the Bureau Deck and  cotinue play.</p>
+      <p>Create a <b>Discard Pile</b> face-up next to your Bureau Deck when it becomes necessary. This will be used for discarding excess cards and cards you have used. Should the Bureau Deck ever run out of cards, shuffle your Discard Pile to recreate the Bureau Deck and continue play.</p>
       <p><b>The X-Files Notebook</b> and <b>tokens</b> will also be needed for the Advanced Game. The Notebook is a checklist used to track information about your opponent's X-File(s). Tokens will be used to track certain information</p>
       <p class="mb-0">
         <b>Advanced Game Set-up Summary</b>:
@@ -67,7 +67,7 @@
     </section>
     <section id="8">
       <h2>The X-Files Advanced Game Turn Sequence</h2>
-      <p>The player whoes turn it is will be referred to as the <b>Investigating (Active) Player</b>. Other players are referred to as the <b>Directed Player</b> (if they have a <b>Site</b> directed at them by the Investigating Player), or <b>Non-active Player</b> (everyone else in a multi-player game).</p>
+      <p>The player whose turn it is will be referred to as the <b>Investigating (Active) Player</b>. Other players are referred to as the <b>Directed Player</b> (if they have a <b>Site</b> directed at them by the Investigating Player), or <b>Non-active Player</b> (everyone else in a multi-player game).</p>
       <ol>
         <li>
           <b>Briefing Phase</b>
@@ -123,7 +123,7 @@
                 <li>Repeat CLOSE RANGE COMBAT rounds until the Adversary is killed or all Agents are sent to the Hospital.</li>
               </ol>
             </li>
-            <li>If the Agents succesfully meet the Site Prerequisite after completing the Skill Check Subroutine, they may ask the Directed Player a question and/or quess their X-File identity.</li>
+            <li>If the Agents successfully meet the Site Prerequisite after completing the Skill Check Subroutine, they may ask the Directed Player a question and/or guess their X-File identity.</li>
           </ol>
         </li>
         <li>
@@ -218,8 +218,8 @@
       <p>Each player's X-File also has a pool used to purchase cards played. This is called the <b>Conspiracy Pool</b>. Your Conspiracy Pool represents the resources your X-File has at its disposal. Conspiracy Points are used to pay for cards used by the X-File to oppose investigations. These cards have a <conspiracy-pool /> or <star-pool /> under their cost.</p>
       <p>Replenishment of the Conspiracy Pool happens primarily during the opposing player's turn. When the Investigating Player has finished creating <resource-pool />s and buying cards during the Briefing Phase, all players other than the Investigating Player have the following options:</p>
       <ol>
-        <li>The player to the Investigating Player's left may choose to discard cards from their hand with an <resource-pool /> or <star-pool /> Cost and add this number of <conspiracy-pool />s to their Conspiracy Pool. Thus, a card with <b>3</b> <conspiracy-pool /> Cost could be discarded in exchange for <b>3</b><conspiracy-pool />s.</li>
-        <li>After the player has completed turning in cards, they may buy cards. Cards may be purchased for <b>1</b><conspiracy-pool /> each. Purchased cards are always taken from the top of the Bureau Deck. Regardless of how many cards are bought, any player's hand may not exceed seven cards (but can be less) at the end of a turn.</li>
+        <li>The player to the Investigating Player's left may choose to discard cards from their hand with an <resource-pool /> or <star-pool /> Cost and add this number of <conspiracy-pool />s to their Conspiracy Pool. Thus, a card with <b>3</b> <conspiracy-pool /> Cost could be discarded in exchange for <b>3</b> <conspiracy-pool />s.</li>
+        <li>After the player has completed turning in cards, they may buy cards. Cards may be purchased for <b>1</b> <conspiracy-pool /> each. Purchased cards are always taken from the top of the Bureau Deck. Regardless of how many cards are bought, any player's hand may not exceed seven cards (but can be less) at the end of a turn.</li>
       </ol>
       <p>In a multi-player game, continue to each player's left until all players have had these options.</p>
       <v-alert type="info">
@@ -254,7 +254,7 @@
       <p>Cards with a <conspiracy-pool /> Cost may only be paid for by the <b>Conspiracy</b>.</p>
       <p>Cards with a <star-pool /> may be used by either force -- however, whichever force uses it must pay for it. See the <b>Pools</b> section on page <hash-link value="10" /> for further information.</p>
       <p>If a card has multiple effects, indicated by the phrase "Alternately" appearing on the card, the owning player must specify which effect is being used upon playing the card. They may not change to the other effect later.</p>
-      <p>In addition, all cards contain <b>Keywords</b> and <b>Activators</b>. These often serve as codes indicating when cards may be playerd. See the <b>Keywords</b> section on page <hash-link value="17" /> and the <b>Activators</b> section on page <hash-link value="16" /> for further information.</p>
+      <p>In addition, all cards contain <b>Keywords</b> and <b>Activators</b>. These often serve as codes indicating when cards may be played. See the <b>Keywords</b> section on page <hash-link value="17" /> and the <b>Activators</b> section on page <hash-link value="16" /> for further information.</p>
       <p class="text-center">
         14
       </p>
@@ -282,7 +282,7 @@
     </section>
     <section id="16">
       <h2>Activators</h2>
-      <p>Activators appear in gold in the lower left corner on a particular card. Simply stated, an Activator tells you when you may play a particular card. Acticators can be grouped into three main categories:</p>
+      <p>Activators appear in gold in the lower left corner on a particular card. Simply stated, an Activator tells you when you may play a particular card. Activators can be grouped into three main categories:</p>
       <p><b>ACTIVE</b>: May be played while you are the Investigating Player. You may play these cards when it is your turn.</p>
       <p><b>CONSPIRACY</b>: May be played when your are not the Investigating Player. You may play these cards during another player's turn.</p>
       <p><b>All other Activator Words</b>: May be played only in certain circumstances. The Activator tells you where or when a card may be played or what type of card currently in use a card may be played on. Refer to the Keyword on the card in play to determine if you may play your card.</p>
@@ -337,7 +337,7 @@
         </p>
         <p>{{ playerOne }} consults his "Townsend, WI" Site card. He discovers the Keywords "<b>SITE</b>", "<b>MULTI</b>", "<b>MOTIVE</b>", "<b>RESULT</b>", "<b>ALIEN INVESTIGATION</b>" and "<b>BUREAUCRACY</b>". From this, {{ playerOne }} determines that the card is a Site with multiple Skills and questions. The Skills which can be used are Alien Investigation or Bureaucracy and the question hey may ask upon a successful investigation is either a RESULT or MOTIVE question.</p>
       </v-alert>
-      <p>There are serveral cards which change another card's Keywords. When this occurs, only the Keyword is changed. The rest of the card remains unchanged.</p>
+      <p>There are several cards which change another card's Keywords. When this occurs, only the Keyword is changed. The rest of the card remains unchanged.</p>
       <h2>Resources</h2>
       <p>One particular Keyword worth special mentions is "<b>RESOURCE</b>". The Keyword RESOURCE will appear on certain cards. A card with the Keyword "RESOURCE" remains in play in the table section stated by the Keyword on the card. If no table section is indicated on the card, place the card face up in your Bureau section. These cards remain in play until they are negated or the criteria for their removal (if listed on the Resource card) is met. When this occurs, the card is moved to your Discard Pile.</p>
       <p class="text-center">
@@ -363,7 +363,7 @@
         text
         color="info"
       >
-        <p>{{ playerOne }} begins his turn with the Briefing Phase. He draws one card as a "free" draw. He uses his Agents' Resource (RES) numbers to create <resource-pool />s. Scully and Mulder both have a RES number of 2 and Kosseff and Lamana both have the RES numner 1. {{ playerOne }} would add all six tokens to his Resource Pool, however Mulder's Game Effect is that the <resource-pool />s he generates must be used to purchase cards. Therefore, {{ playerOne }} spends <b>2</b> <resource-pool />s and draws two cards. He could have chose to purchase more if desired. {{ playerOne }} has ten cards in his hand and nine tokens in his Resource Pool.</p>
+        <p>{{ playerOne }} begins his turn with the Briefing Phase. He draws one card as a "free" draw. He uses his Agents' Resource (RES) numbers to create <resource-pool />s. Scully and Mulder both have a RES number of 2 and Kosseff and Lamana both have the RES number 1. {{ playerOne }} would add all six tokens to his Resource Pool, however Mulder's Game Effect is that the <resource-pool />s he generates must be used to purchase cards. Therefore, {{ playerOne }} spends <b>2</b> <resource-pool />s and draws two cards. He could have chose to purchase more if desired. {{ playerOne }} has ten cards in his hand and nine tokens in his Resource Pool.</p>
         <p>{{ playerTwo }} now has the chance to gain <conspiracy-pool />s. {{ playerTwo }} may exchange cards with an <resource-pool /> or <star-pool /> value for an equal number of <conspiracy-pool />s. {{ playerTwo }} trades in a Shotgun Equipment card, a Deep Throat Event card, and an Ambush Combat card. The Shotgun card has a <resource-pool /> Cost of <b>6</b>, the Deep Throat card <b>5</b> and the Ambush card <b>2</b>. {{ playerTwo }} adds <b>13</b> <conspiracy-pool /> to his Conspiracy Pool. {{ playerTwo }} now has <b>18</b> <conspiracy-pool /> in his Conspiracy Pool. {{ playerTwo }} purchases 2 cards from the top of his Bureau Deck for <b>1</b> <conspiracy-pool /> each. {{ playerTwo }} has <b>16</b> <conspiracy-pool /> in his Conspiracy Pool after purchasing cards.</p>
       </v-alert>
       <p class="text-center">
@@ -467,7 +467,7 @@
       <p>During the Deployment Phase, each FBI Agent is sent to the location where they will be carrying out actions. All Agents may be moved to the desired location; the <b>Bureau</b>, the <b>Field</b> or the <b>Hospital</b>. An Agent in the Hospital who is not eligible to leave may not be moved.</p>
       <p>Agents must be in the Field in order to participate in a Site Investigation during the <b>Investigation Phase</b>.</p>
       <h2>Teams</h2>
-      <p>During this phase, you may designate new <b>Agent Teams</b>. An Agent Team is simply a group of one or more Agents. This group may be any numner. You may designate more than one Team in the same Section if you choose. One instance where you would designate more than one Team in the same Section would be if you wanted to investigate two Sites in one turn. In this instance, you would create two Teams in the Field section. You will also have the oppertunity to designate new Teams in the Field Section at the beginning of the Investigation Phase. Any single Agent may not be part of more than one Team at a time. If new Teams are not designated, it is assumed that the most recent Team designations still apply.</p>
+      <p>During this phase, you may designate new <b>Agent Teams</b>. An Agent Team is simply a group of one or more Agents. This group may be any number. You may designate more than one Team in the same Section if you choose. One instance where you would designate more than one Team in the same Section would be if you wanted to investigate two Sites in one turn. In this instance, you would create two Teams in the Field section. You will also have the opportunity to designate new Teams in the Field Section at the beginning of the Investigation Phase. Any single Agent may not be part of more than one Team at a time. If new Teams are not designated, it is assumed that the most recent Team designations still apply.</p>
       <p class="text-center">
         23
       </p>
@@ -518,7 +518,7 @@
         The Investigation Phase
       </h2>
       <p>The Investigating Player must allocate all Agents currently in the Field to the Site(s) they plan to investigate. The Investigating Player does not have to investigate a Site card. New Teams may now be formed in the Field section only. See the <b>Deployment Phase</b> rules on page <hash-link value="23" /> for more information on forming Agent Teams.</p>
-      <p>Generally, Agents may not participate in more than one Site investigation per turn. An Agent does not necessarily have to participate in any investigations whil in the Field. Often the player will choose to investigate only one Site, however multiple or no Sites are permissible.</p>
+      <p>Generally, Agents may not participate in more than one Site investigation per turn. An Agent does not necessarily have to participate in any investigations while in the Field. Often the player will choose to investigate only one Site, however multiple or no Sites are permissible.</p>
       <p>Each Site investigated is resolved separately. If more than one Site is being investigated, the Investigating Player chooses the resolution order.</p>
       <p>Begin a Skill Check Subroutine for the Site Prerequisite. See the <b>Skill Check Subroutine</b> section of these rules on the following page for further information.</p>
       <v-alert type="info">
@@ -668,7 +668,7 @@
       <h2 class="red--text">
         Site Resolution
       </h2>
-      <p>If the investigating Agent Team still successfully meets the Site prerequisite after all cards have been played and resolved, they may ask the Directed Player a specific X-File Characteristic question as stated on the Site card. The opposing player must be able to answer this question with either a "yes" or a "no" answer. The Investigating Player may also choose to quess the opponent's X-File identity as well. If the identity quess is correct, the Investigating Player has won the game. If the guess is incorrect, a penalty is asessed. The penalty is that the player whose X-File was incorrectly identified may now ask a question of the Investigating Player. This question may be a specific characteristic question as indicated on the Site card just solved, or a guess of the Investigating Player's X-File identity. If the player guesses incorrectly, there is not penalty. After all questions have been asked, the Site card is moved to the Discard Pile.</p>
+      <p>If the investigating Agent Team still successfully meets the Site prerequisite after all cards have been played and resolved, they may ask the Directed Player a specific X-File Characteristic question as stated on the Site card. The opposing player must be able to answer this question with either a "yes" or a "no" answer. The Investigating Player may also choose to guess the opponent's X-File identity as well. If the identity guess is correct, the Investigating Player has won the game. If the guess is incorrect, a penalty is assessed. The penalty is that the player whose X-File was incorrectly identified may now ask a question of the Investigating Player. This question may be a specific characteristic question as indicated on the Site card just solved, or a guess of the Investigating Player's X-File identity. If the player guesses incorrectly, there is not penalty. After all questions have been asked, the Site card is moved to the Discard Pile.</p>
       <p>Examples of appropriate questions are: <i>"Is your X-File's AFFILIATION Alien?"</i>, <i>"Is your X-File's METHOD Violence?"</i> or <i>"Is your X-File's RESULT Death?"</i> You may not ask questions like <i>"What is your AFFILIATION?"</i> or <i>"Is your AFFILIATION six letters or less?"</i></p>
       <p>If the Site Prerequisite has not been met, the Site card is placed on the Discard Pile. After all investigated Sites have been resolved, any remaining Sites with no Bluffs under them are moved to the Discard Pile. Any remaining Sites with Bluffs under them remain in the Field section until they are investigated during a later turn or the game ends. Sites may only be investigated by the player who played the Site.</p>
       <p>If a player chooses not to investigate any Sites for a particular turn, all players may still pay for and play any applicable cards.</p>
@@ -692,7 +692,7 @@
         text
         color="info"
       >
-        <p>{{ playerOne }} now only has Agent Mulder left with BEHAVIORAL skill 3. The "Aubrey, MO" Site card has a Prerequisite of BEHAVIORAL 4+. {{ playerOne }} now pays 2 <resource-pool /> for the Witness card "Dr. Sheila Braun" which adds 2 to one Behavioral Skill Check. {{ playerOne }} now has 0 <resource-pool /> in his Resource Pool. {{ playerOne }} is out of <resource-pool /> and {{ playerTwo }} is out of <conspiracy-pool /> so both players may not play any more cards. {{ playerOne }}'s Agents have a BEHAVIORAL Skill Level of 5 (Mulder 3, Witness cards 2) and sucessfully meet the Site Prerequiresite of BEHAVIORAL 4+. The "Aubrey, MO" card allows {{ playerOne }} to ask one MOTIVE question. {{ playerOne }} asks {{ playerTwo }} if his X-File's MOTIVE is SURVIVAL. The answer is NO and game play continues. {{ playerOne }} chooses not to guess {{ playerTwo }}'s X-File identity at this time.</p>
+        <p>{{ playerOne }} now only has Agent Mulder left with BEHAVIORAL skill 3. The "Aubrey, MO" Site card has a Prerequisite of BEHAVIORAL 4+. {{ playerOne }} now pays 2 <resource-pool /> for the Witness card "Dr. Sheila Braun" which adds 2 to one Behavioral Skill Check. {{ playerOne }} now has 0 <resource-pool /> in his Resource Pool. {{ playerOne }} is out of <resource-pool /> and {{ playerTwo }} is out of <conspiracy-pool /> so both players may not play any more cards. {{ playerOne }}'s Agents have a BEHAVIORAL Skill Level of 5 (Mulder 3, Witness cards 2) and successfully meet the Site Prerequisite of BEHAVIORAL 4+. The "Aubrey, MO" card allows {{ playerOne }} to ask one MOTIVE question. {{ playerOne }} asks {{ playerTwo }} if his X-File's MOTIVE is SURVIVAL. The answer is NO and game play continues. {{ playerOne }} chooses not to guess {{ playerTwo }}'s X-File identity at this time.</p>
         <p>It is now time for the Debriefing Phase. Since {{ playerOne }} and {{ playerTwo }} both have five cards left, neither player needs to discard any cards. {{ playerOne }}'s turn is completed and it is now {{ playerTwo }}'s turn.</p>
       </v-alert>
       <p class="text-center">
@@ -1061,7 +1061,7 @@
     </section>
     <section id="47">
       <p><b>Cards that hinder your opponent</b>: These cards include Events, Adversaries, Bluffs and Combat Cards. Again, you will probably want to include more Events than any other card type. Adversaries affect opponents by inflicting damage during Combat and sending them to the Hospital where they cannot contribute to a Skill Check. Bluffs normally subtract from a Skill Check outright. At this point, you will likely need to decide the main way that you want to hinder your opponent. This can be through Adversary of Bluff cards. Whichever you choose, you will likely want more of these than the other. Combat cards can be used to increase the power of Adversaries.</p>
-      <p>The final consideration is the Cost to play your cards. It is not wise to have many powerfull cards if you cannot afford to play them. The proper combination of more expansive cards and less expansive cards will prove to be the most effective.</p>
+      <p>The final consideration is the Cost to play your cards. It is not wise to have many powerful cards if you cannot afford to play them. The proper combination of more expansive cards and less expansive cards will prove to be the most effective.</p>
       <h3>Sample Deck Quantities, by Suit (60 total):</h3>
       <v-simple-table class="mb-4">
         <tbody>
