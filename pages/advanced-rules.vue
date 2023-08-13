@@ -171,17 +171,17 @@
         <p class="mx-n1 d-flex justify-center">
           <card-image
             :card="resourceCard"
-            max-width="128"
+            :max-width="threeCardWidth"
             class="mx-1"
           />
           <card-image
             :card="conspiracyCard"
-            max-width="128"
+            :max-width="threeCardWidth"
             class="mx-1"
           />
           <card-image
             :card="starPowerCard"
-            max-width="128"
+            :max-width="threeCardWidth"
             class="mx-1"
           />
         </p>
@@ -296,12 +296,18 @@
         color="info"
         class="text-center"
       >
-        <card-image
-          :card="equipmentCard"
-          max-width="256"
-          class="mx-auto transform--rotate-90"
-        />
-        An example of a card's Activators.
+        <v-item-group>
+          <v-item v-slot="{ active, toggle }">
+            <div @click="toggle">
+              <card-image
+                :card="equipmentCard"
+                max-width="256"
+                :class="[ 'mx-auto transition-transform', { 'transform--rotate-90': active } ]"
+              />
+            </div>
+          </v-item>
+        </v-item-group>
+        An example of a card's Activators (click to rotate).
       </v-alert>
       <p class="text-center">
         16
@@ -315,12 +321,21 @@
         text
         color="info"
       >
-        <card-image
-          :card="townsendWI"
-          max-width="256"
-          class="mx-auto transform--rotate-90"
-        />
-        {{ playerOne }} consults his "Townsend, WI" Site card. He discovers the Keywords "<b>SITE</b>", "<b>MULTI</b>", "<b>MOTIVE</b>", "<b>RESULT</b>", "<b>ALIEN INVESTIGATION</b>" and "<b>BUREAUCRACY</b>". From this, {{ playerOne }} determines that the card is a Site with multiple Skills and questions. The Skills which can be used are Alien Investigation or Bureaucracy and the question hey may ask upon a successful investigation is either a RESULT or MOTIVE question.
+        <v-item-group>
+          <v-item v-slot="{ active, toggle }">
+            <div @click="toggle">
+              <card-image
+                :card="townsendWI"
+                max-width="256"
+                :class="[ 'mx-auto transition-transform', { 'transform--rotate-90': active } ]"
+              />
+            </div>
+          </v-item>
+        </v-item-group>
+        <p class="text-center">
+          (click to rotate)
+        </p>
+        <p>{{ playerOne }} consults his "Townsend, WI" Site card. He discovers the Keywords "<b>SITE</b>", "<b>MULTI</b>", "<b>MOTIVE</b>", "<b>RESULT</b>", "<b>ALIEN INVESTIGATION</b>" and "<b>BUREAUCRACY</b>". From this, {{ playerOne }} determines that the card is a Site with multiple Skills and questions. The Skills which can be used are Alien Investigation or Bureaucracy and the question hey may ask upon a successful investigation is either a RESULT or MOTIVE question.</p>
       </v-alert>
       <p>There are serveral cards which change another card's Keywords. When this occurs, only the Keyword is changed. The rest of the card remains unchanged.</p>
       <h2>Resources</h2>
@@ -411,17 +426,17 @@
         <div class="mx-n1 d-flex justify-center">
           <card-image
             :card="glock19Card"
-            max-width="128"
+            :max-width="threeCardWidth"
             class="mx-1"
           />
           <card-image
             :card="scullyCard"
-            max-width="128"
+            :max-width="threeCardWidth"
             class="mx-1"
           />
           <card-image
             :card="shotgunCard"
-            max-width="128"
+            :max-width="threeCardWidth"
             class="mx-1"
           />
         </div>
@@ -2124,6 +2139,18 @@ export default {
 
     shotgunCard() {
       return this.findCardById('XF96-0329v1');
+    },
+
+    threeCardWidth() {
+      if (this.$vuetify.breakpoint.xsOnly) {
+        return 112;
+      }
+
+      if (this.$vuetify.breakpoint.smOnly) {
+        return 192;
+      }
+
+      return 256;
     }
   },
 
@@ -2239,6 +2266,10 @@ ol, ul {
       padding-right: 8px;
     }
   }
+}
+
+.transition-transform {
+  transition: transform .2s ease-out;
 }
 
 .transform--rotate-90 {
