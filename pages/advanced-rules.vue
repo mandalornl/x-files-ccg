@@ -48,7 +48,19 @@
     </section>
     <section id="7">
       <h2>Advanced Game Table Diagram</h2>
-      <p>[[IMAGE]]</p>
+      <v-alert
+        text
+        color="info"
+        class="text-center"
+      >
+        <v-img
+          src="images/advanced-game-table-diagram.jpg"
+          alt="Advanced Game Table Diagram"
+          width="286"
+          height="374"
+          class="mx-auto"
+        />
+      </v-alert>
       <p class="text-center">
         7
       </p>
@@ -156,8 +168,22 @@
         color="info"
         class="text-center"
       >
-        <p>
-          [[IMAGE]] [[IMAGE]] [[IMAGE]]
+        <p class="mx-n1 d-flex justify-center">
+          <card-image
+            :card="resourceCard"
+            max-width="128"
+            class="mx-1"
+          />
+          <card-image
+            :card="conspiracyCard"
+            max-width="128"
+            class="mx-1"
+          />
+          <card-image
+            :card="starPowerCard"
+            max-width="128"
+            class="mx-1"
+          />
         </p>
         <p>Examples of <resource-pool /> (RP), <conspiracy-pool /> (CP) and <star-pool /> (*P) cost icons as seen on cards.</p>
       </v-alert>
@@ -174,7 +200,12 @@
         color="info"
         class="text-center"
       >
-        An example of an Agent card's RES Number. [[IMAGE]]
+        <card-image
+          :card="agentCard"
+          max-width="256"
+          class="mx-auto"
+        />
+        An example of an Agent card's RES Number.
       </v-alert>
       <p>Add up all Agent's RES numbers. This is the number of tokens that may be added to the Resource Pool at the beginning of your turn. Agents in the Hospital during the Briefing Phase do not contribute their RES number to create <resource-pool />s. After adding the <resource-pool />s to your pool, you may then purchase cards. Each card costs <b>1</b> <resource-pool />. Purchased cards are always taken from the top of the Bureau Deck. All cards must be purchased ar once. A player may not purchase cards and then decide to purchase more after looking at the cards purchased. Regardless of how many cards are bought, no player's hand may exceed seven cards (but can be less) at the end of a turn.</p>
       <p>To keep the Resource Pool and Conspiracy Pool separate, we suggest putting the Resource Pool in the Bureau and the Conspiracy Pool by your X-File card.</p>
@@ -265,7 +296,12 @@
         color="info"
         class="text-center"
       >
-        [[IMAGE]] An example of a card's Activators.
+        <card-image
+          :card="equipmentCard"
+          max-width="256"
+          class="mx-auto transform--rotate-90"
+        />
+        An example of a card's Activators.
       </v-alert>
       <p class="text-center">
         16
@@ -279,7 +315,11 @@
         text
         color="info"
       >
-        [[IMAGE]]<br>
+        <card-image
+          :card="townsendWI"
+          max-width="256"
+          class="mx-auto transform--rotate-90"
+        />
         {{ playerOne }} consults his "Townsend, WI" Site card. He discovers the Keywords "<b>SITE</b>", "<b>MULTI</b>", "<b>MOTIVE</b>", "<b>RESULT</b>", "<b>ALIEN INVESTIGATION</b>" and "<b>BUREAUCRACY</b>". From this, {{ playerOne }} determines that the card is a Site with multiple Skills and questions. The Skills which can be used are Alien Investigation or Bureaucracy and the question hey may ask upon a successful investigation is either a RESULT or MOTIVE question.
       </v-alert>
       <p>There are serveral cards which change another card's Keywords. When this occurs, only the Keyword is changed. The rest of the card remains unchanged.</p>
@@ -339,7 +379,12 @@
         color="info"
         class="text-center"
       >
-        [[IMAGE]] A typical Agent HEALTH Rating.
+        <card-image
+          :card="agentCard"
+          max-width="256"
+          class="mx-auto"
+        />
+        A typical Agent HEALTH Rating.
       </v-alert>
       <p class="text-center">
         20
@@ -363,7 +408,23 @@
         color="info"
         class="text-center"
       >
-        [[IMAGE]]
+        <div class="mx-n1 d-flex justify-center">
+          <card-image
+            :card="glock19Card"
+            max-width="128"
+            class="mx-1"
+          />
+          <card-image
+            :card="scullyCard"
+            max-width="128"
+            class="mx-1"
+          />
+          <card-image
+            :card="shotgunCard"
+            max-width="128"
+            class="mx-1"
+          />
+        </div>
       </v-alert>
       <p class="text-center">
         21
@@ -2035,6 +2096,34 @@ export default {
 
     xFileCard() {
       return this.drawCardByType('X-File');
+    },
+
+    resourceCard() {
+      return this.drawCardByCostType('RP');
+    },
+
+    conspiracyCard() {
+      return this.drawCardByCostType('CP');
+    },
+
+    starPowerCard() {
+      return this.drawCardByCostType('*P');
+    },
+
+    townsendWI() {
+      return this.findCardById('XF96-0067v1');
+    },
+
+    glock19Card() {
+      return this.findCardById('XF96-0317v1');
+    },
+
+    scullyCard() {
+      return this.findCardById('XF96-0172v1');
+    },
+
+    shotgunCard() {
+      return this.findCardById('XF96-0329v1');
     }
   },
 
@@ -2059,6 +2148,20 @@ export default {
         'Gen Con',
         'Dream'
       ].includes(set)));
+    },
+
+    drawCardByCostType(value) {
+      return sample(cards.filter(({
+        cost,
+        set
+      }) => cost?.endsWith?.(value) && ![
+        'Gen Con',
+        'Dream'
+      ].includes(set)));
+    },
+
+    findCardById(value) {
+      return cards.find(({ id }) => id === value)
     },
 
     goto(hash) {
@@ -2136,5 +2239,9 @@ ol, ul {
       padding-right: 8px;
     }
   }
+}
+
+.transform--rotate-90 {
+  transform: rotate(90deg);
 }
 </style>

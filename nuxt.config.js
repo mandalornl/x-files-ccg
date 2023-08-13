@@ -27,7 +27,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
       { hid: 'og:title', property: 'og:title', content: 'The X-Files CCG' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:image', property: 'og:image', content: `${baseUrl}og-1200x630.png` },
+      { hid: 'og:image', property: 'og:image', content: `${baseUrl}images/og-1200x630.png` },
       { hid: 'og:image:width', property: 'og:image:width', content: 1200 },
       { hid: 'og:image:height', property: 'og:image:height', content: 630 }
     ],

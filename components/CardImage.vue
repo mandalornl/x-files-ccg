@@ -5,7 +5,7 @@
     :aspect-ratio="5/7"
     :max-width="maxWidth"
     lazy-src="images/back.jpg"
-    class="rounded grey darken-3"
+    class="rounded"
   >
     <slot />
   </v-img>

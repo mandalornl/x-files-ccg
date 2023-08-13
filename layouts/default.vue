@@ -110,6 +110,11 @@ export default {
         icon: 'mdi-cube-outline'
       },
       {
+        to: '/advanced-rules',
+        label: 'Advanced Rules',
+        icon: 'mdi-book-open-variant'
+      },
+      {
         to: '/faq',
         label: 'FAQ',
         icon: 'mdi-help-circle'
@@ -118,11 +123,6 @@ export default {
         to: '/downloads',
         label: 'Downloads',
         icon: 'mdi-archive'
-      },
-      {
-        to: '/advanced-rules',
-        label: 'Advanced Rules',
-        icon: 'mdi-book-open-variant'
       }
     ],
     showToTop: false
