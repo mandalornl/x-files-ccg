@@ -670,7 +670,7 @@
     "rarity": "Community",
     "episode": "Scramble, Scramble, Scramble",
     "type": "Bluff",
-    "cost": "3 CP",
+    "cost": "8 CP",
     "keywords": [
       "Bluff",
       "Government"
@@ -679,7 +679,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play to negate one Keyword ALIEN INVESTIGATION card.",
+    "gameText": "Force the investigating Team back to the Bureau immediately. The Team may not contribute to any skill checks this turn. If one of the Agents has an \"Uniden Bearcat UBC-125XLT\", this card has no effect.",
     "dialogue": "[…]"
   },
   {
