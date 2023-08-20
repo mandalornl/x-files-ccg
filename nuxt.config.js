@@ -4,7 +4,7 @@ const metaDescription = 'Is an out-of-print collectible card game based on The X
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: true,
+  ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -31,9 +31,9 @@ export default {
       { hid: 'description', name: 'description', content: metaDescription },
       { name: 'format-detection', content: 'telephone=no' },
       { hid: 'og:title', property: 'og:title', content: 'The X-Files CCG' },
-      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:description', property: 'og:description', content: metaDescription },
       { hid: 'og:image', property: 'og:image', content: `${baseUrl}/images/og-1200x630.png` },
-      { hid: 'og:description', property: 'og:description', content: metaDescription }
+      { hid: 'og:type', property: 'og:type', content: 'website' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }
@@ -71,10 +71,5 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  },
-
-  // Generate Configuration: https://v2.nuxt.com/docs/configuration-glossary/configuration-generate
-  generate: {
-    fallback: true
   }
 }

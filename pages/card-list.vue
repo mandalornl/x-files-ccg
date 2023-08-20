@@ -280,12 +280,9 @@ export default {
     };
   },
 
-  head() {
-    return {
-      title: 'Card List',
-      meta: this.getMeta()
-    };
-  },
+  head: () => ({
+    title: 'Card List'
+  }),
 
   computed: {
     items() {
@@ -507,25 +504,6 @@ export default {
       const input = event.target.closest('.v-input').querySelector('input');
 
       this.search = input?.value ?? '';
-    },
-
-    getMeta() {
-      if (!this.selectedCard) {
-        return [];
-      }
-
-      const { route } = this.$router.resolve({
-        query: {
-          id: this.selectedCard.id
-        }
-      });
-
-      return [
-        { hid: 'og:title', property: 'og:title', content: this.selectedCard.title },
-        { hid: 'og:description', name: 'og:description', content: this.selectedCard.gameText },
-        { hid: 'og:url', name: 'og:url', content: `${this.$config.baseUrl}${route.fullPath}` },
-        { hid: 'og:image', property: 'og:image', content: `${this.$config.baseUrl}/${this.selectedCard.image}` }
-      ];
     }
   }
 }
