@@ -151,7 +151,7 @@ export default {
 
   computed: {
     decks() {
-      const collator = new Intl.Collator(navigator.languages, {
+      const collator = new Intl.Collator(undefined, {
         sensitivity: 'base',
         numeric: true
       });

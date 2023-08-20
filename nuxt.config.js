@@ -4,7 +4,7 @@ const metaDescription = 'Is an out-of-print collectible card game based on The X
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -71,5 +71,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  // Generate Configuration: https://v2.nuxt.com/docs/configuration-glossary/configuration-generate
+  generate: {
+    fallback: true
   }
 }

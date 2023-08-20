@@ -186,19 +186,6 @@ export default {
     Intersect
   },
 
-  asyncData({ query }) {
-    if (!query.id) {
-      return {}
-    }
-
-    const selectedCard = cards.find(({ id }) => id === query.id) ?? null;
-
-    return {
-      selectedCard,
-      cardInfoVisible: true
-    };
-  },
-
   data() {
     const filters = Object.fromEntries(
       Object.entries({
@@ -256,9 +243,11 @@ export default {
     );
 
     const itemsPerPage = this.$vuetify.breakpoint.xsOnly ? 25 : 50;
+    const selectedCard = cards.find(({ id }) => id === this.$route.query.id) ?? null;
 
     return {
       filters,
+      selectedCard,
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
@@ -283,8 +272,7 @@ export default {
         ],
         showFirstLastPage: true
       },
-      cardInfoVisible: false,
-      selectedCard: null,
+      cardInfoVisible: !!selectedCard,
       panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1, 2 ],
       timeoutId: null,
       intersecting: true,
