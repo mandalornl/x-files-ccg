@@ -219,7 +219,7 @@ export default {
         children: [
           {
             label: 'Sequence of Play',
-            hash: 'BackCover'
+            hash: 68
           }
         ]
       }
