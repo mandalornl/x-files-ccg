@@ -243,9 +243,11 @@ export default {
     );
 
     const itemsPerPage = this.$vuetify.breakpoint.xsOnly ? 25 : 50;
+    const selectedCard = cards.find(({ id }) => id === this.$route.query.id) ?? null;
 
     return {
       filters,
+      selectedCard,
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
@@ -270,8 +272,7 @@ export default {
         ],
         showFirstLastPage: true
       },
-      cardInfoVisible: false,
-      selectedCard: null,
+      cardInfoVisible: !!selectedCard,
       panels: this.$vuetify.breakpoint.xsOnly ? [] : [ 0, 1, 2 ],
       timeoutId: null,
       intersecting: true,
@@ -279,9 +280,12 @@ export default {
     };
   },
 
-  head: () => ({
-    title: 'Card List'
-  }),
+  head() {
+    return {
+      title: 'Card List',
+      meta: this.getMeta()
+    };
+  },
 
   computed: {
     items() {
@@ -447,8 +451,6 @@ export default {
   },
 
   mounted() {
-    this.selectedCard = this.cards.find(({ id }) => id === this.$route.query.id);
-
     Object.keys(this.filters).forEach((key) => {
       this.$watch(`filters.${key}.value`, () => {
         this.page = 1;
@@ -505,6 +507,25 @@ export default {
       const input = event.target.closest('.v-input').querySelector('input');
 
       this.search = input?.value ?? '';
+    },
+
+    getMeta() {
+      if (!this.selectedCard) {
+        return [];
+      }
+
+      const { route } = this.$router.resolve({
+        query: {
+          id: this.selectedCard.id
+        }
+      });
+
+      return [
+        { hid: 'og:title', property: 'og:title', content: this.selectedCard.title },
+        { hid: 'og:description', name: 'og:description', content: this.selectedCard.gameText },
+        { hid: 'og:url', name: 'og:url', content: `${this.$config.baseUrl}${route.fullPath}` },
+        { hid: 'og:image', property: 'og:image', content: `${this.$config.baseUrl}/${this.selectedCard.image}` }
+      ];
     }
   }
 }

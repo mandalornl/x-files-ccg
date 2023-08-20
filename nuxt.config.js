@@ -1,5 +1,6 @@
 const isDev = process.env.NODE_ENV === 'development';
-const baseUrl = isDev ? '/' : '/x-files-ccg/';
+const baseUrl = isDev ? 'http://localhost:3000' : 'https://mandalornl.github.io/x-files-ccg';
+const metaDescription = 'Is an out-of-print collectible card game based on The X-Files fictional universe. It was developed by NXT Games and published by the US Playing Card Company (USPCC).';
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
@@ -9,7 +10,12 @@ export default {
   target: 'static',
 
   router: {
-    base: baseUrl
+    base: isDev ? '/' : '/x-files-ccg/',
+    trailingSlash: false
+  },
+
+  publicRuntimeConfig: {
+    baseUrl
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -23,13 +29,12 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: metaDescription },
       { name: 'format-detection', content: 'telephone=no' },
       { hid: 'og:title', property: 'og:title', content: 'The X-Files CCG' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:image', property: 'og:image', content: `${baseUrl}images/og-1200x630.png` },
-      { hid: 'og:image:width', property: 'og:image:width', content: 1200 },
-      { hid: 'og:image:height', property: 'og:image:height', content: 630 }
+      { hid: 'og:image', property: 'og:image', content: `${baseUrl}/images/og-1200x630.png` },
+      { hid: 'og:description', property: 'og:description', content: metaDescription }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }
