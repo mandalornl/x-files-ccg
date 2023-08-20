@@ -25,6 +25,8 @@ export default {
   flex-wrap: nowrap;
 
   text-transform: uppercase;
+
+  color: white;
 }
 
 .logo__alpha-x {

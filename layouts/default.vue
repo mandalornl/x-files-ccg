@@ -9,7 +9,12 @@
         class="hidden-sm-and-up"
         @click="leftDrawer = !leftDrawer"
       />
-      <app-logo class="pl-5 pl-sm-0" />
+      <nuxt-link
+        to="/"
+        class="pl-5 pl-sm-0 text-decoration-none"
+      >
+        <app-logo />
+      </nuxt-link>
     </v-app-bar>
     <v-navigation-drawer
       v-model="leftDrawer"
