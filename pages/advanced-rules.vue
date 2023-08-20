@@ -56,8 +56,7 @@
         <v-img
           src="images/advanced-game-table-diagram.jpg"
           alt="Advanced Game Table Diagram"
-          width="286"
-          height="374"
+          width="256"
           class="mx-auto"
         />
       </v-alert>
