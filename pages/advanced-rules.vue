@@ -2142,7 +2142,7 @@ export default {
 
     threeCardWidth() {
       if (this.$vuetify.breakpoint.xsOnly) {
-        return 112;
+        return 80;
       }
 
       if (this.$vuetify.breakpoint.smOnly) {
