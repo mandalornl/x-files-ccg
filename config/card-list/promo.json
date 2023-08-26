@@ -442,5 +442,10 @@
       "Conspiracy"
     ],
     "gameText": "Play this card immediately after your opponent asks you a question. You may respond with this phrase: \"I can neither confirm nor deny that assumption.\" After playing this card remove it from the game."
+  },
+  {
+    "title": "…",
+    "id": "-",
+    "set": "Promo"
   }
 ]

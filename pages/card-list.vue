@@ -133,7 +133,10 @@
             </card-quantity>
           </template>
           <template #[`item.type`]="{ value }">
-            <card-type-chip :value="value" />
+            <card-type-chip
+              v-if="value"
+              :value="value"
+            />
           </template>
         </v-data-table>
         <v-fade-transition>

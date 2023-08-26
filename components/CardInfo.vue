@@ -47,7 +47,10 @@
             >
               <v-icon>mdi-chevron-left</v-icon>
             </v-btn>
-            <div class="d-flex align-center">
+            <div
+              v-if="card.id !== '-'"
+              class="d-flex align-center"
+            >
               <v-tooltip
                 top
                 open-delay="150"
