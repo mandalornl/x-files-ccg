@@ -78,12 +78,6 @@ export default {
           icon: 'mdi-file-pdf-box'
         },
         {
-          label: 'Card Templates',
-          href: 'https://drive.google.com/drive/folders/1ozW8clUaQZkg7Z43AKSk6moOvRjKhYYd?usp=share_link',
-          credits: 'Robert Castleberry',
-          icon: 'mdi-image-multiple'
-        },
-        {
           label: 'FCU Cube',
           href: 'downloads/xfccgfcucube.pdf',
           credits: 'Alastair \'TheJauntyGoblin\' Headden',
