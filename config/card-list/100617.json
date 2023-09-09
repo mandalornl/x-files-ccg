@@ -735,7 +735,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Search your Discard Pile for any one Conspiracy card. The chosen card may then be played at half cost (rounded up), discard instead if not played this turn.",
+    "gameText": "Select one card from your Discard Pile and play it immediately. Alternately, you may select one card from your opponent’s Discard Pile and play it immediately instead. Add 2 CP to the cost and place it in its owner's Discard Pile at the end of the turn.",
     "dialogue": "[…]"
   },
   {
