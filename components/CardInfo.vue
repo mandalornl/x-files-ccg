@@ -276,6 +276,12 @@ export default {
     }
   },
 
+  mounted() {
+    if (!this.disablePagination) {
+      window.addEventListener('keyup', this.onKeyup, false);
+    }
+  },
+
   beforeDestroy() {
     if (!this.disablePagination) {
       window.removeEventListener('keyup', this.onKeyup, false);
