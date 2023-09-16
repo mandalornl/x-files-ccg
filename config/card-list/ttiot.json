@@ -3991,7 +3991,7 @@
       "Conspiracy",
       "Bluff"
     ],
-    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 per Bluff removed.",
+    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 CP per Bluff removed.",
     "tags": [
       "Move"
     ]
@@ -6349,7 +6349,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = CP Cost paid.",
+    "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = CP cost paid.",
     "tags": [
       "Unique",
       "Discard"
@@ -6573,7 +6573,7 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play on any Witness during your opponent's Investigation Phase. Pay X where X = the cost of the Witness. The Witness card is negated.",
+    "gameText": "Play on any Witness during your opponent's Investigation Phase. Pay X where X = the RP cost of the Witness. The Witness card is negated.",
     "tags": [
       "Unique"
     ]

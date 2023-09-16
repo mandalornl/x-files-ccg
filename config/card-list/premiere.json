@@ -4361,7 +4361,7 @@
       "Conspiracy",
       "Bluff"
     ],
-    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 per Bluff removed."
+    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 CP per Bluff removed."
   },
   {
     "title": "Street Contacts",
