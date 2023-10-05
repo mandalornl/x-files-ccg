@@ -962,7 +962,9 @@
         </v-list-item>
         <v-list-item>
           <v-list-item-avatar color="orange darken-2">
-            <v-icon>mdi-hospital</v-icon>
+            <v-icon large>
+              mdi-hospital
+            </v-icon>
           </v-list-item-avatar>
           <v-list-item-content>
             <v-list-item-title>
