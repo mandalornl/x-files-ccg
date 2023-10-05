@@ -19,7 +19,7 @@ export default {
     return createElement('blockquote', {
       class: 'text-body-2 text-pre-wrap text--secondary'
     }, this.value
-      .split(/(\[(?:RP|CP|\*P)])/)
+      .split(/(\[[RC*]P])/)
       .map((value) => {
         switch (value) {
           case '[RP]':
