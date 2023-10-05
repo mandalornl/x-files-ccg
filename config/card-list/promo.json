@@ -22,7 +22,7 @@
       "Conspiracy",
       "Affiliation Site"
     ],
-    "gameText": "The Dark Angel can play all combat cards for one Conspiracy less."
+    "gameText": "The Dark Angel can play all combat cards for one [CP] less."
   },
   {
     "title": "Fighter Interceptor",
@@ -151,7 +151,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card on any Team consisting of no more than two Agents during the Investigation Phase when they are sent to investigate a Site. You may add a number of tokens to the RP pool equal to the Agents' total RES value.",
+    "gameText": "Play this card on any Team consisting of no more than two Agents during the Investigation Phase when they are sent to investigate a Site. You may add a number of tokens to the [RP] pool equal to the Agents' total RES value.",
     "tags": [
       "Resource"
     ]
@@ -163,7 +163,7 @@
     "foundIn": "Voyager Promotions",
     "episode": "Gethsemane",
     "type": "Event",
-    "cost": "12CP",
+    "cost": "12 CP",
     "keywords": [
       "Event",
       "Government",
@@ -366,7 +366,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Play this card and flip over the next card on your Bureau Deck. If that card is playable this turn you may do so for zero RP or CP. If you do not play it this turn, move the card to your discard pile."
+    "gameText": "Play this card and flip over the next card on your Bureau Deck. If that card is playable this turn you may do so for zero [RP] or [CP]. If you do not play it this turn, move the card to your discard pile."
   },
   {
     "title": "Je Vois Quelque Chose La Au-Dessous",
@@ -375,7 +375,7 @@
     "foundIn": "France and some issues of Scrye 4.3",
     "episode": "Piper Maru",
     "type": "Event",
-    "cost": "2*P",
+    "cost": "2 *P",
     "keywords": [
       "Event",
       "Phenomena"
@@ -396,7 +396,7 @@
     "foundIn": "Germany and some issues of Scrye 4.3",
     "episode": "Die Hand Die Verletzt",
     "type": "Event",
-    "cost": "7CP",
+    "cost": "7 CP",
     "keywords": [
       "Event",
       "Phenomena"
@@ -404,7 +404,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Spielen Sie diese Karte zum Durchsuchen Ihres Büro Stapels. Dann wählen Sie einen OCCULT Gegner, mit dem Sie automatisch den AgentenTeam zur Ortserkundung angehören. Der OCCULT Gegner kann anstatt der 0 gespielt werden, unter Mißachtung der Aktivierungs-Anforderungen.\n\nEnglish Translation: You may search your Bureau deck and take any Occult Creature and you may play it on the agents team making the skill check. You may play it at any site. (Meaning you can play an Adversary with Activator Affiliation on a Motive, Method, or Result site as well.) This costs 0 CP.",
+    "gameText": "Spielen Sie diese Karte zum Durchsuchen Ihres Büro Stapels. Dann wählen Sie einen OCCULT Gegner, mit dem Sie automatisch den AgentenTeam zur Ortserkundung angehören. Der OCCULT Gegner kann anstatt der 0 [CP] gespielt werden, unter Mißachtung der Aktivierungs-Anforderungen.\n\nEnglish Translation: You may search your Bureau deck and take any Occult Creature and you may play it on the agents team making the skill check. You may play it at any site. (Meaning you can play an Adversary with Activator Affiliation on a Motive, Method, or Result site as well.) This costs 0 [CP].",
     "tags": [
       "Search"
     ]

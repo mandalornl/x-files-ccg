@@ -1,12 +1,12 @@
 <template>
   <v-avatar
+    :size="small ? 16 : 24"
+    :class="small ? 'rounded' : 'rounded-lg'"
     tile
-    size="24"
     color="red"
-    class="rounded-lg"
   >
     <v-icon
-      size="20"
+      :size="small ? 12 : 20"
       color="white"
     >
       mdi-hand-back-left
@@ -16,7 +16,14 @@
 
 <script>
 export default {
-  name: 'ConspiracyPool'
+  name: 'ConspiracyPool',
+
+  props: {
+    small: {
+      type: Boolean,
+      default: false
+    }
+  }
 }
 </script>
 

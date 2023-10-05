@@ -437,7 +437,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place two tokens on this card. Discard a token to draw one card from the top of your Bureau deck for zero RP cost any time you are the active player.",
+    "gameText": "Place two tokens on this card. Discard a token to draw one card from the top of your Bureau deck for zero [RP] cost any time you are the active player.",
     "bio": "Agent Linda Caleca was assigned to investigate the shooting of Assistant Director Walter Skinner. She identified the shooter as Luis Cardinal."
   },
   {
@@ -515,7 +515,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Draw the top three cards from your Bureau deck. If any of the drawn cards are playable and contain Keyword CONSPIRACY, you may immediately play one (your choice) for zero CP Cost. Discard the remaining cards drawn from your Bureau deck.",
+    "gameText": "Draw the top three cards from your Bureau deck. If any of the drawn cards are playable and contain Keyword CONSPIRACY, you may immediately play one (your choice) for zero [CP] Cost. Discard the remaining cards drawn from your Bureau deck.",
     "dialogue": "Mulder: \"I'm looking for Mr Kallenchuk.\"\nJeraldine Kallenchuk: \"I'm sorry, Mr Kallenchuk is out of town. Perhaps I can help you with something?\""
   },
   {
@@ -969,7 +969,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "You may place up to 2 RP from your Resource Pool on this card when it comes into play. Discard 1 RP token to double the CP Cost of any one EVOLUTIONARY Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
+    "gameText": "You may place up to 2 [RP] from your Resource Pool on this card when it comes into play. Discard 1 [RP] token to double the [CP] Cost of any one EVOLUTIONARY Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
     "dialogue": "\"Ellen, this wasn't some public service announcement. It was an on-line warning by the FBI aimed specifically at women in Cleveland.\" -  Joanne Steffen"
   },
   {
@@ -1040,7 +1040,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "You may place up to 2 RP from your Resource pool on this card when it comes into play. Discard one RP token to double the CP Cost of any one Government Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
+    "gameText": "You may place up to 2 [RP] from your Resource pool on this card when it comes into play. Discard one [RP] token to double the [CP] Cost of any one Government Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
     "dialogue": "\"Let's go… outside… move it, move…\" -  Soldier"
   },
   {
@@ -1094,7 +1094,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "You may place up to 2 RP from your Resource Pool on this card when it comes into play. Discard 1 RP token to double the CP Cost of any one OCCULT Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
+    "gameText": "You may place up to 2 [RP] from your Resource Pool on this card when it comes into play. Discard 1 [RP] token to double the [CP] Cost of any one OCCULT Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
     "dialogue": "Mona Wustner: \"What is that?\nDr Bilac: \"Vine of the soul.\"\nWustner: \"Yaje? You're drinking yaje? You're sick Lonnie. You need help.\""
   },
   {
@@ -1129,7 +1129,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play after your opponent has completed a successful Site skill check. Remove up to 4 RP from your opponent's Resource Pool.",
+    "gameText": "Play after your opponent has completed a successful Site skill check. Remove up to 4 [RP] from your opponent's Resource Pool.",
     "dialogue": "Agent Pendrell: \"This kind of neural network could be not only collecting information, but artificially replicating a person's mental processes.\"\nScully: \"You could know a person's every thought.\"\nPendrell: \"Frightening…\""
   },
   {
@@ -1199,7 +1199,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Force one opponent to immediately discard their entire hand. Your opponent, at their option, may opt to pay 3 RP for each card they do not want to discard.",
+    "gameText": "Force one opponent to immediately discard their entire hand. Your opponent, at their option, may opt to pay 3 [RP] for each card they do not want to discard.",
     "dialogue": "Deep Throat: \"I came here to give you some valuable advice. You are exposing yourself and Agent Scully to unnecessary risk. I advise you to drop the case.\"\nMulder: \"I can't do that.\"\nDeep Throat: \"You have much work to do Agent Mulder. Don't jeopardize the future of your own efforts.\""
   },
   {
@@ -1235,7 +1235,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "You may place up to 3 RP from your Resource Pool on this card when it comes into play. Discard 1 RP token to double the CP Cost of any one ALIEN Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
+    "gameText": "You may place up to 3 [RP] from your Resource Pool on this card when it comes into play. Discard 1 [RP] token to double the [CP] Cost of any one ALIEN Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
     "dialogue": "\"I'm sure of this… if I so much as feel your presence, I'm going to make you a very, very famous man.\" -  Krycek"
   },
   {
@@ -1437,7 +1437,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card in the Field. Search through your Bureau Deck and draw up to two Site cards. Place the drawn Site cards face down below this card. You may play these Site cards for zero RP during your Case Assignment phase. Discard this card when no cards remain underneath. If this card is negated, the Site cards beneath it are moved to your Discard Pile.",
+    "gameText": "Play this card in the Field. Search through your Bureau Deck and draw up to two Site cards. Place the drawn Site cards face down below this card. You may play these Site cards for zero [RP] during your Case Assignment phase. Discard this card when no cards remain underneath. If this card is negated, the Site cards beneath it are moved to your Discard Pile.",
     "dialogue": "Mulder: \"Why don't you stick around, get a motel room and check it out in the morning?\"\nScully: \"What are you going to do?\"\nMulder: \"I'm going back to D.C. like a good boy. Like Skinner told me to do, and show these to a few friends of ours.\""
   },
   {
@@ -1456,7 +1456,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "You may place up to 2 RP from your Resource Pool on this card when it comes into play. Discard 1 RP token to double the CP Cost of any one PRIMORDIAL Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
+    "gameText": "You may place up to 2 [RP] from your Resource Pool on this card when it comes into play. Discard 1 [RP] token to double the [CP] Cost of any one PRIMORDIAL Adversary played by your opponent. If your opponent cannot or chooses not to pay the additional Cost, the Adversary card is discarded. When no tokens remain on this card, move it to your Discard Pile.",
     "dialogue": "\"That's three in one day, Sheriff. All this driving from crime scene to crime scene is giving me highway hypnosis. Close down the lake.\" -  Mulder"
   },
   {
@@ -1491,7 +1491,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau deck for one Event or Witness card with Activator ACTIVE. Show the card to your opponent and add it to your hand. Shuffle your Bureau deck. If the card is immediately playable, you may do so for zero RP cost.",
+    "gameText": "Search through your Bureau deck for one Event or Witness card with Activator ACTIVE. Show the card to your opponent and add it to your hand. Shuffle your Bureau deck. If the card is immediately playable, you may do so for zero [RP] cost.",
     "dialogue": "\"Whatever prompted her behavior, the fact remains that Scully is armed and obviously dangerous so I suggest you marshall whatever resources you have to make sure that you find her first.\" -  Skinner"
   },
   {
@@ -1562,7 +1562,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card after playing a Keyword ALIEN Adversary and resolving the Combat. You may play one additional Adversary from your hand with the Keyword ALIEN or GOVERNMENT for zero CP ignoring Activator requirements.",
+    "gameText": "Play this card after playing a Keyword ALIEN Adversary and resolving the Combat. You may play one additional Adversary from your hand with the Keyword ALIEN or GOVERNMENT for zero [CP] ignoring Activator requirements.",
     "dialogue": "Scully: \"What happened to you?\"\nMulder: \"They got a small army outside. I think they got us trapped.\"\nScully: \" I think there's a way out, down here.\""
   },
   {
@@ -1650,7 +1650,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play once your opponent finishes selling cards. No CP are actually generated (CP generated by cards sold this turn must be returned). Your opponent may not buy any cards this turn.",
+    "gameText": "Play once your opponent finishes selling cards. No [CP] are actually generated ([CP] generated by cards sold this turn must be returned). Your opponent may not buy any cards this turn.",
     "dialogue": "Mrs Mulder: \"I've repressed it all.\"\nThe Cigarette-Smoking Man: \"Well, I find that hard to believe. Particularly since I've come here today to ask you to remember something. Something I'm gonna have to ask you very hard to recollect.\""
   },
   {

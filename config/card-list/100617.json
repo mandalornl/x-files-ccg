@@ -479,7 +479,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Attach this card to an Agent in the Field. Discard this card to search through your Bureau Deck and add any one Keyword MOVE card to your hand. Show the card to your opponent and shuffle your Bureau Deck. If the card is immediately playable, you may do so for zero RP cost.",
+    "gameText": "Attach this card to an Agent in the Field. Discard this card to search through your Bureau Deck and add any one Keyword MOVE card to your hand. Show the card to your opponent and shuffle your Bureau Deck. If the card is immediately playable, you may do so for zero [RP] cost.",
     "dialogue": "\"It's safer than riding a tram.\" - Mulder"
   },
   {
@@ -498,7 +498,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to reduce the CP Cost of all Keyword SUBTERFUGE cards played at this Site by 1. While this card is in play, any OCCULT or EVOLUTIONARY Adversaries played at this Site may use SUBTERFUGE Combat cards.",
+    "gameText": "Play this card to reduce the [CP] Cost of all Keyword SUBTERFUGE cards played at this Site by 1. While this card is in play, any OCCULT or EVOLUTIONARY Adversaries played at this Site may use SUBTERFUGE Combat cards.",
     "dialogue": "Scully: \"The stench is unbearable.\"\nMulder: \"I think we've wandered into troll territory, Scully.\""
   },
   {
@@ -524,7 +524,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any ACTIVE card. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any ACTIVE card. If you use this [RP], replace it during your Briefing Phase.",
     "bio": "As a supply chain manager, Guillaume Saladin ensures that the store he oversees is consistently stocked. Guillaume watches 90's TV shows and collects vinyl records. His beloved cat, Choléra, is never far from his side."
   },
   {
@@ -717,7 +717,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Place two tokens on this card. Remove a token to add 1 to one Team's OBSERVATION skill check once per turn. During your Requisition Phase you may replenish all tokens for 2 RP after the last token has been removed.",
+    "gameText": "Place two tokens on this card. Remove a token to add 1 to one Team's OBSERVATION skill check once per turn. During your Requisition Phase you may replenish all tokens for 2 [RP] after the last token has been removed.",
     "dialogue": "[…]"
   },
   {
@@ -735,7 +735,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to force your opponent to discard one card played this turn (your choice), except Sites and Agents. Alternately, you may select one card from your opponent’s Discard Pile and play it immediately at no cost. Place it in its owner's Discard Pile after it has been used. In both instances, X = the RP cost of the selected card.",
+    "gameText": "Play to force your opponent to discard one card played this turn (your choice), except Sites and Agents. Alternately, you may select one card from your opponent’s Discard Pile and play it immediately at no cost. Place it in its owner's Discard Pile after it has been used. In both instances, X = the [RP] cost of the selected card.",
     "dialogue": "[…]"
   },
   {

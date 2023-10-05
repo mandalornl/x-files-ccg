@@ -52,7 +52,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "If Agent Monica Reyes is in the Field, all Site cards with Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION may be played for RP cost -1."
+    "gameText": "If Agent Monica Reyes is in the Field, all Site cards with Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION may be played for [RP] cost -1."
   },
   {
     "title": "Agent Jeffrey Spender",
@@ -157,7 +157,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Teams that include Yves Adele Harlow may use CP to pay for cards with RP cost. Any Keyword GOVERNMENT Adversary may ignore regular Activators when attacking a Team of which Harlow is a member."
+    "gameText": "Teams that include Yves Adele Harlow may use [CP] to pay for cards with [RP] cost. Any Keyword GOVERNMENT Adversary may ignore regular Activators when attacking a Team of which Harlow is a member."
   },
   {
     "title": "C.G.B. Spender",
@@ -182,7 +182,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "This card must be a starting Agent and may not be added subsequently to the player's deck. While this card is in the Bureau, your opponent may not reshuffle their Discard pile back into their Bureau deck and immediately loses the game. Treat as RES 4 when adding to the CP Resources pool."
+    "gameText": "This card must be a starting Agent and may not be added subsequently to the player's deck. While this card is in the Bureau, your opponent may not reshuffle their Discard pile back into their Bureau deck and immediately loses the game. Treat as RES 4 when adding to the [CP] Resources pool."
   },
   {
     "title": "Agent Liz Einstein",
@@ -235,7 +235,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place three tokens on this card. During the Investigation Phase, remove a token to search through your Bureau deck for any Keyword Witness card. During this round only, you may play that card for -1 RP cost."
+    "gameText": "Place three tokens on this card. During the Investigation Phase, remove a token to search through your Bureau deck for any Keyword Witness card. During this round only, you may play that card for -1 [RP] cost."
   },
   {
     "title": "Agent Brem",
@@ -315,7 +315,7 @@
       "Health": 4,
       "Resources": 2
     },
-    "gameText": "Agent Fowley may add to the CP pool or the RP pool during the Briefing phase. Place three tokens on this card. Discard a token at any time to examine your opponent's hand. These tokens may not be replaced."
+    "gameText": "Agent Fowley may add to the [CP] pool or the [RP] pool during the Briefing phase. Place three tokens on this card. Discard a token at any time to examine your opponent's hand. These tokens may not be replaced."
   },
   {
     "title": "Assistant Director Brad Follmer",
@@ -342,7 +342,7 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BUREAUCRACY or EVIDENCE COLLECTION cards. This token may be replaced once, during your next Briefing Phase."
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword BUREAUCRACY or EVIDENCE COLLECTION cards. This token may be replaced once, during your next Briefing Phase."
   },
   {
     "title": "Deputy Director Alvin Kersh",
@@ -369,6 +369,6 @@
       "Health": 3,
       "Resources": 2
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MOTIVE or METHOD card. If you use this RP, replace it during your Briefing phase."
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword MOTIVE or METHOD card. If you use this [RP], replace it during your Briefing phase."
   }
 ]

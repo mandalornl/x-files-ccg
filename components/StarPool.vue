@@ -1,12 +1,12 @@
 <template>
   <v-avatar
+    :size="small ? 16 : 24"
+    :class="small ? 'rounded' : 'rounded-lg'"
     tile
-    size="24"
     color="indigo lighten-2"
-    class="rounded-lg"
   >
     <v-icon
-      size="20"
+      :size="small ? 12 : 20"
       color="white"
     >
       mdi-virus-outline
@@ -16,6 +16,13 @@
 
 <script>
 export default {
-  name: 'StarPool'
+  name: 'StarPool',
+
+  props: {
+    small: {
+      type: Boolean,
+      default: false
+    }
+  }
 }
 </script>

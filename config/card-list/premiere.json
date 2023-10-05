@@ -1626,7 +1626,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1667,7 +1667,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1687,7 +1687,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1745,7 +1745,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1765,7 +1765,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1807,7 +1807,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -1827,7 +1827,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to add 2 CP to your pool immediately.",
+    "gameText": "Play to add 2 [CP] to your pool immediately.",
     "tags": [
       "Resource"
     ]
@@ -1905,7 +1905,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to add five tokens to your CP pool.",
+    "gameText": "Play to add five tokens to your [CP] pool.",
     "tags": [
       "Resource"
     ]
@@ -2044,7 +2044,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed RP Cost, where X = the number of RP paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
+    "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
     ]
@@ -2103,7 +2103,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Pay 1 CP to move up to 2 RP from your opponent's RP pool to your CP pool immediately.",
+    "gameText": "Pay 1 [CP] to move up to 2 [RP] from your opponent's [RP] pool to your [CP] pool immediately.",
     "tags": [
       "Resource"
     ]
@@ -2858,7 +2858,7 @@
       "Health": 5,
       "Resources": 2
     },
-    "gameText": "RP's generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero RP cost.",
+    "gameText": "[RP]s generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero [RP] cost.",
     "tags": [
       "Unique"
     ]
@@ -2887,7 +2887,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
     ]
@@ -2917,7 +2917,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
     ]
@@ -3033,7 +3033,7 @@
       "Health": 5,
       "Resources": 2
     },
-    "gameText": "RP's generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero RP cost."
+    "gameText": "[RP]s generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero [RP] cost."
   },
   {
     "title": "Agent Alex Krycek",
@@ -3089,7 +3089,7 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
     ]
@@ -3241,7 +3241,7 @@
       "Health": 3,
       "Resources": 2
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
     ]
@@ -3268,7 +3268,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this RP, replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this [RP], replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
     "tags": [
       "Replenish Token"
     ]
@@ -3299,7 +3299,7 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
     ]
@@ -3442,7 +3442,7 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place 1 RP on this card. This RP may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this RP, replace it during your Briefing Phase.",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
     ]
@@ -3626,7 +3626,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 RP to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword EVOLUTIONARY or BEHAVIORAL card is played.",
     "tags": [
       "Unique",
       "Recurring Resource"
@@ -3649,7 +3649,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 RP to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword ALIEN INVESTIGATION or EVIDENCE COLLECTION card is played.",
     "tags": [
       "Unique",
       "Recurring Resource"
@@ -3767,7 +3767,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 RP to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword GOVERNMENT or MEDICAL card is played.",
     "tags": [
       "Unique",
       "Recurring Resource"
@@ -3790,7 +3790,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 RP to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword COMPUTER or BUREAUCRACY card is played.",
     "tags": [
       "Unique",
       "Recurring Resource"
@@ -3957,7 +3957,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 RP to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword SCIENCES or OBSERVATION card is played.",
     "tags": [
       "Unique",
       "Recurring Resource"
@@ -4056,7 +4056,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 RP to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword OCCULT INVESTIGATION or CRIMINAL INVESTIGATION card is played.",
     "tags": [
       "Unique",
       "Recurring Resource"
@@ -4361,7 +4361,7 @@
       "Conspiracy",
       "Bluff"
     ],
-    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 CP per Bluff removed."
+    "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 [CP] per Bluff removed."
   },
   {
     "title": "Street Contacts",
@@ -4710,7 +4710,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 from their opponent's Conspiracy Pool and add them to their Resource Pool."
+    "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 [CP] from their opponent's Conspiracy Pool and add them to their Resource Pool."
   },
   {
     "title": "Agent Jack Willis Shot To Death In Bank Robbery",
@@ -5193,7 +5193,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your CP pool.",
+    "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your [CP] pool.",
     "tags": [
       "Resource"
     ]
@@ -5246,7 +5246,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the RP pool.",
+    "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the [RP] pool.",
     "tags": [
       "Resource"
     ]
@@ -5344,7 +5344,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Add five tokens to your RP pool.",
+    "gameText": "Add five tokens to your [RP] pool.",
     "tags": [
       "Resource"
     ]
@@ -5474,7 +5474,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your CP pool. The tokens become CP tokens. When all counters have been removed, discard this card.",
+    "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your [CP] pool. The tokens become [CP] tokens. When all counters have been removed, discard this card.",
     "tags": [
       "Resource"
     ]
@@ -5629,7 +5629,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your RP pool. The tokens become RP tokens. When all counters have been removed, discard this card.",
+    "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your [RP] pool. The tokens become [RP] tokens. When all counters have been removed, discard this card.",
     "tags": [
       "Resource"
     ]
