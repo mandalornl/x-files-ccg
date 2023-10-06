@@ -4,6 +4,7 @@
     :class="small ? 'rounded' : 'rounded-lg'"
     tile
     color="light-blue"
+    title="Resource Pool"
   >
     <v-icon
       :size="small ? 12 : 20"
