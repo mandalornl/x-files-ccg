@@ -6,8 +6,8 @@ export const advancedSkills = [
   'Criminal Investigation',
   'Evidence Collection',
   'Medical',
-  'Occult Investigation',
   'Observation',
+  'Occult Investigation',
   'Sciences',
   'Subterfuge'
 ];
