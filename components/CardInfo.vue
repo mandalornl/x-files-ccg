@@ -290,22 +290,38 @@ export default {
 
   methods: {
     prevCard() {
+      if (this.cardIndex === -1 || this.cardIndex === 0) {
+        return;
+      }
+
       const index = Math.max(0, this.cardIndex - 1);
 
       this.$emit('click:index', index);
     },
 
     nextCard() {
+      if (this.cardIndex === -1 || this.cardIndex === this.cardsLength - 1) {
+        return;
+      }
+
       const index = Math.min(this.cardsLength - 1, this.cardIndex + 1);
 
       this.$emit('click:index', index);
     },
 
     removeCard() {
+      if (this.quantity === 0) {
+        return;
+      }
+
       this.$store.commit('deckBuilding/removeCard', { id: this.card.id });
     },
 
     addCard() {
+      if (this.realQuantity === 2) {
+        return;
+      }
+
       this.$store.commit('deckBuilding/addCard', { id: this.card.id });
     },
 
