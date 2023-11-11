@@ -4,7 +4,7 @@
     "id": "PR97-0008-BOX",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Event",
     "cost": "2 RP",
     "keywords": [
@@ -40,7 +40,7 @@
     "id": "PR97-0014-CON",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Combat",
     "cost": "X *P",
     "keywords": [
@@ -240,7 +240,7 @@
     "id": "XF97-0517x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Do Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Adversary",
     "cost": "6 CP",
     "skills": {
@@ -559,7 +559,7 @@
     "id": "XF97-0531x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "D.P.O",
+    "episode": "D.P.O.",
     "type": "Bluff",
     "cost": "3 CP",
     "keywords": [
@@ -634,7 +634,7 @@
     "id": "XF97-0535x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -653,7 +653,7 @@
     "id": "XF97-0536x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Bluff",
     "cost": "6 CP",
     "keywords": [
@@ -770,7 +770,7 @@
     "id": "XF97-0542x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "D.P.O",
+    "episode": "D.P.O.",
     "type": "Bluff",
     "cost": "3 CP",
     "keywords": [
@@ -869,7 +869,7 @@
     "id": "XF97-0547x2-alt",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Bluff",
     "cost": "4 CP",
     "keywords": [
@@ -887,7 +887,7 @@
     "id": "XF97-0547x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Bluff",
     "cost": "4 CP",
     "keywords": [
@@ -1083,7 +1083,7 @@
     "id": "XF97-0558x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Event",
     "cost": "4 RP",
     "keywords": [
@@ -1296,7 +1296,7 @@
     "id": "XF97-0570x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Event",
     "cost": "3 *P",
     "keywords": [
@@ -1825,7 +1825,7 @@
     "id": "XF97-0599x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "D.P.O",
+    "episode": "D.P.O.",
     "type": "Site",
     "cost": "2 RP",
     "keywords": [
@@ -1899,7 +1899,7 @@
     "id": "XF97-0603x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Site",
     "cost": "2 RP",
     "keywords": [
@@ -1953,7 +1953,7 @@
     "id": "XF97-0606x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Do Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Site",
     "cost": "2 RP",
     "keywords": [
@@ -2142,7 +2142,7 @@
     "id": "XF97-0616x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -2163,7 +2163,7 @@
     "id": "XF97-0617x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -2268,7 +2268,7 @@
     "id": "XF97-0622x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -2289,7 +2289,7 @@
     "id": "XF97-0623x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -2310,7 +2310,7 @@
     "id": "XF97-0624x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -2352,7 +2352,7 @@
     "id": "XF97-0626x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -2457,7 +2457,7 @@
     "id": "XF97-0631x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -2478,7 +2478,7 @@
     "id": "XF97-0632x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -2541,7 +2541,7 @@
     "id": "XF97-0635x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "cost": "4 RP",
     "keywords": [
@@ -2562,7 +2562,7 @@
     "id": "XF97-0636x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "cost": "4 RP",
     "keywords": [
@@ -2604,7 +2604,7 @@
     "id": "XF97-0638x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "cost": "4 RP",
     "keywords": [
@@ -2625,7 +2625,7 @@
     "id": "XF97-0639x2",
     "set": "22364",
     "rarity": "Community",
-    "episode": "Teso Dos Bichos",
+    "episode": "Teso dos Bichos",
     "type": "Witness",
     "cost": "4 RP",
     "keywords": [

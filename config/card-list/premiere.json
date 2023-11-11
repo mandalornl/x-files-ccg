@@ -175,7 +175,7 @@
     "id": "XF96-0011v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Combat",
     "cost": "3 *P",
     "keywords": [
@@ -865,7 +865,7 @@
     "id": "XF96-0051v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1253,7 +1253,7 @@
     "id": "XF96-0072v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Site",
     "cost": "2 RP",
     "keywords": [
@@ -1325,7 +1325,7 @@
     "id": "XF96-0076v1",
     "set": "Premiere",
     "rarity": "Rare",
-    "episode": "Did Hand Die Verletzt",
+    "episode": "Die Hand Die Verletzt",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1399,7 +1399,7 @@
     "id": "XF96-0080v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1755,7 +1755,7 @@
     "id": "XF96-0098v1",
     "set": "Premiere",
     "rarity": "Common",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Bluff",
     "cost": "X CP",
     "keywords": [
@@ -1817,7 +1817,7 @@
     "id": "XF96-0101v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -1952,7 +1952,7 @@
     "id": "XF96-0108v1",
     "set": "Premiere",
     "rarity": "Common",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -2257,7 +2257,7 @@
     "id": "XF96-0125v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Primordial",
@@ -2369,7 +2369,7 @@
     "id": "XF96-0133v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Evolutionary",
@@ -3068,7 +3068,7 @@
     "id": "XF96-0171v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Agent",
     "cost": "4 RP",
     "keywords": [
@@ -3395,7 +3395,7 @@
     "id": "XF96-0182v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -3927,7 +3927,7 @@
     "id": "XF96-0209v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -4123,7 +4123,7 @@
     "id": "XF96-0219v1",
     "set": "Premiere",
     "rarity": "Rare",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -4481,7 +4481,7 @@
     "id": "XF96-0238v1",
     "set": "Premiere",
     "rarity": "Rare",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Event",
     "cost": "10 CP",
     "keywords": [
@@ -4894,7 +4894,7 @@
     "id": "XF96-0259v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Event",
     "cost": "2 RP",
     "keywords": [
@@ -4946,7 +4946,7 @@
     "id": "XF96-0262v1",
     "set": "Premiere",
     "rarity": "Rare",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Event",
     "cost": "2 CP",
     "keywords": [
@@ -5773,7 +5773,7 @@
     "id": "XF96-0305v1",
     "set": "Premiere",
     "rarity": "Rare",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Event",
     "cost": "10 CP",
     "keywords": [
@@ -5972,7 +5972,7 @@
     "id": "XF96-0316v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Equipment",
     "cost": "3 RP",
     "keywords": [
@@ -5990,7 +5990,7 @@
     "id": "XF96-0317v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Equipment",
     "cost": "4 RP",
     "keywords": [
@@ -6187,7 +6187,7 @@
     "id": "XF96-0328v1",
     "set": "Premiere",
     "rarity": "Common",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Equipment",
     "cost": "2 RP",
     "keywords": [
@@ -6649,7 +6649,7 @@
     "id": "XF96-0347v1",
     "set": "Premiere",
     "rarity": "Fixed",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "Adversary",
     "cost": "5 CP",
     "skills": {
@@ -6673,7 +6673,7 @@
     "id": "XF96-0348v1",
     "set": "Premiere",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Adversary",
     "cost": "6 CP",
     "skills": {

@@ -172,7 +172,7 @@
     "id": "XF97-0011v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Combat",
     "cost": "3 *P",
     "keywords": [
@@ -862,7 +862,7 @@
     "id": "XF97-0051v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1250,7 +1250,7 @@
     "id": "XF97-0072v2",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Site",
     "cost": "2 RP",
     "keywords": [
@@ -1322,7 +1322,7 @@
     "id": "XF97-0076v2",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Did Hand Die Verletzt",
+    "episode": "Die Hand Die Verletzt",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1396,7 +1396,7 @@
     "id": "XF97-0080v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1729,7 +1729,7 @@
     "id": "XF97-0098v2",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Bluff",
     "cost": "X CP",
     "keywords": [
@@ -1791,7 +1791,7 @@
     "id": "XF97-0101v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -1906,7 +1906,7 @@
     "id": "XF97-0108v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -2211,7 +2211,7 @@
     "id": "XF97-0125v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Primordial",
@@ -2324,7 +2324,7 @@
     "id": "XF97-0133v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Evolutionary",
@@ -2959,7 +2959,7 @@
     "id": "XF97-0171v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Agent",
     "cost": "4 RP",
     "keywords": [
@@ -3224,7 +3224,7 @@
     "id": "XF97-0182v2",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -3647,7 +3647,7 @@
     "id": "XF97-0209v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -3797,7 +3797,7 @@
     "id": "XF97-0219v2",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -4383,7 +4383,7 @@
     "id": "XF97-0259v2",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Event",
     "cost": "2 RP",
     "keywords": [
@@ -4435,7 +4435,7 @@
     "id": "XF97-0262v2",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Event",
     "cost": "2 CP",
     "keywords": [
@@ -5317,7 +5317,7 @@
     "id": "XF97-0316v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Equipment",
     "cost": "3 RP",
     "keywords": [
@@ -5335,7 +5335,7 @@
     "id": "XF97-0317v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Equipment",
     "cost": "4 RP",
     "keywords": [
@@ -5532,7 +5532,7 @@
     "id": "XF97-0328v2",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Equipment",
     "cost": "2 RP",
     "keywords": [
@@ -5966,7 +5966,7 @@
     "id": "XF97-0347v2",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "Beyond the Sea",
+    "episode": "Beyond The Sea",
     "type": "Adversary",
     "cost": "5 CP",
     "skills": {
@@ -5990,7 +5990,7 @@
     "id": "XF97-0348v2",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost in the Machine",
+    "episode": "Ghost In The Machine",
     "type": "Adversary",
     "cost": "6 CP",
     "skills": {
@@ -6170,7 +6170,7 @@
     "id": "XF97-0355v2",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Adversary",
     "cost": "12 CP",
     "skills": {
@@ -6624,7 +6624,7 @@
     "id": "XF97-0375v2",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Event",
     "cost": "4 CP",
     "keywords": [

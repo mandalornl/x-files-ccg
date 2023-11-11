@@ -29,7 +29,7 @@
     "id": "PR96-0002-INQ",
     "set": "Promo",
     "foundIn": "InQuest #19",
-    "episode": "EBE",
+    "episode": "E.B.E.",
     "type": "Event",
     "cost": "4 RP",
     "keywords": [
@@ -74,7 +74,7 @@
     "id": "PR96-0004-GCON",
     "set": "Promo",
     "foundIn": "Given away at GenCon '96",
-    "episode": "EBE",
+    "episode": "E.B.E.",
     "type": "Event",
     "cost": "5 RP",
     "keywords": [
@@ -114,7 +114,7 @@
     "id": "PR96-0006-DUE",
     "set": "Promo",
     "foundIn": "Duelist #14",
-    "episode": "Young at Heart",
+    "episode": "Young At Heart",
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -142,7 +142,7 @@
     "id": "PR96-0007-SUR",
     "set": "Promo",
     "foundIn": "Online Survey and boxes of 101361",
-    "episode": "EBE",
+    "episode": "E.B.E.",
     "type": "Event",
     "cost": "0 RP",
     "keywords": [
