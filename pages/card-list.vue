@@ -179,7 +179,8 @@ import {
   activators,
   keywords,
   rarities,
-  tags
+  tags,
+  episodes,
 } from '~/config/card';
 
 export default {
@@ -215,6 +216,11 @@ export default {
         rarity: {
           label: 'Rarity',
           items: rarities,
+          operation: 'and'
+        },
+        episode: {
+          label: 'Episode',
+          items: episodes,
           operation: 'and'
         },
         tags: {
