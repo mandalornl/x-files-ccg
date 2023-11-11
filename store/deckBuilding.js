@@ -109,13 +109,6 @@ export const mutations = {
 };
 
 export const actions = {
-  save({ commit }, name) {
-    commit('rename', {
-      from: defaultDeckName,
-      to: name
-    });
-  },
-
   clear({ commit }) {
     commit('load', Date.now());
   }

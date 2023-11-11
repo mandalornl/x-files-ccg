@@ -41,6 +41,8 @@
 </template>
 
 <script>
+import { defaultDeckName } from '~/store/deckBuilding';
+
 export default {
   name: 'DeckActionSave',
 
@@ -99,16 +101,11 @@ export default {
         return;
       }
 
-      if (this.isNew) {
-        this.$store.dispatch('deckBuilding/save', this.name);
-        this.$store.commit('snackbar/setSuccess', 'Deck saved successfully!');
-      } else {
-        this.$store.commit('deckBuilding/rename', {
-          from: this.deck.name,
-          to: this.name
-        });
-        this.$store.commit('snackbar/setSuccess', 'Deck renamed successfully!');
-      }
+      this.$store.commit('deckBuilding/rename', {
+        from: this.isNew ? defaultDeckName : this.deck.name,
+        to: this.name
+      });
+      this.$store.commit('snackbar/setSuccess', this.isNew ? 'Deck saved successfully!' : 'Deck renamed successfully!');
 
       this.menu = false;
     }
