@@ -1,9 +1,9 @@
 export const state = () => ({
-  presents: {}
+  presets: {}
 });
 
 export const getters = {
-  hasName: (state) => (name) => !!state.presents[name]
+  hasName: (state) => (name) => !!state.presets[name]
 };
 
 export const mutations = {
@@ -11,17 +11,17 @@ export const mutations = {
     key,
     value
   }) {
-    state.presents = {
-      ...state.presents,
+    state.presets = {
+      ...state.presets,
       [key]: value
     };
   },
 
-  removePreset(state, key) {
-    const presets = { ...state.presents };
+  removePreset(state, name) {
+    const presets = { ...state.presets };
 
-    delete presets[key];
+    delete presets[name];
 
-    state.presents = presets;
+    state.presets = presets;
   }
 };

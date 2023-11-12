@@ -46,7 +46,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    '~/plugins/vuex-persist.client.js'
+    '~/plugins/agent-selector-presets.client',
+    '~/plugins/vuex-persist.client'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

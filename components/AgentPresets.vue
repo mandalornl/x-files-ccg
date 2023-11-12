@@ -6,7 +6,7 @@
     active-class="primary black--text"
   >
     <v-chip
-      v-for="(preset, label) in presets"
+      v-for="(preset, label) of presets"
       :key="label"
       :value="preset.join(',')"
       close
@@ -38,7 +38,7 @@ export default {
   computed: {
     presets() {
       return Object.fromEntries(
-        Object.entries(this.$store.state.agentSelector.presents)
+        Object.entries(this.$store.state.agentSelector.presets)
           .sort(([ a ], [ b ]) => a.localeCompare(b))
       );
     },
