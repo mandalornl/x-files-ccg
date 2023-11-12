@@ -136,7 +136,7 @@
 <script>
 import { pool } from '~/config/card';
 import { download } from '~/mixins/download';
-import { defaultDeckName } from '~/store/deckBuilding';
+import { sortBy } from '~/assets/sort-by';
 
 export default {
   name: 'PageDeckBuilding',
@@ -165,9 +165,7 @@ export default {
           new: name === defaultDeckName,
           size: Object.values(cards).reduce((total, quantity) => total + quantity, 0)
         }))
-        .sort((a, b) => (
-          b.new - a.new || collator.compare(a.name, b.name)
-        ));
+        .sort(sortBy('name'));
     }
   },
 
@@ -224,13 +222,7 @@ export default {
                 quantity
               };
             })
-            .sort((a, b) => {
-              if (a.type === b.type) {
-                return collator.compare(a.id, b.id);
-              }
-
-              return collator.compare(a.type, b.type);
-            })
+            .sort(sortBy('type', 'id'))
             .map(({
               id,
               set,

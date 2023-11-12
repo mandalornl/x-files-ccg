@@ -182,6 +182,7 @@ import {
   tags,
   episodes,
 } from '~/config/card';
+import { sortBy } from '~/assets/sort-by';
 
 export default {
   name: 'PageCardList',
@@ -348,21 +349,9 @@ export default {
       });
 
       if (this.sortBy) {
-        const collator = new Intl.Collator('en', {
-          sensitivity: 'base',
-          numeric: true
-        });
-
-        return hits.sort((a, b) => {
-          const valueA = a[this.sortBy];
-          const valueB = b[this.sortBy];
-
-          if (this.sortDesc) {
-            return collator.compare(valueB, valueA);
-          }
-
-          return collator.compare(valueA, valueB);
-        });
+        return hits.sort(sortBy({
+          [this.sortBy]: this.sortDesc ? 'desc' : 'asc'
+        }));
       }
 
       if (this.sortDesc) {

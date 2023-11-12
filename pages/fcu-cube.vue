@@ -117,6 +117,7 @@ import shuffle from 'lodash/shuffle';
 
 import { pool } from '~/config/card';
 import cube from '~/config/fcu-cube.json';
+import { sortBy } from '~/assets/sort-by';
 
 export default {
   name: 'PageFCUCube',
@@ -229,20 +230,12 @@ export default {
     },
 
     getCards(items) {
-      const collator = new Intl.Collator();
-
       return items
         .map((uid) => ({
           ...pool.find((card) => uid.startsWith(card.id)),
           uid
         }))
-        .sort((a, b) => {
-          if (a.type === b.type) {
-            return collator.compare(a.id, b.id);
-          }
-
-          return collator.compare(a.type, b.type);
-        });
+        .sort(sortBy('type', 'id'));
     },
 
     createSig(players) {
