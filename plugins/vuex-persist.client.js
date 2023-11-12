@@ -4,22 +4,17 @@ export default ({ store }) => {
   new VuexPersistence({
     key: 'x-files-ccg',
     storage: localStorage,
-    reducer: ({
-      agentSelector,
-      deckBuilding
-    }) => ({
-      agentSelector,
-      deckBuilding
-    })
+    modules: [
+      'agentSelector',
+      'deckBuilding'
+    ]
   }).plugin(store);
 
   new VuexPersistence({
     key: 'x-files-ccg',
     storage: sessionStorage,
-    reducer: ({
-      checklist
-    }) => ({
-      checklist
-    })
+    modules: [
+      'checklist'
+    ]
   }).plugin(store);
 };
