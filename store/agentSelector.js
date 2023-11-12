@@ -8,12 +8,12 @@ export const getters = {
 
 export const mutations = {
   addPreset(state, {
-    key,
-    value
+    name,
+    ids
   }) {
     state.presets = {
       ...state.presets,
-      [key]: value
+      [name]: ids
     };
   },
 

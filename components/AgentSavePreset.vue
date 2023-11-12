@@ -73,14 +73,14 @@ export default {
 
       if (
         this.$store.getters['agentSelector/hasName'](this.name)
-        && !confirm('A preset with a similar name already exists. Overwrite anyways?')
+        && !confirm(`A preset with name '${this.name}' already exists. Do you want to overwrite it?`)
       ) {
         return;
       }
 
       this.$store.commit('agentSelector/addPreset', {
-        key: this.name,
-        value: [ ...this.internalValue ].sort()
+        name: this.name,
+        ids: [ ...this.internalValue ].sort()
       });
 
       this.menu = false;
