@@ -24,7 +24,6 @@
           class="d-flex flex-column"
         >
           <v-card
-            :to="deck.new ? '/card-list?showSelected' : undefined"
             :disabled="deck.size === 0"
             class="d-flex flex-column flex-fill"
           >
@@ -47,77 +46,71 @@
                 small
                 content-class="ml-2"
               />
-              <template v-if="!deck.new">
-                <v-btn
-                  icon
-                  small
-                  title="Open in Card List"
-                  @click="load(deck)"
-                >
-                  <v-icon small>
-                    mdi-upload
-                  </v-icon>
-                </v-btn>
-                <v-speed-dial
-                  direction="bottom"
-                  transition="slide-y-transition"
-                >
-                  <template #activator>
-                    <v-btn
-                      icon
-                      small
-                      title="Download"
-                    >
-                      <v-icon small>
-                        mdi-download
-                      </v-icon>
-                    </v-btn>
-                  </template>
-                  <v-btn
-                    icon
-                    small
-                    title="JSON"
-                    @click="downloadJSON(deck)"
-                  >
-                    <v-icon small>
-                      mdi-code-json
-                    </v-icon>
-                  </v-btn>
-                  <v-btn
-                    icon
-                    small
-                    title="CSV"
-                    @click="downloadCSV(deck)"
-                  >
-                    <v-icon small>
-                      mdi-file-document
-                    </v-icon>
-                  </v-btn>
-                  <v-btn
-                    icon
-                    small
-                    title="Tabletop Simulator (coming soon)"
-                  >
-                    <v-icon small>
-                      mdi-chess-queen
-                    </v-icon>
-                  </v-btn>
-                </v-speed-dial>
-                <v-btn
-                  icon
-                  small
-                  title="Remove"
-                  @click="remove(deck)"
-                >
-                  <v-icon small>
-                    mdi-delete
-                  </v-icon>
-                </v-btn>
-              </template>
-              <deck-action-clear
-                v-else
+              <v-btn
+                icon
                 small
-              />
+                title="Open in Card List"
+                @click="load(deck)"
+              >
+                <v-icon small>
+                  mdi-upload
+                </v-icon>
+              </v-btn>
+              <v-speed-dial
+                direction="bottom"
+                transition="slide-y-transition"
+              >
+                <template #activator>
+                  <v-btn
+                    icon
+                    small
+                    title="Download"
+                  >
+                    <v-icon small>
+                      mdi-download
+                    </v-icon>
+                  </v-btn>
+                </template>
+                <v-btn
+                  icon
+                  small
+                  title="JSON"
+                  @click="downloadJSON(deck)"
+                >
+                  <v-icon small>
+                    mdi-code-json
+                  </v-icon>
+                </v-btn>
+                <v-btn
+                  icon
+                  small
+                  title="CSV"
+                  @click="downloadCSV(deck)"
+                >
+                  <v-icon small>
+                    mdi-file-document
+                  </v-icon>
+                </v-btn>
+                <v-btn
+                  icon
+                  small
+                  title="Tabletop Simulator (coming soon)"
+                >
+                  <v-icon small>
+                    mdi-chess-queen
+                  </v-icon>
+                </v-btn>
+              </v-speed-dial>
+              <v-btn
+                icon
+                small
+                title="Remove"
+                @click="remove(deck)"
+              >
+                <v-icon small>
+                  mdi-delete
+                </v-icon>
+              </v-btn>
             </v-card-actions>
           </v-card>
         </v-col>
@@ -151,18 +144,13 @@ export default {
 
   computed: {
     decks() {
-      const collator = new Intl.Collator(undefined, {
-        sensitivity: 'base',
-        numeric: true
-      });
-
       return Object.entries(this.$store.state.deckBuilding.decks)
         .map(([
           name,
           cards = {}
         ]) => ({
           name,
-          new: name === defaultDeckName,
+          cards,
           size: Object.values(cards).reduce((total, quantity) => total + quantity, 0)
         }))
         .sort(sortBy('name'));
@@ -172,13 +160,13 @@ export default {
   methods: {
     load(deck) {
       if (
-        this.$store.getters['deckBuilding/sizeByName']() > 0
-        && !confirm('You already have another deck opened. Open this deck instead?')
+        this.$store.getters['deckBuilding/deckSize'] > 0
+        && !confirm('It looks like another deck has already been opened. Do you want to continue?\n\nAny unsaved changes will be lost.')
       ) {
         return;
       }
 
-      this.$store.commit('deckBuilding/load', deck.name);
+      this.$store.commit('deckBuilding/loadDeck', deck.name);
       this.$store.commit('snackbar/setSuccess', 'Deck opened successfully!');
       this.$router.push('/card-list?showSelected');
     },
@@ -187,7 +175,7 @@ export default {
       const data = Buffer.from(
         JSON.stringify({
           name: deck.name,
-          cards: this.$store.getters['deckBuilding/deckByName'](deck.name)
+          cards: deck.cards
         })
       ).toString('base64');
 
@@ -195,15 +183,10 @@ export default {
     },
 
     downloadCSV(deck) {
-      const collator = new Intl.Collator('en', {
-        sensitivity: 'base',
-        numeric: true
-      });
-
       const data = Buffer.from(
         [
           '"#","Set","Title","Type","Quantity"',
-          ...Object.entries(this.$store.getters['deckBuilding/deckByName'](deck.name))
+          ...Object.entries(deck.cards)
             .map(([
               id,
               quantity
@@ -241,11 +224,13 @@ export default {
         return;
       }
 
-      this.$store.commit('deckBuilding/remove', deck.name);
+      this.$store.commit('deckBuilding/removeDeck', deck.name);
       this.$store.commit('snackbar/setSuccess', 'Deck removed successfully!');
     },
 
     upload() {
+      this.$store.commit('snackbar/setVisible', false);
+
       const input = document.createElement('input');
       input.type = 'file';
       input.accept = 'application/json';
@@ -258,12 +243,12 @@ export default {
 
             if (
               this.$store.getters['deckBuilding/hasName'](deck.name)
-              && !confirm(`A deck with name '${deck.name}' already exists. Do you want to overwrite anyways?`)
+              && !confirm(`A deck with name '${deck.name}' already exists. Do you want to overwrite it?`)
             ) {
               continue;
             }
 
-            this.$store.commit('deckBuilding/upload', deck);
+            this.$store.commit('deckBuilding/uploadDeck', deck);
           } catch (error) {
             console.error(error.message);
 
@@ -289,7 +274,7 @@ export default {
         };
         reader.onerror = reject;
         reader.readAsText(file);
-      })
+      });
     }
   }
 }

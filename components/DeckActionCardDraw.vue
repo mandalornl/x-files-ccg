@@ -111,18 +111,22 @@ export default {
   }),
 
   computed: {
-    name() {
-      return this.deck?.name ?? defaultDeckName;
+    isNew() {
+      return !this.deck?.name;
+    },
+
+    size() {
+      return this.deck?.size ?? 0;
     },
 
     disabled() {
-      return this.$store.getters['deckBuilding/sizeByName'](this.name) < 8;
+      return this.size < 8 && this.$store.getters['deckBuilding/deckSize'] < 8;
     },
 
     cards() {
-      const deck = this.$store.getters['deckBuilding/deckByName'](this.name);
+      const cards = this.isNew ? this.$store.state.deckBuilding.deck : this.deck.cards;
 
-      return Object.entries(deck)
+      return Object.entries(cards)
         .reduce((result, [
           id,
           quantity

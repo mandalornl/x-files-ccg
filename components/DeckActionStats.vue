@@ -120,23 +120,23 @@ export default {
   }),
 
   computed: {
-    name() {
-      return this.deck?.name ?? defaultDeckName;
+    isNew() {
+      return !this.deck?.name;
     },
 
     disabled() {
-      return this.$store.getters['deckBuilding/sizeByName'](this.name) === 0;
+      return this.isNew && this.$store.getters['deckBuilding/deckSize'] === 0;
     },
 
     cards() {
-      const deck = this.$store.getters['deckBuilding/deckByName'](this.name);
-      const ids = Object.keys(deck);
+      const cards = this.isNew ? this.$store.state.deckBuilding.deck : this.deck.cards;
+      const ids = Object.keys(cards);
 
       return pool
         .filter(({ id }) => ids.includes(id))
         .map((card) => ({
           ...card,
-          quantity: deck[card.id] ?? 0
+          quantity: cards[card.id] ?? 0
         }));
     }
   },

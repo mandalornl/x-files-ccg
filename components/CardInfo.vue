@@ -100,7 +100,7 @@
               </v-tooltip>
             </div>
             <v-btn
-              :disabled="cardIndex === -1 || cardIndex === cardsLength - 1"
+              :disabled="cardIndex === -1 || cardIndex === cards.length - 1"
               icon
               title="Next"
               @click="nextCard"
@@ -161,9 +161,9 @@ export default {
       type: Number,
       default: -1
     },
-    cardsLength: {
-      type: Number,
-      default: 0
+    cards: {
+      type: Array,
+      default: () => ([])
     },
     disablePagination: {
       type: Boolean,
@@ -245,7 +245,7 @@ export default {
     },
 
     quantity() {
-      return this.$store.getters['deckBuilding/quantityByCardId'](this.card.id);
+      return this.$store.getters['deckBuilding/quantityInDeck'](this.card.id);
     },
 
     realQuantity() {
@@ -255,7 +255,7 @@ export default {
         const num = id.replace(/^xf\d{2}-(\d{4})v\d$/i, '$1');
         const otherId = id.endsWith('v1') ? `XF97-${num}v2` : `XF96-${num}v1`;
 
-        return this.quantity + this.$store.getters['deckBuilding/quantityByCardId'](otherId);
+        return this.quantity + this.$store.getters['deckBuilding/quantityInDeck'](otherId);
       }
 
       return this.quantity;
@@ -300,11 +300,11 @@ export default {
     },
 
     nextCard() {
-      if (this.cardIndex === -1 || this.cardIndex === this.cardsLength - 1) {
+      if (this.cardIndex === -1 || this.cardIndex === this.cards.length - 1) {
         return;
       }
 
-      const index = Math.min(this.cardsLength - 1, this.cardIndex + 1);
+      const index = Math.min(this.cards.length - 1, this.cardIndex + 1);
 
       this.$emit('click:index', index);
     },
@@ -314,7 +314,7 @@ export default {
         return;
       }
 
-      this.$store.commit('deckBuilding/removeCard', { id: this.card.id });
+      this.$store.commit('deckBuilding/removeCardFromDeck', this.card.id);
     },
 
     addCard() {
@@ -322,7 +322,7 @@ export default {
         return;
       }
 
-      this.$store.commit('deckBuilding/addCard', { id: this.card.id });
+      this.$store.commit('deckBuilding/addCardToDeck', this.card.id);
     },
 
     onKeyup(event) {

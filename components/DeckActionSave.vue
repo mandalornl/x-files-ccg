@@ -41,8 +41,6 @@
 </template>
 
 <script>
-import { defaultDeckName } from '~/store/deckBuilding';
-
 export default {
   name: 'DeckActionSave',
 
@@ -68,11 +66,11 @@ export default {
 
   computed: {
     isNew() {
-      return this.deck?.new ?? true;
+      return !this.deck?.name;
     },
 
     disabled() {
-      return this.isNew && this.$store.getters['deckBuilding/sizeByName']() === 0;
+      return this.isNew && this.$store.getters['deckBuilding/deckSize'] === 0;
     }
   },
 
@@ -96,16 +94,21 @@ export default {
 
       if (
         this.$store.getters['deckBuilding/hasName'](this.name)
-        && !confirm('A deck with a similar name already exists. Overwrite anyways?')
+        && !confirm(`A deck with name '${this.name}' already exists. Do you want to overwrite it?`)
       ) {
         return;
       }
 
-      this.$store.commit('deckBuilding/rename', {
-        from: this.isNew ? defaultDeckName : this.deck.name,
-        to: this.name
-      });
-      this.$store.commit('snackbar/setSuccess', this.isNew ? 'Deck saved successfully!' : 'Deck renamed successfully!');
+      if (this.isNew) {
+        this.$store.commit('deckBuilding/saveDeck', this.name);
+        this.$store.commit('snackbar/setSuccess', 'Deck saved successfully!');
+      } else {
+        this.$store.commit('deckBuilding/renameDeck', {
+          oldName: this.deck.name,
+          newName: this.name
+        });
+        this.$store.commit('snackbar/setSuccess', 'Deck renamed successfully!');
+      }
 
       this.menu = false;
     }

@@ -25,7 +25,7 @@ export default {
 
   computed: {
     disabled() {
-      return this.$store.getters['deckBuilding/sizeByName']() === 0;
+      return this.$store.getters['deckBuilding/deckSize'] === 0;
     }
   },
 
@@ -35,7 +35,7 @@ export default {
         return;
       }
 
-      this.$store.dispatch('deckBuilding/clear');
+      this.$store.commit('deckBuilding/clearDeck');
       this.$store.commit('snackbar/setSuccess', 'Cards cleared successfully!');
     }
   }

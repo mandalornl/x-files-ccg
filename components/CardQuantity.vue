@@ -25,7 +25,7 @@ export default {
 
   computed: {
     quantity() {
-      return this.$store.getters['deckBuilding/quantityByCardId'](this.id);
+      return this.$store.getters['deckBuilding/quantityInDeck'](this.id);
     }
   }
 }

@@ -50,12 +50,10 @@
           <div class="d-flex align-center mb-sm-4 mb-lg-0">
             <deck-action-save small />
             <deck-action-stats
-              :deck="$store.getters['deckBuilding/defaultDeck']"
               small
               content-class="ml-1"
             />
             <deck-action-card-draw
-              :deck="$store.getters['deckBuilding/defaultDeck']"
               small
               content-class="ml-1"
             />
@@ -162,7 +160,7 @@
       v-model="cardInfoVisible"
       :card="selectedCard"
       :card-index="selectedCardIndex"
-      :cards-length="cards.length"
+      :cards="cards"
       @click:index="selectedCard = cards[$event]"
       @click:filter="updateFilterValue"
     />
@@ -321,7 +319,7 @@ export default {
           }
         }
 
-        if (this.showSelected && this.$store.getters['deckBuilding/quantityByCardId'](card.id) === 0) {
+        if (this.showSelected && this.$store.getters['deckBuilding/quantityInDeck'](card.id) === 0) {
           return false;
         }
 
@@ -396,7 +394,7 @@ export default {
     },
 
     deckSize() {
-      return this.$store.getters['deckBuilding/sizeByName']();
+      return this.$store.getters['deckBuilding/deckSize'];
     }
   },
 
