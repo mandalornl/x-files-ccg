@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import { cards } from '~/config/card';
+import { pool } from '~/config/card';
 import { download } from '~/mixins/download';
 
 export default {
@@ -40,7 +40,7 @@ export default {
     const data = Buffer
       .from([
         '"","#","Title","Type","Set","Rarity"',
-        ...cards.filter(({ set }) => [
+        ...pool.filter(({ set }) => [
           'Premiere',
           'The Truth is Out There',
           '101361',

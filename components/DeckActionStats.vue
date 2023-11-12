@@ -95,8 +95,7 @@
 </template>
 
 <script>
-import { cards } from '~/config/card';
-import { defaultDeckName } from '~/store/deckBuilding';
+import { pool } from '~/config/card';
 
 export default {
   name: 'DeckActionStats',
@@ -133,7 +132,7 @@ export default {
       const deck = this.$store.getters['deckBuilding/deckByName'](this.name);
       const ids = Object.keys(deck);
 
-      return cards
+      return pool
         .filter(({ id }) => ids.includes(id))
         .map((card) => ({
           ...card,

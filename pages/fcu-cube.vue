@@ -115,7 +115,7 @@
 <script>
 import shuffle from 'lodash/shuffle';
 
-import { cards } from '~/config/card';
+import { pool } from '~/config/card';
 import cube from '~/config/fcu-cube.json';
 
 export default {
@@ -233,7 +233,7 @@ export default {
 
       return items
         .map((uid) => ({
-          ...cards.find((card) => uid.startsWith(card.id)),
+          ...pool.find((card) => uid.startsWith(card.id)),
           uid
         }))
         .sort((a, b) => {

@@ -134,7 +134,7 @@
 </template>
 
 <script>
-import { cards } from '~/config/card';
+import { pool } from '~/config/card';
 import { download } from '~/mixins/download';
 import { defaultDeckName } from '~/store/deckBuilding';
 
@@ -214,7 +214,7 @@ export default {
                 set,
                 title,
                 type
-              } = cards.find((card) => card.id === id);
+              } = pool.find((card) => card.id === id);
 
               return {
                 id,

@@ -2045,7 +2045,7 @@
 <script>
 import sample from 'lodash/sample';
 
-import { cards } from '~/config/card';
+import { pool } from '~/config/card';
 
 export default {
   data: () => ({
@@ -2169,7 +2169,7 @@ export default {
 
   methods: {
     drawCardByType(value) {
-      return sample(cards.filter(({
+      return sample(pool.filter(({
         type,
         set
       }) => type === value && ![
@@ -2179,7 +2179,7 @@ export default {
     },
 
     drawCardByCostType(value) {
-      return sample(cards.filter(({
+      return sample(pool.filter(({
         cost,
         set
       }) => cost?.endsWith?.(value) && ![
@@ -2189,7 +2189,7 @@ export default {
     },
 
     findCardById(value) {
-      return cards.find(({ id }) => id === value)
+      return pool.find(({ id }) => id === value)
     },
 
     goto(hash) {

@@ -52,7 +52,7 @@
           multiple
         >
           <v-expansion-panel
-            v-for="(filter, key) in filters"
+            v-for="(filter, key) of filters"
             :key="key"
           >
             <v-expansion-panel-header>
@@ -146,7 +146,7 @@
           }"
         >
           <v-col
-            v-for="card in cards"
+            v-for="card of cards"
             :key="card.id"
             cols="6"
             sm="4"
@@ -196,7 +196,7 @@
 import { Intersect } from 'vuetify/lib/directives';
 
 import {
-  cards,
+  pool,
   sets
 } from '~/config/card';
 import {
@@ -274,7 +274,7 @@ export default {
 
   computed: {
     availableAgents() {
-      return cards
+      return pool
         .filter(({
           set,
           type,

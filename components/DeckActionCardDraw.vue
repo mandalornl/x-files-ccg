@@ -84,8 +84,7 @@
 <script>
 import sampleSize from 'lodash/sampleSize';
 
-import { cards } from '~/config/card';
-import { defaultDeckName } from '~/store/deckBuilding';
+import { pool } from '~/config/card';
 
 export default {
   name: 'DeckActionCardDraw',
@@ -130,7 +129,7 @@ export default {
         ]) => ([
           ...result,
           ...Array.from({ length: quantity }, (_, index) => {
-            const card = cards.find((card) => card.id === id);
+            const card = pool.find((card) => card.id === id);
 
             return {
               ...card,

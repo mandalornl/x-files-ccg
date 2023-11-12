@@ -8,7 +8,7 @@ import gencon from '~/config/card-list/gencon.json';
 import delaney from '~/config/card-list/100617.json';
 import dream from '~/config/card-list/dream.json';
 
-export const cards = [
+export const pool = [
   ...premiere,
   ...ttiot,
   ...mulder,

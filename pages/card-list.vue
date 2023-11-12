@@ -173,7 +173,7 @@
 import { Intersect } from 'vuetify/lib/directives';
 
 import {
-  cards,
+  pool,
   sets,
   types,
   activators,
@@ -252,7 +252,7 @@ export default {
     );
 
     const itemsPerPage = this.$vuetify.breakpoint.xsOnly ? 25 : 50;
-    const selectedCard = cards.find(({ id }) => id === this.$route.query.id) ?? null;
+    const selectedCard = pool.find(({ id }) => id === this.$route.query.id) ?? null;
 
     return {
       filters,
@@ -305,7 +305,7 @@ export default {
     cards() {
       const search = this.search?.toLocaleLowerCase?.();
 
-      const hits = cards.filter((card) => {
+      const hits = pool.filter((card) => {
         if (search) {
           const hit = [
             card.id,
