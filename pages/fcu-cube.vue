@@ -2,10 +2,10 @@
   <layout-default large>
     <h1>Introduction</h1>
     <p>The X-Files CCG 'FCU' (Fixed, Common & Uncommon) Cube is a card set designed to replicate the feeling of deck construction by booster pack or sealed deck opening without the need for such products.</p>
-    <p>The cardlist for this cube includes only common, uncommon and fixed cards from the Premiere/The Truth is Out There and 101361 editions, with the aim that this will make creating the card pool it uses possible for the widest number of collectors, without compromising on interesting gameplay.</p>
+    <p>The card list for this cube includes only common, uncommon and fixed cards from the Premiere/The Truth is Out There and 101361 editions, with the aim that this will make creating the card pool it uses possible for the widest number of collectors, without compromising on interesting gameplay.</p>
     <h2>Sealed Play</h2>
     <p>If you plan to use this cube for games by webcam then Sealed Play is the instruction set that you will use. Sealed instructions are also the ones to use if you're playing 2-player in- person.</p>
-    <p>For sealed play, first shuffle all the agents from the cardlist together. Deal 8 to each player present. These are the agents you will pick from to create your team.</p>
+    <p>For sealed play, first shuffle all the agents from the card list together. Deal 8 to each player present. These are the agents you will pick from to create your team.</p>
     <p>After agents have been dealt, shuffle all non-agent cards together, then deal 120 cards to each player present. The cards you are dealt will be used to construct your bureau deck.</p>
     <p>Deck construction and gameplay then proceeds as described in the official rules.</p>
     <p class="text-right text-caption d-block">
