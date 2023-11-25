@@ -179,6 +179,7 @@ import {
   rarities,
   tags,
   episodes,
+  costs
 } from '~/config/card';
 import { sortBy } from '~/assets/sort-by';
 
@@ -215,6 +216,11 @@ export default {
         rarity: {
           label: 'Rarity',
           items: rarities,
+          operation: 'and'
+        },
+        cost: {
+          label: 'Cost',
+          items: costs,
           operation: 'and'
         },
         episode: {
