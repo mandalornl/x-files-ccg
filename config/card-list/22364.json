@@ -294,7 +294,7 @@
     "rarity": "Community",
     "episode": "The List",
     "type": "Adversary",
-    "cost": "8 RP",
+    "cost": "8 CP",
     "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 6,
@@ -561,7 +561,7 @@
     "rarity": "Community",
     "episode": "D.P.O.",
     "type": "Bluff",
-    "cost": "3 CP",
+    "cost": "4 CP",
     "keywords": [
       "Bluff"
     ],
@@ -997,7 +997,7 @@
     "rarity": "Community",
     "episode": "Avatar",
     "type": "Event",
-    "cost": "2 RP",
+    "cost": "2 CP",
     "keywords": [
       "Event"
     ],

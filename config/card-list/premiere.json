@@ -507,7 +507,7 @@
     "rarity": "Uncommon",
     "episode": "Blood",
     "type": "Combat",
-    "cost": "2 CP",
+    "cost": "1 *P",
     "keywords": [
       "Combat"
     ],
@@ -1255,7 +1255,7 @@
     "rarity": "Uncommon",
     "episode": "Young At Heart",
     "type": "Site",
-    "cost": "2 RP",
+    "cost": "1 RP",
     "keywords": [
       "Site",
       "Multi",
@@ -4444,7 +4444,7 @@
     "rarity": "Uncommon",
     "episode": "Tooms",
     "type": "Event",
-    "cost": "2 RCP",
+    "cost": "2 RP",
     "keywords": [
       "Event",
       "Evidence Collection",
@@ -4539,7 +4539,7 @@
     "rarity": "Rare",
     "episode": "Blood",
     "type": "Event",
-    "cost": "9 CP",
+    "cost": "8 CP",
     "keywords": [
       "Event",
       "Government"
@@ -5603,7 +5603,7 @@
     "rarity": "Common",
     "episode": null,
     "type": "Event",
-    "cost": "2 CP",
+    "cost": "2 RP",
     "keywords": [
       "Event",
       "Training"
@@ -5659,7 +5659,7 @@
     "rarity": "Uncommon",
     "episode": "Deep Throat",
     "type": "Event",
-    "cost": "2 3P",
+    "cost": "3 CP",
     "keywords": [
       "Event",
       "Government"
