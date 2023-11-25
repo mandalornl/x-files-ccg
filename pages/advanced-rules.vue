@@ -206,7 +206,7 @@
         />
         An example of an Agent card's RES Number.
       </v-alert>
-      <p>Add up all Agent's RES numbers. This is the number of tokens that may be added to the Resource Pool at the beginning of your turn. Agents in the Hospital during the Briefing Phase do not contribute their RES number to create <resource-pool />s. After adding the <resource-pool />s to your pool, you may then purchase cards. Each card costs <b>1</b> <resource-pool />. Purchased cards are always taken from the top of the Bureau Deck. All cards must be purchased ar once. A player may not purchase cards and then decide to purchase more after looking at the cards purchased. Regardless of how many cards are bought, no player's hand may exceed seven cards (but can be less) at the end of a turn.</p>
+      <p>Add up all Agent's RES numbers. This is the number of tokens that may be added to the Resource Pool at the beginning of your turn. Agents in the Hospital during the Briefing Phase do not contribute their RES number to create <resource-pool />s. After adding the <resource-pool />s to your pool, you may then purchase cards. Each card costs <b>1</b> <resource-pool />. Purchased cards are always taken from the top of the Bureau Deck. All cards must be purchased at once. A player may not purchase cards and then decide to purchase more after looking at the cards purchased. Regardless of how many cards are bought, no player's hand may exceed seven cards (but can be less) at the end of a turn.</p>
       <p>To keep the Resource Pool and Conspiracy Pool separate, we suggest putting the Resource Pool in the Bureau and the Conspiracy Pool by your X-File card.</p>
       <p class="text-center">
         11
