@@ -1,13 +1,13 @@
 <template>
   <v-avatar
-    :size="small ? 16 : 24"
-    :class="small ? 'rounded' : 'rounded-lg'"
+    :size="small ? 16 : 20"
     tile
     color="red"
     title="Conspiracy Pool"
+    class="rounded"
   >
     <v-icon
-      :size="small ? 12 : 20"
+      :size="small ? 12 : 16"
       color="white"
     >
       mdi-hand-back-left
