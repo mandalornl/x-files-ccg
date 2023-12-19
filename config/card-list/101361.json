@@ -757,7 +757,8 @@
     "type": "Bluff",
     "cost": "8 CP",
     "keywords": [
-      "Bluff"
+      "Bluff",
+      "Abduction"
     ],
     "activators": [
       "Conspiracy",
