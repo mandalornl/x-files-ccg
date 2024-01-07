@@ -63,7 +63,7 @@ export default {
       this.$store.commit('snackbar/setVisible', false);
 
       try {
-        await navigator.clipboard.writeText(`${location.protocol}://${location.host}${this.href}`);
+        await navigator.clipboard.writeText(`${location.protocol}//${location.host}${this.href}`);
 
         this.$store.commit('snackbar/setSuccess', 'Copied to clipboard.');
       } catch (error) {
