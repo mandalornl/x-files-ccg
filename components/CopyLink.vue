@@ -59,11 +59,11 @@ export default {
   },
 
   methods: {
-    async copyToClipboard() {
+    async copyToClipboard(event) {
       this.$store.commit('snackbar/setVisible', false);
 
       try {
-        await navigator.clipboard.writeText(this.href);
+        await navigator.clipboard.writeText(event.target.href);
 
         this.$store.commit('snackbar/setSuccess', 'Copied to clipboard.');
       } catch (error) {
