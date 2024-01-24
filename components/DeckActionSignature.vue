@@ -3,7 +3,7 @@
     :disabled="disabled"
     :small="small"
     icon
-    title="Copy deck to url to clipboard"
+    title="Copy deck url to clipboard"
     @click.prevent="copyToClipboard"
   >
     <v-icon :small="small">
