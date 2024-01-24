@@ -12,6 +12,10 @@ export const getters = {
 };
 
 export const mutations = {
+  setDeck(state, value) {
+    state.deck = value;
+  },
+
   saveDeck(state, name) {
     state.decks = {
       ...state.decks,

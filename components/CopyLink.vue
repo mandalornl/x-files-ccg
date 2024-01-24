@@ -21,7 +21,7 @@
                 :color="color"
                 class="ml-2"
               >
-                mdi-link
+                mdi-link-variant
               </v-icon>
             </a>
           </template>

@@ -27,7 +27,7 @@
             />
           </v-card-text>
         </v-card>
-        <div class="d-flex flex-sm-column flex-lg-row align-center align-sm-start align-lg-center">
+        <div class="d-flex flex-sm-column flex-xl-row align-center align-sm-start align-xl-center">
           <v-switch
             v-model="showSelected"
             :disabled="deckSize === 0"
@@ -46,8 +46,8 @@
               </v-badge>
             </template>
           </v-switch>
-          <v-spacer class="hidden-sm-only hidden-md-only" />
-          <div class="d-flex align-center mb-sm-4 mb-lg-0">
+          <v-spacer class="hidden-sm-only hidden-md-only hidden-lg-only" />
+          <div class="d-flex align-center mb-sm-4 mb-xl-0">
             <deck-action-save small />
             <deck-action-stats
               small
@@ -57,6 +57,7 @@
               small
               content-class="ml-1"
             />
+            <deck-action-signature small />
             <deck-action-clear
               small
               class="ml-1"
@@ -455,6 +456,8 @@ export default {
         this.page = 1;
       });
     });
+
+    setTimeout(this.loadDeckFromSignature);
   },
 
   beforeDestroy () {
@@ -506,6 +509,32 @@ export default {
       const input = event.target.closest('.v-input').querySelector('input');
 
       this.search = input?.value ?? '';
+    },
+
+    loadDeckFromSignature() {
+      if (!this.$route.query.signature) {
+        return;
+      }
+
+      try {
+        const signature = decodeURIComponent(this.$route.query.signature);
+        const deck = JSON.parse(Buffer.from(signature, 'base64').toString());
+
+        if (
+          this.$store.getters['deckBuilding/deckSize'] > 0
+          && !confirm('It looks like another deck is already active. Do you want to continue?\n\nAny unsaved changes will be lost.')
+        ) {
+          return;
+        }
+
+        this.$store.commit('deckBuilding/setDeck', deck);
+      } catch {
+        this.$store.commit('snackbar/setError', 'Failed to load deck from signature url.');
+      } finally {
+        this.$router.replace({
+          query: undefined
+        });
+      }
     }
   }
 }
