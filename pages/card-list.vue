@@ -528,9 +528,15 @@ export default {
         }
 
         this.$store.commit('deckBuilding/setDeck', deck);
+
+        this.$router.replace({
+          query: {
+            showSelected: null
+          }
+        });
       } catch {
         this.$store.commit('snackbar/setError', 'Failed to load deck from signature url.');
-      } finally {
+        
         this.$router.replace({
           query: undefined
         });
