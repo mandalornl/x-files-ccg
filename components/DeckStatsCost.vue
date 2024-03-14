@@ -43,7 +43,7 @@ export default {
       validator: (value) => [
         'RP',
         'CP',
-        'PP'
+        '*P'
       ].includes(value)
     }
   },
