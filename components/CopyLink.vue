@@ -21,7 +21,7 @@
                 :color="color"
                 class="ml-2"
               >
-                mdi-link
+                mdi-link-variant
               </v-icon>
             </a>
           </template>
@@ -50,20 +50,20 @@ export default {
 
   computed: {
     href() {
-      const { route } = this.$router.resolve({
+      const { href } = this.$router.resolve({
         hash: `#${this.value}`
       });
 
-      return route.fullPath;
+      return href;
     }
   },
 
   methods: {
-    async copyToClipboard() {
+    async copyToClipboard(event) {
       this.$store.commit('snackbar/setVisible', false);
 
       try {
-        await navigator.clipboard.writeText(`${location.protocol}//${location.host}${this.href}`);
+        await navigator.clipboard.writeText(event.currentTarget.href);
 
         this.$store.commit('snackbar/setSuccess', 'Copied to clipboard.');
       } catch (error) {

@@ -145,7 +145,7 @@ export default {
   computed: {
     routeQuery() {
       return {
-        sig: this.createSig(this.players),
+        signature: this.createSignature(this.players),
         view: this.view === 'grid' ? undefined: this.view
       };
     }
@@ -175,7 +175,7 @@ export default {
     const [
       player1 = [],
       player2 = []
-    ] = this.getPlayersFromSig();
+    ] = this.loadPlayersFromSignature();
 
     if (player1.length > 0 && player2.length > 0) {
       this.players = [
@@ -238,7 +238,7 @@ export default {
         .sort(sortBy('type', 'id'));
     },
 
-    createSig(players) {
+    createSignature(players) {
       if (players.length === 0) {
         return undefined;
       }
@@ -248,11 +248,13 @@ export default {
       return encodeURIComponent(Buffer.from(data).toString('base64'));
     },
 
-    getPlayersFromSig() {
-      try {
-        const sig = decodeURIComponent(this.$route.query.sig ?? '[]');
+    loadPlayersFromSignature() {
+      this.$store.commit('snackbar/setVisible', false);
 
-        return JSON.parse(Buffer.from(sig, 'base64').toString());
+      try {
+        const signature = decodeURIComponent(this.$route.query.signature ?? '[]');
+
+        return JSON.parse(Buffer.from(signature, 'base64').toString());
       } catch {
         return [];
       }
