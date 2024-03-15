@@ -30,6 +30,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          node-version: "20"
       - name: Detect package manager
         id: detect-package-manager
         run: |
@@ -48,11 +50,12 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: "20"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
       - name: Setup Pages
         uses: actions/configure-pages@v2
         with:
+          node-version: "20"
           # Automatically inject router.base in your Nuxt configuration file and set
           # target to static (https://nuxtjs.org/docs/configuration-glossary/configuration-target/).
           #
@@ -61,6 +64,7 @@ jobs:
       - name: Restore cache
         uses: actions/cache@v3
         with:
+          node-version: "20"
           path: |
             dist
             .nuxt
