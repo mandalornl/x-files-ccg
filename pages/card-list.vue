@@ -410,15 +410,12 @@ export default {
       this.page = 1;
     },
 
-    routeQuery(value) {
+    routeQuery(query) {
       clearTimeout(this.timeoutId);
 
       this.timeoutId = setTimeout(() => {
         const { route } = this.$router.resolve({
-          query: {
-            ...this.$route.query,
-            ...value
-          }
+          query
         });
 
         if (route.fullPath !== this.$route.fullPath) {
@@ -529,14 +526,10 @@ export default {
 
         this.$store.commit('deckBuilding/setDeck', deck);
 
-        this.$router.replace({
-          query: {
-            showSelected: null
-          }
-        });
+        this.showSelected = true;
       } catch {
         this.$store.commit('snackbar/setError', 'Failed to load deck from signature url.');
-        
+
         this.$router.replace({
           query: undefined
         });

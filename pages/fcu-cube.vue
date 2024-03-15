@@ -153,7 +153,9 @@ export default {
 
   watch: {
     routeQuery(query) {
-      const { route } = this.$router.resolve({ query });
+      const { route } = this.$router.resolve({
+        query
+      });
 
       if (route.fullPath !== this.$route.fullPath) {
         this.$router.replace(route);

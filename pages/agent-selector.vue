@@ -425,15 +425,12 @@ export default {
   },
 
   watch: {
-    routeQuery(value) {
+    routeQuery(query) {
       clearTimeout(this.timeoutId);
 
       this.timeoutId = setTimeout(() => {
         const { route } = this.$router.resolve({
-          query: {
-            ...this.$route.query,
-            ...value
-          }
+          query
         });
 
         if (route.fullPath !== this.$route.fullPath) {
