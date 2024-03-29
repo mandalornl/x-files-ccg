@@ -139,21 +139,22 @@
     "type": "Adversary",
     "cost": "6 CP",
     "skills": {
-      "Long Range Combat": 0,
+      "Long Range Combat": "N/A",
       "Close Range Combat": 5,
       "Health": 6
     },
     "keywords": [
       "Adversary",
       "Occult",
-      "Creature"
+      "Creature",
+      "Pawn"
     ],
     "activators": [
       "Conspiracy",
-      "Result Site"
+      "Method Site"
     ],
-    "gameText": "This Adversary may use OCCULT cards. LRC and CRC attacks cause only half damage (rounded up) to the Living Scarecrow. This Adversary is vulnerable to the full effect of the \"Psychokinetic Attack\".",
-    "dialogue": "Mulder: \"Like other effigies, the scarecrow is an unintelligent creation, classically used by farmers to protect their crops.\"\nStephen Arvidson: \"Right, except this thing wasn't just scaring off birds. It killed our neighbors.\""
+    "gameText": "The cost to play this card is 3 [CP] if the Site Prerequisite is OCCULT INVESTIGATION. LRC and CRC attacks cause only half damage (rounded up) to this Adversary.",
+    "dialogue": "Mulder: \"Like other effigies, the scarecrow is an unintelligent creation, classically used by farmers to protect their crops.\"\nStephen Arvidson: \"Right. Except this thing wasn't just warding off birds. It killed our neighbors.\""
   },
   {
     "title": "Psychokinetic Attack",
