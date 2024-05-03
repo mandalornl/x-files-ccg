@@ -6,6 +6,7 @@ import season4 from '~/config/card-list/040460.json';
 import promo from '~/config/card-list/promo.json';
 import gencon from '~/config/card-list/gencon.json';
 import delaney from '~/config/card-list/100617.json';
+import iWantToBelieve from '~/config/card-list/i-want-to-believe.json';
 import dream from '~/config/card-list/dream.json';
 
 export const pool = [
@@ -17,6 +18,7 @@ export const pool = [
   ...promo,
   ...gencon,
   ...delaney,
+  ...iWantToBelieve,
   ...dream
 ].map((card) => ({
   ...card,
@@ -34,6 +36,7 @@ export const sets = [
   'Promo',
   'Gen Con',
   '100617',
+  'I Want to Believe',
   'Dream'
 ];
 

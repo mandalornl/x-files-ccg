@@ -1,0 +1,497 @@
+[
+  {
+    "id": "XF08-0001v1",
+    "title": "Midnight Chase",
+    "cost": "1 RP",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any Agent to immediately skip one combat round for that Agent in this round. The Agent takes no damage that round and may not deal any damage either.",
+    "dialogue": "\"Well, whatever it is you do believe, Scully…when you walk into that room nothing sacred will hold.\" - Mulder",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0002v1",
+    "title": "Identity Intrusion",
+    "cost": "5 CP",
+    "episode": "Lazarus",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Occult"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card to gain control of an Agent during a single Combat round (your choice).",
+    "dialogue": "Scully: \"What does that mean?\"\nMulder: \"It means... It means whatever you want it to mean. Good night.\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0003v1",
+    "title": "Hostages",
+    "cost": "1 CP",
+    "episode": "Duane Barry",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card after an Adversary card has been successfully played on a Site. Discard a card from your hand to recover the cost of that Adversary (halved up).",
+    "dialogue": "\"I just want to say that I believe you.\" - Kimberley",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0004v1",
+    "title": "Field Treatment",
+    "cost": "1 RP",
+    "episode": "Anasazi",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Healing"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any Agent in the Field to immediately heal 2 points of damage after an LRC round.",
+    "dialogue": "\"This is Albert Hosteen. He's been translating your files.\" - Scully",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0005v1",
+    "title": "FBI Crossroads",
+    "cost": "3 *P",
+    "episode": "Paper Clip",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card during an LRC round on a combatant you control with an LRC skill. That combatant and one other combatant's HEALTH by two during the Combat.",
+    "dialogue": "Scully: \"Damn it, Skinner!\nMulder: \"Drop your weapon!\"\nSkinner: \"Back off!\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0006v1",
+    "title": "FBI Raid",
+    "cost": "2 RP",
+    "episode": "2Shy",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card during a combat on a Team of Agents to reduce damage from an Adversary's LRC by two points. The team still deals damage during that LRC round.",
+    "dialogue": "Scully: \"Mulder! The landlady's body! We found her in the bathroom!\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0007v1",
+    "title": "Emergency Evacuation",
+    "cost": "3 RP",
+    "episode": "731",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card at the end of any Combat round to allow up to two Agents in that Team to leave the Combat if their HEALTH was not reduced to zero yet. Both Agents may still contribute their skills to other skill checks and be moved to the Hospital this turn.",
+    "dialogue": "\"I want an apology for the truth.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0008v1",
+    "title": "Hidden Twin-Barrell",
+    "cost": "3 *P",
+    "episode": "Piper Maru",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant to increase or decrease that Combatant's LRC by two points during that round.",
+    "dialogue": "\"It's open. Can I help you?\" - Geraldine",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0009v1",
+    "title": "Agent Medical Escort",
+    "cost": "2 RP",
+    "episode": "Apocripha",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "One Agent (your choice) may immediately \"escort\" another Agent in the same Team if forced to go to the Hospital (only if chosen Agent is not required to go to the Hospital too). The escorted Agent may remove three additional points of damage while being accompanied during the next healing phase.",
+    "dialogue": " \"I just wanted to make sure you got where you were going safely.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0010v1",
+    "title": "Battle Expertise",
+    "cost": "1 *P",
+    "episode": "Unrequited",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Target Agent or Adversary gains an extra LRC/CRC bonus skill equal to the number of Combat cards in your Discard pile.",
+    "dialogue": "\"He's got a gun\" - Mulder",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0011v1",
+    "title": "B.A.T.F. Reinforcements",
+    "cost": "4 RP",
+    "episode": "The Field where I died",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on target Team during a Combat to get an extra combatant in that Team with following skills: LRC: 3, CRC: 2, HEALTH: 5. Discard this card after the Combat phase had ended.",
+    "dialogue": "Mulder: \"Is there contact with the temple?\"\nAgent: \"If you call that contact.\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0012v1",
+    "title": "Adversary's Rebirth",
+    "cost": "2 CP",
+    "episode": "Leonard Betts",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on an Evolutionary Adversary immediately after the Combat has ended, when that Adversary played is sent to the Discard Pile. You can start another Combat with the same Adversary for half cost (rounded up) against the same Team of Agents.",
+    "dialogue": "Scully: \"Mulder, I don't know what you're getting at here. Regeneration of an entire body?. I don't know why I'm standing here listening to this.\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0013v1",
+    "title": "Renewed Threat",
+    "cost": "1 CP",
+    "episode": "Kitsunegary",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card at the end of a Combat round on any Adversary card you control to return that Adversary card back to your hand only if the Adversary has not been defeated yet at the end of that round. You can play the Adversary card again (usual rules and cost).",
+    "dialogue": "Mulder: \"If Modell makes it through surgery, I want to be the first person that he talks to.\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0014v1",
+    "title": "Opening Fire",
+    "cost": "3 *P",
+    "episode": "Redux II",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any combatant during one LRC round. That combatant will deal damage  to their opponents first. If the HEALTH value of any opponent reaches zero after applying modifiers or healing cards, that combatant is sent to the Hospital and cannot deal any damage back that round.",
+    "dialogue": "Mulder: \"You murdered my father, you killed Scully's sister, and if Scully dies, I will kill you.\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0015v1",
+    "title": "Quick Strike",
+    "cost": "3 *P",
+    "episode": "S.R. 819",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any combatant during one CRC round. That combatant will deal damage to their opponents first. If the HEALTH value of any opponent reaches zero after applying modifiers or healing cards, that combatant is sent to the Hospital and cannot deal any damage back that round.",
+    "dialogue": "\"Don't telegraph that left, Dre. Stevie Wonder would see that one coming. You're fighting the FBI now, Dre. Fight smart. Go!\" - Skinner's coach",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0016v1",
+    "title": "Masked Identity",
+    "cost": "1 CP",
+    "episode": "Sanguinarium",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card any time during a Combat on any Adversary. If the Adversary's HEALTH was not reduced to zero yet, you may allow that Adversary to end Combat and return the card to your hand, but you cannot play the Adversary again this turn.",
+    "dialogue": "\"I like to say whoever God didn't get around to creating in his own image, it's our job  to recreate in ours.\" - Doctor Kaplan",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0017v1",
+    "title": "FBI and SWAT Strike",
+    "cost": "3 RP",
+    "episode": "Tunguska",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any Agent during the LRC round to add 2 points to that Agent's LRC skill. Additionally, if there is a CRC round, you can reduce the damage from any source by 2 points.",
+    "dialogue": "\"Federal agent, I'm armed! Exit the vehicle, now!\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0018v1",
+    "title": "Suicide Run",
+    "cost": "3 CP",
+    "episode": "Monday",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any Team of Agents at the end of any Combat round. If the Adversary you control is still alive, then You can discard that card to send to the Hospital any one Agent in the Team (your choice). That Agent is reduced to ZERO Health.",
+    "dialogue": "\"He's got a bomb. He's got a bomb. He's got a bomb. He's got a bomb. He's got a bomb...\" - Mulder",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0019v1",
+    "title": "Virtual Training",
+    "cost": "3 RP",
+    "episode": "First Person Shooter",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "This card adds 2 points to an Agent's LRC or CRC skill (your choice) during the Combat.",
+    "dialogue": "Scully: \"Where's Mulder?\"\nLangly: \"Mulder's in level one.\"",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0020v1",
+    "title": "Hand Bind",
+    "cost": "3 CP",
+    "episode": "Orison",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Primordial",
+      "Martial Arts."
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card during a CLOSE RANGE COMBAT round on any Adversary with the Keyword PRIMORDIAL or that is capable of use MARTIAL ARTS cards. The Adversary is capable of binding an Agent (your choice) so that Agent does not deal damage in the rest of CRC rounds.",
+    "dialogue": "\"Go back to hell!\" - Scully",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0021v1",
+    "title": "Ammunition Reload",
+    "cost": "3 RP",
+    "episode": "Signs & Wonders",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any Agent during a LONG RANGE COMBAT round to double that Agent's LRC skill. This effect must be applied before any other modifier and only over the LRC listed on that Agent's card.",
+    "dialogue": "\"Protect me and mine with your quickening power.\" - Jared Chirp",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0022v1",
+    "title": "Serpent Siege",
+    "cost": "1 CP",
+    "episode": "Signs & Wonders",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Primordial"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any PRIMORDIAL Adversary. One of that Adversary's opponents (your choice) is considered \"paralyzed\" for the next round of Combat. That Agent will deal no damage in the next round of Combat.",
+    "dialogue": "\"Help!\" - Mulder",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0023v1",
+    "title": "Backheld",
+    "cost": "2 *P",
+    "episode": "Underneath",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by two points. The combatant using this card does not deal damage in this CRC round.",
+    "dialogue": "\"Let him go, you hear me? Let him go!\" - Reyes",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0024v1",
+    "title": "Elusive Fugitive",
+    "cost": "2 CP/RP",
+    "episode": "I want to Believe",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Primordial",
+      "Pawn"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play on any PAWN or PRIMORDIAL Adversary to negate all damage allocated to that Adversary this round.",
+    "dialogue": "\"Hold the line, gentlemen! Look left! Look right! Hold the line!\" - Agent Drummy",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0025v1",
+    "title": "Smoke Grenade",
+    "cost": "2 CP/RP",
+    "episode": "John Doe",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by two points.",
+    "dialogue": "\"Oh God, John, they're smoking us out. John, I need you here. I need you to focus here John.\" - Agent Reyes",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0026v1",
+    "title": "Tossing Maneuver",
+    "cost": "1 CP/RP",
+    "episode": "The Truth",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Negates the effects of any one Equipment card that adds to CLOSE RANGE COMBAT Skill for the duration of this combat.",
+    "dialogue": "\"Knowle Rohrer? It can't be. I watched Knowle Rohrer die.\" - Doggett",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0027v1",
+    "title": "Evasive Adversary",
+    "cost": "2 CP",
+    "episode": "D-4",
+    "type": "Combat",
+    "keywords": [
+      "Combat",
+      "Primordial"
+    ],
+    "activators": [
+      "Cobat"
+    ],
+    "gameText": "Play on any PRIMORDIAL Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "dialogue": "\"We have an agent alone with a sicko who cutting out women's tongues, a guy known for his vanishing act.\" - Doggett",
+    "createdBy": "Alfredo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  }
+]
