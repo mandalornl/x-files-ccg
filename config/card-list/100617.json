@@ -25,7 +25,8 @@
       "Believer"
     ],
     "gameText": "Place one token on this card. Remove a token to negate one Keyword CREATURE Adversary.",
-    "bio": "As a toddler, Delaney Arvidson was imbued with psychokinetic abilities, the result of prolonged exposure to mystical runes hidden within her favorite stuffed animal. Agents Mulder and Scully learned of her powers while investigating a string of grisly murders near Delaney's home."
+    "bio": "As a toddler, Delaney Arvidson was imbued with psychokinetic abilities, the result of prolonged exposure to mystical runes hidden within her favorite stuffed animal. Agents Mulder and Scully learned of her powers while investigating a string of grisly murders near Delaney's home.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Knuffle Bunny",
@@ -43,7 +44,8 @@
       "Field"
     ],
     "gameText": "Adds 2 to the Agent's EVIDENCE COLLECTION skill. OCCULT Adversaries must assign damage to this Agent. This card is free if the attached Agent has the Keyword CUTE.",
-    "dialogue": "Delaney: \"Will you help us find Knuffle Bunny?\"\nMulder: \"Knuffle Bunny?\"\nKatina Arvidson: \"Her stuffed animal. It went missing two days ago.\""
+    "dialogue": "Delaney: \"Will you help us find Knuffle Bunny?\"\nMulder: \"Knuffle Bunny?\"\nKatina Arvidson: \"Her stuffed animal. It went missing two days ago.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Seamus the Cat",
@@ -61,7 +63,8 @@
       "Site"
     ],
     "gameText": "Play this card to gently push two cards off the top of your opponent's Bureau deck. The two cards are discarded.",
-    "dialogue": "Mulder: \"What do you think, Scully? Should we ask him what he knows about the missing Knuffle Bunny?\"\nScully: \"I think we've dealt with enough cats, Mulder.\""
+    "dialogue": "Mulder: \"What do you think, Scully? Should we ask him what he knows about the missing Knuffle Bunny?\"\nScully: \"I think we've dealt with enough cats, Mulder.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Stephen Arvidson",
@@ -90,7 +93,8 @@
       "Believer"
     ],
     "gameText": "Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck.",
-    "bio": "Stephen Arvidson is a reference librarian and the father of Delaney Arvidson. He and his wife sought to conceal their daughter's psychokinetic abilities. His research into Texas folklore uncovered evidence of a monster stalking the outskirts of Houston."
+    "bio": "Stephen Arvidson is a reference librarian and the father of Delaney Arvidson. He and his wife sought to conceal their daughter's psychokinetic abilities. His research into Texas folklore uncovered evidence of a monster stalking the outskirts of Houston.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Unearthing the Monster",
@@ -109,7 +113,8 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field. If the Team makes an OBSERVATION 4+ skill check, then you may search through your Bureau Deck and add any keyword CREATURE Adversary to your hand.",
-    "dialogue": "Mulder: \"What is it, Delaney? What do you see?\"\nDelaney: \"The monster. It lives here.\"\nMulder: \"We have to go. We have to leave right now!\""
+    "dialogue": "Mulder: \"What is it, Delaney? What do you see?\"\nDelaney: \"The monster. It lives here.\"\nMulder: \"We have to go. We have to leave right now!\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Katina Arvidson",
@@ -128,7 +133,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's BEHAVIORAL or adds 1 to one Team's OCCULT INVESTIGATION skill check.",
-    "dialogue": "Katina: \"We couldn't bring ourselves to tell you. I mean, how do you tell someone your child can do things with her mind? How could anyone ever understand?\"\nScully: \"Believe me, Mrs. Arvidson, we do understand.\""
+    "dialogue": "Katina: \"We couldn't bring ourselves to tell you. I mean, how do you tell someone your child can do things with her mind? How could anyone ever understand?\"\nScully: \"Believe me, Mrs. Arvidson, we do understand.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Living Scarecrow",
@@ -154,7 +160,8 @@
       "Method Site"
     ],
     "gameText": "The cost to play this card is 3 [CP] if the Site Prerequisite is OCCULT INVESTIGATION. LRC and CRC attacks cause only half damage (rounded up) to this Adversary.",
-    "dialogue": "Mulder: \"Like other effigies, the scarecrow is an unintelligent creation, classically used by farmers to protect their crops.\"\nStephen Arvidson: \"Right. Except this thing wasn't just warding off birds. It killed our neighbors.\""
+    "dialogue": "Mulder: \"Like other effigies, the scarecrow is an unintelligent creation, classically used by farmers to protect their crops.\"\nStephen Arvidson: \"Right. Except this thing wasn't just warding off birds. It killed our neighbors.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Psychokinetic Attack",
@@ -172,7 +179,8 @@
       "Combat"
     ],
     "gameText": "Play this card on any Agent with OCCULT INVESTIGATION skill of 1+ to make one LONG RANGE COMBAT attack at LRC skill: 7. The opposing side's LRC attack is negated if the damaged combatant's Health is reduced to 0.",
-    "dialogue": "\"I know this won't come as a shock to you, Mr. and Mrs. Arvidson, but your daughter has a unique psychokinetic ability. One that would give Carrie a run for her money.\" - Mulder"
+    "dialogue": "\"I know this won't come as a shock to you, Mr. and Mrs. Arvidson, but your daughter has a unique psychokinetic ability. One that would give Carrie a run for her money.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "More Men in Black",
@@ -191,7 +199,8 @@
       "Conspiracy"
     ],
     "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If unsuccessful, the Site Prerequisite is increased by 1 for each Agent on the Team that does not have a SUBTERFUGE skill value.",
-    "dialogue": "Mulder: \"Where's the guy who looks like Alex Trebek?\"\nMIB Ray: \"Why does everyone keep saying that? Dude looked nothing like him!\"\nMulder: \"Looked? As in past tense? What happened? Did he retire?\"\nMIB Rei: \"Nah, man. Pancreatic cancer, if you can believe that?\""
+    "dialogue": "Mulder: \"Where's the guy who looks like Alex Trebek?\"\nMIB Ray: \"Why does everyone keep saying that? Dude looked nothing like him!\"\nMulder: \"Looked? As in past tense? What happened? Did he retire?\"\nMIB Rei: \"Nah, man. Pancreatic cancer, if you can believe that?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Reproduction Movie Props",
@@ -209,7 +218,8 @@
       "Field"
     ],
     "gameText": "Adds 2 to the Agent's SUBTERFUGE skill.",
-    "dialogue": "Mulder: \"I'll bite, boys. What's with the toy guns?\"\nMIB Rei: \"To help us blend in.\"\nMIB Ray: \"There's a cosplay convention in town. Pretty smart, huh?\"\nMIB Rei: \"It was my idea.\""
+    "dialogue": "Mulder: \"I'll bite, boys. What's with the toy guns?\"\nMIB Rei: \"To help us blend in.\"\nMIB Ray: \"There's a cosplay convention in town. Pretty smart, huh?\"\nMIB Rei: \"It was my idea.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Peter Shultz",
@@ -230,7 +240,8 @@
       "Evidence Collection"
     ],
     "gameText": "Adds 2 to one Team's COMPUTER or adds 1 to one Team's EVIDENCE COLLECTION skill check.",
-    "dialogue": "Mulder: \"Who found the body?\"\nScully: \"Peter Shultz. He works in Tech Support for the college. As it happens, he's the uncle of Delaney Arvidson, the child we met last month in Texas. It's probably just a coincidence.\"\nMulder: \"You know how I feel about coincidences.\""
+    "dialogue": "Mulder: \"Who found the body?\"\nScully: \"Peter Shultz. He works in Tech Support for the college. As it happens, he's the uncle of Delaney Arvidson, the child we met last month in Texas. It's probably just a coincidence.\"\nMulder: \"You know how I feel about coincidences.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Lauren Evans Osborne",
@@ -249,7 +260,8 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's OBSERVATION skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded.",
-    "dialogue": "\"Whenever I see him, my vision goes blurry and this…sickness overtakes me. He's always there, no matter where I go.\" - Lauren, on encountering Slender Man"
+    "dialogue": "\"Whenever I see him, my vision goes blurry and this…sickness overtakes me. He's always there, no matter where I go.\" - Lauren, on encountering Slender Man",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Whitman College, Walla Walla, WA",
@@ -269,7 +281,8 @@
     ],
     "prerequisite": "COMPUTER 5+ or SCIENCES 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
-    "dialogue": "Scully: \"Last night, a faculty member was found dead in the stairwell under suspicious circumstances.\"\nMulder: \"Can we skip to the part where you explain why this is a FBI matter?\""
+    "dialogue": "Scully: \"Last night, a faculty member was found dead in the stairwell under suspicious circumstances.\"\nMulder: \"Can we skip to the part where you explain why this is a FBI matter?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Slender Man",
@@ -295,7 +308,8 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and the Team is attacked! Agents must immediately discard all attached \"Camera\" Equipment cards. Slender Man is unaffected by MARTIAL ARTS attacks. Damage caused by this Adversary may be split among all opponents (Directed Player's choice).",
-    "dialogue": "I saw a pale figure, tall, in a black suit… He had no face, no eyes\" - Lauren Evans\nOsborne"
+    "dialogue": "I saw a pale figure, tall, in a black suit… He had no face, no eyes\" - Lauren Evans Osborne",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Lurking in Plain Sight",
@@ -314,7 +328,8 @@
       "Conspiracy"
     ],
     "gameText": "Force an opponent Team to make an OBSERVATION 4+ skill check. If they fail, apply a -3 modifier to the Site skill check and your opponent must discard all Witness cards from their hand.",
-    "dialogue": "Mulder: \"What is it, Scully?\"\nScully: \"I thought I saw someone, watching from over there. Did you see him?\"\nMulder: \"No, but then again my eyesight's not what it used to be.\""
+    "dialogue": "Mulder: \"What is it, Scully?\"\nScully: \"I thought I saw someone, watching from over there. Did you see him?\"\nMulder: \"No, but then again my eyesight's not what it used to be.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Michael Myers",
@@ -340,7 +355,8 @@
       "Motive Site"
     ],
     "gameText": "This Adversary regenerates (Heals) two points of HEALTH at the beginning of each combat round as long as his HEALTH is not at 0. Michael Myers may use SUBTERFUGE cards. If killed in combat, return Myers to your Bureau Deck and shuffle.",
-    "dialogue": "Scully: \"You're the Oxford psychologist. What are we up against?\"\nMulder: \"I'm not convinced what we're dealing with is entirely human.\""
+    "dialogue": "Scully: \"You're the Oxford psychologist. What are we up against?\"\nMulder: \"I'm not convinced what we're dealing with is entirely human.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Haddonfield, IL",
@@ -358,7 +374,8 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+.",
     "question": "You may ask one MOTIVE question.",
-    "dialogue": "\"Since 1978, Haddonfield has been synonymous with Michael Myers, the notorious serial killer who stalked and killed an untold number of people.\" - Mulder"
+    "dialogue": "\"Since 1978, Haddonfield has been synonymous with Michael Myers, the notorious serial killer who stalked and killed an untold number of people.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Confronting the Shape",
@@ -376,7 +393,8 @@
       "Adversary"
     ],
     "gameText": "Play this card when an Adversary is about to enter Combat with a single Agent. Search through your Bureau Deck and add any one Combat card to your hand. Reshuffle your Bureau Deck.",
-    "dialogue": "\"Federal Agent! Drop your weapon!\" - Mulder"
+    "dialogue": "\"Federal Agent! Drop your weapon!\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Yumi Sagiuchi Shultz",
@@ -403,7 +421,8 @@
       "Believer"
     ],
     "gameText": "Place one token on this card. Discard a token to negate one non-Combat effect that forces an Agent on the Team to go to the Hospital.",
-    "bio": "Yumi Sagiuchi Shultz is violist for the Bergen Philharmonic Orchestra in Norway. She and her husband, Martin, encountered Agents Mulder and Scully during their investigation into several bizarre attacks by troll-like creatures."
+    "bio": "Yumi Sagiuchi Shultz is violist for the Bergen Philharmonic Orchestra in Norway. She and her husband, Martin, encountered Agents Mulder and Scully during their investigation into several bizarre attacks by troll-like creatures.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Martin Shultz",
@@ -422,7 +441,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's OBSERVATION or OCCULT INVESTIGATION skill check. This card is free if played on a Team that includes Yumi Sagiuchi Shultz.",
-    "dialogue": "Martin Shultz: \"Are you the FBI Agents my sister contacted?\"\nScully: \"That's right. I admit we were reluctant to travel all this way, but she insisted that your situation her warranted our attention.\"\nMulder: \"I'd say she was right.\""
+    "dialogue": "Martin Shultz: \"Are you the FBI Agents my sister contacted?\"\nScully: \"That's right. I admit we were reluctant to travel all this way, but she insisted that your situation her warranted our attention.\"\nMulder: \"I'd say she was right.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Hanseatic Quarter, Bergen, Norway",
@@ -442,7 +462,8 @@
     ],
     "prerequisite": "OBSERVATION 5+ or OCCULT INVESTIGATION 5+",
     "question": "You may ask one MOTIVE question or one METHOD question.",
-    "dialogue": "Scully: \"There's a lot of history in these ramshackle warehouses.\"\nMulder: \"This harbor town wears its maritime heritage proudly, but I'm more interested in what dark otherworlds may exist beneath its rustic veneer.\""
+    "dialogue": "Scully: \"There's a lot of history in these ramshackle warehouses.\"\nMulder: \"This harbor town wears its maritime heritage proudly, but I'm more interested in what dark otherworlds may exist beneath its rustic veneer.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Old Leprosy Hospital, Bergen, Norway",
@@ -462,7 +483,8 @@
     ],
     "prerequisite": "MEDICAL 5+ or OBSERVATION 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
-    "dialogue": "Scully: \"This place looks a lot like the one I saw in West Virginia.\"\nMartin Shultz: \"This area was once the leprosy capital of the world. The facility was abandoned in the mid-twentieth century.\""
+    "dialogue": "Scully: \"This place looks a lot like the one I saw in West Virginia.\"\nMartin Shultz: \"This area was once the leprosy capital of the world. The facility was abandoned in the mid-twentieth century.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Funicular",
@@ -481,7 +503,8 @@
       "Field"
     ],
     "gameText": "Attach this card to an Agent in the Field. Discard this card to search through your Bureau Deck and add any one Keyword MOVE card to your hand. Show the card to your opponent and shuffle your Bureau Deck. If the card is immediately playable, you may do so for zero [RP] cost.",
-    "dialogue": "\"It's safer than riding a tram.\" - Mulder"
+    "dialogue": "\"It's safer than riding a tram.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Troll Territory",
@@ -500,7 +523,8 @@
       "Site"
     ],
     "gameText": "Play this card to reduce the [CP] Cost of all Keyword SUBTERFUGE cards played at this Site by 1. While this card is in play, any OCCULT or EVOLUTIONARY Adversaries played at this Site may use SUBTERFUGE Combat cards.",
-    "dialogue": "Scully: \"The stench is unbearable.\"\nMulder: \"I think we've wandered into troll territory, Scully.\""
+    "dialogue": "Scully: \"The stench is unbearable.\"\nMulder: \"I think we've wandered into troll territory, Scully.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Guillaume Saladin",
@@ -526,7 +550,8 @@
       "Believer"
     ],
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any ACTIVE card. If you use this [RP], replace it during your Briefing Phase.",
-    "bio": "As a supply chain manager, Guillaume Saladin ensures that the store he oversees is consistently stocked. Guillaume watches 90's TV shows and collects vinyl records. His beloved cat, Choléra, is never far from his side."
+    "bio": "As a supply chain manager, Guillaume Saladin ensures that the store he oversees is consistently stocked. Guillaume watches 90's TV shows and collects vinyl records. His beloved cat, Choléra, is never far from his side.",
+    "createdBy": "Guillaume Saladin"
   },
   {
     "title": "Fort Boyard, Coastal West France",
@@ -546,7 +571,8 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 5+ or OBSERVATION 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
-    "dialogue": "Mulder: \"This fort was built under Napoleon, right?\"\nGuillaume Saladin: \"Yes, and Louis-Philippe. It was a military prison before it was abandoned around 1900.\""
+    "dialogue": "Mulder: \"This fort was built under Napoleon, right?\"\nGuillaume Saladin: \"Yes, and Louis-Philippe. It was a military prison before it was abandoned around 1900.\"",
+    "createdBy": "Guillaume Saladin"
   },
   {
     "title": "Don't Turn Around!",
@@ -565,7 +591,8 @@
       "Site"
     ],
     "gameText": "Play this card to apply a -2 modifier to the Site skill check. In addition, one Agent on the Team (your choice) may not contribute their Combat skills this turn.",
-    "dialogue": "Mulder: \"Scully? Are you seeing this?\"\nScully: \"Listen to me very carefully, Guillaume. We're gonna get you outta there.\""
+    "dialogue": "Mulder: \"Scully? Are you seeing this?\"\nScully: \"Listen to me very carefully, Guillaume. We're gonna get you outta there.\"",
+    "createdBy": "Guillaume Saladin"
   },
   {
     "title": "Choléra the Cat",
@@ -585,7 +612,8 @@
       "Field"
     ],
     "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill. Place a token on this card. Remove a token to search through your Bureau Deck and add any one Keyword HEALING card to your hand. Shuffle your deck.",
-    "dialogue": "\"Pretty fierce feline you got there. We've seen our share of 'em in the States.\" - Mulder"
+    "dialogue": "\"Pretty fierce feline you got there. We've seen our share of 'em in the States.\" - Mulder",
+    "createdBy": "Guillaume Saladin"
   },
   {
     "title": "David Pease",
@@ -611,7 +639,8 @@
       "Believer"
     ],
     "gameText": "Place a token on this card. Remove a token to search your Bureau deck to draw any one Keyword Equipment card. Show this card to your opponent, add it to your hand and shuffle your deck.",
-    "bio": "As a self-proclaimed \"data nerd\", David Pease provides information, research and resources. Growing up in a region rife with paranormal activities, he is ready to bring his research to practical use. David has keen observation skills and firearms training."
+    "bio": "As a self-proclaimed \"data nerd\", David Pease provides information, research and resources. Growing up in a region rife with paranormal activities, he is ready to bring his research to practical use. David has keen observation skills and firearms training.",
+    "createdBy": "David Pease"
   },
   {
     "title": "Military Police",
@@ -636,7 +665,8 @@
       "Agent"
     ],
     "gameText": "Play to immediately detain one opposing Agent (your choice) by placing the Agent underneath this card. The Agent may not contribute to any skill checks while detained. When Combat ends, the Agent is moved to the Bureau (undamaged) and may not generate RES on the next turn.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Joost Berns",
@@ -662,7 +692,8 @@
       "Believer"
     ],
     "gameText": "Agent Berns may start the game with the \"Uniden Bearcat UBC-125XLT\" Equipment card attached at 0 cost.",
-    "bio": "Works at a small software company and is an avid military aircraft enthusiast in his spare time. Joost encountered Agents Mulder and Scully once while investigating an UFO sighting above a military air base of the RNLAF. He likes to think they are out there…somewhere."
+    "bio": "Works at a small software company and is an avid military aircraft enthusiast in his spare time. Joost encountered Agents Mulder and Scully once while investigating an UFO sighting above a military air base of the RNLAF. He likes to think they are out there…somewhere.",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Alpha-Scramble",
@@ -681,7 +712,8 @@
       "Site"
     ],
     "gameText": "Force the investigating Team back to the Bureau immediately. The Team may not contribute to any skill checks this turn. If one of the Agents has an \"Uniden Bearcat UBC-125XLT\", this card has no effect.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Human Shield",
@@ -700,7 +732,8 @@
       "Combat"
     ],
     "gameText": "Play during CLOSE RANGE COMBAT on any Adversary with the Keyword GOVERNMENT or that is capable of using SUBTERFUGE cards. The Adversary may capture any one Agent from the opposing Team. Any damage done to the Adversary during this CRC round is applied to the captured Agent instead. Any excess damage is applied to the Adversary as normal.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Uniden Bearcat UBC-125XLT",
@@ -719,7 +752,8 @@
       "Field"
     ],
     "gameText": "Place two tokens on this card. Remove a token to add 1 to one Team's OBSERVATION skill check once per turn. During your Requisition Phase you may replenish all tokens for 2 [RP] after the last token has been removed.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Lost and Found",
@@ -737,7 +771,8 @@
       "Conspiracy"
     ],
     "gameText": "Play to force your opponent to discard one card played this turn (your choice), except Sites and Agents. Alternately, you may select one card from your opponent’s Discard Pile and play it immediately at no cost. Place it in its owner's Discard Pile after it has been used. In both instances, X = the [RP] cost of the selected card.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Volkel Air Base, RNLAF, The Netherlands",
@@ -757,7 +792,8 @@
     ],
     "prerequisite": "OBSERVATION 5+ or COMPUTER 5+",
     "question": "You may ask one AFFILIATION question or one MOTIVE question.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   },
   {
     "title": "Air Traffic Controller",
@@ -776,6 +812,7 @@
       "Active"
     ],
     "gameText": "Once during your Briefing Phase look at the top card of your Bureau Deck. You may put that card on the bottom of your Bureau Deck.",
-    "dialogue": "[…]"
+    "dialogue": "[…]",
+    "createdBy": "Joost Berns"
   }
 ]
