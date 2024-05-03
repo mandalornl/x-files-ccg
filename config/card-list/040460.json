@@ -114,7 +114,8 @@
       "Neutral"
     ],
     "gameText": "Place one token on this card. Remove a token during the Requisition Phase to search your Bureau Deck for any one Keyword WEAPON or ARMOR Equipment card and attach it to Paster at half cost (rounded up). Reshuffle your Deck.",
-    "bio": "Barney Paster was the sole Deputy in the rural town of Home, Pennsylvania. Following the brutal murder of Sheriff Andy Taylor, Paster led Agents Mulder and Scully in an aggressive charge on the Peacock Family's farmhouse."
+    "bio": "Barney Paster was the sole Deputy in the rural town of Home, Pennsylvania. Following the brutal murder of Sheriff Andy Taylor, Paster led Agents Mulder and Scully in an aggressive charge on the Peacock Family's farmhouse.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Mike Millar, NTSB",
@@ -142,7 +143,8 @@
       "Skeptic"
     ],
     "gameText": "Treat Mike Millar as a RES 2 if he is in the Field. If Millar is in the same Team as Agent Mulder and/or Agent Scully, he gains +1 to his ALIEN INVESTIGATION and OBSERVATION skills.",
-    "bio": "Mike Millar is a member of the National Transportation Safety Board who oversaw the investigation of the crash of Flight 549. He disagreed with Mulder's theory that aliens were involved in the downing of the plane."
+    "bio": "Mike Millar is a member of the National Transportation Safety Board who oversaw the investigation of the crash of Flight 549. He disagreed with Mulder's theory that aliens were involved in the downing of the plane.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Agent Kautz",
@@ -170,7 +172,8 @@
       "Neutral"
     ],
     "gameText": "If Agent Kautz is in the Bureau, he may contribute to any EVIDENCE COLLECTION skill check that is occurring in another section of the table.",
-    "bio": "As part of the FBI's Firearms Unit, Agent Kautz analyzed the ballistics of Mulder's service weapon to prove he didn't murder his father (\"Anasazi\"). Kautz later ascertained the gun used to murder Detective Ray Thomas but indicated the serial number has been removed, rendering the weapon untraceable (\"Zero Sum\")."
+    "bio": "As part of the FBI's Firearms Unit, Agent Kautz analyzed the ballistics of Mulder's service weapon to prove he didn't murder his father (\"Anasazi\"). Kautz later ascertained the gun used to murder Detective Ray Thomas but indicated the serial number has been removed, rendering the weapon untraceable (\"Zero Sum\").",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Detective Hudak",
@@ -198,7 +201,8 @@
       "Skeptic"
     ],
     "gameText": "During your Investigation Phase, add 1 [RP] to your pool if a Team including Detective Hudak is assigned to a Keyword MONO Site. The cost of any Witness card played at this Site is increased by 1 [RP].",
-    "bio": "Hudak is a hard-boiled Washington D.C. detective who investigated the murder of Penny Timmons. Unlike Agent Mulder, Hudak firmly believed that Harold Spuller was the prime suspect."
+    "bio": "Hudak is a hard-boiled Washington D.C. detective who investigated the murder of Penny Timmons. Unlike Agent Mulder, Hudak firmly believed that Harold Spuller was the prime suspect.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Agent Hedin",
@@ -224,7 +228,8 @@
       "Law"
     ],
     "gameText": "Agent Hedin has access to the Field Office Crime Lab. Place one token on this card. Remove a token to draw one Keyword EVIDENCE or EVIDENCE COLLECTION card from your Bureau Deck and add it to your hand. Shuffle your deck.",
-    "bio": "Agent Hedin was assigned to the FBI Sci-Crime Lab in Washington, D.C. She matched fingerprints found in the American University stairwell to those of Pentagon employee, Michael Kritschgau, following his assault on Agent Scully."
+    "bio": "Agent Hedin was assigned to the FBI Sci-Crime Lab in Washington, D.C. She matched fingerprints found in the American University stairwell to those of Pentagon employee, Michael Kritschgau, following his assault on Agent Scully.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Detective John Munch",
@@ -252,7 +257,8 @@
       "Law"
     ],
     "gameText": "Place one token on this card. Remove a token when your opponent asks you a penalty question. You may respond with the following phrase: \"Aluminum makes a lovely hat.\"",
-    "bio": "John Munch was a cynical detective for Baltimore Homicide unit in 1989 when he interrogated John Fitzgerald Byers about a mysterious shooting in a Fells Point warehouse and a delirious FBI Agent. Despite his belief in conspiracy theories, Munch was skeptical of Byers' story."
+    "bio": "John Munch was a cynical detective for Baltimore Homicide unit in 1989 when he interrogated John Fitzgerald Byers about a mysterious shooting in a Fells Point warehouse and a delirious FBI Agent. Despite his belief in conspiracy theories, Munch was skeptical of Byers' story.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Peacock Brothers",
@@ -277,7 +283,8 @@
       "Motive Site"
     ],
     "gameText": "Apply -1 to any Equipment cards attached to the Team that modify LONG RANGE COMBAT or CLOSE RANGE COMBAT. Damage caused by this Adversary may be split among all opponents (Directed Player's choice).",
-    "dialogue": "\"That farm belongs to the Peacock family. Three boys now - well, men. Guess you could call them human.\" - Sheriff Andy Taylor"
+    "dialogue": "\"That farm belongs to the Peacock family. Three boys now - well, men. Guess you could call them human.\" - Sheriff Andy Taylor",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Samuel Aboah",
@@ -302,7 +309,8 @@
       "Method Site"
     ],
     "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove the token. Aboah may use SUBTERFUGE cards.",
-    "dialogue": "Scully: \"He can’t have gotten far.\"\nMulder: \"This guy can squeeze into a coffee can, Scully. He could be anywhere.\""
+    "dialogue": "Scully: \"He can’t have gotten far.\"\nMulder: \"This guy can squeeze into a coffee can, Scully. He could be anywhere.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Gerry Schnauz Senses Your Unrest",
@@ -328,7 +336,8 @@
       "Agent"
     ],
     "gameText": "Gerry Schnauz does not initiate combat. Select one opposing Agent for abduction. Place this card on top of the Agent along with 5 tokens. Remove a token in each of the Agent's Briefing Phases. When the last token is discarded, the Agent is removed from the game. This effect can only be negated by the remaining Agents making an EVIDENCE COLLECTION 4+ skill check prior to the Agent being removed.",
-    "dialogue": "\"She's safe…from the howlers. She's all right now.\" - Gerry Schnauz"
+    "dialogue": "\"She's safe…from the howlers. She's all right now.\" - Gerry Schnauz",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Dr. Jack Franklin",
@@ -354,7 +363,8 @@
       "Medical"
     ],
     "gameText": "If this Adversary is played on a Witness that contributes to a MEDICAL skill check, the Witness is removed from the game. The LRC round is skipped for the opposing Team but not for Dr. Jack Franklin. Agents must use their MEDICAL skill as their value in CRC. If an Agent has no MEDICAL skill, their value is 1.",
-    "dialogue": "\"I hope those instruments were properly sterilized.\" - Dr. Jack Franklin"
+    "dialogue": "\"I hope those instruments were properly sterilized.\" - Dr. Jack Franklin",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Russian Horsemen",
@@ -380,7 +390,8 @@
       "Method Site"
     ],
     "gameText": "If an Agent's HEALTH is reduced to 0 by this Adversary, place the Agent in a section of the table designated The Gulag and discard any Equipment. The Agent remains imprisoned for three full turns or until a Keyword ESCAPE card is played on them. Place three tokens on the Agent and remove one during each of the Agent's Briefing Phases. When the last token is removed, move the Agent to the Bureau (undamaged).",
-    "dialogue": "\"Run!\" - Mulder"
+    "dialogue": "\"Run!\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Gulag Commandant",
@@ -405,7 +416,8 @@
       "Adversary"
     ],
     "gameText": "Play in conjunction with any GOVERNMENT Adversary. If an Agent's HEALTH is reduced to 0, place the Agent in a section of the table designated The Gulag and discard any Equipment. The Agent remains imprisoned for three full turns or until a Keyword ESCAPE card is played on them. Place three tokens on the Agent and remove one during each of the Agent's Briefing Phases. When the last token is removed, move the Agent to the Bureau (undamaged).",
-    "dialogue": "\"I want to see his supervisor.\" - Krycek"
+    "dialogue": "\"I want to see his supervisor.\" - Krycek",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Vassily Peskow",
@@ -430,7 +442,8 @@
       "Affiliation Site"
     ],
     "gameText": "Vassily Peskow can attack one Agent (your choice) and is then discarded. If the target Agent has any Equipment cards which modify LRC or CRC, Peskow may steal that Equipment and use it in combat. Discard the Equipment when combat is resolved. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards.",
-    "dialogue": "\"I would just as soon kill you, but please, don’t make me. My work is done.\" - Vassily Peskow"
+    "dialogue": "\"I would just as soon kill you, but please, don’t make me. My work is done.\" - Vassily Peskow",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Mad Hatter",
@@ -456,7 +469,8 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. The Mad Hatter abducts the Witness and the Team is forced to make a CRIMINAL INVESTIGATION 5+ skill check. If unsuccessful, the Site skill check is failed and the Witness is removed from the game. If the Team makes the skill check, this card is negated and removed from the game.",
-    "dialogue": "\"You bring my hearts and give them back to me…I'll tell you everything you want to know.\" - John Lee Roche"
+    "dialogue": "\"You bring my hearts and give them back to me…I'll tell you everything you want to know.\" - John Lee Roche",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "El Chupacabra",
@@ -483,7 +497,8 @@
       "Result Site"
     ],
     "gameText": "Place five tokens on any Agent damaged by El Chupacabra's attack. Discard a token in each of the afflicted Agent's Briefing Phases. When the last token is removed, the Agent is removed from the game. This effect can only be negated by the opposing Team making a SCIENCES 3+ skill check or by playing a HEALING card prior to the Agent being removed.",
-    "dialogue": "\"No. No soy un hombre! SOY EL CHUPACABRA!\" - Eladio Buente"
+    "dialogue": "\"No. No soy un hombre! SOY EL CHUPACABRA!\" - Eladio Buente",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Leonard Betts",
@@ -508,7 +523,8 @@
       "Motive Site"
     ],
     "gameText": "When played on a Keyword CANCER card, this Adversary is free and Activator requirements are ignored. Leonard Betts regenerates 1 point of HEALTH for each Witness discarded from your hand.",
-    "dialogue": "\"I'm sorry…but you've got something I need.\" - Leonard Betts"
+    "dialogue": "\"I'm sorry…but you've got something I need.\" - Leonard Betts",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Ed Jerse & His Talking Tattoo",
@@ -534,7 +550,8 @@
       "Result Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed.",
-    "dialogue": "\"It’s more than just some chemical reaction. She talks to me. She hates women…my wife, my boss…you. She’s so jealous, Dana. She makes me do things. I don’t want to, but she controls me.\" - Ed Jerse"
+    "dialogue": "\"It’s more than just some chemical reaction. She talks to me. She hates women…my wife, my boss…you. She’s so jealous, Dana. She makes me do things. I don’t want to, but she controls me.\" - Ed Jerse",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Grey-Haired Man",
@@ -560,7 +577,8 @@
       "Evidence Collection"
     ],
     "gameText": "All Witness RESOURCE cards are immediately discarded. This Gray-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
-    "dialogue": "Frohike: \"The doors work on redundant systems. We're working fast.\"\nMulder: \"Work faster!\""
+    "dialogue": "Frohike: \"The doors work on redundant systems. We're working fast.\"\nMulder: \"Work faster!\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Golem Exacts Revenge",
@@ -586,7 +604,8 @@
       "Occult Investigation"
     ],
     "gameText": "The Golem is unaffected by Combat attacks. This Adversary will attack for two CLOSE RANGE COMBAT rounds and is then discarded.",
-    "dialogue": "Mulder: \"So the Golem is an imperfect creation.\"\nKenneth Ungar: \"Kind of a monster, really. Unable to speak or feel anything but the most primitive of emotions. It runs amok. It has to be destroyed by its creator.\""
+    "dialogue": "Mulder: \"So the Golem is an imperfect creation.\"\nKenneth Ungar: \"Kind of a monster, really. Unable to speak or feel anything but the most primitive of emotions. It runs amok. It has to be destroyed by its creator.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Nathaniel Teager",
@@ -612,7 +631,8 @@
       "Method Site"
     ],
     "gameText": "Only Agents with OBSERVATION as a skill may apply their LRC and CRC skills in combat. This Adversary may use SUBTERFUGE cards at no cost.",
-    "dialogue": "\"I think that Teager has an ability…the ability to effectively erase himself from the visual field.\" - Mulder"
+    "dialogue": "\"I think that Teager has an ability…the ability to effectively erase himself from the visual field.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Scott Garrett",
@@ -638,7 +658,8 @@
       "Alien Investigation"
     ],
     "gameText": "This Adversary can attack one Agent (your choice) and is then discarded. If Agent Pendrell is in the Investigating Team, then he takes the LRC damage instead of the selected Agent. Agents attacked by this Adversary must discard all attached Keyword ALIEN Equipment immediately.",
-    "dialogue": "\"A man, if he's any man at all, knows he must be ready to sacrifice himself to that which is greater than he.\" - Scott Garrett"
+    "dialogue": "\"A man, if he's any man at all, knows he must be ready to sacrifice himself to that which is greater than he.\" - Scott Garrett",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Old Man Nichols",
@@ -665,7 +686,8 @@
       "Sciences"
     ],
     "gameText": "If this Adversary is played on a Keyword SCIENCES Witness, the Witness is negated and removed from the game. The Long Range Combat round is skipped. Any Agent wounded by Nichols is instantly frozen and may not move, contribute their skills and effects, add to the Pools or heal wounds until a HEALING card is played.",
-    "dialogue": "\"I came here to kill you.\" - Old Man Nichols"
+    "dialogue": "\"I came here to kill you.\" - Old Man Nichols",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Small Potatoes",
@@ -691,7 +713,8 @@
       "Agent"
     ],
     "gameText": "Place this card beneath an opposing Agent (your choice) and place two tokens on the Agent. Remove a token during each of your opponent's Debriefing Phases. While in play, the Agent's skills (except HEALTH) become -1 and all Equipment is discarded. During your opponent's turn, you may deploy the Agent as desired and contribute (negatively) to an Investigating Team's skill checks. Discard this card when the last token is removed.",
-    "dialogue": "\"The 'H' is silent.\" - Eddie Van Blundht"
+    "dialogue": "\"The 'H' is silent.\" - Eddie Van Blundht",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Nurse Innes",
@@ -716,7 +739,8 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness is discarded and one Agent on the Team is attacked (your choice). The LRC round is skipped. For the first round of CRC, the chosen Agent is the only one who may participate in the combat.",
-    "dialogue": "\"Take your poison, Harold. Go on. What do you got to live for now, huh?\" - Nurse Innes"
+    "dialogue": "\"Take your poison, Harold. Go on. What do you got to live for now, huh?\" - Nurse Innes",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Scott Ostelhoff",
@@ -742,7 +766,8 @@
       "Affiliation Site"
     ],
     "gameText": "If the Site prerequisite is ALIEN INVESTIGATION, then this card is free. Any Witnesses contributing to the Site skill check are immediately discarded. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards.",
-    "dialogue": "Scott Ostelhoff: \"Is he a believer?\"\nBabcock: \"Oh, yeah.\"\nOstelhoff: \"Then we're the only ones who know.\""
+    "dialogue": "Scott Ostelhoff: \"Is he a believer?\"\nBabcock: \"Oh, yeah.\"\nOstelhoff: \"Then we're the only ones who know.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Darlene Morris",
@@ -761,7 +786,8 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Remove a token to add 2 to one Team's ALIEN INVESTIGATION skill check. Discard this resource when all tokens have been removed.",
-    "dialogue": "\"You know, I've told this story so many times now - oh, to the newspapers and the police. And everytime I tell it, people get this, look in their eye, just like the look that you've got right now.\" - Darlene Morris to Scully"
+    "dialogue": "\"You know, I've told this story so many times now - oh, to the newspapers and the police. And everytime I tell it, people get this, look in their eye, just like the look that you've got right now.\" - Darlene Morris to Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Sheriff Withers",
@@ -780,7 +806,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check once per turn.",
-    "dialogue": "\"I think that Darlene has a very active imagination. I've been listening to those stories since the first grade.\" - Sheriff Withers"
+    "dialogue": "\"I think that Darlene has a very active imagination. I've been listening to those stories since the first grade.\" - Sheriff Withers",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Coroner Glenna",
@@ -799,7 +826,8 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Remove a token to add 2 to one Team's MEDICAL skill check. Discard this resource when all tokens have been removed.",
-    "dialogue": "\"They say animals can develop an appetite for human flesh, but this is no animal. You see the teeth marks, just below the clavicle? They're human.\" - Coroner Glenna"
+    "dialogue": "\"They say animals can develop an appetite for human flesh, but this is no animal. You see the teeth marks, just below the clavicle? They're human.\" - Coroner Glenna",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Denny Murphy, Geologist",
@@ -818,7 +846,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's SCIENCES or adds 1 to one Team's ALIEN INVESTIGATION skill check. If your opponent plays an ALIEN Adversary while this card is in play, Murply is negated and removed from the game.",
-    "dialogue": "Denny Murphy: \"…Professor of geology at U. C. San Diego.\"\nMulder: \"San Diego? You get much of a chance to study ice down there?\""
+    "dialogue": "Denny Murphy: \"…Professor of geology at U. C. San Diego.\"\nMulder: \"San Diego? You get much of a chance to study ice down there?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Michel the Clubgoer",
@@ -838,7 +867,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION or OBSERVATION skill check. Alternately, play this card when one of your Agents is the target of \"Brother Martin is Attracted to You\". Discard Michel and the Adversary is negated.",
-    "dialogue": "\"I saw her in her clothes and she looked like…she looked like a man.\" - Michel"
+    "dialogue": "\"I saw her in her clothes and she looked like…she looked like a man.\" - Michel",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Deputy Dennis Tyson",
@@ -858,7 +888,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION or OCCULT INVESTIGATION skill check. Alternately, play this card to negate \"Sheriff Daniels\".",
-    "dialogue": "\"Sir…gonna have to ask you to come with me. District Attorney wants to ask you some questions concerning the boy's death.\" - Deputy Tyson"
+    "dialogue": "\"Sir…gonna have to ask you to come with me. District Attorney wants to ask you some questions concerning the boy's death.\" - Deputy Tyson",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Lt. Terry Wilmer",
@@ -877,7 +908,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check once during your turn. While in play, you may discard this Resource during your opponent's turn to play the \"Alien Bounty Hunter\" at no cost, Activator requirements permitting.",
-    "dialogue": "\"A man came. He…he sealed most of the men below decks without any air and…and then he started to execute the rest of us. Every…they're all dead.\" - Lt. Terry Wilmer"
+    "dialogue": "\"A man came. He…he sealed most of the men below decks without any air and…and then he started to execute the rest of us. Every…they're all dead.\" - Lt. Terry Wilmer",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Sheriff Hamilton",
@@ -896,7 +928,8 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's CRIMINAL INVESTIGATION or adds 2 to one Team's BEHAVIORAL skill check.",
-    "dialogue": "\"It's just been my experience that many people have a harder time accepting these people's deformities than they do themselves.\" - Sheriff Hamilton"
+    "dialogue": "\"It's just been my experience that many people have a harder time accepting these people's deformities than they do themselves.\" - Sheriff Hamilton",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Samantha, Agrarian Clone",
@@ -916,7 +949,8 @@
       "Active"
     ],
     "gameText": "Adds 1 [RP] to your Pool each time a Keyword ALIEN or ALIEN INVESTIGATION card is played.",
-    "dialogue": "Jeremiah Smith: \"She's a drone, Mister Mulder. A worker.\"\nMulder: \"What are you talking about?'"
+    "dialogue": "Jeremiah Smith: \"She's a drone, Mister Mulder. A worker.\"\nMulder: \"What are you talking about?'",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Sheriff Andy Taylor",
@@ -934,7 +968,8 @@
       "Active"
     ],
     "gameText": "Attach this Witness to a Team. Sheriff Taylor will add his skills to the appropriate skill check like an Agent, CI:1, CRC:1, LRC:2, and HEALTH:3. If his HEALTH is reduced to 0, or at any time there are no Agents in the Team, Taylor is removed from the game.",
-    "dialogue": "\"Now, I want to find whoever did this…but in doing so, I'd like it if the way things are around here didn't have to change.\" - Sheriff Andy Taylor"
+    "dialogue": "\"Now, I want to find whoever did this…but in doing so, I'd like it if the way things are around here didn't have to change.\" - Sheriff Andy Taylor",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Minister Diabria",
@@ -954,7 +989,8 @@
       "Active"
     ],
     "gameText": "Adds 1 [RP] to your Pool every time a Keyword BUREAUCRACY or SUBTERFUGE card is played.",
-    "dialogue": "Mulder: \"Thank you for seeing me at such a late hour, sir.\"\nDiabria: \"I did not have much of a choice in this matter. Someone from the United Nations spoke to the ambassador directly. What’s so important that it can’t wait?\"\nMulder: \"With all due respect, sir, I think you already know.\""
+    "dialogue": "Mulder: \"Thank you for seeing me at such a late hour, sir.\"\nDiabria: \"I did not have much of a choice in this matter. Someone from the United Nations spoke to the ambassador directly. What’s so important that it can’t wait?\"\nMulder: \"With all due respect, sir, I think you already know.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Inspector Puett",
@@ -973,7 +1009,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION or EVIDENCE COLLECTION skill check, or play this card to force your opponent to randomly shuffle one card from their hand back into their Bureau Deck.",
-    "dialogue": "\"United States Postal Inspector. My office is investigating a mail theft - one which we've traced to your missing person, Ms. Mary Louise LeFante.\" - Inspector Puett"
+    "dialogue": "\"United States Postal Inspector. My office is investigating a mail theft - one which we've traced to your missing person, Ms. Mary Louise LeFante.\" - Inspector Puett",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Officer Corning",
@@ -993,7 +1030,8 @@
       "Active"
     ],
     "gameText": "Adds 1 [RP] to your Pool every time a Keyword CRIMINAL INVESTIGATION or PRIMORDIAL card is played.",
-    "dialogue": "\"We've got the State Police looking as far south as Grand Rapids. Still no sign of him.\" - Officer Corning"
+    "dialogue": "\"We've got the State Police looking as far south as Grand Rapids. Still no sign of him.\" - Officer Corning",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Nurse Rebecca Waite",
@@ -1012,7 +1050,8 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's MEDICAL or adds 2 to one Team's OCCULT INVESTIGATION skill check. If your opponent plays an OCCULT Adversary while this card is in play, Nurse Waite is negated and removed from the game.",
-    "dialogue": "\"I helped prep the patient. I was supposed to assist. I did my job as a nurse.\" - Nurse Rebecca Waite"
+    "dialogue": "\"I helped prep the patient. I was supposed to assist. I did my job as a nurse.\" - Nurse Rebecca Waite",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Dr. Shannon",
@@ -1031,7 +1070,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's MEDICAL or adds 1 to one Team's COMPUTER skill check.",
-    "dialogue": "Mulder: \"There were five deaths?\"\nDr. Shannon: \"Yes. Four patients. The fifth was a colleague of ours who, for all intents and purposes, worked himself to death. He died of a drug overdose.\""
+    "dialogue": "Mulder: \"There were five deaths?\"\nDr. Shannon: \"Yes. Four patients. The fifth was a colleague of ours who, for all intents and purposes, worked himself to death. He died of a drug overdose.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Dr. Larry Steen",
@@ -1051,7 +1091,8 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's SCIENCES or adds 2 to one Team's COMPUTER skill check. Alternately, you may play this card to heal any one Agent damaged by the effects of \"El Chupacabra\".",
-    "dialogue": "Dr. Steen: \"What you’re looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\nScully: \"Athlete's foot?\""
+    "dialogue": "Dr. Steen: \"What you’re looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\nScully: \"Athlete's foot?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Conrad Lozano",
@@ -1070,7 +1111,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's SUBTERFUGE or 1 to one Team's CRIMINAL INVESTIGATION skill check. If your opponent plays a PHENOMENA CREATURE Adversary while this card is in play, Lozano is negated and removed from the game.",
-    "dialogue": "\"My mother used to say that blood should be left to cleanse itself. God curses the man who stands between two brothers.\" - Conrad Lozano"
+    "dialogue": "\"My mother used to say that blood should be left to cleanse itself. God curses the man who stands between two brothers.\" - Conrad Lozano",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Michelle Wilkes",
@@ -1089,7 +1131,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's MEDICAL skill check once per turn. If your opponent plays an EVOLUTIONARY Adversary while this card is in play, Michelle Wilkes is negated and removed from the game.",
-    "dialogue": "\"You know how they say some people can just look at you and tell you what’s wrong? Leonard could do that.\" - Michelle Wilkes"
+    "dialogue": "\"You know how they say some people can just look at you and tell you what’s wrong? Leonard could do that.\" - Michelle Wilkes",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Kurt Crawford",
@@ -1107,7 +1150,8 @@
       "Active"
     ],
     "gameText": "Play this card to remove the Keyword CANCER from an afflicted Agent. You may have up to five Kurt Crawford cards in your deck.",
-    "dialogue": "Mulder: \"These women, these women are your birth mothers.\"\nKurt Crawford: \"Barren now, from the same procedure that caused their cancer. And now they're left to die, their conditions hastened by the men running this project.\""
+    "dialogue": "Mulder: \"These women, these women are your birth mothers.\"\nKurt Crawford: \"Barren now, from the same procedure that caused their cancer. And now they're left to die, their conditions hastened by the men running this project.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Ariel Weiss",
@@ -1127,7 +1171,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check once per turn. Alternately, you may discard this card to negate the Adversary \"The Golem Exacts Revenge\".",
-    "dialogue": "\"I am to my beloved…as my beloved is to me.\" - Ariel Weiss, in Hebrew"
+    "dialogue": "\"I am to my beloved…as my beloved is to me.\" - Ariel Weiss, in Hebrew",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Kenneth Ungar",
@@ -1146,7 +1191,8 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Remove a token to add 2 to one Team's OCCULT INVESTIGATION skill check. Discard this resource when all tokens have been removed.",
-    "dialogue": "\"Early Kabbalists, they believed that a righteous man could actually create a living being from the Earth itself. Fashioned from mud or clay. This creature could only be brought to life by the power of the word.\" - Kenneth Ungar"
+    "dialogue": "\"Early Kabbalists, they believed that a righteous man could actually create a living being from the Earth itself. Fashioned from mud or clay. This creature could only be brought to life by the power of the word.\" - Kenneth Ungar",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Denny Markham",
@@ -1165,7 +1211,8 @@
       "Active"
     ],
     "gameText": "Attach this Witness to any one Keyword INDEPENDENT Agent. Adds 1 to the Agent's SUBTERFUGE skill once per turn. Discard this card when the Agent's HEALTH is reduced to 0.",
-    "dialogue": "\"The Right Hand believes in empowering the individual over a corrupt and corrupting federal government. We're prepared for the time when armed resistance will be necessary.\" - Denny Markham"
+    "dialogue": "\"The Right Hand believes in empowering the individual over a corrupt and corrupting federal government. We're prepared for the time when armed resistance will be necessary.\" - Denny Markham",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Sharon Graffia",
@@ -1184,7 +1231,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's OBSERVATION skill check once per turn. When once of your Agents is the target of an abduction, Sharon Graffia is abducted instead. Discard this card and the abduction is negated.",
-    "dialogue": "\"My brother, who I believe you know…he said you'd understand what to do.\" - Sharon Graffia"
+    "dialogue": "\"My brother, who I believe you know…he said you'd understand what to do.\" - Sharon Graffia",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Sgt. Louis Frisch",
@@ -1203,7 +1251,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION or SUBTERFUGE skill check.",
-    "dialogue": "\"I'm telling you what I saw. That we shot down a civilian jet, knowingly and willingly.\" - Sgt. Louis Frisch"
+    "dialogue": "\"I'm telling you what I saw. That we shot down a civilian jet, knowingly and willingly.\" - Sgt. Louis Frisch",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Jason Nichols",
@@ -1222,7 +1271,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's SCIENCES or adds 1 to one Team's COMPUTER skill check. If your opponent plays the \"Old Jason Nichols\" Adversary while this card is in play, Jason Nichols is negated and removed from the game.",
-    "dialogue": "\"The theory was sound. If my interpretation of certain data was a little lax, it's because I've been under pressure to produce results. My NSA grant is up for renewal.\" - Jason Nichols"
+    "dialogue": "\"The theory was sound. If my interpretation of certain data was a little lax, it's because I've been under pressure to produce results. My NSA grant is up for renewal.\" - Jason Nichols",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Dr. Lisa Ianelli",
@@ -1241,7 +1291,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's COMPUTER skill check once per turn.",
-    "dialogue": "Scully: \"This compound…has Jason actually tested it yet?\"\nDr. Lisa Ianelli: \"He hasn't tested it yet because it doesn't exist, except in the computer. So far the work's been limited to generating virtual chemicals.\""
+    "dialogue": "Scully: \"This compound…has Jason actually tested it yet?\"\nDr. Lisa Ianelli: \"He hasn't tested it yet because it doesn't exist, except in the computer. So far the work's been limited to generating virtual chemicals.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Niemans",
@@ -1261,7 +1312,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's OBSERVATION or SUBTERFUGE skill check, or play this card to negate the Bluff \"You've Got a Tail.\"",
-    "dialogue": "Fred Nieman: \"Is it okay for us to get into our bathroom now?\"\nMulder: \"Excuse me, sir?\"\nNieman: \"Well, I was hoping we could get into our bathroom sometime this evening. You said the police were going to come by and dust it for some fingerprints but that was over four hours ago.\""
+    "dialogue": "Fred Nieman: \"Is it okay for us to get into our bathroom now?\"\nMulder: \"Excuse me, sir?\"\nNieman: \"Well, I was hoping we could get into our bathroom sometime this evening. You said the police were going to come by and dust it for some fingerprints but that was over four hours ago.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Misty Nagata",
@@ -1280,7 +1332,8 @@
       "Active"
     ],
     "gameText": "Attach this card to Assistant Director Skinner. Adds 1 to Skinner's EVIDENCE COLLECTION skill once per turn. Discard this card when Skinner's HEALTH is reduced to 0.",
-    "dialogue": "Misty Nagata: \"I can look up the tracking number.\"\nSkinner: \"That would be a big help to me, Misty. And maybe to Jane.\""
+    "dialogue": "Misty Nagata: \"I can look up the tracking number.\"\nSkinner: \"That would be a big help to me, Misty. And maybe to Jane.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Angie Pintero",
@@ -1299,7 +1352,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BUREAUCRACY or OBSERVATION skill check.",
-    "dialogue": "Angie Pintero: \"You think Harold killed those women?\"\nMulder: \"You obviously don't think so, huh?\"\nPintero: \"Harold's worked for me for 10 years. He might be crazy but he couldn't kill anyone. He's a sweet kid.\""
+    "dialogue": "Angie Pintero: \"You think Harold killed those women?\"\nMulder: \"You obviously don't think so, huh?\"\nPintero: \"Harold's worked for me for 10 years. He might be crazy but he couldn't kill anyone. He's a sweet kid.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Martin Alpert",
@@ -1318,7 +1372,8 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's BEHAVIORAL or BUREAUCRACY skill check. While this card is in play, the Witness card \"Harold Spuller\" may be played for free.",
-    "dialogue": "Mulder: \"Has he ever been a problem?\"\nMartin Alpert: \"Harold? No. He has a tendency to get a little worked up.\"\nMulder: \"Do you think I could talk to him?\"\nAlpert: \"Yeah, sure.\""
+    "dialogue": "Mulder: \"Has he ever been a problem?\"\nMartin Alpert: \"Harold? No. He has a tendency to get a little worked up.\"\nMulder: \"Do you think I could talk to him?\"\nAlpert: \"Yeah, sure.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Harold Spuller",
@@ -1337,7 +1392,8 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Remove a token and pick a number between 0 and 12. Your opponent must show you all cards in their hand that cost the same as the chosen number. Discard this card when all tokens have been removed.",
-    "dialogue": "\"I don't know anything. I didn't do anything. Leave me alone.\" - Harold Spuller"
+    "dialogue": "\"I don't know anything. I didn't do anything. Leave me alone.\" - Harold Spuller",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Dr. Arlinsky",
@@ -1356,7 +1412,8 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's SCIENCES skill check once per turn. If your opponent plays a GOVERNMENT Adversary while this card is in play, Arlinsky is negated and removed from the game.",
-    "dialogue": "\"He's a forensic anthropathologist that I've been in contact with over the last four years. Several years ago he was involved in an embarrassing UFO photo enhancement scandal. But he continues to profess his innocence.\" - Mulder"
+    "dialogue": "\"He's a forensic anthropathologist that I've been in contact with over the last four years. Several years ago he was involved in an embarrassing UFO photo enhancement scandal. But he continues to profess his innocence.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Dr. Vitagliano",
@@ -1375,7 +1432,8 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Remove a token to add 2 to one Team's SCIENCES skill check. Discard this resource when all tokens have been removed.",
-    "dialogue": "Dr. Vitagliano: \"There's some cellular material within the matrix.\"\nScully: \"Plant or animal?\"\nVitagliano: \"I don't know. It's what I'd have to classify as a chimera. A hybrid cell.\""
+    "dialogue": "Dr. Vitagliano: \"There's some cellular material within the matrix.\"\nScully: \"Plant or animal?\"\nVitagliano: \"I don't know. It's what I'd have to classify as a chimera. A hybrid cell.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "14th Precinct House, Buffalo, NY",
@@ -1395,7 +1453,8 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or BEHAVIORAL 5+",
     "question": "You may ask one MOTIVE question or one RESULT question.",
-    "dialogue": "Mulder: \"How'd you hear about us?\"\nDet. Sharon Lazard: \"My brother's a cop. Baltimore. He told me about your work on the Tooms case, said you gotta good feel for things out of the ordinary.\""
+    "dialogue": "Mulder: \"How'd you hear about us?\"\nDet. Sharon Lazard: \"My brother's a cop. Baltimore. He told me about your work on the Tooms case, said you gotta good feel for things out of the ordinary.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Bee Husbandry Farm, Alberta, Canada",
@@ -1415,7 +1474,8 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or SCIENCES 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
-    "dialogue": "Mulder: \"What is it?\"\nJeremiah Smith: \"A flowering shrub. But it's specific epithet can't be found on any of your taxonomic charts.\""
+    "dialogue": "Mulder: \"What is it?\"\nJeremiah Smith: \"A flowering shrub. But it's specific epithet can't be found on any of your taxonomic charts.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Peacock Residence, Home, PA",
@@ -1433,7 +1493,8 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one MOTIVE question.",
-    "dialogue": "\"The Peacocks built that farm during the Civil War. It still has no electricity, no running water, no heat. They grow their own food, they raise their own pigs, the breed their own cows…raise and breed their own stock…if you get my meaning.\" - Sheriff Andy Taylor"
+    "dialogue": "\"The Peacocks built that farm during the Civil War. It still has no electricity, no running water, no heat. They grow their own food, they raise their own pigs, the breed their own cows…raise and breed their own stock…if you get my meaning.\" - Sheriff Andy Taylor",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Liberty Plaza, Philadelphia, PA",
@@ -1451,7 +1512,8 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one METHOD question.",
-    "dialogue": "Scully: \"Why are we here, Mulder?\"\nMulder: \"Pendrell found asbestos fibers on Owen Sanders’ body. And you remove asbestos from an old building before you tear it down. It had to come from somewhere.\""
+    "dialogue": "Scully: \"Why are we here, Mulder?\"\nMulder: \"Pendrell found asbestos fibers on Owen Sanders’ body. And you remove asbestos from an old building before you tear it down. It had to come from somewhere.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Gerald Schnauz's RV, Traverse City, MI",
@@ -1469,7 +1531,8 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one RESULT question.",
-    "dialogue": "Scully: \"Why did your sister kill herself, Gerry? What did your father do to her?\"\nGerry Schnauz: \"He didn't do anything. It was the howlers.\""
+    "dialogue": "Scully: \"Why did your sister kill herself, Gerry? What did your father do to her?\"\nGerry Schnauz: \"He didn't do anything. It was the howlers.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Federal Command Center, Chattanooga, TN",
@@ -1487,7 +1550,8 @@
     ],
     "prerequisite": "SUBTERFUGE 4+",
     "question": "You may ask one RESULT question.",
-    "dialogue": "\"Ephesian had six women on the verge of suicide. You witnessed it. My concern is if the temple members are released, any subsequent federal investigation will ignite Ephesian's paranoia to such a degree that we won't have another Waco on our hands…we'll have Jonestown.\" - Skinner"
+    "dialogue": "\"Ephesian had six women on the verge of suicide. You witnessed it. My concern is if the temple members are released, any subsequent federal investigation will ignite Ephesian's paranoia to such a degree that we won't have another Waco on our hands…we'll have Jonestown.\" - Skinner",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Greenwood Memorial Hospital, Chicago, IL",
@@ -1507,7 +1571,8 @@
     ],
     "prerequisite": "MEDICAL 5+ or OCCULT INVESTIGATION 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
-    "dialogue": "\"There’s magic going on here, Mulder, only it’s being done with silicone, collagen, and a well placed scalpel.\" - Scully"
+    "dialogue": "\"There’s magic going on here, Mulder, only it’s being done with silicone, collagen, and a well placed scalpel.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Tunguska, Siberian Forest",
@@ -1527,7 +1592,8 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or SUBTERFUGE 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
-    "dialogue": "\"June 30, 1908. Tungus tribesmen and Russian fur traders look up into the southeastern Siberian sky and see a fireball streaking to Earth. When it hit the atmosphere, it created a series of cataclysmic explosions that are considered to be the largest single cosmic event in the history of civilization.\" - Mulder"
+    "dialogue": "\"June 30, 1908. Tungus tribesmen and Russian fur traders look up into the southeastern Siberian sky and see a fireball streaking to Earth. When it hit the atmosphere, it created a series of cataclysmic explosions that are considered to be the largest single cosmic event in the history of civilization.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Oil Refinery, Alberta, Canada",
@@ -1545,7 +1611,8 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one MOTIVE question.",
-    "dialogue": "\"Go back to the refinery. See if you can find anybody who knows anything about that truck.\" - Mulder"
+    "dialogue": "\"Go back to the refinery. See if you can find anybody who knows anything about that truck.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Abandoned Bus Terminal, Revere, MA",
@@ -1563,7 +1630,8 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one AFFILIATION question.",
-    "dialogue": "Skinner: \"What do you got?\"\nScully: \"Roche's old address in the area. Revere. Nine-eight-o-nine Alice Road, apartment number six.\"\nMulder: \"He's there.\""
+    "dialogue": "Skinner: \"What do you got?\"\nScully: \"Roche's old address in the area. Revere. Nine-eight-o-nine Alice Road, apartment number six.\"\nMulder: \"He's there.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Migrant Workers Camp, San Joaquin, CA",
@@ -1581,7 +1649,8 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one MOTIVE question.",
-    "dialogue": "Mulder: \"Fortean events have been linked to alien encounters, cattle mutilations…the kind of exsanguinated animal carcass you were just looking at.\"\nScully: \"And the victim, Maria Dorantes, did she die in a similar fashion?\""
+    "dialogue": "Mulder: \"Fortean events have been linked to alien encounters, cattle mutilations…the kind of exsanguinated animal carcass you were just looking at.\"\nScully: \"And the victim, Maria Dorantes, did she die in a similar fashion?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Monongahela Medical Center, Pittsburgh, PA",
@@ -1601,7 +1670,8 @@
     ],
     "prerequisite": "MEDICAL 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Survival\", the skill check prerequisite is 4+.",
-    "dialogue": "\"It should probably be noted that when Mr. Betts arrived here last night he was sans head. He was decapitated when his ambulance crashed.\" - Mulder"
+    "dialogue": "\"It should probably be noted that when Mr. Betts arrived here last night he was sans head. He was decapitated when his ambulance crashed.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Svo's Tattoo Parlor, Philadephia, PA",
@@ -1621,7 +1691,8 @@
     ],
     "prerequisite": "BEHAVIORAL 5+ or COMPUTER 5+",
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
-    "dialogue": "Ed Jerse: \"You did good work. It’s very nice. It’s just like in the window, but…\"\nSvo: \"So what? Why do you want to cover it? Listen friend, everyone gets tattoo they deserve.\""
+    "dialogue": "Ed Jerse: \"You did good work. It’s very nice. It’s just like in the window, but…\"\nSvo: \"So what? Why do you want to cover it? Listen friend, everyone gets tattoo they deserve.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Lombard Research Facility, Allentown, PA",
@@ -1639,7 +1710,8 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one METHOD question.",
-    "dialogue": "\"You guys ever been to the Lombard Research Facility? Well, pick out something black and sexy and prepare to do some funky poaching.\" - Mulder, to the Lone Gunmen"
+    "dialogue": "\"You guys ever been to the Lombard Research Facility? Well, pick out something black and sexy and prepare to do some funky poaching.\" - Mulder, to the Lone Gunmen",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Ben Zion Cemetery, Brooklyn, NY",
@@ -1657,7 +1729,8 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
     "question": "You may ask one RESULT question.",
-    "dialogue": "Scully: \"His name was Isaac Luria. He lived in the Williamsburg section of Brooklyn, home to a sect of Hasidic Jews who have lived there since the late 19th Century.\"\nMulder: \"It's an area also known for its history of racial tensions and hate crimes. Rosenbaum, Tawana Brawley.\""
+    "dialogue": "Scully: \"His name was Isaac Luria. He lived in the Williamsburg section of Brooklyn, home to a sect of Hasidic Jews who have lived there since the late 19th Century.\"\nMulder: \"It's an area also known for its history of racial tensions and hate crimes. Rosenbaum, Tawana Brawley.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Vietnam War Memorial, Washington, D.C.",
@@ -1675,7 +1748,8 @@
     ],
     "prerequisite": "BUREAUCRACY 4+",
     "question": "You may ask one MOTIVE question.",
-    "dialogue": "\"I've got 4 miles of crowded streets where 31 military officers are staging for a parade into Freedom Square. If what you're saying has any truth to it, I can't protect these men.\" - Skinner"
+    "dialogue": "\"I've got 4 miles of crowded streets where 31 military officers are staging for a parade into Freedom Square. If what you're saying has any truth to it, I can't protect these men.\" - Skinner",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Flight 549 Crash Site",
@@ -1695,7 +1769,8 @@
     ],
     "prerequisite": "BUREAUCRACY 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one MOTIVE question or one RESULT question.",
-    "dialogue": "\"What we know right now is that the plane designated as Flight 549 lost radio contact tonight at 19:00 hours E.D.T. and subsequently crashed into a wooded area approximately thirty miles from Albany, New York.\" - Mike Millar, NTSB"
+    "dialogue": "\"What we know right now is that the plane designated as Flight 549 lost radio contact tonight at 19:00 hours E.D.T. and subsequently crashed into a wooded area approximately thirty miles from Albany, New York.\" - Mike Millar, NTSB",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "U.F.O. Crash Site, Great Sacandaga Lake, NY",
@@ -1715,7 +1790,8 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
-    "dialogue": "Mulder: \"What if that's because there is no second crash site, because that second aircraft never fell to the ground? It came down somewhere around here.\"\nScully: \"In Great Sacandaga Lake?\""
+    "dialogue": "Mulder: \"What if that's because there is no second crash site, because that second aircraft never fell to the ground? It came down somewhere around here.\"\nScully: \"In Great Sacandaga Lake?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Hotel James Monroe, Boston, MA",
@@ -1733,7 +1809,8 @@
     ],
     "prerequisite": "COMPUTER 4+",
     "question": "You may ask one METHOD question.",
-    "dialogue": "Mulder: \"I just spoke with the bellman who brought up the luggage.\"\nScully: \"What did he say?\"\nMulder: \"The iceman cometh.\""
+    "dialogue": "Mulder: \"I just spoke with the bellman who brought up the luggage.\"\nScully: \"What did he say?\"\nMulder: \"The iceman cometh.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Tablers Community Hospital, Martinsburg, VA",
@@ -1753,7 +1830,8 @@
     ],
     "prerequisite": "MEDICAL 5+ or SCIENCES 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
-    "dialogue": "Mulder: \"Children born with vestigial tails don't interest you?\"\nScully: \"Caudal appendages. Fetuses have them. Their coccyx enlarges to contain the spinal fluid and then it shrinks as the child develops. Occasionally, it doesn't.\""
+    "dialogue": "Mulder: \"Children born with vestigial tails don't interest you?\"\nScully: \"Caudal appendages. Fetuses have them. Their coccyx enlarges to contain the spinal fluid and then it shrinks as the child develops. Occasionally, it doesn't.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Payson, SC",
@@ -1773,7 +1851,8 @@
     ],
     "prerequisite": "BUREAUCRACY 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
-    "dialogue": "Marita Covarrubias: \"Seven packages that were sent from Canada to a P.O. Box in Payson, South Carolina. I came here to find out what was in those packages.\"\nSkinner: \"You're a little late to do anything about it.\""
+    "dialogue": "Marita Covarrubias: \"Seven packages that were sent from Canada to a P.O. Box in Payson, South Carolina. I came here to find out what was in those packages.\"\nSkinner: \"You're a little late to do anything about it.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Angie's Midnight Bowl, Washington, D.C.",
@@ -1791,7 +1870,8 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one AFFILIATION question.",
-    "dialogue": "Scully: \"This is where you saw the body?\"\nAngie Pintero: \"Yes ma'am. She was caught up in the machinery. Her neck was cut.\""
+    "dialogue": "Scully: \"This is where you saw the body?\"\nAngie Pintero: \"Yes ma'am. She was caught up in the machinery. Her neck was cut.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Cassandra House, Chepachet, RI",
@@ -1811,7 +1891,8 @@
     ],
     "prerequisite": "BEHAVIORAL 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
-    "dialogue": "\"If you've been here, Mulder I don't think it was any time recently. The place looks abandoned and completely overgrown.\" - Scully"
+    "dialogue": "\"If you've been here, Mulder I don't think it was any time recently. The place looks abandoned and completely overgrown.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Saint Elias Mountains, Yukon Territory, Canada",
@@ -1831,7 +1912,8 @@
     ],
     "prerequisite": "SCIENCES 5+ or SUBTERFUGE 5+",
     "question": "You may ask one MOTIVE question or one METHOD question.",
-    "dialogue": "\"The area where it was found is in the terminal moraine of a glacier that has since receded. 200 years ago, the area where he was frozen was within the tree line, so there would have been a thaw.\" - Dr. Arlinsky"
+    "dialogue": "\"The area where it was found is in the terminal moraine of a glacier that has since receded. 200 years ago, the area where he was frozen was within the tree line, so there would have been a thaw.\" - Dr. Arlinsky",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Carver's Accommodation",
@@ -1849,7 +1931,8 @@
       "Active"
     ],
     "gameText": "Play on a Team in which one Agent has just been abducted or removed from the game. Search your Bureau Deck and draw one Keyword LAW Agent card and use it immediately at no cost. Reshuffle your Deck. Discard the Agent at the end of your turn.",
-    "dialogue": "Commander Carver: \"I’d be happy to have you work on our investigation. Now this is Detective Gwynn…\"\nMulder: \"I'm working alone.\"\nCarver: \"An FBI Agent without a partner?\""
+    "dialogue": "Commander Carver: \"I’d be happy to have you work on our investigation. Now this is Detective Gwynn…\"\nMulder: \"I'm working alone.\"\nCarver: \"An FBI Agent without a partner?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Agent Nemhauser Found Dismembered",
@@ -1868,7 +1951,8 @@
       "Conspiracy"
     ],
     "gameText": "If your opponent includes Agent Nemhauser in any skill check in the Field, Agent Nemhauser is instantly killed and removed from the game.",
-    "dialogue": "Mulder: \"It's Nemhauser…But you already knew that, didn't you? You killed him, Bill. When he suspected it was you… You killed him.\"\nAgent Bill Patterson: \"Are you out of your mind?\""
+    "dialogue": "Mulder: \"It's Nemhauser…But you already knew that, didn't you? You killed him, Bill. When he suspected it was you… You killed him.\"\nAgent Bill Patterson: \"Are you out of your mind?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Serial Ovatypes",
@@ -1887,7 +1971,8 @@
       "Conspiracy"
     ],
     "gameText": "Discard one Witness card from your hand to apply a -2 modifier to one Team's ALIEN INVESTIGATION or SCIENCES skill check.",
-    "dialogue": "\"Well, now…don't you all take the cake? Does your mom ever mix you up?\" - Repairman"
+    "dialogue": "\"Well, now…don't you all take the cake? Does your mom ever mix you up?\" - Repairman",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "X-Terminated",
@@ -1907,7 +1992,8 @@
       "Negate"
     ],
     "gameText": "Play this card to negate one Keyword NEGATE card. If \"X\" is the negated card, it is removed from the game along with this card.",
-    "dialogue": "Mulder: \"I feel like I came so close.\"\nScully: \"I feel it too. I know it.\"\nMulder: \"How?\"\nScully: \"I was warned…by a man we both know…who I believe knows the truth…who can lead us to a place to start.\""
+    "dialogue": "Mulder: \"I feel like I came so close.\"\nScully: \"I feel it too. I know it.\"\nMulder: \"How?\"\nScully: \"I was warned…by a man we both know…who I believe knows the truth…who can lead us to a place to start.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Marita's Overture",
@@ -1926,7 +2012,8 @@
       "Conspiracy"
     ],
     "gameText": "Play this card when your opponent has just removed one of your cards from the game. Search your Bureau Deck and add Marita Covarrubias to your hand. Reshuffle your deck. At the start of your next Deployment Phase, Covarrubias is temporarily added to your Team at no cost. You may use her game effect, if applicable. Discard both Marita and this card at the end of your turn.",
-    "dialogue": "\"Not everything dies, Mr. Mulder\" - Marita Covarrubias"
+    "dialogue": "\"Not everything dies, Mr. Mulder\" - Marita Covarrubias",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Alien Bounty Healer",
@@ -1945,7 +2032,8 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the Hospital. The Agent heals up to three tokens of damage and any inflicted Keywords (i.e. CANCER, INSANITY) are removed.",
-    "dialogue": "Alien Bounty Hunter: \"I need to know the reasons why this should be.\"\nThe Cigarette-Smoking Man: \"So that the work may continue. So that the project may proceed unabated by removing an unnecessary obstacle.\""
+    "dialogue": "Alien Bounty Hunter: \"I need to know the reasons why this should be.\"\nThe Cigarette-Smoking Man: \"So that the work may continue. So that the project may proceed unabated by removing an unnecessary obstacle.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Reconnaissance",
@@ -1963,7 +2051,8 @@
       "Active"
     ],
     "gameText": "Play this card during the Investigation Phase. Make an OBSERVATION 4+ skill check to search through your Bureau Deck and draw one Keyword WEAPON or ARMOR Equipment card. Attach the Equipment to an Agent at half-cost (rounded up), ignoring Activator requirements.",
-    "dialogue": "Scully: \"Are these vests absolutely necessary, deputy?\"\nDeputy Barney Paster: \"I've seen them fire muskets before. I, for one, am not getting taken out by some antique.\""
+    "dialogue": "Scully: \"Are these vests absolutely necessary, deputy?\"\nDeputy Barney Paster: \"I've seen them fire muskets before. I, for one, am not getting taken out by some antique.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Deputy Paster Killed in the Line of Duty",
@@ -1982,7 +2071,8 @@
       "Conspiracy"
     ],
     "gameText": "If your opponent includes Deputy Paster in any skill check in the Field, Deputy Paster is instantly killed and removed from the game.",
-    "dialogue": "\"Pastor's dead. The brothers moved in like a pack of animals.\" - Scully to Mulder, after observing Paster's grisly death"
+    "dialogue": "\"Pastor's dead. The brothers moved in like a pack of animals.\" - Scully to Mulder, after observing Paster's grisly death",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Postmortem",
@@ -2001,7 +2091,8 @@
       "Active"
     ],
     "gameText": "If the Team makes a MEDICAL 4+ skill check, add five tokens to the [RP] Pool.",
-    "dialogue": "Mulder: \"I heard you were down here slicing and dicing. Who’s the lucky stiff?\"\nScully: \"His name was Owen Sanders. He was reported as the fourth kidnap victim in Philadelphia until his body turned up last night looking like this.\""
+    "dialogue": "Mulder: \"I heard you were down here slicing and dicing. Who’s the lucky stiff?\"\nScully: \"His name was Owen Sanders. He was reported as the fourth kidnap victim in Philadelphia until his body turned up last night looking like this.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "FBI Special Photographic Unit",
@@ -2020,7 +2111,8 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has +1 in one of the following skills: COMPUTER or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill.",
-    "dialogue": "\"I just need to mark a place where the blur comes to a point, and let the computer do its business.\" - Photo Technician"
+    "dialogue": "\"I just need to mark a place where the blur comes to a point, and let the computer do its business.\" - Photo Technician",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Suspect Booked",
@@ -2039,7 +2131,8 @@
       "Active"
     ],
     "gameText": "Play after negating an Adversary when no combat was involved. If the Team makes a CRIMINAL INVESTIGATION 4+ skill check, place this card in your Bureau Section. You may discard this card during your Investigation Phase to add 2 to a Site skill check.",
-    "dialogue": "\"Okay, Gerry. All in here, your wallet, jewelry, everything.\" - Officer Trout, while processing Gerry Schnauz"
+    "dialogue": "\"Okay, Gerry. All in here, your wallet, jewelry, everything.\" - Officer Trout, while processing Gerry Schnauz",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Encore",
@@ -2058,7 +2151,8 @@
       "Conspiracy"
     ],
     "gameText": "Play immediately after discarding an OCCULT Adversary as a result of either combat or a Negate effect. The Adversary is returned to the Field at no cost and may attack the Team again.",
-    "dialogue": "\"Behold…I am alive forevermore.\" - Vernon Ephesian"
+    "dialogue": "\"Behold…I am alive forevermore.\" - Vernon Ephesian",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Goal In Sight Again",
@@ -2078,7 +2172,8 @@
       "Site"
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with OBSERVATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an OBSERVATION skill check.",
-    "dialogue": "\"At times, I almost dream. I, too, have spent a life the sages' way and tread once more familiar paths.\" - Mulder, quoting \"Paracelsus\" by Robert Browning"
+    "dialogue": "\"At times, I almost dream. I, too, have spent a life the sages' way and tread once more familiar paths.\" - Mulder, quoting \"Paracelsus\" by Robert Browning",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Next Patient",
@@ -2097,7 +2192,8 @@
       "Conspiracy"
     ],
     "gameText": "Discard one Witness card from your hand to apply a -2 modifier to one Team's OCCULT INVESTIGATION or MEDICAL skill check.",
-    "dialogue": "\"I think this patient is finished.\" - Doctor Lloyd"
+    "dialogue": "\"I think this patient is finished.\" - Doctor Lloyd",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Symbol of Protection",
@@ -2118,7 +2214,8 @@
       "Site"
     ],
     "gameText": "Play on a Team investigating a Site with OCCULT INVESTIGATION skill as a prerequisite. As long as the Team can make an OCCULT INVESTIGATION skill check of 5+, no OCCULT Adversaries may be played on the Agents at this Site.",
-    "dialogue": "\"A pentagram is supposed to be a symbol of protection and positive power used to control the elemental forces.\" - Mulder"
+    "dialogue": "\"A pentagram is supposed to be a symbol of protection and positive power used to control the elemental forces.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Mulder Family Legacy",
@@ -2135,7 +2232,8 @@
       "Active"
     ],
     "gameText": "Play this card on a Team with Fox Mulder to search through your Bureau Deck and add one of the following cards to your hand: \"Bill Mulder\", \"Mrs. Mulder\", \"Samantha Mulder\", or \"Samantha, Agrarian Clone\". If you play the chosen card immediately, you may do so for half cost (rounded up).",
-    "dialogue": "Bill Mulder: \"My one-year old just said his first word.\"\nYoung Cigarette-Smoking Man: \"What was the word?\"\nBill Mulder: \"J.F.K.\""
+    "dialogue": "Bill Mulder: \"My one-year old just said his first word.\"\nYoung Cigarette-Smoking Man: \"What was the word?\"\nBill Mulder: \"J.F.K.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "A Well-Placed Patsy",
@@ -2155,7 +2253,8 @@
       "Negate"
     ],
     "gameText": "Play this card when your opponent either uses a token or plays a card to negate your GOVERNMENT Adversary or Event. Discard one Witness card from your hand to negate the effect.",
-    "dialogue": "\"No. No. No, sir. I won't be a patsy.\" - Lee Harvey Oswald"
+    "dialogue": "\"No. No. No, sir. I won't be a patsy.\" - Lee Harvey Oswald",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Make History",
@@ -2176,7 +2275,8 @@
       "Conspiracy"
     ],
     "gameText": "Negate any one Keyword ALIEN or Keyword ALIEN INVESTIGATION card.",
-    "dialogue": "The Cigarette-Smoking Man: \"A living E.B.E. could advance Bill Mulder's project by decades.\"\nDeep Throat: \"Security Resolution Council 1013 states, \"Any country capturing such an entity is responsible for its immediate extermination.\""
+    "dialogue": "The Cigarette-Smoking Man: \"A living E.B.E. could advance Bill Mulder's project by decades.\"\nDeep Throat: \"Security Resolution Council 1013 states, \"Any country capturing such an entity is responsible for its immediate extermination.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Bitter Defeat",
@@ -2194,7 +2294,8 @@
       "Active"
     ],
     "gameText": "Place in your Field section with two tokens on this card. Remove a token to double the [CP] cost of any one Bluff played by your opponent. If your opponent is unable to pay the augmented cost, the Bluff is discarded. Discard this resource after both tokens are removed.",
-    "dialogue": "\"Life…is like a box of chocolates. A cheap, thoughtless, perfunctory gift that nobody ever asks for. Unreturnable, because all you get back is another box of chocolates.\" - The Cigarette-Smoking Man"
+    "dialogue": "\"Life…is like a box of chocolates. A cheap, thoughtless, perfunctory gift that nobody ever asks for. Unreturnable, because all you get back is another box of chocolates.\" - The Cigarette-Smoking Man",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Senate Subcommittee Testimony",
@@ -2213,7 +2314,8 @@
       "Conspiracy"
     ],
     "gameText": "Play to immediately force Agent Scully and/or Assistant Director Skinner back to the Bureau (unless hospitalized). The Agent(s) may not contribute to the Site skill check and must remain there until either the Team makes a BUREAUCRACY 5+ skill check or all Agents have returned to the Bureau.",
-    "dialogue": "\"I, Dana Katherine Scully, swear to tell the truth, the whole truth, and nothing but the truth, so help me God.\" - Scully"
+    "dialogue": "\"I, Dana Katherine Scully, swear to tell the truth, the whole truth, and nothing but the truth, so help me God.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Cigarette-Smoking Man's Warning",
@@ -2232,7 +2334,8 @@
       "Conspiracy"
     ],
     "gameText": "Play after your opponent has identified your X-File's METHOD. While this card is in play, you (as the Directed Player) may play Keyword GOVERNMENT cards for free and your GOVERNMENT Adversaries may ignore activator requirements.",
-    "dialogue": "\"As a friend, I should advise you, Mr. Skinner, that withholding information on matters of national security is punishable under the laws of this country for treason and sedition.\" - The Cigarette-Smoking Man"
+    "dialogue": "\"As a friend, I should advise you, Mr. Skinner, that withholding information on matters of national security is punishable under the laws of this country for treason and sedition.\" - The Cigarette-Smoking Man",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Cover Credentials",
@@ -2251,7 +2354,8 @@
       "Active"
     ],
     "gameText": "Prior to the Requisition Phase, play this card on a Team of two Agents. This Team may use the [CP] pool to pay for Equipment and a Site in their respective phases. In addition, your opponent cannot play Bluffs on this Site nor attack the Team with GOVERNMENT Adversaries. Discard this card at the end of your turn.",
-    "dialogue": "\"I can help you, Agent Mulder…With cover credentials. A diplomatic passport. A visa.\" - Marita Covarrubias"
+    "dialogue": "\"I can help you, Agent Mulder…With cover credentials. A diplomatic passport. A visa.\" - Marita Covarrubias",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Early Parole",
@@ -2269,7 +2373,8 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the section of the table designated The Gulag to immediately remove one token of imprisonment.",
-    "dialogue": "\"Da Svidanya.\" - Alex Krycek to Mulder"
+    "dialogue": "\"Da Svidanya.\" - Alex Krycek to Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Extended Sentence",
@@ -2287,7 +2392,8 @@
       "Conspiracy"
     ],
     "gameText": "Play on an Agent in the section of the table designated The Gulag. Place an additional token of imprisonment on the Agent. The Agent must remain in The Gulag until all tokens are removed.",
-    "dialogue": "Mulder: \"Why are you here?\"\nPrisoner: \"To do the work. Like the others. Like them, I will die in an experiment when there is no longer any use for me.\"\nMulder: \"What kind of experiment?\""
+    "dialogue": "Mulder: \"Why are you here?\"\nPrisoner: \"To do the work. Like the others. Like them, I will die in an experiment when there is no longer any use for me.\"\nMulder: \"What kind of experiment?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Jailbreak",
@@ -2306,7 +2412,8 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the section of the table designated The Gulag. The imprisoned Agent is immediately moved to the Bureau (undamaged).",
-    "dialogue": "\"Back on your horses! We must find him!\" - Gulag Commandant, in Russian"
+    "dialogue": "\"Back on your horses! We must find him!\" - Gulag Commandant, in Russian",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Well-Manicured Man's Vendetta",
@@ -2324,7 +2431,8 @@
       "Active"
     ],
     "gameText": "Attach this card to a Witness RESOURCE. If at any time the Witness is negated or removed, your opponent loses 5 [CP] and must discard all GOVERNMENT Adversaries in their deck.",
-    "dialogue": "The Well-Manicured Man: \"This was a professional hit.\"\nThe Cigarette-Smoking Man: \"Were you sleeping with her? Surely you wouldn’t be so foolish as to put the project at risk for the sake of your personal pleasures.\"\nThe Well-Manicured Man: \"Find her killer!\""
+    "dialogue": "The Well-Manicured Man: \"This was a professional hit.\"\nThe Cigarette-Smoking Man: \"Were you sleeping with her? Surely you wouldn’t be so foolish as to put the project at risk for the sake of your personal pleasures.\"\nThe Well-Manicured Man: \"Find her killer!\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Krycek Disarmed",
@@ -2342,7 +2450,8 @@
       "Active"
     ],
     "gameText": "Play on Alex Krycek while he is in the Field and damage has been assigned to him. Remove all damage tokens and apply the following permanent modifiers: -1 CRC and +2 ALIEN INVESTIGATION. In addition, Krycek may not be attacked or affected by Keyword GOVERNMENT cards. Place this card below Krycek to remind you of the permanent effects.",
-    "dialogue": "\"No arm. No test.\" - Truck Driver's Wife"
+    "dialogue": "\"No arm. No test.\" - Truck Driver's Wife",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Airlift",
@@ -2361,7 +2470,8 @@
       "Active"
     ],
     "gameText": "Play on a Team during the Deployment Phase. If the Team makes an ALIEN INVESTIGATION 5+ skill check, they may investigate two Sites in either the same state or neighboring states this turn.",
-    "dialogue": "\"Someone used Krycek, then Krycek used us. Someone who didn't want that rock in American hands.\" - Mulder"
+    "dialogue": "\"Someone used Krycek, then Krycek used us. Someone who didn't want that rock in American hands.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Forensic Excavation",
@@ -2379,7 +2489,8 @@
       "Active"
     ],
     "gameText": "Take any two Keyword EVIDENCE or WITNESS cards from your discard pile. Add one card to your hand and immediately use the other card at no cost.",
-    "dialogue": "\"You called for a forensic excavation at five A.M. on a Sunday? What are you looking for?\" - Scully"
+    "dialogue": "\"You called for a forensic excavation at five A.M. on a Sunday? What are you looking for?\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Roche Takes a Hostage",
@@ -2398,7 +2509,8 @@
       "Conspiracy"
     ],
     "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they fail, apply a -2 modifier to the Site skill check and negate all prior Witnesses that are modifying the Team's skill check.",
-    "dialogue": "\"You're not giving me very much choice. I really don't want to go back to prison.\" - John Lee Roche"
+    "dialogue": "\"You're not giving me very much choice. I really don't want to go back to prison.\" - John Lee Roche",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Quarantine Zone",
@@ -2418,7 +2530,8 @@
       "Site"
     ],
     "gameText": "Place this card on top of an opponent's Site and place two tokens on it. Remove a token during each of their following Briefing Phases. While this card is in play, the Site cannot be resolved. The Team may not move or contribute their skills until the last token is removed, except for Agents equipped with a \"Biohazard Suit\".",
-    "dialogue": "\"Get on your cell phone and have a hazmat team assembled.\" - Mulder"
+    "dialogue": "\"Get on your cell phone and have a hazmat team assembled.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Regeneration",
@@ -2437,7 +2550,8 @@
       "Conspiracy"
     ],
     "gameText": "Play immediately after discarding an EVOLUTIONARY Adversary as a result of either combat or a Negate effect. The Adverary is returned to the Field at no cost and may attack the Team again.",
-    "dialogue": "Mulder: \"What if this man’s life force, his Chi, whatever you want to call it, somehow retained a blueprint of the actual man himself? Guiding rapid growth not as cancer, but as regeneration?\"\nScully: \"You think that Leonard Betts regrew his head?\""
+    "dialogue": "Mulder: \"What if this man’s life force, his Chi, whatever you want to call it, somehow retained a blueprint of the actual man himself? Guiding rapid growth not as cancer, but as regeneration?\"\nScully: \"You think that Leonard Betts regrew his head?\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Aura Photography",
@@ -2456,7 +2570,8 @@
       "Active"
     ],
     "gameText": "If the Team makes a SCIENCES 4+ skill check, add five tokens to the [RP] Pool.",
-    "dialogue": "\"You know, with this equipment I have been able to capture phantom images of whole leaves that were cut in half or the vestigial image of a lizard’s tail long after it’s been cut off … which, you have to admit is pretty cool.\" - Dr. Charles Burks"
+    "dialogue": "\"You know, with this equipment I have been able to capture phantom images of whole leaves that were cut in half or the vestigial image of a lizard’s tail long after it’s been cut off … which, you have to admit is pretty cool.\" - Dr. Charles Burks",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Chuck's Resources",
@@ -2474,7 +2589,8 @@
       "Active"
     ],
     "gameText": "Play this card any time after Dr. Charles Burk's game effect token has been removed. Place a new token on Burk's card. Remove this card from the game.",
-    "dialogue": "Scully: \"Are you ever asked to defend this as a legitimate scientific process, Dr. Burks?\"\nDr. Burks: \"Only if you're not happy with the results.\""
+    "dialogue": "Scully: \"Are you ever asked to defend this as a legitimate scientific process, Dr. Burks?\"\nDr. Burks: \"Only if you're not happy with the results.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Search Warrant",
@@ -2492,7 +2608,8 @@
       "Active"
     ],
     "gameText": "Play this card to examine your opponent's hand. Your opponent must discard two cards from their hand (your choice).",
-    "dialogue": "\"Elaine Tanner? We have a warrant to search the premises.\" - Scully"
+    "dialogue": "\"Elaine Tanner? We have a warrant to search the premises.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Exhumation",
@@ -2509,7 +2626,8 @@
       "Conspiracy"
     ],
     "gameText": "Select one Adversary card from your Discard Pile and add it to your hand.",
-    "dialogue": "\"Will the real Leonard Betts please stand up?\" - Mulder"
+    "dialogue": "\"Will the real Leonard Betts please stand up?\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Insanity on Rye",
@@ -2530,7 +2648,8 @@
       "Agent"
     ],
     "gameText": "Place this card on an opposing Agent in the Field to change one Keyword LAW or INDEPENDENT to INSANITY. This card is removed when a Healing card is played on the afflicted Agent.",
-    "dialogue": "\"Ergot is a parasite that lives off of rye and related grasses. Svo said that he used rye somehow in his ink. Now if this is true, we may be subject to hallucinogenic ergotism. Aural, visual hallucinations. Dangerous and unlikely behavior.\" - Scully"
+    "dialogue": "\"Ergot is a parasite that lives off of rye and related grasses. Svo said that he used rye somehow in his ink. Now if this is true, we may be subject to hallucinogenic ergotism. Aural, visual hallucinations. Dangerous and unlikely behavior.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Desk Jockey",
@@ -2550,7 +2669,8 @@
       "Agent"
     ],
     "gameText": "Play on an opposing Agent in the Bureau. The Agent may not leave the Bureau or add their skills to a skill check until a Team has successfully investigated a Site with Keywords CRIMINAL INVESTIGATION or OCCULT INVESTIGATION.",
-    "dialogue": "\"Why don't I have a desk?\" - Scully"
+    "dialogue": "\"Why don't I have a desk?\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Cancer Diagnosis",
@@ -2571,7 +2691,8 @@
       "Agent"
     ],
     "gameText": "Play this card to add CANCER to an opposing Agent's Keywords. The Agent's HEALTH is reduced by 1 for each of your opponent's Debriefing Phases that the Agent doesn't spend in the Hospital. If the Agent's HEALTH is reduced to 0, they must remain in the Hospital until HEALTH is restored. This card is removed when a Healing card is played on the Agent.",
-    "dialogue": "\"I have cancer. It is a mass on the wall between my sinus and cerebrum.\" - Scully"
+    "dialogue": "\"I have cancer. It is a mass on the wall between my sinus and cerebrum.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Chemotherapy",
@@ -2589,7 +2710,8 @@
       "Active"
     ],
     "gameText": "Play this card on an Agent in the Hospital. The Agent heals one token of damage immediately. This card heals up to two tokens of damage if the Agent has the Keyword CANCER.",
-    "dialogue": "\"This is the evil of cancer, that it starts as an invader, but soon becomes one with the invaded, forcing you to destroy it but only at the risk of destroying yourself. It is science's demon possession; my treatment, science's attempted exorcism.\" - Scully"
+    "dialogue": "\"This is the evil of cancer, that it starts as an invader, but soon becomes one with the invaded, forcing you to destroy it but only at the risk of destroying yourself. It is science's demon possession; my treatment, science's attempted exorcism.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Tricks of the Trade",
@@ -2607,7 +2729,8 @@
       "Active"
     ],
     "gameText": "Show this card to your opponent to retrieve all Keyword RESOURCE cards from your Discard Pile. Shuffle them back into your Bureau Deck and discard this card.",
-    "dialogue": "Mulder: \"How'd you guys get in?\"\nByers: \"A modified clipper chip we cannibalized from a government surplus army field encoder.\"\nFrohike: \"Bought it back from the Chinese.\""
+    "dialogue": "Mulder: \"How'd you guys get in?\"\nByers: \"A modified clipper chip we cannibalized from a government surplus army field encoder.\"\nFrohike: \"Bought it back from the Chinese.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Ariel's Wedding Ring",
@@ -2629,7 +2752,8 @@
       "Witness"
     ],
     "gameText": "Attach this card to a Witness RESOURCE. While in play, this card enables your Agents to attack OCCULT CREATURES otherwise unaffected by Combat attacks. This card remains in play until the attached Witness is discarded or removed from the game.",
-    "dialogue": "\"It's a communal wedding ring made in Colon, a village near Prague. My father was an apprentice to the man who designed it.\" - Ariel Weiss"
+    "dialogue": "\"It's a communal wedding ring made in Colon, a village near Prague. My father was an apprentice to the man who designed it.\" - Ariel Weiss",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Maintain Deniability",
@@ -2646,7 +2770,8 @@
       "Active"
     ],
     "gameText": "For the remainder of this turn, your opponent may only play Keyword GOVERNMENT cards.",
-    "dialogue": "Mulder: \"Are you saying that our government wants these officers dead?…Why would they ask us to protect them?\"\nMarita Covarrubias: \"Because they know you can't.\""
+    "dialogue": "Mulder: \"Are you saying that our government wants these officers dead?…Why would they ask us to protect them?\"\nMarita Covarrubias: \"Because they know you can't.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Happy Birthday",
@@ -2663,7 +2788,8 @@
       "Active"
     ],
     "gameText": "Play on one Agent during the Briefing Phase to double the Agent's RES for one turn. In addition, you may requisition one Equipment card to the Agent at no cost. Each player may only have one of this card in their deck.",
-    "dialogue": "Scully: \"Mulder…you have never remembered my birthday in the four years I've known you.\"\nMulder: \"That's the way I like to celebrate them. It's every four years, it's like dog years that way.\""
+    "dialogue": "Scully: \"Mulder…you have never remembered my birthday in the four years I've known you.\"\nMulder: \"That's the way I like to celebrate them. It's every four years, it's like dog years that way.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Pendrell Killed in D.C. Pub Shootout",
@@ -2682,7 +2808,8 @@
       "Conspiracy"
     ],
     "gameText": "If your opponent includes Agent Pendrell in any skill check in the Field, Agent Pendrell is instantly killed and removed from the game.",
-    "dialogue": "Scully: \"Mulder, Agent Pendrell is dead.\"\nMulder: \"How?\"\nScully: \"Shot - in an attempt on Sergeant Frish on Washington. He saved his life, Mulder, and maybe mine.\""
+    "dialogue": "Scully: \"Mulder, Agent Pendrell is dead.\"\nMulder: \"How?\"\nScully: \"Shot - in an attempt on Sergeant Frish on Washington. He saved his life, Mulder, and maybe mine.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Warning From the Future",
@@ -2701,7 +2828,8 @@
       "Active"
     ],
     "gameText": "Play this card on a Site card with COMPUTER or SCIENCES as a prerequisite. Immediately discard all Active and Conspiracy cards attached to the Site, along with the Site itself. The Case Assignment Phase starts over and the turn resumes as normal.",
-    "dialogue": "Scully: \"You're seriously suggesting that this old man is back from the future?\"\nMulder: \"Unless you have a better explanation for how he knew exactly when and how Lucas Menand was gonna be killed.\""
+    "dialogue": "Scully: \"You're seriously suggesting that this old man is back from the future?\"\nMulder: \"Unless you have a better explanation for how he knew exactly when and how Lucas Menand was gonna be killed.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Spontaneous Combustion",
@@ -2721,7 +2849,8 @@
       "Healing"
     ],
     "gameText": "Play this card when a Keyword HEALING Card is played on an opposing Agent. The Agent is instantly killed and removed from the game.",
-    "dialogue": "Lisa Ianelli: \"Something's wrong?\"\nMulder: \"Scully, look at his temperature.\"\nScully: \"Oh, my God. He's on fire. He's having febrile seizures.\"\nDoctor: This can't be right. He's burning up. Hold him down!\""
+    "dialogue": "Lisa Ianelli: \"Something's wrong?\"\nMulder: \"Scully, look at his temperature.\"\nScully: \"Oh, my God. He's on fire. He's having febrile seizures.\"\nDoctor: This can't be right. He's burning up. Hold him down!\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Advice From a Loser",
@@ -2742,7 +2871,8 @@
       "Adversary"
     ],
     "gameText": "Negate one EVOLUTIONARY Adversary. In addition, if the Team makes a CRIMINAL INVESTIGATION skill check 6+, they may ask either one MOTIVE or one METHOD question.",
-    "dialogue": "Eddie Van Blundht: \"I just think it's funny. I was born a loser, but you're one by choice.\"\nMulder: \"On what do you base that astute assessment?\"\nVan Blundht: \"Experience. You should live a little. Treat yourself. God knows I would if I were you.\""
+    "dialogue": "Eddie Van Blundht: \"I just think it's funny. I was born a loser, but you're one by choice.\"\nMulder: \"On what do you base that astute assessment?\"\nVan Blundht: \"Experience. You should live a little. Treat yourself. God knows I would if I were you.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Skinner's Deal With the Devil",
@@ -2761,7 +2891,8 @@
       "Active"
     ],
     "gameText": "Play on Skinner when an Agent cannot heal without a HEALING card. Place two tokens on Skinner and remove one during your Debriefing Phases. While in play, all of Skinner's skills (except HEALTH and RES) become -1 and he adds to the [CP] pool instead of the [RP] pool. Discard this card when the last token is removed. Remove all tokens from the damaged Agent.",
-    "dialogue": "\"I advised you against a certain course of action some time ago, concerning Agent Scully…I didn't follow my own advice.\" - Skinner"
+    "dialogue": "\"I advised you against a certain course of action some time ago, concerning Agent Scully…I didn't follow my own advice.\" - Skinner",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Ghostly Visitations",
@@ -2781,7 +2912,8 @@
       "Active"
     ],
     "gameText": "Attach this card to one of your Agents. While this card is in play, your opponent must play with all Keyword OCCULT cards in their hand face-up on the table. This card is free if played on an Agent with the Keyword CANCER. Discard this card if your Agent's HEALTH is reduced to 0.",
-    "dialogue": "\"No…no…I just want to be left alone!\" - Harold Spuller"
+    "dialogue": "\"No…no…I just want to be left alone!\" - Harold Spuller",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Crisis Counseling",
@@ -2800,7 +2932,8 @@
       "Active"
     ],
     "gameText": "Play this card on an Agent when they are in the Bureau with Agent Karen Kosseff. At the start of your next turn, you may discard this resource to either heal one token of damage or remove any one afflicted Keyword (i.e. CANCER, INSANITY) from the Agent.",
-    "dialogue": "\"We've spoken about your fear. You've been afraid to express it to others, to Agent Mulder.\" - Agent Karen Kosseff"
+    "dialogue": "\"We've spoken about your fear. You've been afraid to express it to others, to Agent Mulder.\" - Agent Karen Kosseff",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Aggressive Recall Therapy",
@@ -2819,7 +2952,8 @@
       "Active"
     ],
     "gameText": "Attach this card to one of your Agents to apply a -1 modifier to the Agent's HEALTH. While this Agent is in the Field, your opponent must randomly reveal one card in their hand, once per turn. When this Resource is discarded, the Agent's HEALTH is restored.",
-    "dialogue": "\"Whatever's happening to me, whatever treatment I've received, is allowing me to go back into my unconscious. The truth is in there, recorded, and I've gotten access to it.\" - Mulder"
+    "dialogue": "\"Whatever's happening to me, whatever treatment I've received, is allowing me to go back into my unconscious. The truth is in there, recorded, and I've gotten access to it.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "A Scully Family Gathering",
@@ -2836,7 +2970,8 @@
       "Active"
     ],
     "gameText": "Play this card on a Team with Dana Scully to search through your Bureau Deck and add one of the following cards to your hand: \"Margaret Scully\", \"Queequeg\", \"Melissa Scully\", \"Tara Scully\", or \"Father McCue\". If you play the chosen card immediately, you may do so for half cost (rounded up).",
-    "dialogue": "Dana Scully: \"Look at you, my big brother.\"\nBill Scully, Jr.: \"Sorry, I'm late. My ship got stuck in traffic.\""
+    "dialogue": "Dana Scully: \"Look at you, my big brother.\"\nBill Scully, Jr.: \"Sorry, I'm late. My ship got stuck in traffic.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Father McCue",
@@ -2855,7 +2990,8 @@
       "Active"
     ],
     "gameText": "Play on any one Agent in the Field or Hospital. An Agent with the Keyword BELIEVER immediately heals two tokens of damage. All other Agents immediately heal one token of damage. If played on either Scully or Mulder, treat Scully as a Keyword BELIEVER and treat Mulder as a Keyword SKEPTIC.",
-    "dialogue": "\"Faith can make you stronger.\" - Father McCue"
+    "dialogue": "\"Faith can make you stronger.\" - Father McCue",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Mortality Imminent",
@@ -2875,7 +3011,8 @@
       "Conspiracy"
     ],
     "gameText": "Place this card on an opposing Agent afflicted with the Keyword CANCER. The Agent is immediately moved to the Hospital (if not already there) and must remain in the Hospital until the Keyword CANCER is removed.",
-    "dialogue": "\"What I couldn't tell Agent Mulder, what I had only learned myself, was that the cancer which had been diagnosed in me several months earlier had metastasized…\" - Scully"
+    "dialogue": "\"What I couldn't tell Agent Mulder, what I had only learned myself, was that the cancer which had been diagnosed in me several months earlier had metastasized…\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Kritschgau's Revelation",
@@ -2894,7 +3031,8 @@
       "Conspiracy"
     ],
     "gameText": "Play this card to change Agent Mulder's Keyword BELIEVER to SKEPTIC. While this card is in play, Agent Mulder may not contribute his ALIEN INVESTIGATION skills. In addition, your opponent may not ask you if your X-File's Affiliation is \"Alien\".",
-    "dialogue": "\"The lie you believe, that they have cleverly led you to believe, Agent Mulder, is that there is intelligent life, other than our own, and that we have had contact with these life forms.\" - Michael Kritschgau"
+    "dialogue": "\"The lie you believe, that they have cleverly led you to believe, Agent Mulder, is that there is intelligent life, other than our own, and that we have had contact with these life forms.\" - Michael Kritschgau",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Jason Ludwig",
@@ -2914,7 +3052,8 @@
       "Site"
     ],
     "gameText": "Play to change a Site Prerequisite to BEHAVIORAL 3+.",
-    "dialogue": "Jason Ludwig: \"Trepkos is what happened here.\"\nMulder: \"Did he kill Erikson?\"\nLudwig: \"He flipped out. Right after the descent, he just flipped out."
+    "dialogue": "Jason Ludwig: \"Trepkos is what happened here.\"\nMulder: \"Did he kill Erikson?\"\nLudwig: \"He flipped out. Right after the descent, he just flipped out.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Hanging in the Balance",
@@ -2933,7 +3072,8 @@
       "Conspiracy"
     ],
     "gameText": "Force Agent Mulder to the Hospital (undamaged). Place three tokens on this card and remove a token during your opponent's Healing Phases. Mulder must remain in the Hospital until either all tokens are removed or a Healing card is played. When all tokens have been removed, discard this card.",
-    "dialogue": "The Cigarette-Smoking Man: \"What information?\"\nFirst Elder: \"That Mrs. Mulder's life is in danger, that left unprotected…she may come to an unnatural end.\""
+    "dialogue": "The Cigarette-Smoking Man: \"What information?\"\nFirst Elder: \"That Mrs. Mulder's life is in danger, that left unprotected…she may come to an unnatural end.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Booby Trap",
@@ -2954,7 +3094,8 @@
       "Mono"
     ],
     "gameText": "Play on a Team of two or more Agents investigating a Keyword MONO Site to increase the Site Prerequisite to 5+. If the Team makes a BEHAVIORAL 4+ skill check, this card is negated. If they fail to make the Site skill check, one Agent (your choice) takes 3 points of damage and the increased Site Prerequisite remains in effect.",
-    "dialogue": "\"Scully, watch your step. This place is rigged.\" - Mulder"
+    "dialogue": "\"Scully, watch your step. This place is rigged.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Mrs. Peacock",
@@ -2973,7 +3114,8 @@
       "Site"
     ],
     "gameText": "Force your opponent to discard one Witness RESOURCE in play. In addition, PRIMORDIAL Adversaries may ignore Activator requirements to attack Agents at this Site.",
-    "dialogue": "\"I can tell you don't have no children. Maybe one day you'll learn… the pride…the love…when you know your boy will do anything for his mother.\" - Mrs. Peacock"
+    "dialogue": "\"I can tell you don't have no children. Maybe one day you'll learn… the pride…the love…when you know your boy will do anything for his mother.\" - Mrs. Peacock",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "She Had a Date",
@@ -2993,7 +3135,8 @@
       "Evidence Collection"
     ],
     "gameText": "Play to change the Site Prerequisite from EVIDENCE COLLECTION to MEDICAL.",
-    "dialogue": "Agent Pendrell: \"Shouldn’t we wait for Agent Scully? Just so I won’t have to repeat myself.\"\nMulder: \"She's not coming.\"\nPendrell: \"Why not?\"\nMulder: \"She had a date…Breathe, Agent Mulder. It's with a dead man. She's doing an autopsy.\""
+    "dialogue": "Agent Pendrell: \"Shouldn’t we wait for Agent Scully? Just so I won’t have to repeat myself.\"\nMulder: \"She's not coming.\"\nPendrell: \"Why not?\"\nMulder: \"She had a date…Breathe, Agent Mulder. It's with a dead man. She's doing an autopsy.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "In the Crosshairs",
@@ -3012,7 +3155,8 @@
       "Site"
     ],
     "gameText": "Flip a coin in the air. If the coin lands on heads, your opponent must discard the following cards from their hand: \"No One So Paranoid\", \"The Lone Gunmen\", \"Langly\", \"Frohike\", \"Byers\", and \"Call On Us More Often\". The listed cards may not be used to negate this card.",
-    "dialogue": "\"I can kill you whenever I please…but not today.\" - The Cigarette-Smoking Man"
+    "dialogue": "\"I can kill you whenever I please…but not today.\" - The Cigarette-Smoking Man",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Relatively Safe House",
@@ -3031,7 +3175,8 @@
       "Site"
     ],
     "gameText": "Play on a Team that includes Agent Alex Krycek to prevent Krycek from contributing his skills to any skill checks this turn, including Combat.",
-    "dialogue": "Mulder: \"This man has information about extreme-right militia, that could save the lives of innocent Americans.\"\nSkinner: \"He'll be safe here. Relatively Safe…\""
+    "dialogue": "Mulder: \"This man has information about extreme-right militia, that could save the lives of innocent Americans.\"\nSkinner: \"He'll be safe here. Relatively Safe…\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Senator Sorenson",
@@ -3052,7 +3197,8 @@
       "Site"
     ],
     "gameText": "Force one Agent with the Keyword FBI (your choice, but excluding Fox Mulder and Alex Krycek), back to the Bureau immediately. The Agent may not leave the Bureau, requisition Equipment, or contribute their skills until either the controlling player pays 7 [RP] or reveals all the cards in their hand.",
-    "dialogue": "\"Either you tell us what you know about Agent Mulder's whereabouts, or you will be held in Contempt of Congress.\" - Senator Sorenson"
+    "dialogue": "\"Either you tell us what you know about Agent Mulder's whereabouts, or you will be held in Contempt of Congress.\" - Senator Sorenson",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Gulag-Bird",
@@ -3071,7 +3217,8 @@
       "Agent"
     ],
     "gameText": "Place this card beneath an Agent to move them to a section of the table designated The Gulag. Place three tokens on the Agent (two tokens if played on Alex Krycek). Remove one token during each of your opponent's Debriefing Phases. While in play, the Agent may not move or contribute to any skill check. All Equipment attached to the imprisoned Agent is discarded immediately. Discard this card when the last token is removed and move the Agent to the Bureau.",
-    "dialogue": "Mulder: \"How many men have died here?\"\nPrisoner: \"Hundreds…maybe more.\""
+    "dialogue": "Mulder: \"How many men have died here?\"\nPrisoner: \"Hundreds…maybe more.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Wellhead Explosion",
@@ -3091,7 +3238,8 @@
       "Site"
     ],
     "gameText": "Force an opponent to remove one Keyword ARTIFACT card from the game.",
-    "dialogue": "Mulder: \"Where would you put this this rock if you didn't want it to be found?\"\nScully: \"Back in the ground.\""
+    "dialogue": "Mulder: \"Where would you put this this rock if you didn't want it to be found?\"\nScully: \"Back in the ground.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Soledad's Revenge",
@@ -3110,7 +3258,8 @@
       "Site"
     ],
     "gameText": "Subtract 4 from one Team's OCCULT INVESTIGATION or SCIENCES skill check.",
-    "dialogue": "\"You killed Maria! Because she wouldn’t love you! Because her heart belongs to only one man! Don’t make me shoot you in the back, Eladio! Turn! See my tears! Turn around like a man!\" - Soledad Buente"
+    "dialogue": "\"You killed Maria! Because she wouldn’t love you! Because her heart belongs to only one man! Don’t make me shoot you in the back, Eladio! Turn! See my tears! Turn around like a man!\" - Soledad Buente",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Nobody Cares",
@@ -3129,7 +3278,8 @@
       "Site"
     ],
     "gameText": "Any Adversaries played at this Site are shuffled back into your Bureau Deck instead of the Discard Pile.",
-    "dialogue": "Scully: \"Well, sir, they, um, they have a way of being almost invisible.\"\nMulder: \"The truth is…nobody cares.\""
+    "dialogue": "Scully: \"Well, sir, they, um, they have a way of being almost invisible.\"\nMulder: \"The truth is…nobody cares.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Grainy Footage",
@@ -3148,7 +3298,8 @@
       "Conspiracy"
     ],
     "gameText": "Once this card is played, the opposing Team may not use or apply skill values from any Keyword ELECTRICAL Equipment while investigating this Site.",
-    "dialogue": "Mulder: \"Unfortunately, you can’t see very much on these. What…what’s all this stuff here?\"\nSecurity Guard: \"Bad video. The security system isn’t exactly state-of-the-art.\""
+    "dialogue": "Mulder: \"Unfortunately, you can’t see very much on these. What…what’s all this stuff here?\"\nSecurity Guard: \"Bad video. The security system isn’t exactly state-of-the-art.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Elaine Tanner",
@@ -3168,7 +3319,8 @@
       "Site"
     ],
     "gameText": "Play to increase the applicable HEALTH of all Keyword EVOLUTIONARY and PRIMORDIAL Adversaries played at this Site by 2.",
-    "dialogue": "\"I’m your mother and it’s a mother’s duty to provide.\" - Elaine Tanner"
+    "dialogue": "\"I’m your mother and it’s a mother’s duty to provide.\" - Elaine Tanner",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Cancerous Nosebleed",
@@ -3189,7 +3341,8 @@
       "Agent"
     ],
     "gameText": "Play this card to add CANCER to an opposing Agent's Keywords. The Agent's HEALTH is reduced by 1 for each of the opponent's Debriefing Phases that the Agent spends outside of the Hospital. If the Agent's HEALTH is reduced to 0, they must remain in the Hospital until HEALTH is restored. This card is removed when a Healing card is played on the Agent.",
-    "dialogue": "\"Now what is cancer but normal cells growing rapidly out of control usually caused by some damage to their DNA.\" - Mulder"
+    "dialogue": "\"Now what is cancer but normal cells growing rapidly out of control usually caused by some damage to their DNA.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Last Witness",
@@ -3209,7 +3362,8 @@
       "Alien Investigation"
     ],
     "gameText": "Play on a Site with ALIEN INVESTIGATION as a prerequisite. Your opponent must remove all Keyword ALIEN INVESTIGATION Witnesses from their Bureau Deck, discard all except one (opponent's choice), and reshuffle their deck. Your opponent may choose to play the remaining Witness at full cost. The Witness is discarded at the end of this turn.",
-    "dialogue": "\"You have one remaining witness Agent Scully. I'd think you'd want to know what her story is.\" - Mulder"
+    "dialogue": "\"You have one remaining witness Agent Scully. I'd think you'd want to know what her story is.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "No Trespassing",
@@ -3229,7 +3383,8 @@
       "Site"
     ],
     "gameText": "Play this card to prevent all Agents with the Keyword FBI from contributing their skills to this Site.",
-    "dialogue": "Denny Markham: \"I'm not going anywhere.\"\nScully: \"Sir, we have a warrant for your arrest if you don't cooperate.\""
+    "dialogue": "Denny Markham: \"I'm not going anywhere.\"\nScully: \"Sir, we have a warrant for your arrest if you don't cooperate.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "The Death Card",
@@ -3248,7 +3403,8 @@
       "Site"
     ],
     "gameText": "Play to add 4 [CP] to your pool immediately.",
-    "dialogue": "\"There is suspicion of an accomplice, based on the one piece of evidence found at the crime scene, a so-called \"death card\" used by soldiers in Vietnam to mark their kills…\" - Assistant Director Walter Skinner"
+    "dialogue": "\"There is suspicion of an accomplice, based on the one piece of evidence found at the crime scene, a so-called \"death card\" used by soldiers in Vietnam to mark their kills…\" - Assistant Director Walter Skinner",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Mid-Air Abduction",
@@ -3270,7 +3426,8 @@
       "Site"
     ],
     "gameText": "Play to force the Investigating player to discard all Keyword ALIEN INVESTIGATION and OBSERVATION cards in their hand. In addition, any and all Witnesses played at this Site are immediately afflicted with the Keyword ABDUCTEE (due to residual radiation) even after this card is resolved.",
-    "dialogue": "\"You're saying the man sitting in seat 13-F was abducted mid-flight without any depressurization of the cabin, without any effect on the plane.\" - Mike Millar, NTSB"
+    "dialogue": "\"You're saying the man sitting in seat 13-F was abducted mid-flight without any depressurization of the cabin, without any effect on the plane.\" - Mike Millar, NTSB",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Skin-Cognito",
@@ -3290,7 +3447,8 @@
       "Site"
     ],
     "gameText": "Play to force the Investigating player to discard all Keyword COMPUTER and EVIDENCE COLLECTION cards in their hand. In addition, if Skinner is part of the Team investigating this Site, his SUBTERFUGE skill is permanently reduced by 1. Place this card beneath Skinner as a reminder of his reduced skill.",
-    "dialogue": "Officer Robbins: \"Your name?\"\nSkinner: \"Special Agent Fox Mulder.\"\nRobbins: \"Working the night shift, Agent Mulder?\"\nSkinner: \"Yeah. Somebody's got to.\""
+    "dialogue": "Officer Robbins: \"Your name?\"\nSkinner: \"Special Agent Fox Mulder.\"\nRobbins: \"Working the night shift, Agent Mulder?\"\nSkinner: \"Yeah. Somebody's got to.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Trial Run",
@@ -3310,7 +3468,8 @@
       "Site"
     ],
     "gameText": "Play this card to add 2X [CP] to your pool. X = the number of Witnesses in your Discard Pile.",
-    "dialogue": "The First Elder: \"Should we assume that the trial run is proceeding as planned?\"\nThe Cigarette-Smoking Man: \"It's already begun.\""
+    "dialogue": "The First Elder: \"Should we assume that the trial run is proceeding as planned?\"\nThe Cigarette-Smoking Man: \"It's already begun.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Writing on the Wall",
@@ -3329,7 +3488,8 @@
       "Site"
     ],
     "gameText": "Attach this card to a Keyword MULTI Site to choose which prerequisite your opponent's Team must meet for this Site.",
-    "dialogue": "\"What is a death omen if not a vision of our own mortality? And who among us would most likely be able to see the dead?\" - Mulder"
+    "dialogue": "\"What is a death omen if not a vision of our own mortality? And who among us would most likely be able to see the dead?\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Legal Representation",
@@ -3349,7 +3509,8 @@
       "Site"
     ],
     "gameText": "Play this card to increase the cost of all Witnesses played at this Site by 2 [RP].",
-    "dialogue": "Attorney: \"He will not answer any questions regarding his guilt or innocence.\"\nDetective Hudak: \"I'd be real happy if you'd quit talking right now.\""
+    "dialogue": "Attorney: \"He will not answer any questions regarding his guilt or innocence.\"\nDetective Hudak: \"I'd be real happy if you'd quit talking right now.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Detective Joe Curtis",
@@ -3370,7 +3531,8 @@
       "Site"
     ],
     "gameText": "Force your opponent to discard one Witness from their hand. If your opponent has no Witnesses in their hand, this card has no effect. If your opponent has a Witness to discard, attach Detective Curtis to one Investigating Agent (your choice). The Agent is arrested and removed from play until the remaining Agents make a CRIMINAL INVESTIGATION 4+ skill check.",
-    "dialogue": "Scully: \"You're jailing an innocent man.\"\nDetective Curtis: \"Yeah, well, this way he won't get lost for two days and do something else he won't remember.\""
+    "dialogue": "Scully: \"You're jailing an innocent man.\"\nDetective Curtis: \"Yeah, well, this way he won't get lost for two days and do something else he won't remember.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Goldstein's Complicity",
@@ -3391,7 +3553,8 @@
       "Medical"
     ],
     "gameText": "Play this card to change the Site Prerequisite from MEDICAL to CRIMINAL INVESTIGATION. If your opponent fails this Site skill check, add 5 [CP] to your pool.",
-    "dialogue": "\"I use a method of therapy that simulates an electrical impulse in the brain, using light and sound.\" - Dr. Charles Goldstein"
+    "dialogue": "\"I use a method of therapy that simulates an electrical impulse in the brain, using light and sound.\" - Dr. Charles Goldstein",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Thoughtographs",
@@ -3409,7 +3572,8 @@
       "Field"
     ],
     "gameText": "Adds 1 to the Agent's EVIDENCE COLLECTION skill.",
-    "dialogue": "\"That's a passport photo from a local drugstore. The druggist who took that photo is the last known person to have seen Mary LeFante. Only he claims that wasn't the photo he was taking.\" - Mulder"
+    "dialogue": "\"That's a passport photo from a local drugstore. The druggist who took that photo is the last known person to have seen Mary LeFante. Only he claims that wasn't the photo he was taking.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "S.W.A.T. Tactical Gear",
@@ -3429,7 +3593,8 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's LRC and CRC skills. Additionally, place 3 tokens on this card. Remove a token to prevent one point of damage. Discard the Tactical Gear when all tokens have been removed. Excess damage is applied to the Agent as normal. This card cannot be sold for [CP].",
-    "dialogue": "\"Federal agent! I'm armed! Exit the vehicle, now!\" - Mulder"
+    "dialogue": "\"Federal agent! I'm armed! Exit the vehicle, now!\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Biohazard Suit",
@@ -3447,7 +3612,8 @@
       "Bureau"
     ],
     "gameText": "Agents equipped with a Biohazard Suit have access to the field office crime lab. Adds 2 to the Agent's SCIENCES skill.",
-    "dialogue": "Pendrell: \"These are Level 4 suits. Exactly what he's wearing.\"\nScully: \"Contamination is impossible unless there's a tear or a loss of pressurization. So whatever happened to him, it's unlikely it penetrated the suit.\""
+    "dialogue": "Pendrell: \"These are Level 4 suits. Exactly what he's wearing.\"\nScully: \"Contamination is impossible unless there's a tear or a loss of pressurization. So whatever happened to him, it's unlikely it penetrated the suit.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Shiv",
@@ -3467,7 +3633,8 @@
       "Gulag"
     ],
     "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill. Discard this card to escape The Gulag and return to the Bureau (undamaged).",
-    "dialogue": "Mulder: \"Where did you get this?\"\nPrisoner: \"I made it, to kill myself. It took me two weeks… but by then I had lost the desire.\""
+    "dialogue": "Mulder: \"Where did you get this?\"\nPrisoner: \"I made it, to kill myself. It took me two weeks… but by then I had lost the desire.\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Cloth Hearts",
@@ -3485,7 +3652,8 @@
       "Field"
     ],
     "gameText": "Place 2 tokens on this card. Remove a token to take any one Witness from your Discard Pile that modifies a skill check and use it immediately for zero cost. Discard this card when both tokens have been removed.",
-    "dialogue": "\"He had two more victims.\" - Mulder, upon counting Roche's cloth hearts."
+    "dialogue": "\"He had two more victims.\" - Mulder, upon counting Roche's cloth hearts.",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Epoxy Vat",
@@ -3504,7 +3672,8 @@
       "Hospital"
     ],
     "gameText": "Agents equipped with an Epoxy Vat have access to the field office crime lab. Adds 1 to the Agent's MEDICAL and SCIENCES skills.",
-    "dialogue": "\"This procedure is called biopolymerization. It’s basically a high-tech mummification process.\" - Scully"
+    "dialogue": "\"This procedure is called biopolymerization. It’s basically a high-tech mummification process.\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Defibrillator",
@@ -3523,7 +3692,8 @@
       "Hospital"
     ],
     "gameText": "Attach this card to any Agent with MEDICAL skill of 1+ and place two tokens on the card. Remove a token to either heal one point of damage or to negate any one EVOLUTIONARY Adversary. Discard this card when all tokens have been removed.",
-    "dialogue": "\"They pronounced Betts ten minutes ago.\" - Mulder"
+    "dialogue": "\"They pronounced Betts ten minutes ago.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Hospital Gown",
@@ -3542,7 +3712,8 @@
       "Hospital"
     ],
     "gameText": "While the attached Agent is in the Hospital, discard the Hospital Gown to heal two points of damage or remove two game effect tokens.",
-    "dialogue": "\"Mom, I'm fine. I'm going to be fine, I'm just here for treatment\" - Scully"
+    "dialogue": "\"Mom, I'm fine. I'm going to be fine, I'm just here for treatment\" - Scully",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Underwater Breathing Kit",
@@ -3561,7 +3732,8 @@
       "Field"
     ],
     "gameText": "Adds 2 to the Agent's OBSERVATION skill. If any one Agent on the Team is equipped with an Underwater Breathing Kit, the Site Prerequisite for U.F.O. Crash Site, Great Sacandaga Lake is 4+.",
-    "dialogue": "Bruce Bearfield: \"Have you worked at this depth before?\"\nMulder: \"Not exactly…\""
+    "dialogue": "Bruce Bearfield: \"Have you worked at this depth before?\"\nMulder: \"Not exactly…\"",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Apollo 11 Keychain",
@@ -3579,7 +3751,8 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's RES value. This card may be attached at zero cost if played after one of your Agents has been removed from the game. Each player may only have one of this card in their deck.",
-    "dialogue": "\"I just thought it was a pretty cool keychain.\" - Mulder"
+    "dialogue": "\"I just thought it was a pretty cool keychain.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Composite Sketch",
@@ -3597,7 +3770,8 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION and EVIDENCE COLLECTION skills.",
-    "dialogue": "\"Dr. Yonechi was accompanied by a man in his seventies. It's a description confirmed by the desk clerk. They're working with a composite artist on a sketch right now.\" - Mulder"
+    "dialogue": "\"Dr. Yonechi was accompanied by a man in his seventies. It's a description confirmed by the desk clerk. They're working with a composite artist on a sketch right now.\" - Mulder",
+    "createdBy": "Stephen Arvidson"
   },
   {
     "title": "Chimera Man",
@@ -3617,6 +3791,7 @@
       "Field"
     ],
     "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION and EVIDENCE COLLECTION skills. While this card is in play any Keyword, GOVERNMENT Adversary may ignore Activator requirements when attacking the Agent's Team.",
-    "dialogue": "\"It's my sincere belief that what we have here is the complete corpus of an extraterrestrial biological entity.\" - Dr. Arlinsky"
+    "dialogue": "\"It's my sincere belief that what we have here is the complete corpus of an extraterrestrial biological entity.\" - Dr. Arlinsky",
+    "createdBy": "Stephen Arvidson"
   }
 ]

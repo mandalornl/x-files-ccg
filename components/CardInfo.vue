@@ -239,6 +239,10 @@ export default {
           tags: {
             label: 'Tags',
             component: 'CardFieldArray'
+          },
+          createdBy: {
+            label: 'Created by',
+            component: 'CardFieldString'
           }
         }).filter(([ key ]) => !!this.card?.[key])
       );
