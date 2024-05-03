@@ -248,7 +248,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any combatant during one LRC round. That combatant will deal damage  to their opponents first. If the HEALTH value of any opponent reaches zero after applying modifiers or healing cards, that combatant is sent to the Hospital and cannot deal any damage back that round.",
+    "gameText": "Play on any combatant during one LRC round. That combatant will deal damage to their opponents first. If the HEALTH value of any opponent reaches zero after applying modifiers or healing cards, that combatant is sent to the Hospital and cannot deal any damage back that round.",
     "dialogue": "Mulder: \"You murdered my father, you killed Scully's sister, and if Scully dies, I will kill you.\"",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -285,7 +285,7 @@
       "Combat"
     ],
     "gameText": "Play this card any time during a Combat on any Adversary. If the Adversary's HEALTH was not reduced to zero yet, you may allow that Adversary to end Combat and return the card to your hand, but you cannot play the Adversary again this turn.",
-    "dialogue": "\"I like to say whoever God didn't get around to creating in his own image, it's our job  to recreate in ours.\" - Doctor Kaplan",
+    "dialogue": "\"I like to say whoever God didn't get around to creating in his own image, it's our job to recreate in ours.\" - Doctor Kaplan",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
     "rarity": "Community"
