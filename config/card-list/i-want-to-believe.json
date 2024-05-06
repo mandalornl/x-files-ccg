@@ -48,7 +48,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card after an Adversary card has been successfully played on a Site. Discard a card from your hand to recover the cost of that Adversary (halved up).",
+    "gameText": "Play after an Adversary card has been successfully played on a Site. Discard a card from your hand to add X [CP] to your pool. X = Cost of the Adversary played halved (rounded down).",
     "dialogue": "\"I just want to say that I believe you.\" - Kimberley",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
