@@ -1564,7 +1564,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing cad is played on the Agent."
+    "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing card is played on the Agent."
   },
   {
     "title": "Peter Tanaka",
