@@ -11,7 +11,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any Agent to immediately skip one combat round for that Agent in this round. The Agent takes no damage that round and may not deal any damage either.",
+    "gameText": "Play this card on any Agent to immediately skip one combat round for that Agent. The Agent takes no damage that round and may not deal any damage either.",
     "dialogue": "\"Well, whatever it is you do believe, Scully…when you walk into that room nothing sacred will hold.\" - Mulder",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
