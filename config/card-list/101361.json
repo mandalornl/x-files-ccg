@@ -2077,7 +2077,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 2 to one Team's SCIENCES or adds one to one Team's MEDICAL skill check."
+    "gameText": "Adds 2 to one Team's SCIENCES or adds 1 to one Team's MEDICAL skill check."
   },
   {
     "title": "Dr. Jeff Eckerle",
