@@ -14,7 +14,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any OCCULT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round."
+    "gameText": "Play on any OCCULT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "First Aid",
@@ -31,7 +32,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Agent in the Field to immediately Heal one point of damage."
+    "gameText": "Play on any Agent in the Field to immediately Heal one point of damage.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Face-Off",
@@ -47,7 +49,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card during a LONG RANGE COMBAT round on a combatant you control with an LRC skill. That combatant and one other combatant of the owning player's choice will deal no damage in this LRC round."
+    "gameText": "Play this card during a LONG RANGE COMBAT round on a combatant you control with an LRC skill. That combatant and one other combatant of the owning player's choice will deal no damage in this LRC round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Rending Claws",
@@ -65,7 +68,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 1 to their CLOSE RANGE COMBAT skill."
+    "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 1 to their CLOSE RANGE COMBAT skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Fast Strike",
@@ -81,7 +85,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant with a CLOSE RANGE COMBAT skill of three or more to allow that combatant to attack twice in a CRC round."
+    "gameText": "Play this card on any combatant with a CLOSE RANGE COMBAT skill of three or more to allow that combatant to attack twice in a CRC round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sneak Attack",
@@ -98,7 +103,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any EVOLUTIONARY Adversary to allow it to deal all of its damage in the round before its opponents. Any opponents sent to the Hospital as a result of this damage do not cause damage this round."
+    "gameText": "Play on any EVOLUTIONARY Adversary to allow it to deal all of its damage in the round before its opponents. Any opponents sent to the Hospital as a result of this damage do not cause damage this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Ambush",
@@ -115,7 +121,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. The opposing side's LONG RANGE COMBAT attack is negated this round."
+    "gameText": "Play this card on any combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. The opposing side's LONG RANGE COMBAT attack is negated this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Kick",
@@ -132,7 +139,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Combatant that can use MARTIAL ARTS or any combatant opposing a stunned opponent. Add 2 to the combatant's CLOSE RANGE COMBAT damage result this round."
+    "gameText": "Play on any Combatant that can use MARTIAL ARTS or any combatant opposing a stunned opponent. Add 2 to the combatant's CLOSE RANGE COMBAT damage result this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Gun Jammed",
@@ -148,7 +156,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Negates the effects of any one Equipment card that adds to LONG RANGE COMBAT Skill for the duration of this combat."
+    "gameText": "Negates the effects of any one Equipment card that adds to LONG RANGE COMBAT Skill for the duration of this combat.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hide",
@@ -165,7 +174,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this on one combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. No damage may be dealt to that combatant in this round and the combatant deals no damage."
+    "gameText": "Play this on one combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. No damage may be dealt to that combatant in this round and the combatant deals no damage.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dodge",
@@ -181,7 +191,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this LRC round."
+    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this LRC round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Nerve Strike",
@@ -198,7 +209,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any combatant that can use MARTIAL ARTS to add 2 to their CLOSE RANGE COMBAT skill in this round. In addition, the opponent is considered \"stunned\" for the next round of combat. The opponent will deal no damage in the next round of combat."
+    "gameText": "Play on any combatant that can use MARTIAL ARTS to add 2 to their CLOSE RANGE COMBAT skill in this round. In addition, the opponent is considered \"stunned\" for the next round of combat. The opponent will deal no damage in the next round of combat.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Webbed",
@@ -215,7 +227,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any PRIMORDIAL Adversary to add 1 to their CLOSE RANGE COMBAT skill and prevent all damage from one opponent this round."
+    "gameText": "Play on any PRIMORDIAL Adversary to add 1 to their CLOSE RANGE COMBAT skill and prevent all damage from one opponent this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Vicious Fangs",
@@ -233,7 +246,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 2 to their CLOSE RANGE COMBAT skill."
+    "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 2 to their CLOSE RANGE COMBAT skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Spin Kick",
@@ -250,7 +264,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Combatants that can use MARTIAL ARTS may play this card to add 3 to their CLOSE RANGE COMBAT skill this round."
+    "gameText": "Combatants that can use MARTIAL ARTS may play this card to add 3 to their CLOSE RANGE COMBAT skill this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mind Control",
@@ -268,7 +283,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to cause one Agent to allocate all damage to a target of the Adversary's choice this round (including other Agents)."
+    "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to cause one Agent to allocate all damage to a target of the Adversary's choice this round (including other Agents).",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Stealth Technology",
@@ -285,7 +301,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any ALIEN combatant to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round."
+    "gameText": "Play on any ALIEN combatant to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Block and Attack",
@@ -305,7 +322,8 @@
     "gameText": "Combatants that can use MARTIAL ARTS may use this card to negate two points of damage and still deal their normal damage in a CLOSE RANGE COMBAT round.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Block",
@@ -321,7 +339,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this CRC round."
+    "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this CRC round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Body Armor",
@@ -338,7 +357,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any GOVERNMENT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by one this round."
+    "gameText": "Play on any GOVERNMENT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by one this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Disarm",
@@ -355,7 +375,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Adversaries that can use MARTIAL ARTS may play this card in a CLOSE RANGE COMBAT round to cause one Equipment card from the opposing side to be discarded. If the Equipment normally adds to CRC skill check, then it is discarded before it may do so."
+    "gameText": "Adversaries that can use MARTIAL ARTS may play this card in a CLOSE RANGE COMBAT round to cause one Equipment card from the opposing side to be discarded. If the Equipment normally adds to CRC skill check, then it is discarded before it may do so.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Running Gun Battle",
@@ -371,7 +392,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Combatants with a LONG RANGE COMBAT skill of 3+ may use this card to fight one additional round of LRC immediately."
+    "gameText": "Combatants with a LONG RANGE COMBAT skill of 3+ may use this card to fight one additional round of LRC immediately.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Fascination",
@@ -391,7 +413,8 @@
     "gameText": "Play on any Adversary to add 1 to its CLOSE RANGE COMBAT skill check. In addition, if the Adversary is OCCULT, play on the chosen Agent in combat to negate his combat skills this round.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Internal Bleeding",
@@ -407,7 +430,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Agent that has taken two or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until he is fully healed."
+    "gameText": "Play on any Agent that has taken two or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until he is fully healed.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Covering Fire",
@@ -427,7 +451,8 @@
     "gameText": "Play on any GOVERNMENT Adversary to allow it to split the LONG RANGE COMBAT damage it causes amongst its opponents this round.",
     "tags": [
       "Split Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "No Way Out",
@@ -446,7 +471,8 @@
     "gameText": "Play this card to negate the effects of any combat card that ends combat. The Cost of this card is equal to the Cost of the opponent's card that ended the combat or 2 *P, whichever is greater.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hard Punch",
@@ -462,7 +488,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any combatant in a CLOSE RANGE COMBAT round. Add one to the combatant's damage result."
+    "gameText": "Play on any combatant in a CLOSE RANGE COMBAT round. Add one to the combatant's damage result.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Choke Hold",
@@ -479,7 +506,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant that can use MARTIAL ARTS. The combatant applies a choke hold. If the combatant causes damage in CLOSE RANGE COMBAT then the damaged Adversary/Agent takes no further part in the combat."
+    "gameText": "Play this card on any combatant that can use MARTIAL ARTS. The combatant applies a choke hold. If the combatant causes damage in CLOSE RANGE COMBAT then the damaged Adversary/Agent takes no further part in the combat.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Fast Draw",
@@ -495,7 +523,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any one combatant who would not normally be allowed to fight a round of LONG RANGE COMBAT. The combatant must still have LRC skill. The combatant may fight one round of LRC as normal."
+    "gameText": "Play on any one combatant who would not normally be allowed to fight a round of LONG RANGE COMBAT. The combatant must still have LRC skill. The combatant may fight one round of LRC as normal.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Watch Out!",
@@ -511,7 +540,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card when your opponent is about to assign damage. You now choose which of the Agents or Adversaries under your control take the damage. The damage may not be split unless you play a card that allows you to do so."
+    "gameText": "Play this card when your opponent is about to assign damage. You now choose which of the Agents or Adversaries under your control take the damage. The damage may not be split unless you play a card that allows you to do so.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hit and Run",
@@ -527,7 +557,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved."
+    "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Handcuff",
@@ -543,7 +574,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card in a CLOSE RANGE COMBAT round after damage has been dealt. If the Agents dealt two or more points more damage than their opponent, combat ends immediately. In addition, place the opposing Adversary in the Agents' Bureau section. The player may discard this card at any time to add two points of damage to any future combat involving an Adversary with the same Keywords."
+    "gameText": "Play this card in a CLOSE RANGE COMBAT round after damage has been dealt. If the Agents dealt two or more points more damage than their opponent, combat ends immediately. In addition, place the opposing Adversary in the Agents' Bureau section. The player may discard this card at any time to add two points of damage to any future combat involving an Adversary with the same Keywords.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Illusionary Foe",
@@ -564,7 +596,8 @@
     "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to negate all damage allocated to that Adversary this round.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Run For It!",
@@ -580,7 +613,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any Agent to immediately end combat for that Agent. Finish the combat without the Agent. The Agent takes no damage from the combat and may still contribute his skills to other skill checks."
+    "gameText": "Play this card on any Agent to immediately end combat for that Agent. Finish the combat without the Agent. The Agent takes no damage from the combat and may still contribute his skills to other skill checks.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Terminal Damage",
@@ -597,7 +631,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Agent that has taken 5 or more damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent cannot leave the Hospital until fully healed. Subtract 5 from the Agent's Cost. If the Cost is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue and Weiss are immune to this effect.)"
+    "gameText": "Play on any Agent that has taken 5 or more damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent cannot leave the Hospital until fully healed. Subtract 5 from the Agent's Cost. If the Cost is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue and Weiss are immune to this effect.)",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Flaming Wall",
@@ -614,7 +649,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any EVOLUTIONARY Adversary to cause one point of damage to each opponent in a LONG RANGE COMBAT round. This is in addition to any other damage caused by the Adversary in this round."
+    "gameText": "Play on any EVOLUTIONARY Adversary to cause one point of damage to each opponent in a LONG RANGE COMBAT round. This is in addition to any other damage caused by the Adversary in this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Massive Internal Damage",
@@ -631,7 +667,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any Agent that has taken four or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until fully healed. Subtract 4 from the Agent's Cost. If the result is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue, and Weiss are immune to this effect)."
+    "gameText": "Play on any Agent that has taken four or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until fully healed. Subtract 4 from the Agent's Cost. If the result is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue, and Weiss are immune to this effect).",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Semi-Jacketed Hollow Points",
@@ -647,7 +684,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to add 2 points to that combatant's LRC skill."
+    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to add 2 points to that combatant's LRC skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Stunning Blow",
@@ -663,7 +701,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this on any opponent who has just taken damage. The opponent is considered \"stunned\" for the next round of combat. This opponent will deal no damage in the next round of combat."
+    "gameText": "Play this on any opponent who has just taken damage. The opponent is considered \"stunned\" for the next round of combat. This opponent will deal no damage in the next round of combat.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Take Cover!",
@@ -679,7 +718,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant to decrease damage from one LONG RANGE COMBAT source by two points this round."
+    "gameText": "Play this card on any combatant to decrease damage from one LONG RANGE COMBAT source by two points this round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Energy Strike",
@@ -697,7 +737,8 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only."
+    "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Gibsonton, FL",
@@ -714,7 +755,8 @@
       "Medical"
     ],
     "prerequisite": "MEDICAL 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Excelsius Dei Convalescent Home, Worcester, MA",
@@ -736,7 +778,8 @@
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Broad Street, Philadelphia, PA",
@@ -753,7 +796,8 @@
       "Criminal Investigation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Ellens Air Base, ID",
@@ -770,7 +814,8 @@
       "Bureaucracy"
     ],
     "prerequisite": "BUREAUCRACY 4+",
-    "question": "You may ask one AFFILIATION question."
+    "question": "You may ask one AFFILIATION question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Coastal Northwest Oregon",
@@ -787,7 +832,8 @@
       "Alien Investigation"
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
-    "question": "You may ask one AFFILIATION question."
+    "question": "You may ask one AFFILIATION question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Olympic National Forest, WA",
@@ -804,7 +850,8 @@
       "Evidence Collection"
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Arlington, VA",
@@ -821,7 +868,8 @@
       "Occult Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
-    "question": "You may ask one AFFILIATION question."
+    "question": "You may ask one AFFILIATION question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lake Okobogee, Campsite #53, Sioux City, IA",
@@ -838,7 +886,8 @@
       "Alien Investigation"
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Newark, NJ",
@@ -855,7 +904,8 @@
       "Evidence Collection"
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Central Prison, Raleigh, NC",
@@ -877,7 +927,8 @@
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Genetics Clinic, Marin County, CA",
@@ -894,7 +945,8 @@
       "Medical"
     ],
     "prerequisite": "MEDICAL 4+",
-    "question": "You may ask one AFFILIATION question."
+    "question": "You may ask one AFFILIATION question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Cumberland Prison, VA",
@@ -911,7 +963,8 @@
       "Subterfuge"
     ],
     "prerequisite": "SUBTERFUGE 4+",
-    "question": "You may ask one AFFILIATION question."
+    "question": "You may ask one AFFILIATION question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mt. Avalon, WA",
@@ -928,7 +981,8 @@
       "Sciences"
     ],
     "prerequisite": "SCIENCES 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Northeast Georgetown Medical Center, Washington, DC",
@@ -945,7 +999,8 @@
       "Medical"
     ],
     "prerequisite": "MEDICAL 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "NASA Mission Control, Houston, TX",
@@ -964,7 +1019,8 @@
       "Observation"
     ],
     "prerequisite": "SCIENCES 5+ or OBSERVATION 5+",
-    "question": "You may ask one AFFILIATION question or one RESULT question."
+    "question": "You may ask one AFFILIATION question or one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "New York City, NY",
@@ -986,7 +1042,8 @@
     "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Fairfield Zoo, Fairfield, ID",
@@ -1003,7 +1060,8 @@
       "Observation"
     ],
     "prerequisite": "OBSERVATION 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Deadhorse, AK",
@@ -1025,7 +1083,8 @@
     "question": "You may ask one AFFILIATION question or one RESULT question. If you ask if the RESULT is \"Manipulation Of Evidence\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Containment Facility, Georgetown, MD",
@@ -1042,7 +1101,8 @@
       "Observation"
     ],
     "prerequisite": "OBSERVATION 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "University Of Maryland, Baltimore, MD",
@@ -1059,7 +1119,8 @@
       "Criminal Investigation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Chaco House, Dudley, AR",
@@ -1081,7 +1142,8 @@
     "question": "You may ask one AFFILIATION or one MOTIVE question. If you ask if the MOTIVE is \"Security\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Aubrey, MO",
@@ -1098,7 +1160,8 @@
       "Behavioral"
     ],
     "prerequisite": "BEHAVIORAL 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Cape Cod, MA",
@@ -1115,7 +1178,8 @@
       "Sciences"
     ],
     "prerequisite": "SCIENCES 4+",
-    "question": "You may ask one AFFILIATION question."
+    "question": "You may ask one AFFILIATION question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Icy Cape, AK",
@@ -1132,7 +1196,8 @@
       "Evidence Collection"
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Farmington, NM",
@@ -1154,7 +1219,8 @@
     "question": "You may ask one MOTIVE question or one METHOD question. If you ask if the METHOD is \"Manipulation\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "U.F.O. Wreckage, Townsend, WI",
@@ -1173,7 +1239,8 @@
       "Bureaucracy"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
-    "question": "You may ask one MOTIVE question or one RESULT question."
+    "question": "You may ask one MOTIVE question or one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mattawa, WA",
@@ -1190,7 +1257,8 @@
       "Bureaucracy"
     ],
     "prerequisite": "BUREAUCRACY 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mahan Propulsion Laboratory, Colson, WA",
@@ -1207,7 +1275,8 @@
       "Computer"
     ],
     "prerequisite": "COMPUTER 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Church Of The Red Museum, Delta Glen, WI",
@@ -1226,7 +1295,8 @@
       "Medical"
     ],
     "prerequisite": "SUBTERFUGE 5+ or MEDICAL 5+",
-    "question": "You may ask one AFFILIATION question or one METHOD question."
+    "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Psychiatric Hospital, Richmond, VA",
@@ -1243,7 +1313,8 @@
       "Computer"
     ],
     "prerequisite": "COMPUTER 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Washington Monument, Washington, DC",
@@ -1262,7 +1333,8 @@
       "Observation"
     ],
     "prerequisite": "BEHAVIORAL 5+ or OBSERVATION 5+",
-    "question": "You may ask one MOTIVE question or one RESULT question."
+    "question": "You may ask one MOTIVE question or one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Marion, VA",
@@ -1279,7 +1351,8 @@
       "Behavioral"
     ],
     "prerequisite": "BEHAVIORAL 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Arecibo, Puerto Rico",
@@ -1298,7 +1371,8 @@
       "Computer"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
-    "question": "You may ask one AFFILIATION question or one METHOD question."
+    "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sea Off Tildeskan, Norway",
@@ -1315,7 +1389,8 @@
       "Observation"
     ],
     "prerequisite": "OBSERVATION 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Aleister Crowley High School, Milford Haven, NH",
@@ -1334,7 +1409,8 @@
       "Observation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or OBSERVATION 5+",
-    "question": "You may ask one AFFILIATION or one RESULT question."
+    "question": "You may ask one AFFILIATION or one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Los Angeles, CA",
@@ -1353,7 +1429,8 @@
       "Evidence Collection"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one AFFILIATION question or one METHOD question."
+    "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Minneapolis, MN",
@@ -1372,7 +1449,8 @@
       "Criminal Investigation"
     ],
     "prerequisite": "MEDICAL 5+ or CRIMINAL INVESTIGATION 5+",
-    "question": "You may ask one METHOD question or one RESULT question."
+    "question": "You may ask one METHOD question or one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Franklin, PA",
@@ -1389,7 +1467,8 @@
       "Criminal Investigation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Eurisko Building, Crystal City, VA",
@@ -1411,7 +1490,8 @@
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Abduction\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Folkstone, NC",
@@ -1430,7 +1510,8 @@
       "Behavioral"
     ],
     "prerequisite": "BUREAUCRACY 5+ or BEHAVIORAL 5+",
-    "question": "You may ask one AFFILIATION question or one MOTIVE question."
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Outskirts Of Atlantic City, NJ",
@@ -1449,7 +1530,8 @@
       "Observation"
     ],
     "prerequisite": "SUBTERFUGE 5+ or OBSERVATION 5+",
-    "question": "You may ask one AFFILIATION question or one MOTIVE question."
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Browning, MT",
@@ -1466,7 +1548,8 @@
       "Occult Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
-    "question": "You may ask one MOTIVE question."
+    "question": "You may ask one MOTIVE question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Steveston, MA",
@@ -1483,7 +1566,8 @@
       "Behavioral"
     ],
     "prerequisite": "BEHAVIORAL 4+",
-    "question": "You may ask one RESULT question."
+    "question": "You may ask one RESULT question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Skyland Mountain, VA",
@@ -1500,7 +1584,8 @@
       "Subterfuge"
     ],
     "prerequisite": "SUBTERFUGE 4+",
-    "question": "You may ask one METHOD question."
+    "question": "You may ask one METHOD question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Baltimore, MD",
@@ -1522,7 +1607,8 @@
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the METHOD is \"Threats\", the skill check prerequisite is 4+.",
     "tags": [
       "Reduce Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Detective Kelly Ryan",
@@ -1542,7 +1628,8 @@
     "gameText": "Play to change one Keyword EVIDENCE COLLECTION, BEHAVIORAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
     "tags": [
       "Change Keyword"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sinus Cavity Implant",
@@ -1561,7 +1648,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing card is played on the Agent."
+    "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing card is played on the Agent.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Peter Tanaka",
@@ -1581,7 +1669,8 @@
     "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+.",
     "tags": [
       "Change Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Cigarette Butts",
@@ -1603,7 +1692,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: OCCULT INVESTIGATION, BEHAVIORAL, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sheriff Daniels",
@@ -1624,7 +1714,8 @@
     "gameText": "Play to change a Site Prerequisite to SUBTERFUGE 3+.",
     "tags": [
       "Change Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Berube",
@@ -1644,7 +1735,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, MEDICAL, SCIENCES. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Overcoat Man",
@@ -1664,7 +1756,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: MEDICAL, OBSERVATION, BEHAVIORAL. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "You've Got A Tail",
@@ -1681,7 +1774,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play after a Team investigates a Site to destroy one Event RESOURCE."
+    "gameText": "Play after a Team investigates a Site to destroy one Event RESOURCE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Pete Calcagni",
@@ -1702,7 +1796,8 @@
     "gameText": "Play to force your opponent to discard one Witness RESOURCE immediately.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Holtzman, D.S.A.",
@@ -1722,7 +1817,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Claude Peterson",
@@ -1742,7 +1838,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: CRIMINAL INVESTIGATION, SUBTERFUGE, COMPUTER. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Conundrum",
@@ -1764,7 +1861,8 @@
     "gameText": "Play to negate one Keyword EVIDENCE COLLECTION card.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Paul Mossinger",
@@ -1784,7 +1882,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: ALIEN INVESTIGATION, OBSERVATION, SUBTERFUGE. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Intruder Counter-Measures Program",
@@ -1804,7 +1903,8 @@
     "gameText": "Play to add 2 [CP] to your pool immediately.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Aaron Monte",
@@ -1824,7 +1924,8 @@
     "gameText": "Play to change one Keyword EVIDENCE COLLECTION, MEDICAL, or CRIMINAL INVESTIGATION card to Keyword MOTIVE.",
     "tags": [
       "Change Keyword"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Poisonous Gases",
@@ -1845,7 +1946,8 @@
     "gameText": "Force an opposing Team to make a SCIENCES 4+ skill check. If they fail, each Agent takes one point of damage. If one of the Agents has a \"Gas Chromatograph\", then this card has no effect.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Laser Barrier",
@@ -1862,7 +1964,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agent's skills to one skill check (your choice) that the Team makes this turn."
+    "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agent's skills to one skill check (your choice) that the Team makes this turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Nasty Surprise",
@@ -1882,7 +1985,8 @@
     "gameText": "Play to add five tokens to your [CP] pool.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Radioactive Area",
@@ -1899,7 +2003,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect."
+    "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Ghost In The Machine",
@@ -1920,7 +2025,8 @@
     "gameText": "Play to change one Keyword COMPUTER, SCIENCES, or SUBTERFUGE card to Keyword RESULT.",
     "tags": [
       "Change Keyword"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Unnatural Aging",
@@ -1941,7 +2047,8 @@
     "gameText": "Force the Team to make a SCIENCES 4+ skill check. If they fail, choose one Agent to go to the Hospital. The chosen Agent permanently loses one HEALTH. An Agent's permanent HEALTH can never be reduced below 1.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Car Troubles",
@@ -1959,7 +2066,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on a Team of three or more Agents moving to the same Site. The Team may only send two Agents to that Site (owning player's choice). Any extra Agents remain in the Team but may not contribute their skills to any checks this turn. In addition, playing this card will prevent the use of the \"Evasive Maneuver\" card by this Team this turn."
+    "gameText": "Play on a Team of three or more Agents moving to the same Site. The Team may only send two Agents to that Site (owning player's choice). Any extra Agents remain in the Team but may not contribute their skills to any checks this turn. In addition, playing this card will prevent the use of the \"Evasive Maneuver\" card by this Team this turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Puzzles Within Puzzles",
@@ -1979,7 +2087,8 @@
     "gameText": "Play to negate one Keyword CRIMINAL INVESTIGATION card.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Government Cover-Up",
@@ -2001,7 +2110,8 @@
     "gameText": "Basic Game Only: Apply a -2 modifier to any one skill check involving one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY.\n\nAdvanced Game: Pay the listed [CP] Cost, where X = the number of [CP] paid to gain the desired modifier to one of the following skills: SCIENCES, EVIDENCE COLLECTION, BUREAUCRACY. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
       "Decrease Skill"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hazardous Sample",
@@ -2021,7 +2131,8 @@
     "gameText": "Play to force the Investigating player to discard all Keyword EVIDENCE COLLECTION cards in his hand.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Henry Trondheim",
@@ -2040,7 +2151,8 @@
     "gameText": "Force the Team investigation a Site to discard one Equipment card of your choice.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Detective Miles",
@@ -2060,7 +2172,8 @@
     "gameText": "Pay 1 [CP] to move up to 2 [RP] from your opponent's [RP] pool to your [CP] pool immediately.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Detective Thompson",
@@ -2080,7 +2193,8 @@
     "gameText": "Play to change a Site Prerequisite to BUREAUCRACY 3+.",
     "tags": [
       "Change Prerequisite"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Harry Cokely",
@@ -2100,7 +2214,8 @@
     "gameText": "Play to change one Keyword OCCULT INVESTIGATION, BEHAVIORAL, or OBSERVATION card to Keyword METHOD.",
     "tags": [
       "Change Keyword"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Detective Tony Fiore",
@@ -2120,7 +2235,8 @@
     "gameText": "Play to cause your opponent to discard two cards at random from his hand immediately.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "B.J. Morrow, Genetic Trait Recipient",
@@ -2134,7 +2250,8 @@
       "Motive": "Control",
       "Method": "Possession",
       "Result": "Insanity"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Augustus Cole, A.K.A. The Preacher",
@@ -2148,7 +2265,8 @@
       "Motive": "Control",
       "Method": "Manipulation",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Cigarette-Smoking Man",
@@ -2162,7 +2280,8 @@
       "Motive": "Ideology",
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Duane Barry",
@@ -2176,7 +2295,8 @@
       "Motive": "Survival",
       "Method": "Violence",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Jersey Devil",
@@ -2190,7 +2310,8 @@
       "Motive": "Security",
       "Method": "Violence",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Host",
@@ -2204,7 +2325,8 @@
       "Motive": "Survival",
       "Method": "Violence",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lucas Henry, Serial Killer",
@@ -2218,7 +2340,8 @@
       "Motive": "Control",
       "Method": "Violence",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Arthur Grable",
@@ -2232,7 +2355,8 @@
       "Motive": "Knowledge",
       "Method": "Possession",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Warren James Dupré, The Lazarus Man",
@@ -2246,7 +2370,8 @@
       "Motive": "Survival",
       "Method": "Possession",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Colonel Wharton, Zombie Master",
@@ -2260,7 +2385,8 @@
       "Motive": "Knowledge",
       "Method": "Subterfuge",
       "Result": "Insanity"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Dna Steroid Program (project Purity Control)",
@@ -2274,7 +2400,8 @@
       "Motive": "Knowledge",
       "Method": "Subterfuge",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Gregors",
@@ -2289,7 +2416,8 @@
       "Motive": "Security",
       "Method": "Manipulation",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sheriff Tom Arens, Cannibal",
@@ -2303,7 +2431,8 @@
       "Motive": "Ideology",
       "Method": "Subterfuge",
       "Result": "Insanity"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Vampire, A.K.A. The Unholy Spirit",
@@ -2317,7 +2446,8 @@
       "Motive": "Survival",
       "Method": "Subterfuge",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Central Operating System, Artificial Intelligence",
@@ -2331,7 +2461,8 @@
       "Motive": "Security",
       "Method": "Violence",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Volcanic Spore",
@@ -2345,7 +2476,8 @@
       "Motive": "Survival",
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Michael Holvey, The Evil One",
@@ -2359,7 +2491,8 @@
       "Motive": "Ideology",
       "Method": "Possession",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Eugene Victor Tooms",
@@ -2373,7 +2506,8 @@
       "Motive": "Survival",
       "Method": "Subterfuge",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Howard Graves, The Poltergeist",
@@ -2387,7 +2521,8 @@
       "Motive": "Security",
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Banton and His Shadow",
@@ -2401,7 +2536,8 @@
       "Motive": "Ideology",
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Listeners",
@@ -2415,7 +2551,8 @@
       "Motive": "Ideology",
       "Method": "Subterfuge",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Commander Colin Henderson",
@@ -2429,7 +2566,8 @@
       "Motive": "Security",
       "Method": "Subterfuge",
       "Result": "Manipulation of Evidence"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Arctic Worm",
@@ -2443,7 +2581,8 @@
       "Motive": "Survival",
       "Method": "Possession",
       "Result": "Insanity"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Manitou",
@@ -2457,7 +2596,8 @@
       "Motive": "Control",
       "Method": "Violence",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Leonard Vance",
@@ -2471,7 +2611,8 @@
       "Motive": "Knowledge",
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Ancestor Spirits",
@@ -2485,7 +2626,8 @@
       "Motive": "Ideology",
       "Method": "Threats",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Ed Funsch, Postal Worker",
@@ -2499,7 +2641,8 @@
       "Motive": "Control",
       "Method": "Possession",
       "Result": "Insanity"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mrs. Paddock, A.K.A. The Dark Angel",
@@ -2513,7 +2656,8 @@
       "Motive": "Ideology",
       "Method": "Threats",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dod Kalm",
@@ -2527,7 +2671,8 @@
       "Motive": "Control",
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "John Barnett",
@@ -2541,7 +2686,8 @@
       "Motive": "Control",
       "Method": "Violence",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Conservationist",
@@ -2555,7 +2701,8 @@
       "Motive": "Ideology",
       "Method": "Subterfuge",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Faciphaga Emasculata",
@@ -2569,7 +2716,8 @@
       "Motive": "Knowledge",
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Donnie Pfaster, Death Fetishist",
@@ -2583,7 +2731,8 @@
       "Motive": "Ideology",
       "Method": "Subterfuge",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Brother Martin, Rogue Kindred",
@@ -2597,7 +2746,8 @@
       "Motive": "Knowledge",
       "Method": "Violence",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Abductors",
@@ -2611,7 +2761,8 @@
       "Motive": "Knowledge",
       "Method": "Subterfuge",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Eve",
@@ -2625,7 +2776,8 @@
       "Motive": "Knowledge",
       "Method": "Violence",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Experimenters",
@@ -2639,7 +2791,8 @@
       "Motive": "Survival",
       "Method": "Possession",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Reverse Engineers",
@@ -2653,7 +2806,8 @@
       "Motive": "Security",
       "Method": "Threats",
       "Result": "Insanity"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Swarm",
@@ -2667,7 +2821,8 @@
       "Motive": "Survival",
       "Method": "Violence",
       "Result": "Abduction"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Leonard, Detachable Congenital Twin",
@@ -2681,7 +2836,8 @@
       "Motive": "Control",
       "Method": "Violence",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Cecil L'ively",
@@ -2695,7 +2851,8 @@
       "Motive": "Control",
       "Method": "Threats",
       "Result": "Death"
-    }
+    },
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Section Chief Scott Blevins",
@@ -2723,7 +2880,8 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Treat Section Chief Blevins as a RES 2 if he is in the Bureau Section. If he is in the Bureau Section, he may contribute to the Conspiracy Pool instead of the Resources Pool during the Briefing Phase."
+    "gameText": "Treat Section Chief Blevins as a RES 2 if he is in the Bureau Section. If he is in the Bureau Section, he may contribute to the Conspiracy Pool instead of the Resources Pool during the Briefing Phase.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Albert Hosteen",
@@ -2752,7 +2910,8 @@
     "gameText": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card in your opponent's hand show it to your opponent. If your opponent plays that card at any time in the game, you may immediately ask one question about the X-File. This question may only be asked the first time the card is played.",
     "tags": [
       "Examine Hand"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lt. Brian Tillman, Aubrey Police Department",
@@ -2781,7 +2940,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword EQUIPMENT or COMBAT cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Rich",
@@ -2811,7 +2971,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword EVIDENCE COLLECTION or SUBTERFUGE cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Lucy Kazdin",
@@ -2838,7 +2999,8 @@
       "Health": 4,
       "Resources": 1
     },
-    "gameText": "If one of your Agents is Abducted, you may immediately draw two cards."
+    "gameText": "If one of your Agents is Abducted, you may immediately draw two cards.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Jack Willis",
@@ -2867,7 +3029,8 @@
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks an AFFILIATION question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Inspector Phoebe Green",
@@ -2895,7 +3058,8 @@
     "gameText": "Place a token on this card. Discard a token to move Agent Fox Mulder from anywhere on the table to the Team Phoebe Green is in. Mulder may assist in any skill check made by the team. In this manner, Mulder may assist on two Sites in one turn.",
     "tags": [
       "Move"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Fox Mulder",
@@ -2925,7 +3089,8 @@
       "Health": 5,
       "Resources": 2
     },
-    "gameText": "[RP]s generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero [RP] cost."
+    "gameText": "[RP]s generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero [RP] cost.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Alex Krycek",
@@ -2953,7 +3118,8 @@
       "Health": 5,
       "Resources": 2
     },
-    "gameText": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase."
+    "gameText": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Nancy Spiller",
@@ -2984,7 +3150,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword COMPUTER or SCIENCES cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Dana Scully",
@@ -3016,7 +3183,8 @@
     "gameText": "Place three tokens on this card. Discard a token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
     "tags": [
       "Examine Hand"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Charles Burk",
@@ -3045,7 +3213,8 @@
     "gameText": "Place one token on this card. Discard a token to negate one OCCULT Adversary.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Tom Colton",
@@ -3074,7 +3243,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword CRIMINAL INVESTIGATION or BUREAUCRACY cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Janus, Trained Medic",
@@ -3101,7 +3271,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword MEDICAL or HEALING cards. If you use this [RP], replace it during your Briefing Phase. In addition, if Janus is in the Field Section, he may \"heal\" one point of damage on another Agent in his Team, once per turn. This may prevent an Agent from going to the Hospital.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Moe Bocks",
@@ -3132,7 +3303,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Reggie Purdue",
@@ -3163,7 +3335,8 @@
     "gameText": "Place a token on this card. Discard this token and look through your Bureau deck to draw any one Site that asks a RESULT question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Assistant Director Walter Skinner",
@@ -3189,7 +3362,8 @@
       "Health": 5,
       "Resources": 1
     },
-    "gameText": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table."
+    "gameText": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Weiss",
@@ -3218,7 +3392,8 @@
     "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Site that asks a METHOD question. Add it to your hand. Reshuffle your Bureau Deck.",
     "tags": [
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Jerry Lamana",
@@ -3246,7 +3421,8 @@
     "gameText": "Once per game, when Agent Lamana is part of a Team investigating a Site in the Investigation Phase, he may force his opponent to show the cards in his hand. Lamana may then steal any one card. He may use it immediately in the investigation. You must still pay for the card. Whether you use it or not, place it in its owner's Discard Pile at the end of the turn.",
     "tags": [
       "Examine Hand"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Agent Karen Kosseff, Counselor",
@@ -3275,7 +3451,8 @@
     "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword BEHAVIORAL or OBSERVATION cards. If you use this [RP], replace it during your Briefing Phase.",
     "tags": [
       "Replenish Token"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sheriff Spencer",
@@ -3293,7 +3470,8 @@
       "Active",
       "Criminal Investigation"
     ],
-    "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check."
+    "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Blockhead",
@@ -3313,7 +3491,8 @@
       "Evolutionary",
       "Negate"
     ],
-    "gameText": "Negates one EVOLUTIONARY CREATURE."
+    "gameText": "Negates one EVOLUTIONARY CREATURE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Thinker",
@@ -3332,7 +3511,8 @@
     "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent.",
     "tags": [
       "Change Keyword"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Byers",
@@ -3350,7 +3530,8 @@
       "Active",
       "Computer"
     ],
-    "gameText": "Adds 1 to one Team's COMPUTER skill check."
+    "gameText": "Adds 1 to one Team's COMPUTER skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Emil and Zoe",
@@ -3368,7 +3549,8 @@
       "Active",
       "Observation"
     ],
-    "gameText": "Adds 2 to one Team's OBSERVATION skill check."
+    "gameText": "Adds 2 to one Team's OBSERVATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Davey",
@@ -3386,7 +3568,8 @@
       "Active",
       "Sciences"
     ],
-    "gameText": "Adds 2 to one Team's SCIENCES skill check."
+    "gameText": "Adds 2 to one Team's SCIENCES skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Billy Miles",
@@ -3404,7 +3587,8 @@
       "Active",
       "Alien Investigation"
     ],
-    "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check."
+    "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Diamond",
@@ -3422,7 +3606,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to one Team's BEHAVIORAL skill check once during your turn."
+    "gameText": "Adds 1 to one Team's BEHAVIORAL skill check once during your turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Detective Frank Briggs",
@@ -3440,7 +3625,8 @@
       "Active",
       "Criminal Investigation"
     ],
-    "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check."
+    "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Detective Sharon Lazard",
@@ -3458,7 +3644,8 @@
       "Active",
       "Evidence Collection"
     ],
-    "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check."
+    "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Laskos",
@@ -3476,7 +3663,8 @@
       "Active",
       "Medical"
     ],
-    "gameText": "Adds 2 to one Team's MEDICAL skill check."
+    "gameText": "Adds 2 to one Team's MEDICAL skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Calusari",
@@ -3496,7 +3684,8 @@
       "Occult",
       "Creature"
     ],
-    "gameText": "Negates one OCCULT CREATURE."
+    "gameText": "Negates one OCCULT CREATURE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Bill Mulder",
@@ -3515,7 +3704,8 @@
       "Active",
       "Subterfuge"
     ],
-    "gameText": "Adds 2 to one Agent's SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game."
+    "gameText": "Adds 2 to one Agent's SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sir Malcolm Marsden",
@@ -3533,7 +3723,8 @@
       "Active",
       "Bureaucracy"
     ],
-    "gameText": "Adds 1 to one Team's BUREAUCRACY skill check."
+    "gameText": "Adds 1 to one Team's BUREAUCRACY skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Samantha Mulder",
@@ -3551,7 +3742,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 to one Team's SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play."
+    "gameText": "Adds 1 to one Team's SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Max Fenig",
@@ -3569,7 +3761,8 @@
       "Active",
       "Alien Investigation"
     ],
-    "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is the target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated."
+    "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is the target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Hodge",
@@ -3587,7 +3780,8 @@
       "Active",
       "Medical"
     ],
-    "gameText": "Adds 1 to one Team's MEDICAL skill check."
+    "gameText": "Adds 1 to one Team's MEDICAL skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Doug Spinney",
@@ -3605,7 +3799,8 @@
       "Active",
       "Sciences"
     ],
-    "gameText": "Adds 1 to one Team's SCIENCES skill check."
+    "gameText": "Adds 1 to one Team's SCIENCES skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Sheila Braun",
@@ -3623,7 +3818,8 @@
       "Active",
       "Behavioral"
     ],
-    "gameText": "Adds 2 to one Team's BEHAVIORAL skill check."
+    "gameText": "Adds 2 to one Team's BEHAVIORAL skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "U.S. Marshall Tapia",
@@ -3641,7 +3837,8 @@
       "Active",
       "Evidence Collection"
     ],
-    "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check."
+    "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Brad Wilczek",
@@ -3659,7 +3856,8 @@
       "Active",
       "Computer"
     ],
-    "gameText": "Adds 2 to one Team's COMPUTER skill check."
+    "gameText": "Adds 2 to one Team's COMPUTER skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Ish-Tribal Elder",
@@ -3677,7 +3875,8 @@
       "Active",
       "Occult Investigation"
     ],
-    "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check."
+    "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Sheriff Mazeroski",
@@ -3697,7 +3896,8 @@
       "Government",
       "Pawn"
     ],
-    "gameText": "Negates one GOVERNMENT PAWN"
+    "gameText": "Negates one GOVERNMENT PAWN",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lt. Colonel Marcus Aurelius Belt",
@@ -3717,7 +3917,8 @@
       "Alien",
       "Creature"
     ],
-    "gameText": "Negates one ALIEN CREATURE."
+    "gameText": "Negates one ALIEN CREATURE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Gung Bituen",
@@ -3735,7 +3936,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Attach this Witness to a Team. Enables your Agents to deal damage to OCCULT CREATUREs as normal. For example, you may use LRC against POLTERGEISTs and VAMPIREs. If at any time there are no Agents in the Team to which this card is attached, discard this card."
+    "gameText": "Attach this Witness to a Team. Enables your Agents to deal damage to OCCULT CREATUREs as normal. For example, you may use LRC against POLTERGEISTs and VAMPIREs. If at any time there are no Agents in the Team to which this card is attached, discard this card.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Gerd Thomas",
@@ -3753,7 +3955,8 @@
       "Active",
       "Observation"
     ],
-    "gameText": "Adds 1 to one Team's OBSERVATION skill check."
+    "gameText": "Adds 1 to one Team's OBSERVATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Daniel Trepkos",
@@ -3773,7 +3976,8 @@
       "Primordial",
       "Creature"
     ],
-    "gameText": "Negates one PRIMORDIAL CREATURE."
+    "gameText": "Negates one PRIMORDIAL CREATURE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Maggie Holvey",
@@ -3791,7 +3995,8 @@
       "Active",
       "Occult Investigation"
     ],
-    "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check."
+    "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Luther Lee Boggs",
@@ -3811,7 +4016,8 @@
     "gameText": "Play this card at anytime during your turn to examine your opponent's hand.",
     "tags": [
       "Examine Hand"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Senator Richard Matheson",
@@ -3829,7 +4035,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded."
+    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Successful Diagnosis",
@@ -3846,7 +4053,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Place on a Team in the Hospital containing an injured Agent. The Agent heals 2 damage immediately."
+    "gameText": "Place on a Team in the Hospital containing an injured Agent. The Agent heals 2 damage immediately.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Shutting Down The X-Files",
@@ -3864,7 +4072,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on any Team containing Agent Fox Mulder and/or Agent Dana Scully. Mulder must immediately be moved to the Bureau. Scully must immediately be moved to the Hospital (undamaged). Neither my contribute their skills to skill checks this turn."
+    "gameText": "Play on any Team containing Agent Fox Mulder and/or Agent Dana Scully. Mulder must immediately be moved to the Bureau. Scully must immediately be moved to the Hospital (undamaged). Neither my contribute their skills to skill checks this turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Reporters At The Crime Scene",
@@ -3882,7 +4091,8 @@
       "Multiplayer",
       "Conspiracy"
     ],
-    "gameText": "Play when one player has just asked a Characteristic question and you were not the Directed player. If the player achieved the prerequisite skill number exactly, then he must tell all opponents the answer to the Characteristic question."
+    "gameText": "Play when one player has just asked a Characteristic question and you were not the Directed player. If the player achieved the prerequisite skill number exactly, then he must tell all opponents the answer to the Characteristic question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "I Want To Believe",
@@ -3900,7 +4110,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check."
+    "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Road Trip",
@@ -3918,7 +4129,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 6+ skill check they may investigate two Sites this turn. Resolve each Site individually."
+    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 6+ skill check they may investigate two Sites this turn. Resolve each Site individually.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hidden Transmitter",
@@ -3941,7 +4153,8 @@
     "gameText": "Play after an opponent Team successfully asks a Characteristic question. Force that opponent Team to make a SUBTERFUGE 4+ skill check. If they fail they must tell you the question and answer they obtained.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Medical Treatment",
@@ -3958,7 +4171,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on an Agent in the Hospital. The Agent heals one token of damage immediately."
+    "gameText": "Play on an Agent in the Hospital. The Agent heals one token of damage immediately.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Cigarette-Smoking Man Strikes",
@@ -3974,7 +4188,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn."
+    "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Eve 7",
@@ -3995,7 +4210,8 @@
     "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 [CP] per Bluff removed.",
     "tags": [
       "Move"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Street Contacts",
@@ -4015,7 +4231,8 @@
     "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck.",
     "tags": [
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Government Arrests Suspects",
@@ -4034,7 +4251,8 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Negate one Witness that modifies ALIEN INVESTIGATION or BUREAUCRACY skill."
+    "gameText": "Negate one Witness that modifies ALIEN INVESTIGATION or BUREAUCRACY skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Red Tape",
@@ -4051,7 +4269,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play during the Briefing Phase to prevent one opponent from drawing any cards during the remainder of this turn."
+    "gameText": "Play during the Briefing Phase to prevent one opponent from drawing any cards during the remainder of this turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "S.W.A.T. Training",
@@ -4069,7 +4288,8 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal and in addition has a +1 in one of the following skills: LRC, CRC or the ability to use MARTIAL ARTS Combat cards. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal and in addition has a +1 in one of the following skills: LRC, CRC or the ability to use MARTIAL ARTS Combat cards. Place this card below the Agent to remind you of the increased skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Fingerprints",
@@ -4087,7 +4307,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on one Team in the Field. If the Team makes an EVIDENCE COLLECTION skill check 5+, then they may add 2 to any Site skill check. Discard this card after you've used the modifier."
+    "gameText": "Play on one Team in the Field. If the Team makes an EVIDENCE COLLECTION skill check 5+, then they may add 2 to any Site skill check. Discard this card after you've used the modifier.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Back Tracking Program",
@@ -4108,7 +4329,8 @@
     "gameText": "Play this card to negate any Keyword COMPUTER card.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Evidence Destroyed",
@@ -4127,7 +4349,8 @@
       "Conspiracy",
       "Evidence Collection"
     ],
-    "gameText": "Negate one Keyword EVIDENCE COLLECTION card."
+    "gameText": "Negate one Keyword EVIDENCE COLLECTION card.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Surfing The Net",
@@ -4144,7 +4367,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Have a Team make a COMPUTER 4+ skill check. If successful, draw three cards from your chosen opponent's Bureau deck and choose one to place in your Bureau Section face down. Place the other two cards back on top of your opponent's Bureau Deck in any order. You may use the chosen card when appropriate but you must pay the cost. Return the card to its owner's Discard Pile after it has been used. Leave this card on top of the card you've taken from your opponent to remind you that the card you took is considered an EVENT, RESOURCE."
+    "gameText": "Have a Team make a COMPUTER 4+ skill check. If successful, draw three cards from your chosen opponent's Bureau deck and choose one to place in your Bureau Section face down. Place the other two cards back on top of your opponent's Bureau Deck in any order. You may use the chosen card when appropriate but you must pay the cost. Return the card to its owner's Discard Pile after it has been used. Leave this card on top of the card you've taken from your opponent to remind you that the card you took is considered an EVENT, RESOURCE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Government Sanctioned Pheromone Experiments",
@@ -4164,7 +4388,8 @@
     "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check. If the Team fails, you may choose an opposing Agent on the Team to enter combat with any other Agent on the Team. Combat will only last one round.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Thorough Documentation",
@@ -4182,7 +4407,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play prior to a Site skill check. If the Site skill check is successful, place this card in your Bureau Section. You may discard this card in any of your investigation phases to add 2 to a Site skill check. Discard this card after you've used the modifier."
+    "gameText": "Play prior to a Site skill check. If the Site skill check is successful, place this card in your Bureau Section. You may discard this card in any of your investigation phases to add 2 to a Site skill check. Discard this card after you've used the modifier.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Evidence Overlooked",
@@ -4201,7 +4427,8 @@
       "Active",
       "Site"
     ],
-    "gameText": "If the Team makes an OBSERVATION 4+ skill check, they gain a +1 to the Site skill check. Discard this card after you've used the modifier."
+    "gameText": "If the Team makes an OBSERVATION 4+ skill check, they gain a +1 to the Site skill check. Discard this card after you've used the modifier.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Reading The Signs",
@@ -4218,7 +4445,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 [CP] from their opponent's Conspiracy Pool and add them to their Resource Pool."
+    "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 [CP] from their opponent's Conspiracy Pool and add them to their Resource Pool.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Skinner Adopts The Company Line",
@@ -4239,7 +4467,8 @@
     "gameText": "Play whenever Assistant Director Walter Skinner is involved in a skill check. Skinner must go back to the Bureau (if he is not already there) and may not contribute his skills to any skill check this turn.",
     "tags": [
       "Affect Agent"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Safe House",
@@ -4259,7 +4488,8 @@
     "gameText": "Play on any Witness with a skill modifier to permanently add the Keywords EVENT and RESOURCE to the Witness. Thus, the Witness acts as an EVENT, RESOURCE card and remains in play. Place this card below the Witness to remind you of the effect.",
     "tags": [
       "Modify Witness"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Crop Circles",
@@ -4279,7 +4509,8 @@
       "Site",
       "Alien Investigation"
     ],
-    "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check."
+    "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Langly",
@@ -4299,7 +4530,8 @@
     "gameText": "Force one Bluff card attached to a Site to be discarded. If there are several Bluffs at the Site, the Bluff to be discarded must be chosen randomly.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Expedite Request For Resources",
@@ -4319,7 +4551,8 @@
     "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then you may search through your Bureau Deck and draw one Equipment card to add to your hand. Show the card to your opponents and then shuffle your deck.",
     "tags": [
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Paperwork",
@@ -4339,7 +4572,8 @@
     "gameText": "Force an opponent Team to make a CRIMINAL INVESTIGATION 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Unexplainable Time Loss",
@@ -4360,7 +4594,8 @@
     "gameText": "Force an opponent Team to make a SCIENCES 4+ skill check or the current player's turn ends immediately",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Clone",
@@ -4377,7 +4612,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card on any Witness that has just been played. The owning player must shuffle the Witness back into their Bureau deck immediately and does not benefit from the Witness."
+    "gameText": "Play this card on any Witness that has just been played. The owning player must shuffle the Witness back into their Bureau deck immediately and does not benefit from the Witness.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Suspect Description",
@@ -4394,7 +4630,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team that fails a Site skill check when combat was involved. If the Team makes a CRIMINAL INVESTIGATION 3+ skill check, place the Site in the Bureau. At the start of your Briefing Phase, you may place the Site into your hand."
+    "gameText": "Play on a Team that fails a Site skill check when combat was involved. If the Team makes a CRIMINAL INVESTIGATION 3+ skill check, place the Site in the Bureau. At the start of your Briefing Phase, you may place the Site into your hand.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Smoke Screen",
@@ -4412,7 +4649,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then designate a Team in the Field. As long as no new members are added to that Team, GOVERNMENT Adversaries may not attack that Team. This card remains in effect until a new Agent is added to the Team."
+    "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then designate a Team in the Field. As long as no new members are added to that Team, GOVERNMENT Adversaries may not attack that Team. This card remains in effect until a new Agent is added to the Team.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dark Forces Align",
@@ -4429,7 +4667,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on an opponent Team in any Section. For the rest of the turn, that Team is considered to have a single Characteristic SITE Keyword (i.e., RESULT SITE). You may choose any one Characteristic for the Keyword."
+    "gameText": "Play on an opponent Team in any Section. For the rest of the turn, that Team is considered to have a single Characteristic SITE Keyword (i.e., RESULT SITE). You may choose any one Characteristic for the Keyword.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Computer Access Denied",
@@ -4449,7 +4688,8 @@
     "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check or they will be unable to complete the skill check.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Improved Channels",
@@ -4466,7 +4706,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "The Team must make a BUREAUCRACY 4+ skill check. If successful, you may now have up to ten cards in hand at the end of your turn. This condition stays in effect until you are forced to discard this card. Discard this card if one of your Agents is moved from or to the Bureau Section of the table for any reason."
+    "gameText": "The Team must make a BUREAUCRACY 4+ skill check. If successful, you may now have up to ten cards in hand at the end of your turn. This condition stays in effect until you are forced to discard this card. Discard this card if one of your Agents is moved from or to the Bureau Section of the table for any reason.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Krycek, The Double Agent",
@@ -4487,7 +4728,8 @@
     "gameText": "Play on Agent Krycek when he is in the Field and is involved in a skill check. Krycek engages one of the Team's Agents (opponent's choice) in Combat. No other Agents may contribute skills to the combat. If Krycek sends the chosen Agent to the Hospital within two rounds of combat, then Krycek stays on the team, otherwise he is removed from play. While Krycek is affected by this card he is considered a GOVERNMENT, MASTER Adversary. Cards that would cause Krycek to be discard simply negate the combat.",
     "tags": [
       "Affect Agent"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Spying Mission",
@@ -4508,7 +4750,8 @@
     "gameText": "Play on any Team. If the Team makes a SUBTERFUGE 4+ skill check, it may use this card to immediately negate any one card that requires them to make a non-combat skill check.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Authorized Access Only",
@@ -4530,7 +4773,8 @@
     "gameText": "Force an opponent Team to make a SUBTERFUGE 4+ skill check. If they are not successful, they automatically fail the skill check for the Site.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Equipment Malfunction",
@@ -4550,7 +4794,8 @@
     "gameText": "Force one opponent to discard one piece of equipment (your choice) that does not specifically modify LONG or CLOSE RANGE COMBAT.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Local Law Enforcement Are Uncooperative",
@@ -4569,7 +4814,8 @@
       "Conspiracy",
       "Criminal Investigation"
     ],
-    "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card."
+    "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Discretion",
@@ -4588,7 +4834,8 @@
       "Active",
       "Site"
     ],
-    "gameText": "Play on a Team about to investigate a Site with ALIEN INVESTIGATION as a prerequisite. Discard all cards assigned as Bluff cards at that Site. X = the number of Bluffs at the Site."
+    "gameText": "Play on a Team about to investigate a Site with ALIEN INVESTIGATION as a prerequisite. Discard all cards assigned as Bluff cards at that Site. X = the number of Bluffs at the Site.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Fingernail Scrapings",
@@ -4606,7 +4853,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "If the Team makes an EVIDENCE COLLECTION 4+ skill check, they gain a +1 to a Site skill check. Discard this card after you've used the modifier."
+    "gameText": "If the Team makes an EVIDENCE COLLECTION 4+ skill check, they gain a +1 to a Site skill check. Discard this card after you've used the modifier.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Trust No One",
@@ -4627,7 +4875,8 @@
     "gameText": "The Witness's modifier is now changed to a negative (e.g., a +1 becomes a -1). If the Witness has an ability separate from the modifier, this card cancels that ability for this turn.",
     "tags": [
       "Modify Witness"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lula Phillips",
@@ -4646,7 +4895,8 @@
     "gameText": "Play this card after an Adversary sends any Agent to the Hospital or removes an Agent from the game. Place five tokens in your [CP] pool.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "No Place Is Safe",
@@ -4662,7 +4912,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "For the remainder of this turn, the Bureau is considered to have a single Characteristic SITE Keyword. You may choose any one Characteristic for the Keyword (i.e., RESULT SITE)."
+    "gameText": "For the remainder of this turn, the Bureau is considered to have a single Characteristic SITE Keyword. You may choose any one Characteristic for the Keyword (i.e., RESULT SITE).",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Blackmail",
@@ -4680,7 +4931,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play when you have just guessed incorrectly the identity of an X-File. Select a Team in your Bureau. If that Team successfully completes a BUREAUCRACY 4+ skill check, your opponent does not get to ask you a penalty question."
+    "gameText": "Play when you have just guessed incorrectly the identity of an X-File. Select a Team in your Bureau. If that Team successfully completes a BUREAUCRACY 4+ skill check, your opponent does not get to ask you a penalty question.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dissection",
@@ -4699,7 +4951,8 @@
     "gameText": "Play this card after a Team of Agents damages an Adversary in combat by dealing enough wounds to kill it. Place five tokens in the [RP] pool.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Application For FBI Resources Approved",
@@ -4717,7 +4970,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "If the Team makes a BUREAUCRACY 4+ skill check, you may borrow any one of your opponent's Agents. It may not be an Agent you already control. Add the Agent to the Team for the remainder of the turn. Afterward, the Agent returns to the original owner's control. The Agent must be returned to the Team it belonged to or sent to the Hospital if the Agent was reduced to 0 HEALTH during a combat."
+    "gameText": "If the Team makes a BUREAUCRACY 4+ skill check, you may borrow any one of your opponent's Agents. It may not be an Agent you already control. Add the Agent to the Team for the remainder of the turn. Afterward, the Agent returns to the original owner's control. The Agent must be returned to the Team it belonged to or sent to the Hospital if the Agent was reduced to 0 HEALTH during a combat.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Expert Briefing",
@@ -4735,7 +4989,8 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn the Agent may be deployed as normal and in addition has a +1 in one of the following skills: OBSERVATION, BEHAVIORAL or SUBTERFUGE. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn the Agent may be deployed as normal and in addition has a +1 in one of the following skills: OBSERVATION, BEHAVIORAL or SUBTERFUGE. Place this card below the Agent to remind you of the increased skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Access Personnel Files",
@@ -4757,7 +5012,8 @@
     "gameText": "Force an opponent Team to make a COMPUTER 4+ skill check. If they fail, that opponent must tell you the next answer that they obtain regarding the X-File of your choice. The answer need not be a \"yes\" answer. Discard this card after you've obtained the answer.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hard Evidence",
@@ -4777,7 +5033,8 @@
     "gameText": "Add five tokens to your [RP] pool.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Relentless Pursuit",
@@ -4793,7 +5050,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play to prevent the opposing player from drawing cards after the player has paid, but before the cards are drawn. X = The number of cards that the opposing player has paid to draw."
+    "gameText": "Play to prevent the opposing player from drawing cards after the player has paid, but before the cards are drawn. X = The number of cards that the opposing player has paid to draw.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Deductive Reasoning",
@@ -4811,7 +5069,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team that has just completed a combat. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, then they may ask whether or not the Adversary has a Keyword that is the same as the AFFILIATION of the controller's X-File."
+    "gameText": "Play on a Team that has just completed a combat. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, then they may ask whether or not the Adversary has a Keyword that is the same as the AFFILIATION of the controller's X-File.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Grid Pattern Search",
@@ -4831,7 +5090,8 @@
     "gameText": "Select one card from your Discard Pile and place it in your hand.",
     "tags": [
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Driving",
@@ -4849,7 +5109,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn."
+    "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "In-Service Training",
@@ -4867,7 +5128,8 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: COMPUTER, MEDICAL, or SCIENCES. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: COMPUTER, MEDICAL, or SCIENCES. Place this card below the Agent to remind you of the increased skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Rejuvenating Caves",
@@ -4887,7 +5149,8 @@
     "gameText": "Play this card next to the X-File you have chosen. Place ten tokens on this card. Beginning on your opponent's next turn you may take up to two tokens from this card and place them in your [CP] pool. The tokens become [CP] tokens. When all counters have been removed, discard this card.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Experimentation",
@@ -4906,7 +5169,8 @@
       "Conspiracy",
       "Event"
     ],
-    "gameText": "Negate any one Keyword EVENT card."
+    "gameText": "Negate any one Keyword EVENT card.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hidden Grave",
@@ -4923,7 +5187,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Take any Witness from your opponent's Discard Pile and use it for one skill check immediately at no cost."
+    "gameText": "Take any Witness from your opponent's Discard Pile and use it for one skill check immediately at no cost.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Trap",
@@ -4943,7 +5208,8 @@
     "gameText": "Play on a Team in the Field at the start of combat. Force the opponent Team to make an OBSERVATION 4+ skill check. If they fail, the following combat will be fought between the Adversary and one Agent of your choice. No other Agents may participate in the combat.",
     "tags": [
       "Force Skill Check"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Assigned To The X-Files",
@@ -4961,7 +5227,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent still apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost."
+    "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent still apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "X-Files Research",
@@ -4979,7 +5246,8 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "A Friend In The FBI",
@@ -4999,7 +5267,8 @@
     "gameText": "Play this card in the Bureau. Place ten tokens on this card. During your Briefing Phase you may take up to two tokens from this card and place them in your [RP] pool. The tokens become [RP] tokens. When all counters have been removed, discard this card.",
     "tags": [
       "Resource"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Written Report",
@@ -5017,7 +5286,8 @@
       "Active",
       "Move"
     ],
-    "gameText": "Play when an Agent is forced to return to the Bureau. Prior to moving, the Team may make a CRIMINAL INVESTIGATION 5+ skill check. If successful, the Agent does not have to return to the Bureau."
+    "gameText": "Play when an Agent is forced to return to the Bureau. Prior to moving, the Team may make a CRIMINAL INVESTIGATION 5+ skill check. If successful, the Agent does not have to return to the Bureau.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Government Mindwipe Serum",
@@ -5037,7 +5307,8 @@
     "gameText": "Force one opponent to discard all cards in their hand that contain the Keyword ALIEN INVESTIGATION or BUREAUCRACY.",
     "tags": [
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Travel Arrangements",
@@ -5055,7 +5326,8 @@
       "Active",
       "Agent"
     ],
-    "gameText": "You may move one of your Agents to any Section immediately. This card may not be played once an Adversary has forced combat until after the combat is resolved. The Agent may join any Team that occupies the new Section."
+    "gameText": "You may move one of your Agents to any Section immediately. This card may not be played once an Adversary has forced combat until after the combat is resolved. The Agent may join any Team that occupies the new Section.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Decoy",
@@ -5074,7 +5346,8 @@
       "Active",
       "Adversary"
     ],
-    "gameText": "Play when an Adversary is allowed to enter combat with a single Agent. If the Team to which the Agent is attached makes a SUBTERFUGE 4+ skill check, the Adversary is negated."
+    "gameText": "Play when an Adversary is allowed to enter combat with a single Agent. If the Team to which the Agent is attached makes a SUBTERFUGE 4+ skill check, the Adversary is negated.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Autopsy",
@@ -5094,7 +5367,8 @@
     "gameText": "Take a Witness from your Discard Pile and place it in your hand. In addition, if the Team makes a MEDICAL 4+ skill check, the Witness's modifier is doubled if played this turn.",
     "tags": [
       "Modify Witness"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Evasive Maneuvers",
@@ -5112,7 +5386,8 @@
       "Active",
       "Adversary"
     ],
-    "gameText": "Negate one non-PHENOMENA Adversary."
+    "gameText": "Negate one non-PHENOMENA Adversary.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Frohike",
@@ -5133,7 +5408,8 @@
     "gameText": "This card will negate one Event card played on your Team.",
     "tags": [
       "Negate"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Road Hazard",
@@ -5151,7 +5427,8 @@
       "Conspiracy",
       "Move"
     ],
-    "gameText": "Negate one card with the Keyword MOVE."
+    "gameText": "Negate one card with the Keyword MOVE.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Core Training",
@@ -5168,7 +5445,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Samuel Hartley",
@@ -5186,7 +5464,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play on a Team in the Field that has just had an Agent removed from the game this turn. Make an OCCULT INVESTIGATION skill check of 4+. If successful, the Agent remains in play."
+    "gameText": "Play on a Team in the Field that has just had an Agent removed from the game this turn. Make an OCCULT INVESTIGATION skill check of 4+. If successful, the Agent remains in play.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "True Grit",
@@ -5204,7 +5483,8 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play when an Agent is forced to go to the Hospital. He must still go to the Hospital by the end of this turn but he may add his skills to one skill check before going."
+    "gameText": "Play when an Agent is forced to go to the Hospital. He must still go to the Hospital by the end of this turn but he may add his skills to one skill check before going.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Decreased Workload",
@@ -5222,7 +5502,8 @@
       "Active",
       "Briefing"
     ],
-    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill."
+    "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Laptop Computer",
@@ -5240,7 +5521,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's COMPUTER skill."
+    "gameText": "Adds 2 to the Agent's COMPUTER skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Gas Chromatograph",
@@ -5258,7 +5540,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Agents equipped with a Gas Chromatograph have access to the field office crime lab. Adds 1 to the Agent's SCIENCES skill."
+    "gameText": "Agents equipped with a Gas Chromatograph have access to the field office crime lab. Adds 1 to the Agent's SCIENCES skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Wire-Tap",
@@ -5276,7 +5559,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's SUBTERFUGE skill."
+    "gameText": "Adds 1 to the Agent's SUBTERFUGE skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Binoculars",
@@ -5293,7 +5577,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's OBSERVATION skill."
+    "gameText": "Adds 1 to the Agent's OBSERVATION skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Medi-Kit",
@@ -5311,7 +5596,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "An agent with MEDICAL skill may use the Medi-Kit to heal one wound on any agent in the Team once per turn. The may prevent an Agent from going to the Hospital."
+    "gameText": "An agent with MEDICAL skill may use the Medi-Kit to heal one wound on any agent in the Team once per turn. The may prevent an Agent from going to the Hospital.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Kevlar Vest",
@@ -5329,7 +5615,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "The Kevlar Vest will absorb three points of damage. Place three tokens on this card. Discard a token to prevent one point of damage. Discard the Vest when all the tokens have been discarded. Excess damage is applied to the Agent as normal."
+    "gameText": "The Kevlar Vest will absorb three points of damage. Place three tokens on this card. Discard a token to prevent one point of damage. Discard the Vest when all the tokens have been discarded. Excess damage is applied to the Agent as normal.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Glock 19 Semi-Automatic Pistol",
@@ -5347,7 +5634,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill."
+    "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "High Resolution Camera",
@@ -5365,7 +5653,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill."
+    "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "High-Powered Flashlight",
@@ -5383,7 +5672,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's OBSERVATION skill."
+    "gameText": "Adds 2 to the Agent's OBSERVATION skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Government Car",
@@ -5401,7 +5691,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION skill."
+    "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Knife",
@@ -5419,7 +5710,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill."
+    "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Taped Intelligence",
@@ -5437,7 +5729,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agent's Team when investigating a Site, even when they would otherwise be barred from doing so."
+    "gameText": "Adds 2 to the Agent's BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agent's Team when investigating a Site, even when they would otherwise be barred from doing so.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Walther PPK 7.65 Hold Out Weapon",
@@ -5455,7 +5748,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 2 to the Agent's CLOSE RANGE COMBAT skill."
+    "gameText": "Adds 2 to the Agent's CLOSE RANGE COMBAT skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Geiger Counter",
@@ -5473,7 +5767,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill."
+    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hospital Crash Cart",
@@ -5491,7 +5786,8 @@
     "activators": [
       "Hospital"
     ],
-    "gameText": "This piece of Equipment does not need to be attached to any Agent. Place three tokens on the Hospital Crash Cart. Discard one token to heal one point of damage to an Agent in the Hospital. Discard when all three tokens have been expended."
+    "gameText": "This piece of Equipment does not need to be attached to any Agent. Place three tokens on the Hospital Crash Cart. Discard one token to heal one point of damage to an Agent in the Hospital. Discard when all three tokens have been expended.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Cellular Phone",
@@ -5508,7 +5804,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added."
+    "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Symbol Of Faith",
@@ -5526,7 +5823,8 @@
       "Field",
       "Believer"
     ],
-    "gameText": "OCCULT Adversaries may not assign damage to this Agent unless there are no other eligible targets. If the Agent is the only eligible target then the damage from OCCULT Adversaries is halved."
+    "gameText": "OCCULT Adversaries may not assign damage to this Agent unless there are no other eligible targets. If the Agent is the only eligible target then the damage from OCCULT Adversaries is halved.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Electron Emission Microscope",
@@ -5544,7 +5842,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Agents equipped with an Electron Emission Microscope have access to the field office crime lab. Adds 1 to the Agent's MEDICAL skill."
+    "gameText": "Agents equipped with an Electron Emission Microscope have access to the field office crime lab. Adds 1 to the Agent's MEDICAL skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Shotgun",
@@ -5565,7 +5864,8 @@
     "gameText": "Adds 3 to the Agent's LONG RANGE COMBAT skill once per combat. Damage may be split if there are multiple opponents (your choice).",
     "tags": [
       "Split Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "M-16 Assault Rifle",
@@ -5586,7 +5886,8 @@
     "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill. Damage may be split if there are multiple opponents (your choice).",
     "tags": [
       "Split Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mojo Bag",
@@ -5604,7 +5905,8 @@
       "Field",
       "Believer"
     ],
-    "gameText": "Subtract one point from each damaging hit caused by an OCCULT CREATURE. In addition, OCCULT Adversaries may not play combat cards on Agents equipped with a Mojo Bag."
+    "gameText": "Subtract one point from each damaging hit caused by an OCCULT CREATURE. In addition, OCCULT Adversaries may not play combat cards on Agents equipped with a Mojo Bag.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lie Detector",
@@ -5622,7 +5924,8 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill."
+    "gameText": "Adds 1 to the Agent's BEHAVIORAL skill.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Slithers In The Night",
@@ -5647,7 +5950,8 @@
       "Conspiracy",
       "Affiliation Site"
     ],
-    "gameText": null
+    "gameText": null,
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Hunter In The Dark",
@@ -5674,7 +5978,8 @@
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
       "Skip Long Range"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Crew-Cut Man",
@@ -5699,7 +6004,8 @@
       "Conspiracy",
       "Method Site"
     ],
-    "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards."
+    "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Alien Bounty Hunter",
@@ -5724,7 +6030,8 @@
       "Conspiracy",
       "Motive Site"
     ],
-    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle."
+    "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Host Attacks",
@@ -5749,7 +6056,8 @@
       "Conspiracy",
       "Result Site"
     ],
-    "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed."
+    "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Pvt. McAlpin, Zombie",
@@ -5777,7 +6085,8 @@
     "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to the Zombie.",
     "tags": [
       "Reduce Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Good People, Good Food",
@@ -5804,7 +6113,8 @@
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice).",
     "tags": [
       "Split Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Sandman",
@@ -5828,7 +6138,8 @@
       "Conspiracy",
       "Result Site"
     ],
-    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards."
+    "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Abduction",
@@ -5854,7 +6165,8 @@
     "gameText": "Pick one Agent in the Team. That Agent is placed ten cards down, face up, in the owning player's Bureau deck. Any equipment that Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
     "tags": [
       "Non-combative"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Squeeze",
@@ -5881,7 +6193,8 @@
     "gameText": "The LONG RANGE COMBAT round is skipped.",
     "tags": [
       "Skip Long Range"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Psychotic Attack",
@@ -5908,7 +6221,8 @@
     "gameText": "Damage from LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "tags": [
       "Split Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Mechanic",
@@ -5933,7 +6247,8 @@
       "Conspiracy",
       "Affiliation Site"
     ],
-    "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards."
+    "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Darkness Falls",
@@ -5960,7 +6275,8 @@
     "gameText": "Unless a HEALING card is played immediately and the card results in one point being healed, move the Agent to the Hospital. The Agent must stay in the Hospital for the next turn.",
     "tags": [
       "Non-combative"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Suppressed Fury",
@@ -5984,7 +6300,8 @@
       "Conspiracy",
       "Result Site"
     ],
-    "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round."
+    "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Living Machine",
@@ -6011,7 +6328,8 @@
     "gameText": "Fight Combat as normal except skip LONG RANGE COMBAT and go straight to CLOSE RANGE COMBAT. Agents must use their COMPUTER skill as their value in CRC. If an Agent has no COMPUTER skill, his value is 1.",
     "tags": [
       "Skip Long Range"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Operation Falcon Blue Berets",
@@ -6039,7 +6357,8 @@
     "gameText": "Damage caused by this creature may be split among all opponents (Directed Player's choice). The Blue Berets may use MARTIAL ARTS Combat cards.",
     "tags": [
       "Split Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Pheromone-Induced Psychosis",
@@ -6063,7 +6382,8 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness card is discarded and the Team is attacked! The Creature's LONG RANGE COMBAT and CLOSE RANGE COMBAT are equal to the Witness's modifier. If the Witness has no modifier, treat the Witness as a +3."
+    "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness card is discarded and the Team is attacked! The Creature's LONG RANGE COMBAT and CLOSE RANGE COMBAT are equal to the Witness's modifier. If the Witness has no modifier, treat the Witness as a +3.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Deadly Blur",
@@ -6090,7 +6410,8 @@
     "gameText": "Any Agent damaged by the Deadly Blur is placed in the Hospital for the next two turns regardless of how much HEALTH they have. Each opponent's LONG RANGE COMBAT and CLOSE RANGE COMBAT is reduced by one point. The Deadly Blur may use SUBTERFUGE Combat cards.",
     "tags": [
       "Reduce Damage"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Manitou Stalks His Prey",
@@ -6114,7 +6435,8 @@
       "Conspiracy",
       "Motive Site"
     ],
-    "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him."
+    "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Poltergeist Attack",
@@ -6139,7 +6461,8 @@
       "Conspiracy",
       "Occult Investigation"
     ],
-    "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded."
+    "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Kiss Of The Vampire",
@@ -6164,7 +6487,8 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play this card on a Team in the Field that plays a Witness. Discard the Witness card. The Witness actually becomes a lesser vampire that attacks the Team in conjunction with the master vampire, with a CLOSE RANGE COMBAT rating of 3 and a HEALTH rating of 3. LONG RANGE COMBAT will cause no damage to either vampire."
+    "gameText": "Play this card on a Team in the Field that plays a Witness. Discard the Witness card. The Witness actually becomes a lesser vampire that attacks the Team in conjunction with the master vampire, with a CLOSE RANGE COMBAT rating of 3 and a HEALTH rating of 3. LONG RANGE COMBAT will cause no damage to either vampire.",
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "John Barnett Links You To Mulder",
@@ -6191,7 +6515,8 @@
     "gameText": "This Adversary regenerates (Heals) two points of HEALTH at the beginning of each combat round as long as his HEALTH is not at zero.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Brother Martin Is Attracted To You",
@@ -6219,7 +6544,8 @@
     "tags": [
       "Unique",
       "Non-combative"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Leonard",
@@ -6247,7 +6573,8 @@
     "tags": [
       "Unique",
       "Non-combative"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "F. Emasculata Outbreak",
@@ -6276,7 +6603,8 @@
     "tags": [
       "Unique",
       "Non-combative"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "The Evil One",
@@ -6305,7 +6633,8 @@
     "tags": [
       "Unique",
       "Non-combative"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Spirit Of The Amaru",
@@ -6334,7 +6663,8 @@
     "gameText": "Count the number of Adversary cards in the opposing Teams' discard pile. The Amarus Spirits' CLOSE RANGE COMBAT, LONG RANGE COMBAT, and HEALTH are equal to the number of Adversary cards in the discard pile.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Limited Choices",
@@ -6354,7 +6684,8 @@
     "tags": [
       "Unique",
       "Discard"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Too Close To The Truth",
@@ -6374,7 +6705,8 @@
     "gameText": "Play this card to allow you to exchange [CP] Pools with your opponent.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Injured Relative",
@@ -6395,7 +6727,8 @@
     "tags": [
       "Unique",
       "Move"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Explosion",
@@ -6415,7 +6748,8 @@
     "gameText": "Play this card to cause one point of damage to every Agent in a Team for each [CP] Cost card discarded from your hand, up to a maximum of three points of damage. X = number of [CP] Cost cards discarded.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Lock Pick",
@@ -6435,7 +6769,8 @@
     "gameText": "Adds 2 to the Agent's SUBTERFUGE rating.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "U.S.G.S. Quadrant Map",
@@ -6456,7 +6791,8 @@
     "tags": [
       "Unique",
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Nurse Owens",
@@ -6475,7 +6811,8 @@
     "gameText": "During the Briefing Phase, place one token on every Agent you control that normally starts with at least one token. This token is usable in the same way that starting tokens can be used.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "One Breath",
@@ -6496,7 +6833,8 @@
     "tags": [
       "Unique",
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Taking Chances",
@@ -6516,7 +6854,8 @@
     "tags": [
       "Unique",
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "A Friend In The Lab",
@@ -6536,7 +6875,8 @@
     "tags": [
       "Unique",
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "A False Leads",
@@ -6556,7 +6896,8 @@
     "tags": [
       "Unique",
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Witness Intimidated",
@@ -6577,7 +6918,8 @@
     "gameText": "Play on any Witness during your opponent's Investigation Phase. Pay X [CP] where X = the [RP] cost of the Witness. The Witness card is negated.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Assassinated",
@@ -6598,7 +6940,8 @@
     "gameText": "Play on any Witness during your opponent's Investigation Phase. The Witness card is negated and removed from the game along with this card. To gain a permanent skill increase of +1 on an investigating team agent, place this card beneath the agent.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Security Clearance",
@@ -6618,7 +6961,8 @@
     "gameText": "Negate any one Keyword SUBTERFUGE card.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Dr. Joe Ridley",
@@ -6638,7 +6982,8 @@
     "gameText": "Negate any one Keyword MEDICAL card.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Colonel Kissell",
@@ -6658,7 +7003,8 @@
     "gameText": "Negate any one Keyword SCIENCES card.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Meet Brother Andrew",
@@ -6678,7 +7024,8 @@
     "gameText": "Negate any one Keyword BEHAVIORAL card.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Misclassified Case",
@@ -6698,7 +7045,8 @@
     "tags": [
       "Unique",
       "Prevent"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Additional Resources",
@@ -6719,7 +7067,8 @@
     "tags": [
       "Unique",
       "Search"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Women's Health Clinic, Richville, MD",
@@ -6739,7 +7088,8 @@
     "question": "You may ask one MOTIVE question.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Tracking The Killer",
@@ -6759,7 +7109,8 @@
     "question": "You may ask one MOTIVE question.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Mrs. Mulder",
@@ -6782,7 +7133,8 @@
     "gameText": "Adds zero to one Team's ALIEN INVESTIGATION or BEHAVIORAL skill check. If this card is used in a successful Site investigation, the owning player may ask \"Is your X-File's Affiliation Government?\" in addition to the Site question for zero cost.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Margaret Scully",
@@ -6805,7 +7157,8 @@
     "gameText": "Adds one to one Team's MEDICAL or SCIENCES skill check. This card may be played for zero [RP] and treated as a +4 to the appropriate skill if Agent Dana Scully is in the Hospital or if the Witness card Melissa Scully has been removed from the game.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   },
   {
     "title": "Melissa Scully",
@@ -6828,6 +7181,7 @@
     "gameText": "Adds two to one Team's OCCULT INVESTIGATION or SUBTERFUGE skill check. Alternately, play this card when Agent Dana Scully is damaged in combat. Dana Scully takes no damage and Melissa Scully is damaged instead. Remove this card from the game.",
     "tags": [
       "Unique"
-    ]
+    ],
+    "createdBy": "NXT Games, USPCC"
   }
 ]
