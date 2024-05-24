@@ -505,7 +505,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place two tokens on Agent Hedion. Discard one token to search through your Bureau deck and add any Keyword COMPUTER card to your hand. Show the card to your opponent and shuffle The deck.",
+    "gameText": "Place two tokens on Agent Hedion. Discard one token to search through your Bureau deck and add any Keyword COMPUTER card to your hand. Show the card to your opponent and shuffle the deck.",
     "bio": "Agent Hedin assisted in the investigation by matching fingerprints found on the stairwell to Michael Kritschgau, an employee of the Pentagon's research division, leading to a pivotal breakthrough in identifying Scully's attacker.",
     "skills": {
       "Computer": 2,
