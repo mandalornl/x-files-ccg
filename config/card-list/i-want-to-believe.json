@@ -1310,5 +1310,978 @@
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
+  },
+  {
+    "id": "XF08-0316v1",
+    "title": "Janke Dacyshyn",
+    "cost": "6 CP",
+    "episode": "I want to Believe",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature",
+      "Abduction"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped. Dacyshyn engages one opposing Agent (your choice) in Combat. If Dacyshyn reduces  the Agent to zero HEALTH, place this card on top of the Agent along with 3 tokens. Remove one token during each Briefing phase. When no tokens are on the Agent, move the Agent to the Hospital including the damage tokens. This card is considered an ABDUCTION card.",
+    "dialogue": "\"I'm transporting vital organ.\" - Janke Dacyshyn",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 2,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0317v1",
+    "title": "Blinding Predator",
+    "cost": "3 CP",
+    "episode": "Alone",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped. Target Agent in the Team attacked by the Blinding Predator receives a poisonous attack and is considered \"blinded\" for the first CLOSE RANGE COMBAT round. That Agent will deal no damage during that round of combat.",
+    "dialogue": "\"Whatever happened to Sacks, I think it's happening to me. I'm completely blind now.\" - Leyla Harrison",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 3,
+      "Health": 4
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0318v1",
+    "title": "The Bat Thing",
+    "cost": "4 CP",
+    "episode": "Patience",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Occult Investigation",
+      "Site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped. This card may be played in its normal way or on any Team that includes at least one Agent with the keyword SKEPTIC, ignoring Activator requirements.The Human Bat may use SUBTERFUGE Combat cards.",
+    "dialogue": "\"Today, he might have been fine but this thing hunts like a bat. It only attacks at night.\" - Ernie Stefaniuk",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0319v1",
+    "title": "Schlugg’s Cult",
+    "cost": "6 CP",
+    "episode": "Roadrunners",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "Attach this card to any Agent in a Team. Place five tokens on this card (three if the Team has any Agent with MEDICAL skill). The Agent must remain in the Field and cannot contribute to any Skill check until all tokens have been removed. Remove one token during each Active player's Debriefing Phase. Discard this card when the last token is removed. The Agent remains in the Field. Schlugg's Cult does not initiate Combat.",
+    "dialogue": "\"No! Ahhh!!! You son of a bitch!\" - Scully",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0320v1",
+    "title": "Ronnie Strickland",
+    "cost": "3 CP",
+    "episode": "Bad Blood",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Believer"
+    ],
+    "gameText": "Only Agents with the Keyword BELIEVER may cause damage to Ronnie Strickland. If at any time during the Combat the Team attacked by Ronnie Strickland contains no Agents with the Keyword BELIEVER,the Combat ends immediately.",
+    "dialogue": "\"Oh, man! What'd you have to go and do that for? You are in big trouble.\" - Ronnie Strickland",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0321v1",
+    "title": "Animated Snakes",
+    "cost": "7 CP",
+    "episode": "Signs & Wonders",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "Play this card for 2 [CP] less if played on a Site card with the Keyword OCCULT INVESTIGATION.",
+    "dialogue": "Scully: \"..Maybe it's symbolic. I mean, serpents and religion have gone hand in hand. They've represented the temptation of Eve -- Original Sin. They've been feared and hated throughout history as they've been thought to embody Satan -- to serve Evil itself\".",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 6,
+      "Health": 10
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0322v1",
+    "title": "Lasioderma Serricorne Outbreak",
+    "cost": "5 CP",
+    "episode": "Brand-X",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Evidence Collection",
+      "Site"
+    ],
+    "gameText": "This card does not initiate Combat. Place target Agent under this card. The Agent may not contribute to any skill check this turn nor generate RES while under this card. At the beginning of your opponent's next Healing phase, remove this card from the game and send the Agent to the Hospital with two damage tokens.",
+    "dialogue": "Scully: \"...it could be some form of contagious agent, like an insect-borne bacterium...\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0323v1",
+    "title": "Whanshang Dole",
+    "cost": "6 CP",
+    "episode": "Alpha",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive",
+      "Site"
+    ],
+    "gameText": "Wanshang Dhole deals damage to its opponents first during each CRC round. If the HEALTH value of any opponent reaches zero after applying  modifiers or healing cards,that combatant is sent to the Hospital and cannot deliver any damage back that round.",
+    "dialogue": "\"Hey, Buck. What's wrong, Buck?\" - Dr James Riley",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 6,
+      "Health": 8
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0324v1",
+    "title": "Faceless Alien Rebel",
+    "cost": "7 CP",
+    "episode": "Two Fathers",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "At the start of each Combat round you may play one Combat card from your Discard Pile (at normal cost). Remove from the game each Combat card played this way. Subtract one from all damage sources applied to this Adversary during the LRC round.",
+    "dialogue": "\"Plans that would have worked had not a rebel alien race come to destroy them.\" - The Cigarette Smoking Man",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 6,
+      "Health": 7
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0325v1",
+    "title": "Maitreya’s Virtual Menace",
+    "cost": "4 CP",
+    "episode": "First Person Shooter",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Phenomena",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Computer"
+    ],
+    "gameText": "Maitreya may use MARTIAL ARTS Combat cards. The damage dealt by her on any Agent can be considered \"virtual\": the Agents' controller may remove 1 point of damage (1 token) from any Agent damaged by Maitreya for each 2 [RP]'s spent on that Agent. This action may prevent those Agents to be sent to the Hospital.",
+    "dialogue": "Scully: \"She's input herself into the game. We have to download her.\"",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0326v1",
+    "title": "Aquatic Nightmare",
+    "cost": "4 CP",
+    "episode": "Agua Mala",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": null,
+    "dialogue": "Scully: \"I don't think these wounds are bites or stings. There's something in here, Mulder, right under the skin.\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 6,
+      "Health": 7
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0327v1",
+    "title": "Kill Switch",
+    "cost": "5 CP",
+    "episode": "Kill Switch",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Phenomena",
+      "Pawn"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive Site"
+    ],
+    "gameText": "This card does not initiate Combat. The Kill Switch creates a distorted reality on the Team of Agents and deals a total of 5 points of damage that may be split among all opponents (Directed Player's choice). Subtract the COMPUTER skill of each chosen Agent from the damage delivered by the Kill Switch to that Agent.",
+    "dialogue": "\"What’s that smell? Oh, jeez!\" - Mulder",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0328v1",
+    "title": "Alien Spider infestation",
+    "cost": "6 CP",
+    "episode": "Travelers",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "Attach the Alien Spider to an Agent in a Team of two or more Agents. That Agent becomes aggressive and attacks their own Team sequentially, one by one. Then the infected Agent moves on to the next Agent, until all Agents are defeated or until he is sent to the Hospital.Discard this card.",
+    "dialogue": "\"I'm dead, too, inside, because of this thing they put in me. For what? To turn me into some kind of killing machine, or just to see what would happen?\" - Edward Skur",
+    "skills": {
+      "Long Range Combat": "SPECIAL",
+      "Close Range Combat": "SPECIAL",
+      "Health": "SPECIAL"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0329v1",
+    "title": "Karin’s Dark Sorcery",
+    "cost": "6 CP",
+    "episode": "Schizogeny",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "The LONG RANGE COMBAT round is skipped. For each Agent that Karin's Dark Sorcery sends to the Hospital you may remove 4 RP’s from your opponent's Resource Pool.",
+    "dialogue": "Mulder: \"Make him stop, Karin!  Tell him what you should have told him twenty years  ago. You’re not going to take it anymore.\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0330v1",
+    "title": "Mothman’s Lair",
+    "cost": "5 CP",
+    "episode": "Detour",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "The Mothman is negated if the Team it attacks makes a successful SUBTERFUGE +4 skill check. The LRC round is skipped. For the first round of CRC, the chosen Agent is the only one who may participate in the Combat. The Mothman may use SUBTERFUGE cards.",
+    "dialogue": "Mulder: \"Witnesses described them as primitive looking men with red piercing eyes. Became known as the \"moth men.\" I’ve got an X-File dating back to 1952 on it.\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": 5,
+      "Health": 4
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0331v1",
+    "title": "Demonic Puppet",
+    "cost": "5 CP",
+    "episode": "Chinga",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "The Demonic Puppet initiates Combat but does not assign nor receive any damage. Instead, the selected Agent in a Team inflicts a wound upon himself or herself equal to the sum of their LRC & CRC values, applied only once. Healing cards may be used to prevent damage, including any Combat cards that do not modify LRC and/or CRC.",
+    "dialogue": "Scully: \"Give me the doll, Polly.\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0332v1",
+    "title": "Wetwired",
+    "cost": "9 CP",
+    "episode": "Wetwired",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Site"
+    ],
+    "gameText": "Play on an Agent in a Team of 2 or more Agents. That Agent initiates Combat against another Agent in the Team (your choice). Follow usual Combat rules until any of the Agents' HEALTH is reduced to zero. The Combat ends and that Agent (or both) must go to the Hospital. The remaining Team may still contribute to the Site skill check as usual.",
+    "dialogue": "Langly: \"This device is stimulating electrical activity in the brain.\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0333v1",
+    "title": "Cult Carnage",
+    "cost": "6 CP",
+    "episode": "The Field where I died",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play this card on a Team in the Field that plays a Witness during the Investigation phase. The Witness card is discarded. Instead, that Witness joins the Temple of the Seven Stars and will attack one of the Agents in that Team only during an LRC round.",
+    "dialogue": "\"I knew you were coming. I've known for nine centuries. It was written in the Revelation of Jesus Christ....\" - Vernon Ephesian",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": "N/A",
+      "Health": 4
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0334v1",
+    "title": "The Twins Poisonous Attack",
+    "cost": "3 CP",
+    "episode": "Eve",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "This card does not initiate combat. The Team must make an OBSERVATION 5+ skill check. If unsuccessful, choose one Agent in the Team. That Agent receives 4 points of damage but can still contribute with his skills if HEALTH rating has not been reduced to 0. Healing cards can be played to avoid the damage.",
+    "dialogue": "\"We didn't drink enough to make us sick.\" - Scully",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0335v1",
+    "title": "Fetishist Prey Women Hunter",
+    "cost": "4 CP",
+    "episode": "Fire",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent"
+    ],
+    "gameText": "This card can only be played on a female Agent in a Team investigating a Site.",
+    "dialogue": "\"Some people collect salt and pepper shakers. The fetishist collects dead things. Hair, fingernails... no one quite knows why, though I've never quite understood salt and pepper shakers myself.\" - Mulder",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 5,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0336v1",
+    "title": "Subliminal Assault",
+    "cost": "6 CP",
+    "episode": "Blood",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "Play this card on a Team of two or more Agents. Choose an Agent at random and attach this card to that Agent. The Agent engages in Combat against the rest of Agents  on the Team. You control the Agent as an Adversary until the Combat ends. Discard this card afterwards.",
+    "dialogue": "\"Mulder: Are you familiar with subliminal messages?\"",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0337v1",
+    "title": "The Walk (alternate)",
+    "cost": "5 CP",
+    "episode": "The Walk",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "Subtract one from all damage sources applied to this Adversary.",
+    "dialogue": "\"I know a lot of crips have the same dream. The Walk. In my dream, I rise up, out of my chair, and I can stand. I look down  the hallway, I'm not in the ward anymore, I'm home. With my baby girl.\" - Amputee",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 4,
+      "Health": 4
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0338v1",
+    "title": "Visions of a Shaman",
+    "cost": "6 CP",
+    "episode": "Teso dos Bichos",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "Pick the top three cards of your Bureau deck. Use the cost of the first one for the Shaman's LRC skill, the cost of the second as CRC, and the last one as HEALTH value (draw additional cards if needed if the cost of any of those cards is not a specific number). Shuffle your Bureau afterwards (including the drawn cards).",
+    "dialogue": "\"...there are powers that should not be disturbed... That some things are better left buried.\" - Mulder",
+    "skills": {
+      "Long Range Combat": "SPECIAL",
+      "Close Range Combat": "SPECIAL",
+      "Health": "SPECIAL"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0339v1",
+    "title": "Chung’s Cosmic Goliath",
+    "cost": "2 CP",
+    "episode": "Jose Chung’s From Outer Space",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Alien Investigation"
+    ],
+    "gameText": "This card does not initiate Combat. Pick one Agent from an investigating Team. That Agent remains \"confused\" until end of turn and cannot contribute his or her skills to any Site skill check.",
+    "dialogue": "\"Jack... what is that thing?\" - Alien",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0340v1",
+    "title": "The Gray Haired Man",
+    "cost": "6 CP",
+    "episode": "Herrenvolk",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive",
+      "Site"
+    ],
+    "gameText": "Reduce each Agent's LRC to 1. If target Team has more than one Agent, Your opponent may select one of those Agents not to participate in the Combat. If no Agent is chosen, then an additional LRC round will be played until your opponent selects an Agent to skip the Combat.",
+    "dialogue": "\"I've suffered some very personal... losses recently, and... I was... I was hoping…\" - Mulder",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 2,
+      "Health": 5
+    },
+    "createdBy": "Greg Fremaux, Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0341v1",
+    "title": "George and Sherman Peacock’s attack",
+    "cost": "6 CP",
+    "episode": "Home",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive",
+      "Site"
+    ],
+    "gameText": "If any Agent on target Team has an Equipment card attached that increases LRC skill you can attach that card to Peacock's brothers instead (only during the LONG RANGE COMBAT round and only one Equipment card, your choice).",
+    "dialogue": "\"Where's the other brother... Edmund? \" - Mulder",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 5,
+      "Health": 8
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0342v1",
+    "title": "Vassily Peskow",
+    "cost": "5 CP",
+    "episode": "Terma",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Government",
+      "Pawn",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method",
+      "Site"
+    ],
+    "gameText": "The chosen Agent is the only one who may participate in the Combat. This card cannot be played over Agent Alex Krycek. Vassily Peskow can use SUBTERFUGE cards.",
+    "dialogue": "\"I am only here, Comrade, to congratulate you on a fine job.\" - Krycek",
+    "skills": {
+      "Long Range Combat": 3,
+      "Close Range Combat": 4,
+      "Health": 4
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0343v1",
+    "title": "Knowle Rohrer",
+    "cost": "10 CP",
+    "episode": "The Truth",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "Knowle Rohrer regenerates (Heals) one point of HEALTH at the beginning of each combat round as long as his HEALTH is not at zero.",
+    "dialogue": "\"Shoot me, Agent Doggett, if you think it'll make a difference this time.\" - Knowle Rohrer",
+    "skills": {
+      "Long Range Combat": 4,
+      "Close Range Combat": 4,
+      "Health": 9
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0344v1",
+    "title": "The Mystic’s Curse",
+    "cost": "5 CP",
+    "episode": "Badlaa",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "Draw a number of cards from your Bureau deck equal to the number of Agents on target team. Use the cost value of each drawn card to assign damage to any Agent in that team (your choice) as three separated LRC attacks. Draw enough cards until you have numerical values to assign the damage. Shuffle the deck (including the drawn cards.",
+    "dialogue": "\"The Siddhi are a very mysterious and particularly powerful order of Fakirs.\" - C. Burks",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0345v1",
+    "title": "Erwin Lukesh",
+    "cost": "6 CP",
+    "episode": "4-D",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive",
+      "Site"
+    ],
+    "gameText": "Play this card on a team of Agents. The Agents in that team cannot deliver any damage to Erwin Lukesh during the LONG RANGE COMBAT round unless they have OBSERVATION or SUBTERFUGE skills. Erwin Lukesh may use SUBTERFUGE cards.",
+    "dialogue": "\"God, I enjoyed it.  You bled just like a pig\" - Erwin Lukesh",
+    "skills": {
+      "Long Range Combat": 3,
+      "Close Range Combat": 3,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0346v1",
+    "title": "Van Allen’s Revenge",
+    "cost": "5 CP",
+    "episode": "Hellbound",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result",
+      "Site"
+    ],
+    "gameText": "Once the Combat had ended, you can pay 2 [CP] to return Van Allen's Revenge to your hand. Your opponent may pay 3 [RP] to interrupt this effect.",
+    "dialogue": "\"Don't feel sorry. You going to hell just like I am, brother.\" - Ed Kelso",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 4,
+      "Health": 7
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0347v1",
+    "title": "Rob Roberts, the voracious predator",
+    "cost": "6 CP",
+    "episode": "Hungry",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Primordial",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method",
+      "Site"
+    ],
+    "gameText": "At the beginning of each Combat round you may choose one Agent and reduce that Agent's HEALTH by 2. If the Agent's HEALTH is reduced to 0 by the end of that round, Rob Roberts also heals 2 points of HEALTH during that round.",
+    "dialogue": "\"What look like tool marks to you look to me like something more organic. Like it was made by a... a tongue or a proboscis.\" - Scully",
+    "skills": {
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 6
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0348v1",
+    "title": "Lord of the Flies",
+    "cost": "5 CP",
+    "episode": "Lord of the flies",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Motive",
+      "Site"
+    ],
+    "gameText": "At the beginning of each combat round, you may choose one Agent. That Agent is webbed and cannot attack or use abilities that round. If that Agent's HEALTH is reduced to 0 by the end of the Combat, you may draw one extra card at the start of your next Briefing phase.",
+    "dialogue": "\"Your mouth, your tongue... there's something wrong with you.\" - Natalie Gordon",
+    "skills": {
+      "Long Range Combat": 3,
+      "Close Range Combat": 4,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0349v1",
+    "title": "Jinn’s Twisted Wish",
+    "cost": "6 CP",
+    "episode": "Je Souhaite",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "This card does not initiate combat. Put this card face up in your opponent's Bureau deck and reshuffle the deck. When this card reaches the top of the deck, your opponent's turn as Active player ends immediately. This card has no effect if it reaches the top of the deck during your opponent's turn as Directed player.",
+    "dialogue": "\"I wish for peace on earth.\" - Mulder",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0350v1",
+    "title": "Sect Leader Anthony Tipet",
+    "cost": "6 CP",
+    "episode": "Via Negativa",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Criminal investigation",
+      "Site"
+    ],
+    "gameText": "You may play this card in its normal way, or use it to immediately end combat and control one Agent (your choice). Move the Agent to any section of the table. The Agent must remain in that section. Attach this card to the chosen Agent as a reminder. Discard this card during your opponent's next Investigation phase.",
+    "dialogue": "\"If we have the courage to see into darkness we see into God... free of the clay which confines us.\" - Anthony Tipet",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 3,
+      "Health": 9
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0351v1",
+    "title": "Caballero, Memory Vampire",
+    "cost": "5 CP",
+    "episode": "John Doe",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature",
+      "Master"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation",
+      "Site"
+    ],
+    "gameText": "This card does not initiate combat. Play this card in your Field section. Place two tokens on this card. Discard a token anytime to look at the top three cards of your opponent's Bureau deck or to avoid an Agent to heal damage tokens during the Healing phase.",
+    "dialogue": "\"¿Dónde está el americano ahorita?\" - Caballero",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
   }
 ]
