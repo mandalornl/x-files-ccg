@@ -770,7 +770,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play to force your opponent to discard one card played this turn (your choice), except Sites and Agents. Alternately, you may select one card from your opponent’s Discard Pile and play it immediately at no cost. Place it in its owner's Discard Pile after it has been used. In both instances, X = the [RP] cost of the selected card.",
+    "gameText": "Play to force your opponent to discard one card played this turn (your choice), except Sites and Agents. Alternately, you may select one card from your opponent's Discard Pile and play it immediately at no cost. Place it in its owner's Discard Pile after it has been used. In both instances, X = the [RP] cost of the selected card.",
     "dialogue": "[…]",
     "createdBy": "Joost Berns"
   },

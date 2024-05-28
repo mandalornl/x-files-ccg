@@ -309,7 +309,7 @@
       "Method Site"
     ],
     "gameText": "Prior to combat, place a token on one Agent (your choice). The Agent is paralyzed and may not move or contribute to the combat. This effect cannot be negated by Healing cards. The Long Range Combat round is skipped. When combat ends, remove the token. Aboah may use SUBTERFUGE cards.",
-    "dialogue": "Scully: \"He can’t have gotten far.\"\nMulder: \"This guy can squeeze into a coffee can, Scully. He could be anywhere.\"",
+    "dialogue": "Scully: \"He can't have gotten far.\"\nMulder: \"This guy can squeeze into a coffee can, Scully. He could be anywhere.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -442,7 +442,7 @@
       "Affiliation Site"
     ],
     "gameText": "Vassily Peskow can attack one Agent (your choice) and is then discarded. If the target Agent has any Equipment cards which modify LRC or CRC, Peskow may steal that Equipment and use it in combat. Discard the Equipment when combat is resolved. This Adversary may use MARTIAL ARTS and SUBTERFUGE cards.",
-    "dialogue": "\"I would just as soon kill you, but please, don’t make me. My work is done.\" - Vassily Peskow",
+    "dialogue": "\"I would just as soon kill you, but please, don't make me. My work is done.\" - Vassily Peskow",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -550,7 +550,7 @@
       "Result Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped. Any Agent wounded by this Adversary is afflicted with the Keyword INSANITY. This effect remains in place until all damage tokens are removed.",
-    "dialogue": "\"It’s more than just some chemical reaction. She talks to me. She hates women…my wife, my boss…you. She’s so jealous, Dana. She makes me do things. I don’t want to, but she controls me.\" - Ed Jerse",
+    "dialogue": "\"It's more than just some chemical reaction. She talks to me. She hates women…my wife, my boss…you. She's so jealous, Dana. She makes me do things. I don't want to, but she controls me.\" - Ed Jerse",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -989,7 +989,7 @@
       "Active"
     ],
     "gameText": "Adds 1 [RP] to your Pool every time a Keyword BUREAUCRACY or SUBTERFUGE card is played.",
-    "dialogue": "Mulder: \"Thank you for seeing me at such a late hour, sir.\"\nDiabria: \"I did not have much of a choice in this matter. Someone from the United Nations spoke to the ambassador directly. What’s so important that it can’t wait?\"\nMulder: \"With all due respect, sir, I think you already know.\"",
+    "dialogue": "Mulder: \"Thank you for seeing me at such a late hour, sir.\"\nDiabria: \"I did not have much of a choice in this matter. Someone from the United Nations spoke to the ambassador directly. What's so important that it can't wait?\"\nMulder: \"With all due respect, sir, I think you already know.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -1091,7 +1091,7 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's SCIENCES or adds 2 to one Team's COMPUTER skill check. Alternately, you may play this card to heal any one Agent damaged by the effects of \"El Chupacabra\".",
-    "dialogue": "Dr. Steen: \"What you’re looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\nScully: \"Athlete's foot?\"",
+    "dialogue": "Dr. Steen: \"What you're looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\nScully: \"Athlete's foot?\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -1131,7 +1131,7 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's MEDICAL skill check once per turn. If your opponent plays an EVOLUTIONARY Adversary while this card is in play, Michelle Wilkes is negated and removed from the game.",
-    "dialogue": "\"You know how they say some people can just look at you and tell you what’s wrong? Leonard could do that.\" - Michelle Wilkes",
+    "dialogue": "\"You know how they say some people can just look at you and tell you what's wrong? Leonard could do that.\" - Michelle Wilkes",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -1512,7 +1512,7 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one METHOD question.",
-    "dialogue": "Scully: \"Why are we here, Mulder?\"\nMulder: \"Pendrell found asbestos fibers on Owen Sanders’ body. And you remove asbestos from an old building before you tear it down. It had to come from somewhere.\"",
+    "dialogue": "Scully: \"Why are we here, Mulder?\"\nMulder: \"Pendrell found asbestos fibers on Owen Sanders' body. And you remove asbestos from an old building before you tear it down. It had to come from somewhere.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -1571,7 +1571,7 @@
     ],
     "prerequisite": "MEDICAL 5+ or OCCULT INVESTIGATION 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question. If you ask if the METHOD is \"Possession\", the skill check prerequisite is 4+.",
-    "dialogue": "\"There’s magic going on here, Mulder, only it’s being done with silicone, collagen, and a well placed scalpel.\" - Scully",
+    "dialogue": "\"There's magic going on here, Mulder, only it's being done with silicone, collagen, and a well placed scalpel.\" - Scully",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -1691,7 +1691,7 @@
     ],
     "prerequisite": "BEHAVIORAL 5+ or COMPUTER 5+",
     "question": "You may ask one METHOD question or one RESULT question. If you ask if the RESULT is \"Insanity\", the skill check prerequisite is 4+.",
-    "dialogue": "Ed Jerse: \"You did good work. It’s very nice. It’s just like in the window, but…\"\nSvo: \"So what? Why do you want to cover it? Listen friend, everyone gets tattoo they deserve.\"",
+    "dialogue": "Ed Jerse: \"You did good work. It's very nice. It's just like in the window, but…\"\nSvo: \"So what? Why do you want to cover it? Listen friend, everyone gets tattoo they deserve.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -1931,7 +1931,7 @@
       "Active"
     ],
     "gameText": "Play on a Team in which one Agent has just been abducted or removed from the game. Search your Bureau Deck and draw one Keyword LAW Agent card and use it immediately at no cost. Reshuffle your Deck. Discard the Agent at the end of your turn.",
-    "dialogue": "Commander Carver: \"I’d be happy to have you work on our investigation. Now this is Detective Gwynn…\"\nMulder: \"I'm working alone.\"\nCarver: \"An FBI Agent without a partner?\"",
+    "dialogue": "Commander Carver: \"I'd be happy to have you work on our investigation. Now this is Detective Gwynn…\"\nMulder: \"I'm working alone.\"\nCarver: \"An FBI Agent without a partner?\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -2091,7 +2091,7 @@
       "Active"
     ],
     "gameText": "If the Team makes a MEDICAL 4+ skill check, add five tokens to the [RP] Pool.",
-    "dialogue": "Mulder: \"I heard you were down here slicing and dicing. Who’s the lucky stiff?\"\nScully: \"His name was Owen Sanders. He was reported as the fourth kidnap victim in Philadelphia until his body turned up last night looking like this.\"",
+    "dialogue": "Mulder: \"I heard you were down here slicing and dicing. Who's the lucky stiff?\"\nScully: \"His name was Owen Sanders. He was reported as the fourth kidnap victim in Philadelphia until his body turned up last night looking like this.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -2431,7 +2431,7 @@
       "Active"
     ],
     "gameText": "Attach this card to a Witness RESOURCE. If at any time the Witness is negated or removed, your opponent loses 5 [CP] and must discard all GOVERNMENT Adversaries in their deck.",
-    "dialogue": "The Well-Manicured Man: \"This was a professional hit.\"\nThe Cigarette-Smoking Man: \"Were you sleeping with her? Surely you wouldn’t be so foolish as to put the project at risk for the sake of your personal pleasures.\"\nThe Well-Manicured Man: \"Find her killer!\"",
+    "dialogue": "The Well-Manicured Man: \"This was a professional hit.\"\nThe Cigarette-Smoking Man: \"Were you sleeping with her? Surely you wouldn't be so foolish as to put the project at risk for the sake of your personal pleasures.\"\nThe Well-Manicured Man: \"Find her killer!\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -2550,7 +2550,7 @@
       "Conspiracy"
     ],
     "gameText": "Play immediately after discarding an EVOLUTIONARY Adversary as a result of either combat or a Negate effect. The Adverary is returned to the Field at no cost and may attack the Team again.",
-    "dialogue": "Mulder: \"What if this man’s life force, his Chi, whatever you want to call it, somehow retained a blueprint of the actual man himself? Guiding rapid growth not as cancer, but as regeneration?\"\nScully: \"You think that Leonard Betts regrew his head?\"",
+    "dialogue": "Mulder: \"What if this man's life force, his Chi, whatever you want to call it, somehow retained a blueprint of the actual man himself? Guiding rapid growth not as cancer, but as regeneration?\"\nScully: \"You think that Leonard Betts regrew his head?\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -2570,7 +2570,7 @@
       "Active"
     ],
     "gameText": "If the Team makes a SCIENCES 4+ skill check, add five tokens to the [RP] Pool.",
-    "dialogue": "\"You know, with this equipment I have been able to capture phantom images of whole leaves that were cut in half or the vestigial image of a lizard’s tail long after it’s been cut off … which, you have to admit is pretty cool.\" - Dr. Charles Burks",
+    "dialogue": "\"You know, with this equipment I have been able to capture phantom images of whole leaves that were cut in half or the vestigial image of a lizard's tail long after it's been cut off … which, you have to admit is pretty cool.\" - Dr. Charles Burks",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -3135,7 +3135,7 @@
       "Evidence Collection"
     ],
     "gameText": "Play to change the Site Prerequisite from EVIDENCE COLLECTION to MEDICAL.",
-    "dialogue": "Agent Pendrell: \"Shouldn’t we wait for Agent Scully? Just so I won’t have to repeat myself.\"\nMulder: \"She's not coming.\"\nPendrell: \"Why not?\"\nMulder: \"She had a date…Breathe, Agent Mulder. It's with a dead man. She's doing an autopsy.\"",
+    "dialogue": "Agent Pendrell: \"Shouldn't we wait for Agent Scully? Just so I won't have to repeat myself.\"\nMulder: \"She's not coming.\"\nPendrell: \"Why not?\"\nMulder: \"She had a date…Breathe, Agent Mulder. It's with a dead man. She's doing an autopsy.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -3258,7 +3258,7 @@
       "Site"
     ],
     "gameText": "Subtract 4 from one Team's OCCULT INVESTIGATION or SCIENCES skill check.",
-    "dialogue": "\"You killed Maria! Because she wouldn’t love you! Because her heart belongs to only one man! Don’t make me shoot you in the back, Eladio! Turn! See my tears! Turn around like a man!\" - Soledad Buente",
+    "dialogue": "\"You killed Maria! Because she wouldn't love you! Because her heart belongs to only one man! Don't make me shoot you in the back, Eladio! Turn! See my tears! Turn around like a man!\" - Soledad Buente",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -3298,7 +3298,7 @@
       "Conspiracy"
     ],
     "gameText": "Once this card is played, the opposing Team may not use or apply skill values from any Keyword ELECTRICAL Equipment while investigating this Site.",
-    "dialogue": "Mulder: \"Unfortunately, you can’t see very much on these. What…what’s all this stuff here?\"\nSecurity Guard: \"Bad video. The security system isn’t exactly state-of-the-art.\"",
+    "dialogue": "Mulder: \"Unfortunately, you can't see very much on these. What…what's all this stuff here?\"\nSecurity Guard: \"Bad video. The security system isn't exactly state-of-the-art.\"",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -3319,7 +3319,7 @@
       "Site"
     ],
     "gameText": "Play to increase the applicable HEALTH of all Keyword EVOLUTIONARY and PRIMORDIAL Adversaries played at this Site by 2.",
-    "dialogue": "\"I’m your mother and it’s a mother’s duty to provide.\" - Elaine Tanner",
+    "dialogue": "\"I'm your mother and it's a mother's duty to provide.\" - Elaine Tanner",
     "createdBy": "Stephen Arvidson"
   },
   {
@@ -3672,7 +3672,7 @@
       "Hospital"
     ],
     "gameText": "Agents equipped with an Epoxy Vat have access to the field office crime lab. Adds 1 to the Agent's MEDICAL and SCIENCES skills.",
-    "dialogue": "\"This procedure is called biopolymerization. It’s basically a high-tech mummification process.\" - Scully",
+    "dialogue": "\"This procedure is called biopolymerization. It's basically a high-tech mummification process.\" - Scully",
     "createdBy": "Stephen Arvidson"
   },
   {
