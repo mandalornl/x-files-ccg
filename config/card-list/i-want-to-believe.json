@@ -1312,6 +1312,517 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0289v1",
+    "title": "The African Artifact",
+    "cost": "5 RP",
+    "episode": "Biogenesis",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Mystic",
+      "Killer"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Attach this card to an Agent with cost higher than three. Once you had successfully investigated a Site you may remove from play this card and the Agent to ask an extra characteristic question regarding one opponent's X-File.",
+    "dialogue": "\"A genuine artifact, one of several pieces of an unknown whole…\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0290v1",
+    "title": "Precision Sniper Riffle",
+    "cost": "5 RP",
+    "episode": "The End",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Weapon",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds three to the Agent’s LONG RANGE COMBAT skill once per Combat.",
+    "dialogue": "\"Checkmate.\" - Gibson Praise",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0291v1",
+    "title": "Social Worker Contact",
+    "cost": "1 RP",
+    "episode": "The Calusari",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Discard this card during the Investigation phase to search through your Discard Pile and add one Keyword RESOURCE card to your hand. Show the card to your opponents and shuffle your Discard Pile.",
+    "dialogue": "\"I'd like to interview your son Charlie, Mr. Holvey, but with a professional counsellor.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0292v1",
+    "title": "Emergency Quarantine",
+    "cost": "3 RP",
+    "episode": "Darkness Falls",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Put this card in the Field. You can avoid an attack of an Adversary played by your opponent by placing it under this card. It will attack on the next Site you play ignoring any activators. Discard this card afterwards.",
+    "dialogue": "\"I told her it was going to be a nice trip to the forest.\" -Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0293v1",
+    "title": "Pheromone Bio-Sensor",
+    "cost": "2 RP",
+    "episode": "Lord of the flies",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Agents equipped with a Pheromone Bio-sensor may discard it to increase the cost of all Adversary cards played in a Site investigated by their Team by 2. This card must be discarded before the Adversary cards are played.",
+    "dialogue": "Dr. Bronzino: \"I'm getting a reading here. Trace levels inside the house…\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0294v1",
+    "title": "Security Pass",
+    "cost": "3 RP",
+    "episode": "E.B.E.",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Government",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Discard this card to change the Site Prerequisite to ALIEN INVESTIGATION or BUREAUCRACY in a Site investigated by the Agent equipped with this card. Keywords of the Site card are also changed",
+    "dialogue": "Security Guard: \"Proceed down the hallway, please.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0295v1",
+    "title": "FBI Ballistics Lab",
+    "cost": "4 RP",
+    "episode": "4-D",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Place this Equipment card in the Bureau section. Once per turn, any Agent in the Bureau may add their COMPUTER or CRIMINAL INVESTIGATION skills to any skill check done by any Team in the Field.",
+    "dialogue": "Skinner: \"9mm slug. Found it in the alley lodged in the wall. Most likely from the Sig Sauer P226 or 228.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0296v1",
+    "title": "Telemedicine Tools",
+    "cost": "3 RP",
+    "episode": "Sunshine days",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Hospital"
+    ],
+    "gameText": "Place this Equipment card in your Hospital section. During your Healing phase you may place one Keyword MEDICAL or SCIENCES ACTIVE card under this card, face down. During your Investigation phase you may play that card for 2 [RP] less. No more than 2 cards may be under this card.",
+    "dialogue": "Doggett: \"Help me out here, Agent Scully.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0297v1",
+    "title": "Portable Radio",
+    "cost": "2 RP",
+    "episode": "Vienen",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Attach this card to any Agent in the Field. Discard this card when that Agent is investigating a Site and is forced to go back to the Bureau to allow that Agent to contribute their skills to any skill check made by their Team this turn.",
+    "dialogue": "Mulder: \"Can I borrow your radio Mr. Sachs?\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0298v1",
+    "title": "ChemElement Analyzer",
+    "cost": "4 RP",
+    "episode": "Medusa",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Agents equipped with a ChemElement Analyzer have access to the field office crime lab. Adds 1 to the Agent's SCIENCES and SUBTERFUGE skills.",
+    "dialogue": "\"Sample analysis is showing carbon, bromide, boron and calcium.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0299v1",
+    "title": "Satellite Navigator",
+    "cost": "3 RP",
+    "episode": "Fight the Future",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Place 2 tokens on this card. Discard a token to look through your Bureau deck to draw any Site that asks a MOTIVE or METHOD question. Add it to your hand and reshuffle your Bureau deck. When no tokens remain, move this card to the discard pile.",
+    "dialogue": "Mulder: \"I'm going to get you out of there.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0300v1",
+    "title": "Handheld Digital Recorder",
+    "cost": "3 RP",
+    "episode": "Arcadia",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Mechanical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's EVIDENCE COLLECTION skill. Additionally, you can discard this card to add two to the Agent's CRIMINAL INVESTIGATION skill.",
+    "dialogue": "\"Okay. 6:01 p.m., February 24. Agents Scully and Mulder in the former home of David and Nancy Kline who disappeared without a trace last July.\" -Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0301v1",
+    "title": "Scuba Suit",
+    "cost": "2 RP",
+    "episode": "Tempus Fugit",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Once per turn, the Scuba Suit adds 2 to the Agent's OBSERVATION or SUBTERFUGE skills during any skill check on any Site card related to a coastal state or country, or mentioning the words: 'Lake', 'River' or 'Sea'.",
+    "dialogue": "Mulder: \"Once, I, uh... I got a quarter off of the deep end at the \"Y\" pool.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0302v1",
+    "title": "Otoscope",
+    "cost": "3 RP",
+    "episode": "Drive",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's OBSERVATION skill. Additionally, you can discard this card to add two to the Agent's CRIMINAL INVESTIGATION skill.",
+    "dialogue": "Scully: \"Look, I have no idea what killed this woman but I have to assume it's communicable.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0303v1",
+    "title": "Forward-Looking InfraRed (FLIR)",
+    "cost": "3 RP",
+    "episode": "Detour",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's OBSERVATION skill. Additionally, you can discard this card to skip a LRC round against a PRIMORDIAL or EVOLUTIONARY Adversary attacking the Team of an Agent equipped with a FLIR.",
+    "dialogue": "Jeff: \"Detects body heat at 300 yards.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0304v1",
+    "title": "High Focus Camera",
+    "cost": "3 RP",
+    "episode": "Talitha Cumi",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Mechanical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's OBSERVATION skill. Additionally, you can discard this card to add two to the Agent's BEHAVIORAL skill.",
+    "dialogue": "\"I thought we might at least allow ourselves to reminisce.\" - Cigarette Smoking Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0305v1",
+    "title": "Biohazard Protection Suit",
+    "cost": "3 PP",
+    "episode": "Tunguska",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill. Agents equiped with this card are not affected by ALIEN MANIPULATION cards. Additionally, you can discard this card to add one to the Agent's SCIENCES skill.",
+    "dialogue": "\"It looks like a nest... some type of black vermiform organism attached to the pineal gland...\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0306v1",
+    "title": "Specimen Vessels",
+    "cost": "3 RP",
+    "episode": "Unrequited",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION skill. Additionally, you can discard this card to add two to the Agent's EVIDENCE COLLECTION skill.",
+    "dialogue": "\"I think I located what you're looking for. It's a small miracle I found it, actually.\" - Dr. Kayser",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0307v1",
+    "title": "Forensic Collection Kit",
+    "cost": "3 RP",
+    "episode": "2Shy",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's EVIDENCE COLLECTION skill. Additionally, you can discard this card to add two to the Agent's BEHAVIORAL skill.",
+    "dialogue": "\"This substance.. Did you find it anywhere else in the car?\"- Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0308v1",
+    "title": "Midnight Inquisitor",
+    "cost": "3 RP",
+    "episode": "Clyde Bruckman's Final Repose",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Special"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Discard this card to draw three cards from your Bureau deck during the requisition phase.",
+    "dialogue": "“Just give me my lotto ticket and, uh, a pint of malt scotch whiskey.\" - Clyde Bruckman",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0309v1",
+    "title": "Head X-Ray Special",
+    "cost": "3 RP",
+    "episode": "The Blessing Way",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's MEDICAL skill. Additionally, you can discard this card to add two to the Agent's ALIEN INVESTIGATION skill.",
+    "dialogue": "\"It looks like a computer chip.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0310v1",
+    "title": "Forensic Face Lab",
+    "cost": "3 RP",
+    "episode": "Avatar",
+    "type": "Equipment",
+    "keywords": [
+      "Equiment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's COMPUTER skill. Additionally,you can discard this card to add two to the Agent's EVIDENCE COLLECTION skill.",
+    "dialogue": "\"You know how an airbag works?\" - Pendrell",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0311v1",
+    "title": "Face Mask",
+    "cost": "4 RP",
+    "episode": "Faciphaga Emasculata",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Healing",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds two to the Agent's HEALTH.",
+    "dialogue": "\"The parasite is undetectable in the bloodstream. This is the only way to test whether or not you've been infected.\" - Osbourne",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0312v1",
+    "title": "Bio-medical Division Card",
+    "cost": "3 RP",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Discard this card to change the Site Prerequisite to MEDICAL or SUBTERFUGE in a Site investigated by the Agent equipped with this card. Keywords of the Site card are also changed.",
+    "dialogue": "\"It's the tip of the iceberg. You and Mulder are the only ones who can bring it to light.\" - Deep Throat",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0313v1",
+    "title": "Ofthalmoscope",
+    "cost": "3 RP",
+    "episode": "The Host",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Electrical",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Adds 1 to the Agent's MEDICAL skill. Additionally, you can discard this card to add two to the Agent's SCIENCES skill.",
+    "dialogue": "\"I'm going to give you a tetanus booster just as a precaution.\"- Doctor Zenzola",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0314v1",
+    "title": "Emergency Admission",
+    "cost": "3 RP",
+    "episode": "Beyond the Sea",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Healing",
+      "Special"
+    ],
+    "activators": [
+      "Hospital"
+    ],
+    "gameText": "Place this card in the Hospital. Once per turn, during the Healing phase, you can remove from play a card from your hand to heal one point of damage to an Agent in the Hospital.",
+    "dialogue": "\"Blood pressure is 67 on palpatation.\" - Nurse",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0316v1",
     "title": "Janke Dacyshyn",
     "cost": "6 CP",
