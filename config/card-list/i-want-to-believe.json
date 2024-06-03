@@ -1353,7 +1353,7 @@
       "Conspiracy",
       "Result Site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped. Target Agent in the Team attacked by the Blinding Predator receives a poisonous attack and is considered \"blinded\" for the first CLOSE RANGE COMBAT round. That Agent will deal no damage during that round of combat.",
+    "gameText": "The LONG RANGE COMBAT round is skipped. Target Agent (your choice) in the Team attacked by the Blinding Predator receives a poisonous attack and is considered \"blinded\" for the first CLOSE RANGE COMBAT round. That Agent will deal no damage during that round of combat.",
     "dialogue": "\"Whatever happened to Sacks, I think it's happening to me. I'm completely blind now.\" - Leyla Harrison",
     "skills": {
       "Long Range Combat": "N/A",
