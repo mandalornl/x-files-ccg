@@ -1325,7 +1325,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Attach this card to an Agent with cost higher than three. Once you had successfully investigated a Site you may remove from play this card and the Agent to ask an extra characteristic question regarding one opponent's X-File.",
+    "gameText": "Attach this card to an Agent with cost higher than three. Once you had successfully investigated a Site, you may remove this card and the Agent from play to ask an extra characteristic question regarding one opponent's X-File.",
     "dialogue": "\"A genuine artifact, one of several pieces of an unknown whole…\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1552,7 +1552,7 @@
   {
     "id": "XF08-0301v1",
     "title": "Scuba Suit",
-    "cost": "2 RP",
+    "cost": "3 RP",
     "episode": "Tempus Fugit",
     "type": "Equipment",
     "keywords": [
@@ -1631,7 +1631,7 @@
   {
     "id": "XF08-0305v1",
     "title": "Biohazard Protection Suit",
-    "cost": "3 PP",
+    "cost": "3 RP",
     "episode": "Tunguska",
     "type": "Equipment",
     "keywords": [
