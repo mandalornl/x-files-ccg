@@ -1440,7 +1440,7 @@
     "type": "Witness",
     "keywords": [
       "Witness",
-      "Alien Investigaton",
+      "Alien Investigation",
       "Resource"
     ],
     "activators": [
@@ -1500,7 +1500,7 @@
     "type": "Witness",
     "keywords": [
       "Witness",
-      "Alien Investigaton",
+      "Alien Investigation",
       "Bureaucracy"
     ],
     "activators": [
@@ -1508,7 +1508,7 @@
       "Alien investigation",
       "Bureaucracy"
     ],
-    "gameText": "Adds zero to one Team's BUREAUCRACY or ALIEN INVESTIGATION skill check. If this card is used in a successful Site investigation,the owning player may ask \"Is your X-File's Affiliation Alien?\" in addition to the Site question for zero cost.",
+    "gameText": "Adds zero to one Team's BUREAUCRACY or ALIEN INVESTIGATION skill check. If this card is used in a successful Site investigation, the owning player may ask \"Is your X-File's Affiliation Alien?\" in addition to the Site question for zero cost.",
     "dialogue": "\"Cassandra Spender is, indeed, the mother of Agent Jeffrey Spender and the ex-wife of C.G.B. Spender. She was first abducted in 1973 on the night of November 27.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
