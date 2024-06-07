@@ -1312,6 +1312,549 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0154v1",
+    "title": "Vicki Burdick",
+    "cost": "4 RP",
+    "episode": "Improbable",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Observation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 3 to one Team's OBSERVATION or adds 2 to one Team's BEHAVIORAL skill check.",
+    "dialogue": "\"I've been running numbers here on the murder victims…and the strangest thing has come up.\" - Vicki Burdick",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0155v1",
+    "title": "Audrey Pauley",
+    "cost": "4 RP",
+    "episode": "Audrey Pauley",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Healing",
+      "Observation",
+      "Occult investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to one Team's OBSERVATION or adds 1 to one Team's OCCULT INVESTIGATION skill check, or play this card when one of your Agents must go to the Hospital with zero HEALTH to remove half of the damage tokens (rounded up). The Agent must still go to the Hospital.",
+    "dialogue": "\"I told you. She's not gone.\" - Audrey Pauley",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0156v1",
+    "title": "Marty Glenn",
+    "cost": "3 RP",
+    "episode": "Mind's Eye",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's CRIMINAL INVESTIGATION skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded.",
+    "dialogue": "\"It's not magic. It's your crappy cologne. Who's that with you?\" - Marty Glenn",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0157v1",
+    "title": "John Lee Roche",
+    "cost": "1 RP",
+    "episode": "Paper Hearts",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to one Agent's CRIMINAL INVESTIGATION skill check. Your opponent may pay 3 [CP] to negate this Witness.",
+    "dialogue": "\"You choose the one that was your sister, and I'll tell you where she is. Hey, come on, it's a fifty-fifty chance.\" - John Lee Roche",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0158v1",
+    "title": "Alvin Kurtzweil",
+    "cost": "3 RP",
+    "episode": "Fight the Future",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Bureaucracy",
+      "Government",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword BUREAUCRACY or GOVERNMENT card is played.",
+    "dialogue": "\"There's something you don't know about the bombing in Dallas.\" - A. Kurtzweil",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0159v1",
+    "title": "Father Joseph Crissman",
+    "cost": "3 RP",
+    "episode": "I Want to Believe",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Occult Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's OCCULT INVESTIGATION skill once per turn while the Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0.",
+    "dialogue": "Father Joe: \"This is where she was taken. This is where she was attacked.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0160v1",
+    "title": "Gibson Praise",
+    "cost": "4 RP",
+    "episode": "Without",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Alien Investigaton",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place this Witness card in the Bureau. You may attach it anytime to any Team of Agents in that section. If that Team successfully investigates a Site, you may ask \"Is your X-File's Result Abduction?\" in addition to the Site question for zero cost. Discard this card afterwards.",
+    "dialogue": "\"If they find me, they'll take me. I know it.\" - Gibson Praise",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0161v1",
+    "title": "Sheriff Lucius Hartwell",
+    "cost": "3 RP",
+    "episode": "Bad Blood",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Occult Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's OCCULT INVESTIGATION skill once per turn while the Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0. If played on Agent Dana Scully this card costs 1 [RP] less.",
+    "dialogue": "Hartwell: \"You really know your stuff, Dana.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0162v1",
+    "title": "Officer Keith Wetzel",
+    "cost": "3 RP",
+    "episode": "X-Cops",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's CRIMINAL INVESTIGATION skill once per turn while the Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0.",
+    "dialogue": "\"We came on this case looking for a werewolf, right?\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0163v1",
+    "title": "Cassandra Spender",
+    "cost": "5 RP",
+    "episode": "Two Fathers",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Alien Investigaton",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Active",
+      "Alien investigation",
+      "Bureaucracy"
+    ],
+    "gameText": "Adds zero to one Team's BUREAUCRACY or ALIEN INVESTIGATION skill check. If this card is used in a successful Site investigation,the owning player may ask \"Is your X-File's Affiliation Alien?\" in addition to the Site question for zero cost.",
+    "dialogue": "\"Cassandra Spender is, indeed, the mother of Agent Jeffrey Spender and the ex-wife of C.G.B. Spender. She was first abducted in 1973 on the night of November 27.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0164v1",
+    "title": "Sussane Modeski",
+    "cost": "3 RP",
+    "episode": "Unusual Suspects",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Bureaucracy",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's BUREAUCRACY skill once per turn while the Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0.",
+    "dialogue": "\"I'll prove it to you, just help me decipher this.\" - Susanne",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0165v1",
+    "title": "Esther Nairn",
+    "cost": "3 RP",
+    "episode": "Kill Switch",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Computer",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to negate the Adversary card 'Kill Switch'. Alternatively, you can attach Esther Nairn to any Agent in the Field to add 1 to that Agent's COMPUTER skill once per tur while the Agent is in the Field. Discard Esther Nairn when the Agent's HEALTH is reduced to 0.",
+    "dialogue": "Mulder: \"Are you \"Invisigoth?\"\nEsther: \"How did you find me?\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0166v1",
+    "title": "Michelle Fazekas",
+    "cost": "2 RP",
+    "episode": "Detour",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's RES value during the Briefing Phase if that Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0.",
+    "dialogue": "\"They appear to be human, but whoever left these uses the balls of his feet more like an animal.\" - Michelle Fazekas",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0167v1",
+    "title": "Patti Rich",
+    "cost": "3 RP",
+    "episode": "Schizogeny",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to one Team's BEHAVIORAL or adds 1 to one Team's OCCULT INVESTIGATION skill check.",
+    "dialogue": "\"They were real close when Bobby was little. Always kidding around and stuff. But Bobby sort of got into that teenage stage. He doesn't want to listen to nobody.\" - Patti Rich",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0168v1",
+    "title": "Alfred Fellig",
+    "cost": "3 RP",
+    "episode": "Tithonus",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Negate Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to the Agent's OCCULT INVESTIGATION skill check. Alternately, any card that would send Dana Scully to the Hospital may be negated by playing this card. If played this way, remove Alfred Fellig from the game. This card cannot be played during a Combat and it is not a Healing card.",
+    "dialogue": "\"Do you see him? Don't look. Close your eyes…\" - Alfred Fellig",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0169v1",
+    "title": "Melissa Riedal-Ephessian",
+    "cost": "3 RP",
+    "episode": "The Field where I died",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play to change the Site Prerequisite to OCCULT INVESTIGATION 3+.",
+    "dialogue": "\"We have come together in this life, this time. Only to meet in passing.\" - Melissa Riedal-Ephesian",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0170v1",
+    "title": "Chuck Forsch",
+    "cost": "3 RP",
+    "episode": "Elegy",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Occult Investigation",
+      "Behavioral"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION Or adds 1 to one Team's BEHAVIORAL skill check.",
+    "dialogue": "Scully: \"Does anybody else know about these pictures, Chuck?\n\"Chuck: \"Nurse Innes.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0171v1",
+    "title": "Dr. Simon Bruin",
+    "cost": "3 RP",
+    "episode": "Teliko",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Evolutionary",
+      "Sciences",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword SCIENCES or EVOLUTIONARY card is played.",
+    "dialogue": "Dr. Bruin: \"You'd be amazed what I've seen removed from people's throats in emergency rooms.\"\nScully: \"There's no mistake. This patient has no pituitary gland.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0172v1",
+    "title": "Sister Abigail",
+    "cost": "3 RP",
+    "episode": "Gender Bender",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Subterfuge",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword BEHAVIORAL or SUBTERFUGE card is played",
+    "dialogue": "\"Please. I'm Sister Abby. This is Brother Oakley. We're all saddened by what has happened in your world, but it does not concern us.\" - Sister Abigail",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0173v1",
+    "title": "Head Calusari",
+    "cost": "3 RP",
+    "episode": "The Calusari",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Occult Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword BEHAVIORAL or OCCULT INVESTIGATION card is played",
+    "dialogue": "\"The evil that is here has always been. It has gone by different names through history -Cain, Lucifer, Hitler. It does not care if it kills one boy or a million men. If you try to stop us, the blood will be on your hands.\" - Head Calusari",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0174v1",
+    "title": "Jorge Concepción",
+    "cost": "3 RP",
+    "episode": "Little Green Men",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Alien Investigation",
+      "Observation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword ALIEN INVESTIGATION or OBSERVATION card played",
+    "dialogue": "\"¡Por favor, no me lastime! ¡Yo tengo mucho miedo!\" - Jorge",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0175v1",
+    "title": "Jesse Landis",
+    "cost": "4 RP",
+    "episode": "2Shy",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Behavioral",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword CRIMINAL INVESTIGATION or SUBTERFUGE card playedIf played after Adversary Card 2Shy attacked a Team, the cost of this card is halved.",
+    "dialogue": "\"I smelled her perfume. That's when I knew he was lying. She was wearing her perfume when she left for her class.\" - Jesse",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0176v1",
+    "title": "Beth Kane",
+    "cost": "4 RP",
+    "episode": "Red Museum",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Alien Investigation",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 1 [RP] to your pool every time a Keyword ALIEN INVESTIGATION or OBSERVATION skill check.",
+    "dialogue": "\"Doctor Larson gave him vitamin shots. He gave them to a lot of kids. He said it was like treating their teeth with fluoride… as a preventative measure.\" - Beth Kane",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0177v1",
+    "title": "Adam Pierce",
+    "cost": "4 RP",
+    "episode": "Firewalker",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Sciences",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 3 to one Team's SCIENCES or adds 2 to one Team's ALIEN INVESTIGATION skill check.",
+    "dialogue": "\"I wish I could explain. Daniel and I, uh… I always played Salieri to his Mozart. I was never quite on his plane of intellect, but this time I found him slipping into madness, the way he began to control the others.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0178v1",
+    "title": "Danielle Manley",
+    "cost": "4 RP",
+    "episode": "The List",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 3 to one Team's CRIMINAL INVESTIGATION or adds 2 to one Team's EVIDENCE COLLECTION skill check.",
+    "dialogue": "\"I had this dream… had it many times. That they put Neech in that chair and they flipped the switch, but that he wouldn't die. They couldn't kill him. He's a powerful man.\" - Danielle Manley",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0179v1",
+    "title": "Henry Weems",
+    "cost": "4 RP",
+    "episode": "The Goldberg Variation",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Medical",
+      "Behavioral"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Adds 3 to one Team's OCCULT or adds 2 to one Team's MEDICAL skill check.",
+    "dialogue": "\"High serotonin levels have been associated with mania.\" - Doctor Lorenz",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0180v1",
+    "title": "Chrissy Giorgio",
+    "cost": "3 RP",
+    "episode": "Jose Chung's From Outer Space",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play to change the Site Prerequisite to ALIEN INVESTIGATION 3+.",
+    "dialogue": "\"I'm in a room… on a spaceship… surrounded by aliens.\" - Chrissy Giorgio",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0289v1",
     "title": "The African Artifact",
     "cost": "5 RP",
