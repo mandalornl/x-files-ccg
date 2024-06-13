@@ -495,6 +495,795 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0082v1",
+    "title": "Linda Bowman",
+    "cost": "3 CP",
+    "episode": "Per Manum",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play on a Team of three or more Agents investigating a Site. Only Agents with at least one of the skills listed in that Site prerequisite may participate in any skill check or Combat at this Site.",
+    "dialogue": "\"After what they've done, do you think I'd let them get away with this? I'm gonna finish what you started.\" - Linda Bowman",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0083v1",
+    "title": "Electric Anomalies",
+    "cost": "3 CP",
+    "episode": "D.P.O.",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Evolutionary"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "All Agents in a Team must discard all attached Keyword ELECTRICAL Equipment immediately.",
+    "dialogue": "\"The entire electrical system was shorted out. All the circuitry and wiring had melted.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0084v1",
+    "title": "Rigged Lottery",
+    "cost": "3X",
+    "episode": "Hell Money",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to examine your opponent's hand and force that player to discard X cards (your choice).",
+    "dialogue": "\"They're all the same! This game is fixed.\" - Glen Chao",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0085v1",
+    "title": "The Right Hand's Toll",
+    "cost": "2 CP",
+    "episode": "Unrequited",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Government",
+      "Occult"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Pay 2 [CP] to move up to 3 [RP] from your opponent's [RP] pool to your [CP] pool immediately.",
+    "dialogue": "\"Name's Nathaniel Teager. 26 confirmed solo enemy kills. A veritable killing machine. Left for dead by the same government that created him.\" - Denny Markham",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0086v1",
+    "title": "Cerulean Hunt",
+    "cost": "2 CP",
+    "episode": "Kitsunegary",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "You can change up to two cards from your hand with a similar number of Bluffs already assigned to a Site in play (face down). The new Bluffs under the Site can still be negated.",
+    "dialogue": "\"Appears as if he died from ingesting paint.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0087v1",
+    "title": "Voodoo Ritual",
+    "cost": "1 CP",
+    "episode": "Theef",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Occult"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to decrease the cost of the first Adversary card you play in this Site by two.",
+    "dialogue": "\"…they're called \"poppets\". Inside you place three thorns of a blood red rose, a strand of hair and a photo of your victim. - Proprietor",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0088v1",
+    "title": "Unexpected Stroke",
+    "cost": "2 CP",
+    "episode": "Biogenesis",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Discard two cards from your hand (your choice) to apply a -2 modifier to any Agent's skill check on this Site.",
+    "dialogue": "Nurse: \"Mr. Hosteen cannot accept any visitors at this time.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0089v1",
+    "title": "They are watching",
+    "cost": "4 CP",
+    "episode": "Biogenesis",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to force your opponent to play with an open hand (all cards face up) until end of turn. If a card forces your opponent to discard any card randomly from their hand, you may choose them directly.",
+    "dialogue": "\"Dr. Sandoz, I don't know if this is a secure line.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0090v1",
+    "title": "Distracting Vision",
+    "cost": "2 CP",
+    "episode": "Avatar",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Pick the top 5 cards from your Bureau deck and show them to your opponent. You may play one revealed Bluff card at half cost (rounded up). Shuffle the rest back into your Bureau deck.",
+    "dialogue": "\"According to Skinner's psychiatrist, he's been experiencing a recurring dream in which he's confronted by an old woman.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0091v1",
+    "title": "Mirage of Samantha",
+    "cost": "3 CP",
+    "episode": "Miracle Man",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Phenomena"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Choose one effect: Add 5 tokens to your [CP] pool or target player discards two cards at random from his hand.",
+    "dialogue": "\"I think people are looking hard for miracles… so hard that maybe they make themselves see what they want to see.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0092v1",
+    "title": "Ghostly Haunting",
+    "cost": "4 CP",
+    "episode": "Excelsis Dei",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to provide the keywords necessary to play any one Keyword PHENOMENA Adversary.",
+    "dialogue": "\"Dorothy! I need your help.\" - Leo Kreutzer",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0093v1",
+    "title": "Trust Conflict",
+    "cost": "4 CP",
+    "episode": "Nothing Important Happened Today (II)",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Discard X cards from your hand to draw X cards from the top of your Bureau deck.",
+    "dialogue": "\"Don't get me wrong. I love all music. But I prefer the stuff that lasts.\" - Mr. Burt",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0094v1",
+    "title": "Charles Wesley Gotts",
+    "cost": "4 CP",
+    "episode": "Mind's Eye",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to provide the keywords necessary to play any one Keyword PAWN Adversary.",
+    "dialogue": "Mulder: \"Is that what this substance is?\"\nScully: \"Well, it appears to be crystalline, but beyond that…?\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0095v1",
+    "title": "Shadowed Dealings",
+    "cost": "2 CP",
+    "episode": "Zero Sum",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to halve (round up) the cost of any Bluff card played at this Site. If played over a face-down Bluff, halve the printed cost on the card.",
+    "dialogue": "\"Tell him what he wants to hear.\" - The Cigarette-Smoking Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0096v1",
+    "title": "Haunting Trickery",
+    "cost": "2 CP",
+    "episode": "How the Ghosts stole Christmas",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Flip the top card of your Bureau deck (flip enough cards until getting a card with a cost number). Use that number as a negative skill modifier on target Agent's skill (your choice) until end of turn. The chosen skill cannot decrease below zero. Shuffle the Drawn cards into the Bureau deck afterwards.",
+    "dialogue": "Lyda \"You look like you saw a ghost. There are ghosts in this house, you know…\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0097v1",
+    "title": "Biochip Cavity Implant",
+    "cost": "2 CP",
+    "episode": "Nisei",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien Manipulation",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Site"
+    ],
+    "gameText": "Attach this card to any Agent in the Field to reduce their HEALTH by one. Opponents may play ALIEN MANIPULATION cards that affect that Agent at half cost (round up). Discard this card if the Agent visits the Hospital or if the Team he belongs makes a successful MEDICAL or SCIENCES +7 skill check.",
+    "dialogue": "\"It's the same thing I had removed from my own neck.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0098v1",
+    "title": "Unexpected Hospital Visit",
+    "cost": "5 CP",
+    "episode": "The Sith Extintion",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien Manipulation",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Site"
+    ],
+    "gameText": "You may attach this card to any Agent with cost of 5 [RP] or less. Each time this Agent is investigating a Site you may pay that cost to force that Agent to go to the Hospital (undamaged). This card is removed when a Healing card is played on the Agent.",
+    "dialogue": "\"He said I was the only one who'd believe him\" – Diana Fowley",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0099v1",
+    "title": "Never Again",
+    "cost": "2 CP",
+    "episode": "Never Again",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Occult",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Site"
+    ],
+    "gameText": "Attach this card to any Agent in a Team investigating a Site to decrease all Agent's skills by one (LRC, CRC and HEALTH are not decreased). The final values cannot be negative. Discard this card when a Healing card is played on the Agent.",
+    "dialogue": "\"Never say never. Yeah, sometimes I wish I were that impulsive.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0100v1",
+    "title": "Psychotic Episodes",
+    "cost": "4 CP",
+    "episode": "Field Trip",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Primordial",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent"
+    ],
+    "gameText": "Attach this card to any Agent in the Field to lower the Agent's skill levels by one for each additional Agent in their Team. This change includes LRC, CRC, RES, and HEALTH. The final values cannot be negative. Discard this card if the Agent visits the Hospital.",
+    "dialogue": "\"Mulder, this is not reality. This is a hallucination. It has to be. And either I am having it, or you are having it or we are having it together.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0101v1",
+    "title": "Persuasive Push",
+    "cost": "2 CP",
+    "episode": "Pusher",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Choose an Agent on a Team already assigned to a Site. The chosen Agent contributes a negative skill value for that Site's prerequisites.",
+    "dialogue": "\"All right, where's my next bread crumb? \" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0102v1",
+    "title": "Hog Hideout Hazard",
+    "cost": "4 CP",
+    "episode": "Home",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Force an opposing Team to make a SUBTERFUGE 4+ skill check. If they fail, choose one Agent to go to the Hospital (undamaged).",
+    "dialogue": "\"Is there some secret farmer trick to get these things moving?\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0103v1",
+    "title": "Alien Abduction",
+    "cost": "4 CP",
+    "episode": "Requiem",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Abduction"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Force a Team in the Field to make an ALIEN INVESTIGATION 4+ skill check. If they fail, attach this card to any Agent in that Team (your choice) and remove the Agent from play. During the next Agent's controller Healing phase, move the Agent to the Hospital (undamaged).",
+    "dialogue": "\"Agent Mulder?! Mulder!\" - Skinner",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0104v1",
+    "title": "Agent's Verschwinden",
+    "cost": "7 CP",
+    "episode": "Unruhe",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Abduction"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Select one Agent from the Team investigating this Site. That Agent, along with any attached cards, if any, are placed face up, twelve cards down, in the owning player's Bureau deck. When the Agent's card reaches the top of the deck, the Agent (and the attached cards) are immediately moved to the Field (undamaged).",
+    "dialogue": "\"Why? Why me, Gerry? Do I remind you of your sister? Why did your sister kill herself, Gerry?\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0105v1",
+    "title": "Shitstorming the X-Files",
+    "cost": "1 CP",
+    "episode": "War of the Coprophagues",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Sciences"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to change the Site Prerequisite from CRIMINAL INVESTIGATION to SCIENCES.",
+    "dialogue": "\"Get Out, Scully! This whole place could blow!\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0106v1",
+    "title": "Frozen Vitrification",
+    "cost": "1 CP",
+    "episode": "Synchrony",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Behavioral"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play to change the Site Prerequisite from SCIENCES to BEHAVIORAL .",
+    "dialogue": "Dr Yonechi: \"Me? No, not yet. No one has solved vitrification.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0107v1",
+    "title": "Eyes of Obedience",
+    "cost": "1 CP",
+    "episode": "All Souls",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play to change the Site Prerequisite from CRIMINAL INVESTIGATION to OCCULT INVESTIGATION.",
+    "dialogue": "Father Gregory: \"Whatever your intentions… your secular prejudices blind you from seeing what's really happening here.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0108v1",
+    "title": "Blazzing Pages",
+    "cost": "3 CP",
+    "episode": "Kaddish",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play to change the Site Prerequisite to OCCULT INVESTIGATION 3+.",
+    "dialogue": "Scully: \"Where are you going?\" Mulder: \"To see a man about a burning book.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0109v1",
+    "title": "Éí 'Aaníígóó 'Áhoot'é",
+    "cost": "3 CP",
+    "episode": "Anasazi",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Government",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play to change a Site Prerequisite to ALIEN INVESTIGATION 3+.",
+    "dialogue": "\"It looks like Navajo. It was used during World War II. My father told me that it was the only code the Japanese couldn't break.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0110v1",
+    "title": "Dark Dealings",
+    "cost": "6 CP",
+    "episode": "Terms of Endearment",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Occult Investigation",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Subtract 4 from one Team's OCCULT INVESTIGATION or SUBTERFUGE skill check.",
+    "dialogue": "\"Please, don't take my baby! Please, don't take my baby! Wayne! Wayne!\" - Laura Weinsider",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0111v1",
+    "title": "Fingerprints erased",
+    "cost": "6 CP",
+    "episode": "Tempus Fugit",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien Investigation",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Subtract 4 from one Team's ALIEN INVESTIGATION or EVIDENCE COLLECTION skill check.",
+    "dialogue": "Mulder: \"Is that a watch?\"\nScully: \"Yeah.\"Mulder: \"What does it read?\nScully: \"Eight-oh-one.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0112v1",
+    "title": "Faith Departure",
+    "cost": "6 CP",
+    "episode": "Amor Fati",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien investigation",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Subtract 4 from one Team's ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check.",
+    "dialogue": "\"There are more worlds than the one you can hold in your hand.\" - Albert Hosteen",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0113v1",
+    "title": "Scripted Fate",
+    "cost": "4 CP",
+    "episode": "Milagro",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Write down the question you think your opponent will ask if successfully investigates this Site. Place this card on your opponent's Field with the paper underneath. If your opponent asks that question, you are not forced to answer it. Otherwise, add 2 [CP] to your [CP] pool. Discard this card afterwards.",
+    "dialogue": "Scully: \"How is it you think you know me so well, Mr. Padgett?\" Phillip Padgett: \"I'm writing about you.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0114v1",
+    "title": "Blevins' Inquiry",
+    "cost": "4 CP",
+    "episode": "Redux",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Conspiracy",
+      "Government",
+      "Move"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Skeptic"
+    ],
+    "gameText": "Force one Agent with the Keyword SKEPTIC (your choice) to go back to the Bureau immediately. The Agent may not contribute to any skill checks this turn.",
+    "dialogue": "Blevins: \"Agent Scully. Please have a seat.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0115v1",
+    "title": "Fateful Omen",
+    "cost": "4 CP",
+    "episode": "Clyde Bruckman's Final Repose",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Remove from play any Agent in the Field with the Keyword FBI. The Agent may not contribute their skills to any check this turn. Move the Agent to the Field during the next Briefing Phase.",
+    "dialogue": "\"This card's not meant for me. It's yours.\" - Puppet",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0116v1",
+    "title": "Inexplicable Mind Vibes",
+    "cost": "4 CP",
+    "episode": "The Sixth Extinction",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Conspiracy",
+      "Alien Manipulation",
+      "Move"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Agent",
+      "Believer"
+    ],
+    "gameText": "Move one Agent with the Keyword BELIEVER (your choice) to the Hospital immediately (undamaged). The Agent may not contribute to any skill checks this turn.",
+    "dialogue": "\"They are coming.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0117v1",
+    "title": "Unearthly exposure",
+    "cost": "6 CP",
+    "episode": "Tunguska",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien Manipulation",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Place this card on any Agent in the Field investigating a Site with two tokens on it. The Agent is removed from play. Remove one token during each of the controlling player's Healing Phases. When no tokens remain, move the Agent to the Field.",
+    "dialogue": "Prisoner: \"I will die in an experiment when there is no longer any use for me.\" Mulder: \"What kind of experiment?",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0118v1",
+    "title": "Restricted Access Notice",
+    "cost": "5 CP",
+    "episode": "Rush",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Observation",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an OBSERVATION 4+ skill check. If they fail they cannot complete their investigation this turn. Attach this card to the Site until it is investigated or negated. Then, discard this card.",
+    "dialogue": "\"As of an hour ago, they pumped concrete into the cave. Sealed it for precautionary reasons.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0119v1",
+    "title": "Die Wahrheit ist irgendwo da draußen",
+    "cost": "5 CP",
+    "episode": "Triangle",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Subterfuge",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an SUBTERFUGE 4+ skill check. If they fail they cannot complete their investigation this turn. Attach this card to the Site until it is investigated or negated. Then, discard this card.",
+    "dialogue": "Mulder: \"This ship's been caught in something called the devil's triangle. It's some kind of time warp. A rift in space.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0120v1",
+    "title": "Files in Flames",
+    "cost": "12 CP",
+    "episode": "The End",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
+    "dialogue": "\"This was all estrategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0124v1",
     "title": "Agent Hedin",
     "cost": "2 RP",
@@ -1709,7 +2498,7 @@
       "Active"
     ],
     "gameText": "Adds 1 [RP] to your pool every time a Keyword BEHAVIORAL or OCCULT INVESTIGATION card is played",
-    "dialogue": "\"The evil that is here has always been. It has gone by different names through history -Cain, Lucifer, Hitler. It does not care if it kills one boy or a million men. If you try to stop us, the blood will be on your hands.\" - Head Calusari",
+    "dialogue": "\"The evil that is here has always been. It has gone by different names through history - Cain, Lucifer, Hitler. It does not care if it kills one boy or a million men. If you try to stop us, the blood will be on your hands.\" - Head Calusari",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -1926,8 +2715,8 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Put this card in the Field. You can avoid an attack of an Adversary played by your opponent by placing it under this card. It will attack on the next Site you play ignoring any activators. Discard this card afterwards.",
-    "dialogue": "\"I told her it was going to be a nice trip to the forest.\" -Mulder",
+    "gameText": "Place this card in the Field. You can avoid an attack of an Adversary played by your opponent by placing it under this card. It will attack on the next Site you play ignoring any activators. Discard this card afterwards.",
+    "dialogue": "\"I told her it was going to be a nice trip to the forest.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -2087,7 +2876,7 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's EVIDENCE COLLECTION skill. Additionally, you can discard this card to add two to the Agent's CRIMINAL INVESTIGATION skill.",
-    "dialogue": "\"Okay. 6:01 p.m., February 24. Agents Scully and Mulder in the former home of David and Nancy Kline who disappeared without a trace last July.\" -Scully",
+    "dialogue": "\"Okay. 6:01 p.m., February 24. Agents Scully and Mulder in the former home of David and Nancy Kline who disappeared without a trace last July.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -3248,7 +4037,7 @@
       "Conspiracy",
       "Affiliation Site"
     ],
-    "gameText": "This card does not initiate combat. Put this card face up in your opponent's Bureau deck and reshuffle the deck. When this card reaches the top of the deck, your opponent's turn as Active player ends immediately. This card has no effect if it reaches the top of the deck during your opponent's turn as Directed player.",
+    "gameText": "This card does not initiate combat. Place this card face up in your opponent's Bureau deck and reshuffle the deck. When this card reaches the top of the deck, your opponent's turn as Active player ends immediately. This card has no effect if it reaches the top of the deck during your opponent's turn as Directed player.",
     "dialogue": "\"I wish for peace on earth.\" - Mulder",
     "skills": {
       "Long Range Combat": "N/A",
