@@ -422,7 +422,7 @@
   {
     "id": "XF08-0024v1",
     "title": "Elusive Fugitive",
-    "cost": "2 CP/RP",
+    "cost": "2 *P",
     "episode": "I want to Believe",
     "type": "Combat",
     "keywords": [
@@ -442,7 +442,7 @@
   {
     "id": "XF08-0025v1",
     "title": "Smoke Grenade",
-    "cost": "2 CP/RP",
+    "cost": "2 *P",
     "episode": "John Doe",
     "type": "Combat",
     "keywords": [
@@ -460,7 +460,7 @@
   {
     "id": "XF08-0026v1",
     "title": "Tossing Maneuver",
-    "cost": "1 CP/RP",
+    "cost": "1 *P",
     "episode": "The Truth",
     "type": "Combat",
     "keywords": [
@@ -741,7 +741,7 @@
       "Site"
     ],
     "gameText": "Play this card to provide the keywords necessary to play any one Keyword PAWN Adversary.",
-    "dialogue": "Mulder: \"Is that what this substance is?\"\nScully: \"Well, it appears to be crystalline, but beyond that…?\"",
+    "dialogue": "\"Who? Who's gunnin' for me?\" - Charles Wesley Gotts",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -876,7 +876,7 @@
   {
     "id": "XF08-0101v1",
     "title": "Persuasive Push",
-    "cost": "2 CP",
+    "cost": "6 CP",
     "episode": "Pusher",
     "type": "Bluff",
     "keywords": [
@@ -886,7 +886,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Choose an Agent on a Team already assigned to a Site. The chosen Agent contributes a negative skill value for that Site's prerequisites.",
+    "gameText": "Choose an Agent on a Team already assigned to a Site. The chosen Agent contributes a negative skill value for that Site's Prerequisites (e.g., a +1 becomes a -1).",
     "dialogue": "\"All right, where's my next bread crumb? \" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1224,7 +1224,7 @@
   {
     "id": "XF08-0118v1",
     "title": "Restricted Access Notice",
-    "cost": "5 CP",
+    "cost": "3 CP",
     "episode": "Rush",
     "type": "Bluff",
     "keywords": [
@@ -1236,7 +1236,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an OBSERVATION 4+ skill check. If they fail they cannot complete their investigation this turn. Attach this card to the Site until it is investigated or negated. Then, discard this card.",
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an OBSERVATION 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
     "dialogue": "\"As of an hour ago, they pumped concrete into the cave. Sealed it for precautionary reasons.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1245,7 +1245,7 @@
   {
     "id": "XF08-0119v1",
     "title": "Die Wahrheit ist irgendwo da draußen",
-    "cost": "5 CP",
+    "cost": "3 CP",
     "episode": "Triangle",
     "type": "Bluff",
     "keywords": [
@@ -1257,7 +1257,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an SUBTERFUGE 4+ skill check. If they fail they cannot complete their investigation this turn. Attach this card to the Site until it is investigated or negated. Then, discard this card.",
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an SUBTERFUGE 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
     "dialogue": "Mulder: \"This ship's been caught in something called the devil's triangle. It's some kind of time warp. A rift in space.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1271,14 +1271,15 @@
     "type": "Bluff",
     "keywords": [
       "Bluff",
-      "Government"
+      "Government",
+      "Secret"
     ],
     "activators": [
       "Conspiracy",
       "Site"
     ],
     "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
-    "dialogue": "\"This was all estrategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
+    "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
