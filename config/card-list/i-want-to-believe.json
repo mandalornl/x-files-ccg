@@ -788,7 +788,7 @@
   },
   {
     "id": "XF08-0097v1",
-    "title": "Biochip Cavity Implant",
+    "title": "Biochip Implant",
     "cost": "2 CP",
     "episode": "Nisei",
     "type": "Bluff",
@@ -1102,7 +1102,7 @@
     "type": "Bluff",
     "keywords": [
       "Bluff",
-      "Alien investigation",
+      "Alien Investigation",
       "Occult Investigation"
     ],
     "activators": [
@@ -2295,7 +2295,7 @@
     ],
     "activators": [
       "Active",
-      "Alien investigation",
+      "Alien Investigation",
       "Bureaucracy"
     ],
     "gameText": "Adds zero to one Team's BUREAUCRACY or ALIEN INVESTIGATION skill check. If this card is used in a successful Site investigation, the owning player may ask \"Is your X-File's Affiliation Alien?\" in addition to the Site question for zero cost.",
@@ -2860,7 +2860,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau Deck and select an Agent with a Cost of 3 or less and place it in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pay X upkeep or discard this card and the selected Agent. Ignore Agent's Game Effect.",
+    "gameText": "Search through your Bureau Deck and select an Agent with a Cost of 3 or less (X) and place it in the Bureau section. If this card is negated, remove it as well as the selected Agent from the game. During the Briefing Phase, pay X upkeep or discard this card and the selected Agent. Ignore Agent's Game Effect.",
     "dialogue": "\"Craig, it looks like we got some invited guests…\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -2897,7 +2897,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card during the Investigation Phase. If a Team of Agents you control fails the Site prerequisite skill check, you may recover up to two cards played on that Site from your Discard Pile (your choice), including Combat cards, but you cannot play them this turn again.",
+    "gameText": "Play this card during the Investigation Phase. If a Team of Agents you control fails the Site prerequisite skill check, you may recover up to two cards played on that Site from your Discard Pile (your choice), including Combat cards, but you cannot play them again this turn.",
     "dialogue": "\"The Smoking Man's dead.\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -3012,7 +3012,7 @@
     "type": "Event",
     "keywords": [
       "Event",
-      "Alien investigation",
+      "Alien Investigation",
       "Computer",
       "Resource"
     ],
@@ -3146,7 +3146,7 @@
     "type": "Event",
     "keywords": [
       "Event",
-      "Alien investigation",
+      "Alien Investigation",
       "Sciences",
       "Secret"
     ],
