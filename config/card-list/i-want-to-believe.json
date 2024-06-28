@@ -3219,6 +3219,521 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0214v1",
+    "title": "The Great Mutato",
+    "cost": "1 RP",
+    "episode": "The Post-Modern Prometheus",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card during the Case Assignment phase and place it in the Field. Discard this card to negate one ADVERSARY card played by your opponent this turn (or discard it in any case at the end of the Debriefing Phase).",
+    "dialogue": "\"The experiments he attempted were too advanced for his understanding. The results of his experiments – unsatisfactory.\" - The Great Mutato",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0215v1",
+    "title": "Trust_no1@mail.com",
+    "cost": "1 CP",
+    "episode": "Trust no 1",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Government"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Select one card from your Discard Pile with the Keyword CONSPIRACY and place it in your hand. You cannot use the card this turn.",
+    "dialogue": "\"If I see, or suspect that you're not working alone I will terminate our communication.\" - Shadow Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0216v1",
+    "title": "Dio Ti Ama",
+    "cost": "2 RP",
+    "episode": "Emily",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place this card in your field. The cost of all [RP] cards you play this turn is halved (rounded up). Discard this card at the end of this turn. Each player may only have one of this card in their deck.",
+    "dialogue": "Scully: \"She found me.\"\nMulder: \"So you could save her.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0217v1",
+    "title": "Finger's Distorted Hypnosis",
+    "cost": "2 CP",
+    "episode": "Jose Chung's From Outer Space",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Witness"
+    ],
+    "gameText": "Play on any Witness card just played to change one skill (and its Keyword) listed on that card to any other skill (your choice) until the end of this turn.",
+    "dialogue": "\"I'm surrounded by men. Some are in uniforms, some are in suits.\" - Chrissy Giorgio",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0218v1",
+    "title": "Finger's Hypnotic Recall",
+    "cost": "2 RP",
+    "episode": "Jose Chung's From Outer Space",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Witness"
+    ],
+    "gameText": "Play on any Witness card just played to change one skill (and its Keyword) listed on that card to any other skill (your choice) until the end of this turn.",
+    "dialogue": "\"You are feeling very sleepy, very relaxed As your body calmly drifts deeper and deeper into a state of peaceful relaxation…\" - Doctor Fingers",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0219v1",
+    "title": "Long-Range Combat Training",
+    "cost": "3 RP",
+    "episode": "Pusher",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Training"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal and in addition has a +2 in LRC skill. Place this card below the Agent to remind you of the increased skill.",
+    "dialogue": "\"Are we talking kung-fu movies, Mulder?\" -Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0220v1",
+    "title": "Tandem investigations",
+    "cost": "4 CP",
+    "episode": "Grotesque",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card when Agent Bill Patterson is about to use his Game Effect and only if Agent Nemhauser is in his same Team. Patterson's LRC and CRC skills are doubled during the Combat. Any opponents sent to the Hospital as a result of Patterson's LRC damage do not cause him any damage that round.",
+    "dialogue": "\"He bit me! The son of a bitch bit me like a dog!\" - Nemhauser",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0221v1",
+    "title": "Undercovered Broadcast",
+    "cost": "2 CP",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Put this card in your Bureau section. Add 1 [CP] to your [CP] pool for every Event card you play as Directed player.",
+    "dialogue": "\"I've been thinking about this whole situation, y'know? And I think you're right. I think we won this one, I think we should just move on.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0222v1",
+    "title": "Tracking the Trail",
+    "cost": "2 RP",
+    "episode": "E.B.E.",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Put this card in your Bureau section. Add 1 [RP] to your [RP] pool for every Event card you play as Active player.",
+    "dialogue": "\"They use this magnetic strip to track you, Whenever you go through a metal detector at an airport, they know exactly how much you're carrying.\" - Byers",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0223v1",
+    "title": "Life From Ashes",
+    "cost": "5 RP",
+    "episode": "Miracle Man",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Healing"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play this card to heal all damage done to an Agent only if their HEALTH is reduced to zero after a Combat. The Agent can still contribute with their skills to the Site skill check this turn.",
+    "dialogue": "\"I want you to rise. Rise up and heal!\" - Samuel",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0224v1",
+    "title": "Drowned Resources",
+    "cost": "4 *P",
+    "episode": "Born Again",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to discard all Keyword RESOURCE cards in play.",
+    "dialogue": "\"Do me a favor, Mulder. Let me say it. Reincarnation.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0225v1",
+    "title": "Fight Fire with Fire",
+    "cost": "2 RP",
+    "episode": "Fire",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card any time after Phoebe Green's game effect token has been removed. Place a new token on Green's card. Remove this card from the game.",
+    "dialogue": "\"One tends not to make the same mistake twice.\" - Phoebe Green",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0226v1",
+    "title": "Deceptive Visions",
+    "cost": "2 *P",
+    "episode": "Beyond the Sea",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "During this turn, you may change the BELIEVER, SKEPTIC, or NEUTRAL keyword of any one Agent in play to another of these keywords. If the Agent does not already have one of these keywords, you may add one of them to the Agent.",
+    "dialogue": "\"I tore this off my New York Knicks T-shirt. It has nothing to do with the crime.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0227v1",
+    "title": "Cocoon",
+    "cost": "2 *P",
+    "episode": "Tooms",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to return target Equipment card to the owner's hand.",
+    "dialogue": "Mulder: \"It's amazing how things change, isn't it?\"\nScully: \"The Caterpillar?\nMulder: \"No, a change for us. It's coming\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0228v1",
+    "title": "Covering Up Evidence",
+    "cost": "2 CP",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Resource"
+    ],
+    "gameText": "Play this card to return one Keyword RESOURCE card to the owner's hand.",
+    "dialogue": "\"They called me in tonight …and they said they're going to reassign us to other sections.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0229v1",
+    "title": "A Bit of Light",
+    "cost": "1 RP",
+    "episode": "Tooms",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on an Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any CRIMINAL INVESTIGATION Or BEHAVIORAL skill check.",
+    "dialogue": "\"It's here! Here!\" - Frank Briggs",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0230v1",
+    "title": "Last Dial Inquiry",
+    "cost": "1 *P",
+    "episode": "Faciphaga Emasculata",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Discard a card from your hand. Draw two cards during your next Briefing Phase. Ignore the effects of any card that prevents you from doing so.",
+    "dialogue": "\"I need to know the last call made from this booth.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0231v1",
+    "title": "Donnie's Deadly Game",
+    "cost": "2 CP",
+    "episode": "Irresistible",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "This card can only be played during the Case Assignment Phase to return a Site card played by your opponent back to their hand.",
+    "dialogue": "Satin: \"You want me to shampoo my hair?\"\nDonnie: \"I'm happy to pay extra, if that's something out of the ordinary.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0232v1",
+    "title": "Deep Throat's Demise",
+    "cost": "4 *P",
+    "episode": "The Erlenmeyer Flask",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to empty both player's pools ([RP] and [CP]).",
+    "dialogue": "\"You and Mulder are the only ones that can bring it to light.\" - Deep Throat",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0233v1",
+    "title": "FBI Recruit's from Quantico",
+    "cost": "4 RP",
+    "episode": "Daemonicus",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Once per turn you can pay 4 [RP] to recruit an FBI cadet Agent. Use a token to represent this Agent that can be used to join a Team using these skills: LRC: +2, CRC:+2 and HEALTH: 3. If this card is negated, the token remains. If the Agent is sent to the Hospital, remove it from play. Only one Agent token can be in play.",
+    "dialogue": "\"I'll see you Monday\" – Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0234v1",
+    "title": "Visions of Homicide",
+    "cost": "2 *P",
+    "episode": "Aubrey",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Phenomena"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to allow you to look the top five cards of your opponent's Bureau deck. You can perform this action at the beginning of your opponent's Briefing Phase.",
+    "dialogue": "\"Oh my god. I'm taking her to the hospital.\" - Brian Tillman",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0235v1",
+    "title": "Time Rush",
+    "cost": "2 *P",
+    "episode": "Død Kalm",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Phenomena",
+      "Resource"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Place this card in the Field. While this card is in play, at the beginning of the Debriefing phase, each player must draw one card from their Bureau Deck and then discard one card from their Bureau Deck into their discard pile. Afterward, both players must reduce their hand to seven cards, as usual.",
+    "dialogue": "\"Time acceleration is an equation, Mulder, a theory.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0236v1",
+    "title": "Voodoo Unleashed",
+    "cost": "2 RP",
+    "episode": "Fresh Bones",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Occult Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on one Team in the Field. If the Team makes an OCCULT INVESTIGATION skill check 5+, then they may add 2 to any Site skill check. Discard this card after you have used the Modifier.",
+    "dialogue": "\"Au nom des saints… et de la lune. Au nom des saints et des étoiles.\" - Colonel Wharton",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0237v1",
+    "title": "Ashen Whispers",
+    "cost": "1 RP",
+    "episode": "The Calusari",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Evidence Collection",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card on any Agent in a Team including Agent Charles Burk to use that Agent's COMPUTER skill number for any one EVIDENCE COLLECTION or OCCULT INVESTIGATION skill check.",
+    "dialogue": "\"It's called vibuti - holy ash. Technically, it's known as an apport - something that materializes out of thin air.\" - Charles Burk",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0238v1",
+    "title": "Witch Hunter",
+    "cost": "2 RP",
+    "episode": "Die Hand die Verletzt",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Search through your Bureau deck and play any one Witness card with the Keyword OCCULT INVESTIGATION half cost (round up). If you successfully investigate a Site with this Witness this turn, you may search for an Equipment card from your Bureau deck and add it to Your hand. Shuffle your Bureau deck afterwards.",
+    "dialogue": "\"Last checked out to a Dave Duran.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0239v1",
+    "title": "Letter from Samantha",
+    "cost": "5 RP",
+    "episode": "End Game",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card on a Team of Agents. If the Team makes an ALIEN INVESTIGATION Skill check 5+, look through any player's Bureau deck and remove any one card from the game. Shuffle that Bureau deck afterwards. You may only have one of this card in your Bureau Deck.",
+    "dialogue": "\"Your sis… Samantha left this at the house for you.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0240v1",
+    "title": "Bruckman's Foretelling",
+    "cost": "2 RP",
+    "episode": "Clyde Bruckman's Final Repose",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "During the Briefing Phase, place a token on Clyde Bruckman's card only once the starting token has been removed. This token is usable in the same way as the starting token. Remove this card from the game.",
+    "dialogue": "Mulder: \"How do you know where to go?\"\nBruckman: \"I just know.\"\nMulder: \"But how do you know?\"\nBruckman: \"I don't know!\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0289v1",
     "title": "The African Artifact",
     "cost": "5 RP",
