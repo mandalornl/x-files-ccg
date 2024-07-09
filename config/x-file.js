@@ -80,7 +80,7 @@ export const xFiles = [
       method: 'Violence',
       result: 'Abduction'
     },
-    'Faciphage Emasculata': {
+    'Faciphaga Emasculata': {
       affiliation: 'Government',
       motive: 'Knowledge',
       method: 'Manipulation',
