@@ -3734,6 +3734,526 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0241v1",
+    "title": "Eluding the Oubliette",
+    "cost": "3X RP",
+    "episode": "Oubliette",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Bluff"
+    ],
+    "gameText": "Play this card to remove one token, for each 3 spent on it, from any Bluff card that forces any Agent to remain in any section of the game (or removed from the game).",
+    "dialogue": "\"Who are you? What do you want? Why are you doing this? Please… I want to go home.\" - Amy",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0242v1",
+    "title": "Electro-Chemical Link",
+    "cost": "3 RP",
+    "episode": "War of the Coprophagues",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Criminal Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Put three tokens on this card and choose one Agent. Attach the card to the chosen Agent. During each Briefing phase, you can remove one token to add two to that Agent's RES value. When all the tokens are removed, discard this card.",
+    "dialogue": "\"Everything about insects is fascinating. They are truly remarkable creatures. So beautiful, and so honest.\" - Bambi Berembaum",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0243v1",
+    "title": "Astral Alignment Anomaly",
+    "cost": "4 *P",
+    "episode": "Syzygy",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Agent",
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Attach this card to any Agent when a Game Effect token is being removed. The token is removed from that Agent without effect. Remove all remaining tokens from that Agent. This Agent may not have any Game Effect tokens as long as this card is in play. This card may not be negated. Each player may only have one of this card in their deck.",
+    "dialogue": "White: \"Maybe we solve the mystery of the horny beast.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0244v1",
+    "title": "Krycek's Amputation",
+    "cost": "9 CP",
+    "episode": "Terma",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Killer",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in an ALIEN INVESTIGATION or BUREAUCRACY skill check. Krycek loses his right arm and all his skills are halved up. This card cannot be negated and remains attached to Krycek until the end of the game.",
+    "dialogue": "\"I'm sorry.. Nyet! I am American…. and I've been falsely accused of spying.\" - Alex Krycek",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0245v1",
+    "title": "Elusive informant",
+    "cost": "4 *P",
+    "episode": "Terma",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Alien Investigation",
+      "Bureaucracy"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to add or decrease by two any Team's BUREAUCRACY or ALIEN INVESTIGATION skill check.",
+    "dialogue": "\"U.S. Government knew about the Black Cancer. They lied. Didn't have no cure… no inoculation… I think we'll quit right there. I got nothing more to say.\" - Terry E. Mayhew",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0246v1",
+    "title": "Premonitory Nightmare",
+    "cost": "2 RP",
+    "episode": "Paper Hearts",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Criminal Investigation",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card during the Briefing Phase. Place the card in the Field. During the Site investigation phase you may discard this card to add 2 to a Site skill check on any Team containing an Agent with the Keyword BELIEVER. Remove the card in any case at the end of your turn.",
+    "dialogue": "\"You're saying that you're out here because of something you saw in a dream?\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0247v1",
+    "title": "Whispers of Hearts",
+    "cost": "1 RP",
+    "episode": "Paper Hearts",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Behavioral",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one BEHAVIORAL or CRIMINAL INVESTIGATION skill check.",
+    "dialogue": "\"She was strangled. He used an eight-gauge electrical cord. He took something from the body post-mortem… a trophy. A piece of fabric cut from her clothes… in the shape of a heart.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0248v1",
+    "title": "Sacrificing Blast",
+    "cost": "4 CP",
+    "episode": "Fight the Future",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place this card on any opponent's Field with two tokens on it. Each time this opponent plays a RP card, they must discard one card from their hand (opponent's choice). Remove a token during your opponent's Briefing phase. When all tokens have been removed, discard this card.",
+    "dialogue": "Scully: \"Mulder, get in the car, there's no time!\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0249v1",
+    "title": "FBI Reinforcement",
+    "cost": "1 RP",
+    "episode": "Teliko",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play this card during the Briefing phase to select any Agent card from any player's Discard Pile and play it for half cost (rounded up). The chosen Agent cannot be similar to any of your Agents already in play, you must ignore the Game Effect and you must discard it at the end of this turn.",
+    "dialogue": "Pendrell: \"Shouldn't we wait for Agent Scully? Just so I won't have to repeat myself.\"\nMulder: \"She's not coming. She's got a date.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0250v1",
+    "title": "Doppelganger Agent",
+    "cost": "4 CP",
+    "episode": "Small Potatoes",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Agent"
+    ],
+    "gameText": "Play this card at the beginning of the Briefing phase. Remove target Agent from play (Equipment and tokens included) and replace it with this card, representing a doppelganger with all skills reduced by one. Owner may use the Agent normally. At the end of the turn, discard this card and return the original Agent.",
+    "dialogue": "\"Who called the cops?\" - Eddie Van Blundht",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0251v1",
+    "title": "X's Demise Struggle",
+    "cost": "4 CP",
+    "episode": "Herrenvolk",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Resource"
+    ],
+    "gameText": "Place this card on your opponent's side. While this card is in play, your opponent cannot use cards nor Agent's Game Effects that allow them to draw cards (or search for cards) from the Bureau deck or from the Discard Pile. During your Briefing phase pay 1 CP or discard this card.",
+    "dialogue": "\"I was warned by a man we both know… who I believe knows the truth…\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0252v1",
+    "title": "Home Call",
+    "cost": "3 RP",
+    "episode": "Brand X",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Search through your Bureau deck for any one Site card with Keyword RESULT. Show the card to your opponent and add it to your hand. Shuffle your Bureau deck.",
+    "dialogue": "\"I'm Assistant Director Walter Skinner with the FBI. May we come in?.\" - Skinner",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0253v1",
+    "title": "Tempus Fugit",
+    "cost": "4 CP",
+    "episode": "Max",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card during the Briefing phase to force any opponent to skip the next Healing, Requisition and Deployment phases and go directly to the Case Assignment phase. Remove this card from the game. The effects of this card may not be negated.",
+    "dialogue": "Mike Millar: \"You're saying the man sitting in seat thirteen-F was abducted mid-flight without any depressurization of the cabin, without any effect on the plane…\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0254v1",
+    "title": "Christmas Retreat",
+    "cost": "3 RP",
+    "episode": "Christmas Carol",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Healing"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "You may take a second purchase of cards after your first one (during the Briefing Phase). Then, go directly to the Case Assignment phase. Remove this card from the game. The effects of this card cannot be negated.",
+    "dialogue": "Melissa Scully: \"You don't know who you're going to meet when you join the FBI. You don't know how your life is going to change or how you're going to change the life of others…\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0255v1",
+    "title": "Identity Swap",
+    "cost": "3 RP",
+    "episode": "Dreamland I",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card at the beginning of the Briefing phase. You may exchange one of your Agents with any Agent controlled by your oponent, with the same or lower cost and in the same section of the table (including tokens and attached cards). Both players may use their new Agents as usual, except for their Game Effect. At the end of this turn exchange the Agents again in their final locations (sections).",
+    "dialogue": "Mulder: \"Scully! He's not me!\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0256v1",
+    "title": "Agents' Recharge",
+    "cost": "2 RP",
+    "episode": "Hollywood AD",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Healing"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card at the beginning of the Case Assignment or the Investigation phases to get an additional Healing phase this turn. After that extra phase, go directly to the Debriefing phase. Remove this card from the game.",
+    "dialogue": "\"I'm taking a bubble bath.\" - Skinner",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0257v1",
+    "title": "Momentary Connection",
+    "cost": "3 RP",
+    "episode": "Fight the Future",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card on a Team including Agent Fox Mulder and Agent Dana Scully. Choose one of these Agents to use one of the other Agent's skills during a single skill check decreased by one (i.e. Scully could use Mulder's ALIEN INVESTIGATION skill as 3). You can only have one of this card in your Bureau deck.",
+    "dialogue": "\"Ow! Something stung me.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0258v1",
+    "title": "Double Agent",
+    "cost": "2 *P",
+    "episode": "Two Fathers",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card at the end of the Briefing phase to move any number of tokens from your [RP] pool to your [CP] pool or vice versa. Each player may only have one of this card in their deck. Remove this card from the game.",
+    "dialogue": "\"Keeping Fox Mulder down is not a job. It's your dirty work!\" - Spender",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0259v1",
+    "title": "The Devil's Choice",
+    "cost": "2 *P",
+    "episode": "All Souls",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Discard the top card from both players' Bureau decks. If your card has higher cost than your opponent's, you may add 8 tokens to your [RP] pool (if you are the active player) or to the [CP] pool (if you are the Directed player). If your card has lower cost, empty both of your pools.",
+    "dialogue": "\"Is this what you saw? It's a Seraphim. An angel, with four faces. Those of a man, a lion, an eagle, and a bull.\" - Father McCue",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0260v1",
+    "title": "Hope vs Selfishness",
+    "cost": "4 *P",
+    "episode": "Fight the Future",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Pay X [CP] to remove X [RP] from your opponent's pool immediately, or vice versa.",
+    "dialogue": "\"Find Agent Scully. Only then will you realize the scope and grandeur of the project. Go. Go now!\" - Well-manicured Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0261v1",
+    "title": "Deep Throat",
+    "cost": "5 RP",
+    "episode": "Musings of a Cigarette Smoking Man",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Ask any one Characteristic question regarding one opponent's X-File. Remove this card from the game. The effects of this card may not be negated.",
+    "dialogue": "\"You've seen things that weren't to be seen. Care and discretion, are now imperative.\" - Deep Throat",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0262v1",
+    "title": "X",
+    "cost": "3 RP",
+    "episode": "Wetwired",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Adversary"
+    ],
+    "gameText": "Negate any one Keyword ADVERSARY card.",
+    "dialogue": "\"You failed. This is your success? Killing me? The truth is… you need me, Agent Mulder.\" - X",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0263v1",
+    "title": "No One so Paranoid",
+    "cost": "5 RP",
+    "episode": "Jump the Shark",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to gain one of the following: Adds +1 to Computer skill, negates one Event, or discard one Bluff card from a site.",
+    "dialogue": "Byers: \"Both of you relax!\"\nLangly: \"Shut up, ya narc!\"\nFrohike: \"It's your fault we're here.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0264v1",
+    "title": "Shared Secrets",
+    "cost": "2 RP",
+    "episode": "One Son",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card any time after Diana Fowley's successfully investigates a Site with ALIEN INVESTIGATION skill in the same Team as Agent Fox Mulder. Place 3 additional tokens on Mulder's card. Remove this card from the game.",
+    "dialogue": "\"That's where it all begins. That's where we need to be if we want to survive it.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0265v1",
+    "title": "Edge of the Unknown",
+    "cost": "4 RP",
+    "episode": "Fight the Future",
+    "type": "Event",
+    "keywords": [
+      "Artifact",
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Place this card next to your X-File. You may draw one card for free in each of your opponents' Briefing Phases. You may only have one of this card in play.",
+    "dialogue": "Mulder: \"Scully, ya gotta see this! Scully!\"\nScully: \"I see it.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0266v1",
+    "title": "Alien DNA Drain",
+    "cost": "0 *P",
+    "episode": "One Son",
+    "type": "Event",
+    "keywords": [
+      "Artifact",
+      "Event¡"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "You may discard any number of cards from your hand to force your opponent to discard the same cards from their hand (opponent's choice).",
+    "dialogue": "\"You see, the alien fetus would give us the alien genome… the DNA with which we could make a human hybrid. A new race, Agent Mulder.\" - The Cigarette Smoking Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0267v1",
+    "title": "Healing Regurgitation",
+    "cost": "X RP",
+    "episode": "The Gift",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Healing",
+      "Killer"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to recover an Agent that was killed and removed from play, where X is the cost of that Agent. Remove this card from the game. Each player may have only one of this card in their deck.",
+    "dialogue": "\"The doctor says Mrs. Hangemuhl's kidneys have spontaneously healed. She's a healthy woman.\" - Doggett",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0289v1",
     "title": "The African Artifact",
     "cost": "5 RP",
