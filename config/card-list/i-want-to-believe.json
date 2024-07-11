@@ -2794,9 +2794,9 @@
     "skills": {
       "Computer": 1,
       "Evidence Collection": 1,
-      "Long Range Combat": 1,
+      "Long Range Combat": 2,
       "Close Range Combat": 1,
-      "Health": 3,
+      "Health": 4,
       "Resources": 0
     },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
@@ -4565,8 +4565,8 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play on Agent Krycek when he is in the Field and is involved in an ALIEN INVESTIGATION or BUREAUCRACY skill check. Krycek loses his right arm and all his skills are halved up. This card cannot be negated and remains attached to Krycek until the end of the game.",
-    "dialogue": "\"I'm sorry.. Nyet! I am American…. and I've been falsely accused of spying.\" - Alex Krycek",
+    "gameText": "Play on Agent Krycek when he is in the Field and is involved in an ALIEN INVESTIGATION or BUREAUCRACY skill check. Krycek loses his right arm and all his skills are halved (rounded up). This card cannot be negated and remains attached to Krycek until the end of the game.",
+    "dialogue": "\"I'm sorry…Nyet! I am American…and I've been falsely accused of spying.\" - Alex Krycek",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -5406,7 +5406,7 @@
   },
   {
     "id": "XF08-0309v1",
-    "title": "Head X-Ray Special",
+    "title": "Head X-Ray Plate",
     "cost": "3 RP",
     "episode": "The Blessing Way",
     "type": "Equipment",
