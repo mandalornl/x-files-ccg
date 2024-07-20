@@ -823,7 +823,7 @@
   },
   {
     "id": "XF08-0044v1",
-    "title": "1501, Larkspur Lamein, Maryland",
+    "title": "1501, Larkspur Lame, Maryland",
     "cost": "2 RP",
     "episode": "How the Ghosts stole Christmas",
     "type": "Site",
@@ -1690,7 +1690,7 @@
   {
     "id": "XF08-0101v1",
     "title": "Persuasive Push",
-    "cost": "6 CP",
+    "cost": "4 CP",
     "episode": "Pusher",
     "type": "Bluff",
     "keywords": [
@@ -1700,8 +1700,8 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Choose an Agent on a Team already assigned to a Site. The chosen Agent contributes a negative skill value for that Site's Prerequisites (e.g., a +1 becomes a -1).",
-    "dialogue": "\"All right, where's my next bread crumb? \" - Mulder",
+    "gameText": "Choose an Agent on a Team already assigned to a Site. The chosen Agent contributes a skill value of zero for the Site Prerequisites.",
+    "dialogue": "\"All right, where's my next bread crumb?\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -2071,7 +2071,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an SUBTERFUGE 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make a SUBTERFUGE 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
     "dialogue": "Mulder: \"This ship's been caught in something called the devil's triangle. It's some kind of time warp. A rift in space.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -3762,7 +3762,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Play this card during the Investigation phase, before any Combat has taken place, to search your Bureau Deck for any one card with the keyword COMBAT. Add the card to your hand and reveal it to your opponent. Shuffle your deck.",
+    "gameText": "Play this card during the Investigation phase (before any Combat has taken place) to search your Bureau Deck for any one card with the keyword COMBAT. Add the card to your hand and reveal it to your opponent. Shuffle your Bureau deck. If the card is playable this turn, you can do it for zero cost.",
     "dialogue": "\"You're free to go, of course. The choice is still yours.\" - The Cigarette-Smoking Man",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -6535,7 +6535,7 @@
       "Conspiracy",
       "Witness"
     ],
-    "gameText": "Play this card on a Team in the Field that plays a Witness during the Investigation phase. The Witness card is discarded. Instead, that Witness joins the Temple of the Seven Stars and will attack one of the Agents in that Team only during an LRC round.",
+    "gameText": "Play this card on a Team in the Field that plays a Witness during the Investigation phase. The Witness card is discarded. Instead, that Witness joins the Temple of the Seven Stars and will attack one of the Agents in that Team (your choice) only during an LRC round.",
     "dialogue": "\"I knew you were coming. I've known for nine centuries. It was written in the Revelation of Jesus Christ....\" - Vernon Ephesian",
     "skills": {
       "Long Range Combat": 4,
