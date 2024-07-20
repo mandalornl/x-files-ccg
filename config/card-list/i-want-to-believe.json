@@ -1253,6 +1253,62 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0079v1",
+    "title": "Critical Countdown",
+    "cost": "4 CP",
+    "episode": "Nothing Important Happened Today (II)",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "If your opponent plays any card on this Site, it will automatically cause two points of damage to every Agent in a Team investigating the Site. If you play any card, empty your [CP] pool afterwards.",
+    "dialogue": "\"We got no time Dana. We'll find another way.\" - Agent Doggett",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0080v1",
+    "title": "Limited Choices",
+    "cost": "X CP",
+    "episode": "Fight the Future",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to cause the Investigating player to discard X number of cards (chosen randomly) from his hand. X = [CP] cost paid.",
+    "dialogue": "\"No one believes me. I'm an annoyance to my superiors, a joke to my peers. They call me Spooky. Spooky Mulder.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0081v1",
+    "title": "Too Close to the Truth",
+    "cost": "3 CP",
+    "episode": "Fight the Future",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to allow you to exchange [CP] Pools with your opponent.",
+    "dialogue": "\"Your aliens, Agent Mulder. Your little green men arrived here millions of years ago.\" - Well-Manicured Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0082v1",
     "title": "Linda Bowman",
     "cost": "3 CP",
@@ -2038,6 +2094,85 @@
     ],
     "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
     "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0121v1",
+    "title": "Cadet Rudolph Hayes",
+    "cost": "2 RP",
+    "episode": "Release",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Believer"
+    ],
+    "gameText": "Rudolph Hayes' CRIMINAL INVESTIGATION and OCCULT INVESTIGATION skills are increased by one if he and Agent John Doggett are on the same Team.",
+    "bio": "John Stuart Mimms, using the alias Rudolph Hayes, joined the FBI. He helped Agent John Doggett investigate his son's murder and the murders of two women. Mimms provided crucial information and was wrongly accused by A.D. Brad Follmer before proving his innocence.",
+    "skills": {
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Occult Investigation": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 2,
+      "Health": 3,
+      "Resources": 1
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0122v1",
+    "title": "Forensic Analyst John Amis",
+    "cost": "2 RP",
+    "episode": "The X-Files Game",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "gameText": "John Amis has direct access to the Field Office Crime Lab even without any piece of equipment attached.",
+    "bio": "John Amis worked as a forensic analyst at the King County Crime Lab. He helped his friend Craig Willmore, a Special Agent for the FBI Seattle field office, investigate the mystery of the Russian ship Tarakan, and was accidentally subjected to radiation poisoning.",
+    "skills": {
+      "Computer": 1,
+      "Criminal Investigation": 1,
+      "Medical": 1,
+      "Sciences": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 4,
+      "Resources": 0
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0123v1",
+    "title": "Executive Assistant Arlene",
+    "cost": "2 RP",
+    "episode": "S.R. 819",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "gameText": "Treat Arlene as RES 2 if she and Assistant Director Walter Skinner are both in the Bureau.",
+    "bio": "Arlene worked as an executive assistant for the FBI. She helped Assistant Director Walter Skinner and the FBI investigate various cases and incidents, and was present during significant events involving Agents Fox Mulder and Dana Scully.",
+    "skills": {
+      "Bureaucracy": 1,
+      "Computer": 1,
+      "Evidence Collection": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 0
+    },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -2860,6 +2995,34 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0153v1",
+    "title": "Agent Schoniger",
+    "cost": "5 RP",
+    "episode": "Closure",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Skeptic"
+    ],
+    "gameText": "Place a token on this card. Discard a token to move Agent Dana Scully from anywhere on the table to the Team Agent Schoniger is in. Scully may assist in any skill check made by the team. In this manner, Scully may assist on two Sites in one turn.",
+    "bio": "Agent Schoniger, with 30 years of FBI experience, assists Scully in analyzing Mulder's hypnosis tape about Samantha's abduction, attributing Mulder's memories to compensatory fantasy, and believes Samantha was likely killed in 1973.",
+    "skills": {
+      "Behavioral": 2,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 2,
+      "Observation": 2,
+      "Sciences": 3,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0154v1",
     "title": "Vicki Burdick",
     "cost": "4 RP",
@@ -3398,6 +3561,25 @@
     ],
     "gameText": "Play to change the Site Prerequisite to ALIEN INVESTIGATION 3+.",
     "dialogue": "\"I'm in a room… on a spaceship… surrounded by aliens.\" - Chrissy Giorgio",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0181v1",
+    "title": "Pam",
+    "cost": "3 RP",
+    "episode": "Monday",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Behavioral"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play to change the Site Prerequisite to BEHAVIORAL 3+",
+    "dialogue": "\"Usually, you walk right by. You'll pass a few minutes earlier a few minutes later-- little details, they change. But it always ends the same.\" - Pam",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -5008,6 +5190,373 @@
     "gameText": "Play this card to recover an Agent that was killed and removed from play, where X is the cost of that Agent. Remove this card from the game. Each player may have only one of this card in their deck.",
     "dialogue": "\"The doctor says Mrs. Hangemuhl's kidneys have spontaneously healed. She's a healthy woman.\" - Doggett",
     "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0268v1",
+    "title": "Unearthly Harvest",
+    "cost": "4 *P",
+    "episode": "The Red and the Black",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to exchange both pools ([RP] and [CP]) with your opponent.",
+    "dialogue": "\"They're … they're taking her. They're … oh, my God.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0269v1",
+    "title": "Apology is Policy",
+    "cost": "2 RP",
+    "episode": "Emily",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to change a negative skill check modifier to a positive one (e.g., a -1 becomes a +1).",
+    "dialogue": "Scully: \"Apology has become policy.\"\nMulder: \"I don't need an apology for the lies.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0270v1",
+    "title": "Cross-team Support",
+    "cost": "1 RP",
+    "episode": "Improbable",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to allow one Agent on a Team in the Field to add their skills to one skill check that is occurring in another Site in the Field being investigated by another Team. The Agent's skill is reduced by 1 (i.e., Skill: 2 becomes Skill: 1). LRC and CRC may not be added.",
+    "dialogue": "\"Monica? You're not gonna believe this. We found two more cases. Two more victims to add to this thing.\" - Doggett",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0271v1",
+    "title": "Deceive, Inveigle, Obfuscate",
+    "cost": "4 *P",
+    "episode": "Redux",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Criminal Investigation",
+      "Evidence Collection"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to add or decrease by two any Team's CRIMINAL INVESTIGATION or EVIDENCE COLLECTION skill check.",
+    "dialogue": "\"I've never underestimated Mulder. I still don't.\" - The Cigarette-Smoking Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0272v1",
+    "title": "We are not alone",
+    "cost": "1 *P",
+    "episode": "Providence",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "The next cards that you play on this site will have their cost increased by 1. Your opponents may not negate any of those cards this turn.",
+    "dialogue": "\"I knew why my life had been spared. That I was to deliver the message of these angels. These sons of god.\" - Zeke Josepho",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0273v1",
+    "title": "Agent Monica Reyes at Death's Door",
+    "cost": "9 CP",
+    "episode": "Audrey Pauley",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Occult",
+      "Killer"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "If your opponent includes Agent Monica Reyes in any skill check in the Field, the Agent is instantly killed and removed from the game. Your opponent may play the card Audrey Pauley to negate the effects of this card. Agent Monica Reyes takes no damage and Audrey Pauley is killed instead. Remove the Witness card from the game, whether it was already in play or not.",
+    "dialogue": "\"They all think you're dead\" – Audrey Pauley",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0274v1",
+    "title": "Frohike",
+    "cost": "3 RP",
+    "episode": "Jump the Shark",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Active",
+      "Event"
+    ],
+    "gameText": "This card will negate one Event card played on your Team.",
+    "dialogue": "Let me at him! I'll kill him!",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0275v1",
+    "title": "All lies lead to the Truth",
+    "cost": "4 RP",
+    "episode": "The Truth",
+    "type": "Event",
+    "keywords": [
+      "Government",
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Place this card in one of your opponents Fields. Your opponent must subtract 1 from the [CP] he generates each turn while this card is in his Field. Your opponent may pay 5 [CP] to force you to discard this card.",
+    "dialogue": "\"When I went to work for the FBI, I didn't know of my father's crimes. When I stood up to him, he shot me.\" - Jeffrey Spender",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0276v1",
+    "title": "The Lone Gunman",
+    "cost": "2 RP",
+    "episode": "Jump the Shark",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to search through your Bureau Deck and draw one Keyword ACTIVE card that increases an Agent or Team skill check during the Investigation phase. Add the card to your hand and reveal it to your opponent. Shuffle your deck.",
+    "dialogue": "\"And began publishing a… what shall I call it… rag, called \"The Lone Gunman.\"\" - Morris",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0277v1",
+    "title": "I Want to Believe",
+    "cost": "1 RP",
+    "episode": "Alpha",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Alien Investigation",
+      "Occult Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check.",
+    "dialogue": "Scully: \"Oh! This came for you.\"\nMulder: \"Thank you.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0278v1",
+    "title": "Everything dies",
+    "cost": "9 CP",
+    "episode": "Three Words",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Killer",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Place this card in the Field. As long as this card is in play, any Agent whose HEALTH value is reduced to zero is instantly killed and removed from the game. If any player loses all their Agents, that player loses the game.",
+    "dialogue": "\"I can't truly believe I'm really standing here.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0279v1",
+    "title": "Dead zone",
+    "cost": "1 CP",
+    "episode": "Providence",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Phenomena",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Place this card in one of your opponents Fields. While this card is in play, no Agent controlled by your opponent may add his skills to a skill check that is occurring in another Section of the table. Your opponent may pay 4 to force you to discard this card.",
+    "dialogue": "\"Before William was kidnapped, Byers was able to tuck a cell phone under the padding of the baby\" – Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0280v1",
+    "title": "E pur si muove",
+    "cost": "4 *P",
+    "episode": "Biogenesis",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Both players must discard their entire hands and draw seven cards from the top of their respective Bureau Decks.",
+    "dialogue": "\"From Space, it seems an abstraction --a magician's trick on a darkened stage. And from this distance one might never imagine that it is alive..\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0281v1",
+    "title": "Nothing Important Happened Today",
+    "cost": "2 CP",
+    "episode": "Nothing important happened today",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card to lower a CRIMINAL INVESTIGATION or EVIDENCE COLLECTION Site Prerequisite by 2.",
+    "dialogue": "\"Grab them Monica, we've got less than minute to get out of here.\" - Agent Doggett",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0282v1",
+    "title": "Believe to understand",
+    "cost": "4 CP",
+    "episode": "Biogenesis",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Alien"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team investigating a Site to make a ALIEN INVESTIGATION 4+ skill check or the current player's turn ends immediately.",
+    "dialogue": "\"The map to our human genetic makeup every gene on every chromosome -- proof of what I've been saying. If only we could find more pieces.\" - Doctor Sandoz",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0283v1",
+    "title": "Resist or serve",
+    "cost": "4 CP",
+    "episode": "Fight the Future",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Subterfuge"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Force an opponent Team investigating a Site to make a SUBTERFUGE 4+ skill check or the current player's turn ends immediately.",
+    "dialogue": "\"Talk to me, Scully! Sculllllllyyyyy! Dammit! Scully! Scully! Scully! Scully!\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0284v1",
+    "title": "In the Big Inning",
+    "cost": "0 RP",
+    "episode": "The Unnatural",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Alien Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card after a Team of Agents has successfully investigated a Site. If you receive a \"yes\" answer to the Characteristic question regarding your X-File, you may add 3 tokens to your pool.",
+    "dialogue": "\"…what you may find is you concentrate on hitting that little ball… The rest of the world just fades away-- all your everyday, nagging concerns.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0285v1",
+    "title": "The Truth",
+    "cost": "3 RP",
+    "episode": "The Truth",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Question"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play this card after having successfully investigated a Site to ask an X-File's identity without incurring a penalty question. Remove this card from the game.",
+    "dialogue": "Byers: \"Why risk perfect happiness, Mulder? Why risk your lives?\"\nMulder: \"Because I need to know the truth.\"\nByers: \"You already know the truth.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0286v1",
+    "title": "The End",
+    "cost": "4 CP",
+    "episode": "The End",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Question",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Place this card in your Field section immediately after answering \"no\" to a question about a characteristic of your X-File made by your opponent to force him to stop asking the same question about that characteristic of your X-File as long as the card is in play. You may only have one of this card in your deck.",
+    "dialogue": "\"We entrusted you. You failed.\" - Well-Manicured Man",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
   },
