@@ -2211,7 +2211,8 @@ export default {
       'Nick',
       'Franck',
       'Matt',
-      'Dave'
+      'Dave',
+      'Alfredo'
     ]
   }),
 
