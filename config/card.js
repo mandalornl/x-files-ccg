@@ -357,5 +357,6 @@ export const tags = [
   'Search',
   'Skip Long Range',
   'Split Damage',
-  'Unique'
+  'Unique',
+  'Voyager Promotions'
 ];
