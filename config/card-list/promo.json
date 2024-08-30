@@ -173,7 +173,10 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Exchange your X-File with ALIEN Affiliation with any X-File with GOVERNMENT Affiliation."
+    "gameText": "Exchange your X-File with ALIEN Affiliation with any X-File with GOVERNMENT Affiliation.",
+    "tags": [
+      "Voyager Promotions"
+    ]
   },
   {
     "title": "Infected That You Might Believe",
@@ -192,7 +195,10 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card and place it beneath one Agent to lower all of that Agent's skill levels by 1. This cannot result in a skill being negative or permanent Health being less than 1. When played on Agent Dana Scully, the conspiracy player may choose to force Scully to spend every other turn in the Hospital (if this option is chosen, Scully's skills are not reduced). This choice must be made when the card is played and cannot be changed later. Healing cards will negate this card."
+    "gameText": "Play this card and place it beneath one Agent to lower all of that Agent's skill levels by 1. This cannot result in a skill being negative or permanent Health being less than 1. When played on Agent Dana Scully, the conspiracy player may choose to force Scully to spend every other turn in the Hospital (if this option is chosen, Scully's skills are not reduced). This choice must be made when the card is played and cannot be changed later. Healing cards will negate this card.",
+    "tags": [
+      "Voyager Promotions"
+    ]
   },
   {
     "title": "A Final Choice",
@@ -213,7 +219,8 @@
     ],
     "gameText": "Play this card to immediately move one opposing Agent to the Hospital. Place this card beneath the Agent and place five tokens on the Agent (seven tokens if played on Agent Mulder). Remove a token during the Agent's Healing Phase. When all tokens have been removed, discard this card. The Agent may leave the Hospital when all tokens have been removed.",
     "tags": [
-      "Move"
+      "Move",
+      "Voyager Promotions"
     ]
   },
   {
@@ -232,7 +239,8 @@
     ],
     "gameText": "Once this card is played, only the Investigating player may play Events while investigating this Site, except for Events which would negate this card. Discard this card when the Site is discarded.",
     "tags": [
-      "Prevent"
+      "Prevent",
+      "Voyager Promotions"
     ]
   },
   {
@@ -349,7 +357,8 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and add one of the following cards to your hand: No One So Paranoid, The Lone Gunmen, Langly, Frohike, or Byers. If you play the chosen card immediately, you may do so for half Cost (round up).",
     "tags": [
-      "Search"
+      "Search",
+      "Voyager Promotions"
     ]
   },
   {
