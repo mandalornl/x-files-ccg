@@ -507,7 +507,7 @@
       "Subterfuge"
     ],
     "prerequisite": "SUBTERFUGE 4+",
-    "gameText": "You may ask one MOTIVE question",
+    "question": "You may ask one MOTIVE question.",
     "dialogue": "\"If Anything should happen to me, or if we become separated, you must meet me here: 1255 91st St. Richville, M.D.\" - Note to Fox Mulder from Samantha Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -526,7 +526,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
-    "gameText": "You may ask one MOTIVE question",
+    "question": "You may ask one MOTIVE question.",
     "dialogue": "\"The deaths follow a pattern. New Jersey, New York, Scranton, and then an ad is placed here in Binghamton looking for a man exactly like the others. The killer is moving in a northerly direction.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -545,7 +545,7 @@
       "Medical"
     ],
     "prerequisite": "MEDICAL 4+",
-    "gameText": "You may ask one METHOD question",
+    "question": "You may ask one METHOD question.",
     "dialogue": "\"To fit in with her brothers, Dana also shot a snake.\" - Margaret Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -567,7 +567,7 @@
       "Alien Investigation"
     ],
     "prerequisite": "OBSERVATION 4+ AND ALIEN INVESTIGATION 4+",
-    "gameText": "You may ask one METHOD question or RESULT or MOTIVE question",
+    "question": "You may ask one METHOD question or RESULT or MOTIVE question.",
     "dialogue": "Morgan: \"What the hell is that?\"\nMulder: \"Looks like the fuselage of a plane.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -586,7 +586,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
-    "gameText": "You may ask one AFFILIATION question",
+    "question": "You may ask one AFFILIATION question.",
     "dialogue": "\"The palms tell me all.\" - Madame Zelma",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -607,7 +607,7 @@
       "Alien Investigation"
     ],
     "prerequisite": "OBSERVATION 5+ or ALIEN INVESTIGATION 5+",
-    "gameText": "You may ask one MOTIVE question or a METHOD question",
+    "question": "You may ask one MOTIVE question or a METHOD question.",
     "dialogue": "\"Actually I'd rather know who sold you the secret.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -628,7 +628,7 @@
       "Alien Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ or ALIEN INVESTIGATION 5+",
-    "gameText": "You may ask one AFFILIATION question or a MOTIVE question",
+    "question": "You may ask one AFFILIATION question or a MOTIVE question.",
     "dialogue": "\"This place isn't even on the map. How'd you get here?\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -649,7 +649,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ or CRIMINAL INVESTIGATION 5+",
-    "gameText": "You may ask one AFFILIATION question or a METHOD question",
+    "question": "You may ask one AFFILIATION question or a METHOD question.",
     "dialogue": "\"Chickens feed on chickens?\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -668,7 +668,7 @@
       "Alien Investigation"
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
-    "gameText": "You may ask one METHOD question",
+    "question": "You may ask one METHOD question.",
     "dialogue": "\"All right, the number belongs to a company called Zeus Storage.\" - Pendrell",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -689,7 +689,7 @@
       "Subterfuge"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 5+ or SUBTERFUGE 5+",
-    "gameText": "You may ask one AFFILIATION question or a MOTIVE question",
+    "question": "You may ask one AFFILIATION question or a MOTIVE question.",
     "dialogue": "\"Roche drove a white El Camino, Scully. I saw it in my dream…\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -710,7 +710,7 @@
       "Subterfuge"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or SUBTERFUGE 5+",
-    "gameText": "You may ask one AFFILIATION question or a METHOD question",
+    "question": "You may ask one AFFILIATION question or a METHOD question.",
     "dialogue": "Mulder: \"June 30, 1908. Tungus tribesmen and Russian fur traders look up into the southeastern Siberian sky and see a fireball streaking to Earth. When it hit the atmosphere, it created a series of cataclysmic explosions that are considered to be the largest single cosmic event in the history of civilization. Two thousand times the force of the bomb that was dropped on Hiroshima.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -731,7 +731,7 @@
       "Evidence Collection"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
-    "gameText": "You may ask one AFFILIATION question or a METHOD question",
+    "question": "You may ask one AFFILIATION question or a METHOD question.",
     "dialogue": "Mulder: \"Excuse me, sir, Max Fenig?\"\nGardener: \"Over there.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -752,7 +752,7 @@
       "Subterfuge"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or SUBTERFUGE 5+",
-    "gameText": "You may ask one AFFILIATION question or a MOTIVE question",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
     "dialogue": "Scully: \"What I have concluded is that this man's head was held forcibly down in the Michigan mud just a little too long.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -773,7 +773,7 @@
       "Sciences"
     ],
     "prerequisite": "MEDICAL 5+ or SCIENCES 5+",
-    "gameText": "You may ask one AFFILIATION question or a MOTIVE question",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
     "dialogue": "Scully: \"Do you think I don't want what's best for this child? Do you think that I'm not trying to save her life?\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -794,7 +794,7 @@
       "Occult Investigation"
     ],
     "prerequisite": "OBSERVATION 5+ or OCCULT INVESTIGATION 5+",
-    "gameText": "You may ask one MOTIVE question or a METHOD question",
+    "question": "You may ask one MOTIVE question or one METHOD question.",
     "dialogue": "\"It's too late to help me. I can't help myself anymore.\" - Skur",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -815,7 +815,7 @@
       "Observation"
     ],
     "prerequisite": "MEDICAL 5+ or OBSERVATION 5+",
-    "gameText": "You may ask one MOTIVE question or a RESULT question",
+    "question": "You may ask one MOTIVE question or one RESULT question.",
     "dialogue": "Scully: \"The pathology of this thing… It affects the inner ear and this area right here is ground zero. What if what we're looking for is some kind of a sound?\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -834,7 +834,7 @@
       "Occult Investigation"
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
-    "gameText": "You may ask one METHOD question",
+    "question": "You may ask one METHOD question.",
     "dialogue": "Mulder: \"You don't believe in ghosts?\"\nScully: \"That surprises you?\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -855,7 +855,7 @@
       "Sciences"
     ],
     "prerequisite": "BEHAVIORAL 5+ or SCIENCES 5+",
-    "gameText": "You may ask one AFFILIATION question or a RESULT question",
+    "question": "You may ask one AFFILIATION question or one RESULT question.",
     "dialogue": "\"That repulsive physiognomy is the vilest perversion of science.\" - Pollidori",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -876,7 +876,7 @@
       "Observation"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION or OBSERVATION 5+",
-    "gameText": "You may ask one MOTIVE question or a METHOD question",
+    "question": "You may ask one MOTIVE question or one METHOD question.",
     "dialogue": "\"You can end this the right way.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -897,7 +897,7 @@
       "Observation"
     ],
     "prerequisite": "EVIDENCE COLLECTION or OBSERVATION 5+",
-    "gameText": "You may ask one AFFILIATION question or a MOTIVE question",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
     "dialogue": "\"So is this the American dream? This place?\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -918,7 +918,7 @@
       "Subterfuge"
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or SUBTERFUGE 5+",
-    "gameText": "You may ask one MOTIVE questionor one RESULT question. If you ask if the MOTIVE is \"Control\", the skill check prerequisite is 4+.",
+    "question": "You may ask one MOTIVE question or one RESULT question. If you ask if the MOTIVE is \"Control\", the skill check prerequisite is 4+.",
     "dialogue": "Scully: \"This isn't an X-File?\"\nMulder: \"Call it what you like. Here in Roanoke they're calling it a demon baby snatching.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -937,7 +937,7 @@
       "Computer"
     ],
     "prerequisite": "COMPUTER 4+",
-    "gameText": "You may ask one RESULT question",
+    "question": "You may ask one RESULT question.",
     "dialogue": "Langly: \"How do you kill something that won't die?\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -956,7 +956,7 @@
       "Computer"
     ],
     "prerequisite": "COMPUTER 4+",
-    "gameText": "You may ask one AFFILIATION question",
+    "question": "You may ask one AFFILIATION question.",
     "dialogue": "\"Yeah, I've found something down in Fairfax County. A derelict chicken farm with a T3 connection, paid for by Aleph Industries, Palo Alto, of which there's no other record anywhere.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -977,7 +977,7 @@
       "Sciences"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or SCIENCES 5+",
-    "gameText": "You may ask one AFFILIATION question or a RESULT question",
+    "question": "You may ask one AFFILIATION question or one RESULT question.",
     "dialogue": "\"He's seen more than he should have.\" - The Cigarette Smoking Man",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -998,7 +998,7 @@
       "Medical"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or MEDICAL 5+",
-    "gameText": "You may ask one METHOD question or a RESULT question",
+    "question": "You may ask one METHOD question or one RESULT question.",
     "dialogue": "\"I, too, am a professor of biology at the university but, uh, hardly one qualified to say what must have gone on here.\" - Amina Ngebe",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1019,7 +1019,7 @@
       "Subterfuge"
     ],
     "prerequisite": "SCIENCES 5+ or SUBTERFUGE 5+",
-    "gameText": "You may ask one AFFILIATION question or a RESULT question",
+    "question": "You may ask one AFFILIATION question or one RESULT question.",
     "dialogue": "Scully: \"What'd you expect them to find, Mulder?\"\nMulder: \"I don't know. A vortex, like the one in Oregon. Gravitational aberrations, unique chemical compositions, uh, relics that would indicate that the cave was a sacred site.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1041,7 +1041,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ and CRIMINAL INVESTIGATION 5+",
-    "gameText": "You may ask one MOTIVE, one METHOD, or one RESULT question.",
+    "question": "You may ask one MOTIVE, one METHOD or one RESULT question.",
     "dialogue": "\"Bosco's passes with the cups and balls. Wah-day… Chubio… Colerader. Three gone… And yet, three return.\" - Maleeni",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1062,7 +1062,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or CRIMINAL INVESTIGATION 5+",
-    "gameText": "You may ask one MOTIVE question or a RESULT question",
+    "question": "You may ask one MOTIVE question or one RESULT question.",
     "dialogue": "\"That has radioactive properties and can take over a man's body. And it's part of an alien conspiracy to colonise the planet, if I'm not mistaken.\" - Doggett",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1083,7 +1083,7 @@
       "Bureaucracy"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
-    "gameText": "You may ask one METHOD question or one AFFILIATION question. Prerequisites of this card may not be changed by any card.",
+    "question": "You may ask one METHOD question or one AFFILIATION question. Prerequisites of this card may not be changed by any card.",
     "dialogue": "\"Would you defend a man who believes in aliens against the FBI and the military? \" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1104,7 +1104,7 @@
       "Occult Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ or OCCULT INVESTIGATION 5+",
-    "gameText": "You may ask one AFFILIATION or one METHOD question",
+    "question": "You may ask one AFFILIATION or one METHOD question.",
     "dialogue": "\"I always said there's three kinds of people in the world: Them who make things happen, them who watch things happen and them who wonder what happened. I made things happen.\" - Terrance Pruit",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1126,7 +1126,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ and CRIMINAL INVESTIGATION 5+",
-    "gameText": "You may ask one METHOD, one RESULT, or one MOTIVE question",
+    "question": "You may ask one METHOD, one RESULT, or one MOTIVE question.",
     "dialogue": "\"Keep it straight! \nCome on, straight.\" - Mosley Drummy",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1148,7 +1148,7 @@
       "Subterfuge"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 5+ and SUBTERFUGE 5+",
-    "gameText": "You may ask one AFFILIATION, one MOTIVE or one RESULT question",
+    "question": "You may ask one AFFILIATION, one MOTIVE, or one RESULT question.",
     "dialogue": "\"Hey, guard! Come here! Andale! Hey, guard! Somebody come here!\" - Doggett",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1170,7 +1170,7 @@
       "Occult Investigation"
     ],
     "prerequisite": "MEDICAL 5+ or OCCULT INVESTIGATION 5+",
-    "gameText": "You may ask one MOTIVE question or a RESULT question",
+    "question": "You may ask one MOTIVE question or one RESULT question.",
     "dialogue": "\"She's not gone. Not her soul.\" - A. Pauley",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1188,7 +1188,7 @@
       "Resource"
     ],
     "prerequisite": "Special Equipment required or discard a Witness card from your hand.",
-    "gameText": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
+    "question": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
     "dialogue": "\"It's industrial-grade lead, used for weighing scuba divers and lining X-ray vests.\" - John Amis",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1206,7 +1206,7 @@
       "Resource"
     ],
     "prerequisite": "Special Equipment required or discard a Witness card from your hand.",
-    "gameText": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
+    "question": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
     "dialogue": "\"It's your sister. We just pulled her body out of the river.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1224,7 +1224,7 @@
       "Resource"
     ],
     "prerequisite": "Special Equipment required or discard a Witness card from your hand.",
-    "gameText": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
+    "question": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
     "dialogue": "\"Agent Mulder, Scully. They killed a US Marshal and then shot Agent Fowley.\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1246,8 +1246,149 @@
       "Subterfuge"
     ],
     "prerequisite": "BEHAVIORAL 5+ or SUBTERFUGE 5+",
-    "gameText": "You may ask one METHOD or one RESULT question, Witness cards played on this Site cannot be negated.",
+    "question": "You may ask one METHOD or one RESULT question. Witness cards played on this Site cannot be negated.",
     "dialogue": "\"She was waving it under our nose, she was playing with us. Modell told me, he warned me not to play the game. I think it was her game he was talking about.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0065v1",
+    "title": "Area 51, Groom Lake, NV",
+    "cost": "1 RP",
+    "episode": "Dreamland (I)",
+    "type": "Site",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Affiliation",
+      "Method",
+      "Alien Investigation",
+      "Bureaucracy"
+    ],
+    "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
+    "question": "You may ask one AFFILIATION or one METHOD question.",
+    "dialogue": "\"Some whistle-blower working inside the so-called Area 51. Said he had some \"big deal\" information. I got to tell you... The whole thing turned out to be just one gigantic mistake on our part.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0066v1",
+    "title": "Kroner, Kansas",
+    "cost": "2 RP",
+    "episode": "The Rain King",
+    "type": "Site",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Result",
+      "Occult Investigation"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION 4+",
+    "question": "You may ask one RESULT question.",
+    "dialogue": "\"Well, this is not without historical precedent. The Old West was full of traveling men who claimed to be rainmakers. The Pueblo Indians even had a rain dance..\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0067v1",
+    "title": "Foster City, CA",
+    "cost": "1 RP",
+    "episode": "Theef",
+    "type": "Site",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Motive",
+      "Result",
+      "Occult Investigation",
+      "Sciences"
+    ],
+    "prerequisite": "OCCULT INVESTIGATION  5+, or SCIENCES  5+",
+    "question": "You may ask one MOTIVE or one RESULT question.",
+    "dialogue": "\"Mulder, that's what his autopsy shows. From the wound pattern to the blood spray... this man did it to himself, there's no question.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0074v1",
+    "title": "Covering the Killer",
+    "cost": "4 CP",
+    "episode": "Alpha",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card on a Team investigating a Site to increase that Site Prerequisite by two.",
+    "dialogue": "\"I protected you as long as I could. I won't any longer.\" - Karin Berquist",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0075v1",
+    "title": "Paralyzing Terror",
+    "cost": "3 CP",
+    "episode": "Folie à Deux",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "If the Team successfully investigates this Site, the Investigation phase ends immediately. Any other Site cards in play without Bluff cards attached must be discarded.",
+    "dialogue": "\"Relax! Stop struggling! Stop it!\" - Skinner",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0076v1",
+    "title": "Die Wahrheit ist irgendwo da draußen",
+    "cost": "3 CP",
+    "episode": "Triangle",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Subterfuge",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make a SUBTERFUGE 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
+    "dialogue": "Mulder: \"This ship's been caught in something called the devil's triangle. It's some kind of time warp. A rift in space.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0077v1",
+    "title": "Files in Flames",
+    "cost": "12 CP",
+    "episode": "The End",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Government",
+      "Secret"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
+    "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -2058,42 +2199,56 @@
   },
   {
     "id": "XF08-0119v1",
-    "title": "Die Wahrheit ist irgendwo da draußen",
-    "cost": "3 CP",
-    "episode": "Triangle",
-    "type": "Bluff",
+    "title": "Agent Rice",
+    "cost": "5 RP",
+    "episode": "Folie à Deux",
+    "type": "Agent",
     "keywords": [
-      "Bluff",
-      "Subterfuge",
-      "Resource"
+      "Agent",
+      "FBI",
+      "Law"
     ],
-    "activators": [
-      "Conspiracy",
-      "Site"
-    ],
-    "gameText": "Play this card to force an opponent Team currently investigating a Site to make a SUBTERFUGE 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
-    "dialogue": "Mulder: \"This ship's been caught in something called the devil's triangle. It's some kind of time warp. A rift in space.\"",
+    "gameText": "Place two tokens on Agent Rice. Any time during a Combat involving Agent Rice you may discard one token to search through your Bureau deck and add a Combat card to your hand. Show the card to your opponent and shuffle the deck.",
+    "bio": "Agent Rice led the SWAT response, coordinating with Scully during a hostage situation. Despite initial resistance, he contacted Mulder's captor, Gary Lambert, who demanded to broadcast a message, escalating the tense standoff.",
+    "skills": {
+      "Behavioral": 2,
+      "Bureaucracy": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 3,
+      "Subterfuge": 1,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
   },
   {
     "id": "XF08-0120v1",
-    "title": "Files in Flames",
-    "cost": "12 CP",
-    "episode": "The End",
-    "type": "Bluff",
+    "title": "Lieutenant Kraskow",
+    "cost": "4 RP",
+    "episode": "Monday",
+    "type": "Agent",
     "keywords": [
-      "Bluff",
-      "Government",
-      "Secret"
+      "Agent",
+      "Law",
+      "Neutral"
     ],
-    "activators": [
-      "Conspiracy",
-      "Site"
-    ],
-    "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
-    "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
+    "gameText": "Treat Lieutenant Kraskow's LRC skill as 4 if the number of agents in his Team is 4 or more.",
+    "bio": "Lieutenant Kraskow is a SWAT team leader managing the crime scene during a bank robbery. He collaborates with FBI Agent Skinner, who is seeking his trapped agents, Mulder and Scully.",
+    "skills": {
+      "Behavioral": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 1,
+      "Sciences": 2,
+      "Subterfuge": 2,
+      "Long Range Combat": 3,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -3580,6 +3735,25 @@
     ],
     "gameText": "Play to change the Site Prerequisite to BEHAVIORAL 3+",
     "dialogue": "\"Usually, you walk right by. You'll pass a few minutes earlier a few minutes later-- little details, they change. But it always ends the same.\" - Pam",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0182v1",
+    "title": "Arthur Dales",
+    "cost": "3 RP",
+    "episode": "Agua Mala",
+    "type": "Witness",
+    "keywords": [
+      "Witness",
+      "Criminal Investigation"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Play to change the Site Prerequisite to CRIMINAL INVESTIGATION 3+.",
+    "dialogue": "\"You don't have much time to get to the airport but if you're the X-Files man you say you are you better get your butt in gear.\" - Arthur Dales",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -7014,6 +7188,58 @@
       "Long Range Combat": "N/A",
       "Close Range Combat": "N/A",
       "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0352v1",
+    "title": "Lulu Pfeiffer",
+    "cost": "5 CP",
+    "episode": "Fight Club",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation Site"
+    ],
+    "gameText": "This You may search your Bureau deck for the \"Betty Templeton\" Adversary card and play it immediately, ignoring Activator requirements. If you do, both Adversaries attack simultaneously (treat as one Combat). Double both cards' CRC and HEALTH, and skip the LONG RANGE COMBAT round.",
+    "dialogue": "\"What are you doing here?\" - Lulu Pfeiffer",
+    "skills": {
+      "Long Range Combat": "0",
+      "Close Range Combat": "3",
+      "Health": "3"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0353v1",
+    "title": "Betty Templeton",
+    "cost": "5 CP",
+    "episode": "Fight Club",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site"
+    ],
+    "gameText": "This You may search your Bureau deck for the \"Lulu Pfeiffer\" Adversary card and play it immediately, ignoring Activator requirements. If you do, both Adversaries attack simultaneously (treat as one Combat). Double both cards' CRC and HEALTH, and skip the LONG RANGE COMBAT round.",
+    "dialogue": "\"What are you doing here?\" - Betty Templeton",
+    "skills": {
+      "Long Range Combat": "0",
+      "Close Range Combat": "3",
+      "Health": "3"
     },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
