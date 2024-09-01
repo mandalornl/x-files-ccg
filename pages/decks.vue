@@ -117,7 +117,7 @@
       </v-slide-x-reverse-transition>
     </v-row>
     <p v-else>
-      You have not yet build any decks.
+      You have not built any decks yet.
       <nuxt-link
         to="/cards"
         v-text="'Click here'"
