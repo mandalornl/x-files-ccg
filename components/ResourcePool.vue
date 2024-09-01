@@ -2,7 +2,7 @@
   <v-avatar
     :size="small ? 16 : 20"
     tile
-    color="light-blue"
+    color="blue"
     title="Resource Pool"
     class="rounded"
   >

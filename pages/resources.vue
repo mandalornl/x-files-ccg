@@ -28,7 +28,7 @@
           <resource-counter
             v-model="resource"
             rotate
-            color="light-blue"
+            color="blue"
           />
         </v-col>
       </v-row>
@@ -52,15 +52,21 @@
       </v-btn>
     </div>
     <v-row no-gutters>
-      <v-col>
+      <v-col
+        cols="12"
+        sm="6"
+      >
         <v-responsive aspect-ratio="1">
           <resource-counter
             v-model="resource"
-            color="light-blue"
+            color="blue"
           />
         </v-responsive>
       </v-col>
-      <v-col>
+      <v-col
+        cols="12"
+        sm="6"
+      >
         <v-responsive aspect-ratio="1">
           <resource-counter
             v-model="conspiracy"
