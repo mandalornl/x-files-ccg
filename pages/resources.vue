@@ -86,10 +86,18 @@ export default {
       try {
         if (value) {
           this.wakeLock = await navigator.wakeLock.request('screen');
+
+          if (!document.fullscreenElement) {
+            await document.documentElement.requestFullscreen();
+          }
         } else {
           await this.wakeLock.release();
 
           this.wakeLock = null;
+
+          if (document.fullscreenElement && document.exitFullscreen) {
+            await document.exitFullscreen();
+          }
         }
       } catch (error) {
         console.error(error);
