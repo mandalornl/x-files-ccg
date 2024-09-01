@@ -115,7 +115,7 @@
 <script>
 import shuffle from 'lodash/shuffle';
 
-import { pool } from '~/config/card';
+import { pool } from '~/config/cards';
 import cube from '~/config/fcu-cube.json';
 import { sortBy } from '~/assets/sort-by';
 

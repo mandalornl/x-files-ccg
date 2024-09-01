@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import { pool } from '~/config/card';
+import { pool } from '~/config/cards';
 import { download } from '~/mixins/download';
 
 export default {

@@ -119,7 +119,7 @@
     <p v-else>
       You have not yet build any decks.
       <nuxt-link
-        to="/card-list"
+        to="/cards"
         v-text="'Click here'"
       /> to start building your first deck or use the upload button above.
     </p>
@@ -127,19 +127,19 @@
 </template>
 
 <script>
-import { pool } from '~/config/card';
+import { pool } from '~/config/cards';
 import { download } from '~/mixins/download';
 import { sortBy } from '~/assets/sort-by';
 
 export default {
-  name: 'PageDeckBuilding',
+  name: 'PageDecks',
 
   mixins: [
     download
   ],
 
   head: () => ({
-    title: 'Deck Building'
+    title: 'Decks'
   }),
 
   computed: {
@@ -168,7 +168,7 @@ export default {
 
       this.$store.commit('deckBuilding/loadDeck', deck.name);
       this.$store.commit('snackbar/setSuccess', 'Deck opened successfully!');
-      this.$router.push('/card-list?showSelected');
+      this.$router.push('/cards?showSelected');
     },
 
     downloadJSON(deck) {

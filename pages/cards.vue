@@ -181,11 +181,11 @@ import {
   tags,
   episodes,
   costs
-} from '~/config/card';
+} from '~/config/cards';
 import { sortBy } from '~/assets/sort-by';
 
 export default {
-  name: 'PageCardList',
+  name: 'PageCards',
 
   directives: {
     Intersect
@@ -296,7 +296,7 @@ export default {
   },
 
   head: () => ({
-    title: 'Card List'
+    title: 'Cards'
   }),
 
   computed: {

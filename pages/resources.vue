@@ -74,6 +74,8 @@
 
 <script>
 export default {
+  name: 'PageResources',
+
   data: () => ({
     resource: 5,
     conspiracy: 5,

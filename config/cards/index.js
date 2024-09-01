@@ -1,13 +1,13 @@
-import premiere from '~/config/card-list/premiere.json';
-import ttiot from '~/config/card-list/ttiot.json';
-import mulder from '~/config/card-list/101361.json';
-import scully from '~/config/card-list/22364.json';
-import season4 from '~/config/card-list/040460.json';
-import promo from '~/config/card-list/promo.json';
-import gencon from '~/config/card-list/gencon.json';
-import delaney from '~/config/card-list/100617.json';
-import iWantToBelieve from '~/config/card-list/i-want-to-believe.json';
-import dream from '~/config/card-list/dream.json';
+import premiere from '~/config/cards/premiere.json';
+import ttiot from '~/config/cards/ttiot.json';
+import mulder from '~/config/cards/101361.json';
+import scully from '~/config/cards/22364.json';
+import season4 from '~/config/cards/040460.json';
+import promo from '~/config/cards/promo.json';
+import gencon from '~/config/cards/gencon.json';
+import delaney from '~/config/cards/100617.json';
+import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
+import dream from '~/config/cards/dream.json';
 
 export const pool = [
   ...premiere,

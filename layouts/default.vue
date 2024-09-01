@@ -90,23 +90,23 @@ export default {
         icon: 'mdi-home'
       },
       {
-        to: '/card-list',
-        label: 'Card List',
+        to: '/cards',
+        label: 'Cards',
         icon: 'mdi-cards'
       },
       {
-        to: '/deck-building',
-        label: 'Deck Building',
+        to: '/decks',
+        label: 'Decks',
         icon: 'mdi-wrench',
       },
       {
-        to: '/agent-selector',
-        label: 'Agent Selector',
+        to: '/agents',
+        label: 'Agents',
         icon: 'mdi-police-badge'
       },
       {
-        to: '/x-file-checklist',
-        label: 'X-File Checklist',
+        to: '/checklist',
+        label: 'Checklist',
         icon: 'mdi-format-list-checks'
       },
       {

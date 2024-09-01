@@ -198,14 +198,14 @@ import { Intersect } from 'vuetify/lib/directives';
 import {
   pool,
   sets
-} from '~/config/card';
+} from '~/config/cards';
 import {
   advancedSkills,
   basicSkills
-} from '~/config/agent';
+} from '~/config/agents';
 
 export default {
-  name: 'PageAgentSelector',
+  name: 'PageAgents',
 
   directives: {
     Intersect
@@ -269,7 +269,7 @@ export default {
   },
 
   head: () => ({
-    title: 'Agent Selector'
+    title: 'Agents'
   }),
 
   computed: {

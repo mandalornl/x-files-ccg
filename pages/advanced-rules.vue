@@ -2195,7 +2195,7 @@
 <script>
 import sample from 'lodash/sample';
 
-import { pool } from '~/config/card';
+import { pool } from '~/config/cards';
 
 export default {
   data: () => ({

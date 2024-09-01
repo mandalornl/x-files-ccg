@@ -84,17 +84,17 @@
 </template>
 
 <script>
-import { xFiles } from '~/config/x-file';
+import { xFiles } from '~/config/checklist';
 
 export default {
-  name: 'PageXFileChecklist',
+  name: 'PageChecklist',
 
   data: () => ({
     groups: xFiles
   }),
 
   head: () => ({
-    title: 'X-File Checklist'
+    title: 'Checklist'
   }),
 
   computed: {
