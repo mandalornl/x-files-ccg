@@ -109,3 +109,43 @@ export const booleanValue = {
     }
   }
 };
+
+export const numberValue = {
+  props: {
+    value: {
+      type: Number,
+      default: 0
+    }
+  },
+
+  data() {
+    return {
+      lazyValue: this.normalizeLazyValue(this.value)
+    };
+  },
+
+  computed: {
+    internalValue: {
+      get() {
+        return this.lazyValue;
+      },
+      set(value) {
+        this.lazyValue = this.normalizeLazyValue(value);
+
+        this.$emit('input', this.lazyValue);
+      }
+    }
+  },
+
+  watch: {
+    value(value) {
+      this.lazyValue = this.normalizeLazyValue(value);
+    }
+  },
+
+  methods: {
+    normalizeLazyValue(value) {
+      return typeof value === 'number' ? value : null;
+    }
+  }
+};

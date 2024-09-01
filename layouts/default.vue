@@ -110,6 +110,11 @@ export default {
         icon: 'mdi-format-list-checks'
       },
       {
+        to: '/resources',
+        label: 'Resources',
+        icon: 'mdi-dice-d20'
+      },
+      {
         to: '/fcu-cube',
         label: 'FCU Cube',
         icon: 'mdi-cube-outline'
@@ -175,6 +180,14 @@ h1, h2, h3, h4, h5, h6 {
   position: sticky !important;
 }
 
+.position-absolute {
+  position: absolute !important;
+}
+
+.position-relative {
+  position: relative !important;
+}
+
 @for $i from 1 through 10 {
   .z-index-#{$i} {
     z-index: $i;
@@ -183,5 +196,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .v-dialog--scrollable .v-card__text {
   max-height: 100vh;
+}
+
+.user-select--none {
+  user-select: none !important;
 }
 </style>

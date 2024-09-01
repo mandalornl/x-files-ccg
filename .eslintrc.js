@@ -17,7 +17,8 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
-    'vue/no-v-text-v-html-on-component': 'off'
+    'vue/no-v-text-v-html-on-component': 'off',
+    'vue/multi-word-component-names': 'off'
   },
   globals: {
     navigator: 'readonly',

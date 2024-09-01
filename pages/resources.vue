@@ -1,0 +1,116 @@
+<template>
+  <layout-default>
+    <v-dialog
+      v-model="dialog"
+      fullscreen
+    >
+      <v-row
+        no-gutters
+        class="flex-column fill-height"
+      >
+        <v-col>
+          <v-btn
+            icon
+            title="Close"
+            color="black"
+            class="close-btn"
+            @click="dialog = false"
+          >
+            <v-icon>mdi-close</v-icon>
+          </v-btn>
+          <resource-counter
+            v-model="resource"
+            rotate
+            color="light-blue"
+          />
+        </v-col>
+        <v-col>
+          <resource-counter
+            v-model="conspiracy"
+            rotate
+            color="red"
+          />
+        </v-col>
+      </v-row>
+    </v-dialog>
+    <div class="d-flex align-center mb-3">
+      <v-spacer />
+      <v-btn
+        small
+        depressed
+        class="mr-1"
+        @click="dialog = true"
+      >
+        Fullscreen
+      </v-btn>
+      <v-btn
+        small
+        depressed
+        @click="reset"
+      >
+        Reset
+      </v-btn>
+    </div>
+    <v-row no-gutters>
+      <v-col>
+        <v-responsive aspect-ratio="1">
+          <resource-counter
+            v-model="resource"
+            color="light-blue"
+          />
+        </v-responsive>
+      </v-col>
+      <v-col>
+        <v-responsive aspect-ratio="1">
+          <resource-counter
+            v-model="conspiracy"
+            color="red"
+          />
+        </v-responsive>
+      </v-col>
+    </v-row>
+  </layout-default>
+</template>
+
+<script>
+export default {
+  data: () => ({
+    resource: 5,
+    conspiracy: 5,
+    dialog: false,
+    wakeLock: null
+  }),
+
+  watch: {
+    async dialog(value) {
+      try {
+        if (value) {
+          this.wakeLock = await navigator.wakeLock.request('screen');
+        } else {
+          await this.wakeLock.release();
+
+          this.wakeLock = null;
+        }
+      } catch (error) {
+        console.error(error);
+      }
+    }
+  },
+
+  methods: {
+    reset() {
+      this.resource = 5;
+      this.conspiracy = 5;
+    }
+  }
+};
+</script>
+
+<style lang="scss" scoped>
+.close-btn {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  z-index: 1;
+}
+</style>
