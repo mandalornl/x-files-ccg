@@ -5,7 +5,7 @@
     class="fill-height d-flex align-center"
   >
     <v-card-text class="text-h1 black--text d-flex justify-center">
-      <div :class="[ 'd-flex align-center', { 'rotate-90': rotate } ]">
+      <div :class="[ 'd-flex align-center', { 'rotate-n90': rotate } ]">
         <v-btn
           :disabled="internalValue === 0"
           icon
@@ -56,7 +56,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.rotate-90 {
-  transform: rotate(90deg);
+.rotate-n90 {
+  transform: rotate(-90deg);
 }
 </style>/

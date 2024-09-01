@@ -4,31 +4,31 @@
       v-model="dialog"
       fullscreen
     >
+      <v-btn
+        icon
+        title="Close"
+        color="black"
+        class="close-btn"
+        @click="dialog = false"
+      >
+        <v-icon>mdi-close</v-icon>
+      </v-btn>
       <v-row
         no-gutters
         class="flex-column fill-height"
       >
         <v-col>
-          <v-btn
-            icon
-            title="Close"
-            color="black"
-            class="close-btn"
-            @click="dialog = false"
-          >
-            <v-icon>mdi-close</v-icon>
-          </v-btn>
-          <resource-counter
-            v-model="resource"
-            rotate
-            color="light-blue"
-          />
-        </v-col>
-        <v-col>
           <resource-counter
             v-model="conspiracy"
             rotate
             color="red"
+          />
+        </v-col>
+        <v-col>
+          <resource-counter
+            v-model="resource"
+            rotate
+            color="light-blue"
           />
         </v-col>
       </v-row>
@@ -119,8 +119,8 @@ export default {
 <style lang="scss" scoped>
 .close-btn {
   position: absolute;
-  bottom: 8px;
-  right: 8px;
+  top: 8px;
+  left: 8px;
   z-index: 1;
 }
 </style>
