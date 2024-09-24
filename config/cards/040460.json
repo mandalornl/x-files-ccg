@@ -3069,7 +3069,8 @@
       "Move"
     ],
     "activators": [
-      "Conspiracy"
+      "Conspiracy",
+      "Site"
     ],
     "gameText": "Force Agent Mulder to the Hospital (undamaged). Place three tokens on this card and remove a token during your opponent's Healing Phases. Mulder must remain in the Hospital until either all tokens are removed or a Healing card is played. When all tokens have been removed, discard this card.",
     "dialogue": "The Cigarette-Smoking Man: \"What information?\"\nFirst Elder: \"That Mrs. Mulder's life is in danger, that left unprotected…she may come to an unnatural end.\"",
@@ -3295,7 +3296,8 @@
       "Phenomena"
     ],
     "activators": [
-      "Conspiracy"
+      "Conspiracy",
+      "Site"
     ],
     "gameText": "Once this card is played, the opposing Team may not use or apply skill values from any Keyword ELECTRICAL Equipment while investigating this Site.",
     "dialogue": "Mulder: \"Unfortunately, you can't see very much on these. What…what's all this stuff here?\"\nSecurity Guard: \"Bad video. The security system isn't exactly state-of-the-art.\"",
