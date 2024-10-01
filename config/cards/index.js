@@ -7,7 +7,6 @@ import promo from '~/config/cards/promo.json';
 import gencon from '~/config/cards/gencon.json';
 import delaney from '~/config/cards/100617.json';
 import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
-import dream from '~/config/cards/dream.json';
 
 export const pool = [
   ...premiere,
@@ -18,8 +17,7 @@ export const pool = [
   ...promo,
   ...gencon,
   ...delaney,
-  ...iWantToBelieve,
-  ...dream
+  ...iWantToBelieve
 ].map((card) => ({
   ...card,
   image: `images/${card.set}/${card.id}.jpg`
@@ -36,8 +34,7 @@ export const sets = [
   'Promo',
   'Gen Con',
   '100617',
-  'I Want to Believe',
-  'Dream'
+  'I Want to Believe'
 ];
 
 export const types = [
