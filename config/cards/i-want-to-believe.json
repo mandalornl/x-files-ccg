@@ -1,5 +1,214 @@
 [
   {
+    "id": "PR08-001-BMR",
+    "title": "Briefed on secrets",
+    "cost": "3 CP",
+    "episode": "Zero Sum",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Discard an Equipment card in play (your choice).",
+    "dialogue": "\"I'm starting to get used to the dark.\" - Skinner",
+    "createdBy": "Alfredo Sánchez, Billie Reid",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-002-RCZ",
+    "title": "Phil's Dinner",
+    "cost": "3 CP",
+    "episode": "Humbug",
+    "type": "Site",
+    "keywords": [
+      "Site",
+      "Mono",
+      "Affiliation",
+      "Method",
+      "Behavioral"
+    ],
+    "prerequisite": "BEHAVIORAL 5+",
+    "question": "You may ask one AFFILIATION question and one METHOD question",
+    "dialogue": "\"The town was founded back in the 20s when some of Barnum and Bailey's troops started coming down here during the winter off-season.\" - Hamilton",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-003-ASE",
+    "title": "Samantha's Diary",
+    "cost": "1 RP",
+    "episode": "Closure",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Discard Samantha's Diary to return one card from your hand to the Bureau deck, then shuffle the deck. At the beginning of your next Briefing phase, you may draw two additional cards.",
+    "dialogue": "Scully: \"It's a diary. It's your sister's.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-004-PSE",
+    "title": "Senior Director Carter",
+    "cost": "5 CP",
+    "episode": "Anasazi",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "gameText": "Place one token on Senior Director Carter. Discard a token to take a target Agent (your choice) from any Team in the Field and send him back to the Bureau.",
+    "bio": "Senior Director Carter is a high-ranking FBI official who interrogates Agent Dana Scully in Skinner's office regarding Agent Mulder's erratic behavior. He represents the bureaucratic concerns of the FBI as Mulder's investigations draw increasing scrutiny and institutional pressure.",
+    "skills": {
+      "Alien Investigation": 2,
+      "Bureaucracy": 3,
+      "Computer": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "createdBy": "Alfredo Sánchez, Pablo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-005-GRG",
+    "title": "The Elder's Call",
+    "cost": "4 RP",
+    "episode": "731",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active",
+      "Witness",
+      "Site"
+    ],
+    "gameText": "Put two tokens on this card. You can use a token to keep at your side a non-resource Witness card or a Site for an additional turn. Remove a token each time you use this ability. You can use both in the same turn. Remove this card from the game once all the tokens have been removed.",
+    "dialogue": "\"Mister Mulder, I have someone here who'd like to speak with you.\" - First Elder",
+    "createdBy": "Alfredo Sánchez, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-006-RCZ-ru",
+    "title": "Piękny Umysł",
+    "cost": "1 *P",
+    "episode": "The End",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Zagraj te karte aby zobaczyc 3 karty z gory swojej talii Biura. Nastepnie mozesz umiescic je z powrotem w dowolnej kolejnosci.",
+    "dialogue": "\"Skad wiesz co zamierza zrobic twoj przeciwnik? Dostajesz sie do jego glowy, czytasz jego mysli.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-006-RCZ-en",
+    "title": "A privileged mind",
+    "cost": "1 *P",
+    "episode": "The End",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to look at the top three cards of your Bureau deck. Then, you may place them back in any order.",
+    "dialogue": "\"How you know what your opponent's going to do? You get inside his head. You read his thoughts.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-007-ASE",
+    "title": "Pinker Rawls",
+    "cost": "6 CP",
+    "episode": "Trevor",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site",
+      "Result Site"
+    ],
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to Pinker Rawls.",
+    "dialogue": "\"Trevor what?\" - Pinker Rawls",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 5,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-008-ASE",
+    "title": "Unstoppable Ally",
+    "cost": "3 *P",
+    "episode": "Nothing Important Happened Today (II)",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card during a Close Range Combat round to search your Bureau Deck for any one card with the keyword COMBAT. Reveal the card to your opponent and add it to your hand. Shuffle your Bureau deck. If the card is immediately playable, You may do so for zero cost.",
+    "dialogue": "\"You didn't trust me.\" - Shannon McMahon",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-009-RCZ",
+    "title": "Messages from beyond",
+    "cost": "3 *P",
+    "episode": "Closure",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to draw four cards, then place any two cards from your hand on top of your Bureau deck or in your discard pile.",
+    "dialogue": "\"Close your eyes and let them come to you. They will come to you if you're ready to see.\" - Harold Piller",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0001v1",
     "title": "Midnight Chase",
     "cost": "1 RP",
@@ -1314,6 +1523,129 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0068v1",
+    "title": "Josepho's Prophecy",
+    "cost": "1 CP",
+    "episode": "Providence",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien Investigation",
+      "Behavioral"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "For each card in your hand with the keyword ALIEN, ALIEN INVESTIGATION or BEHAVIORAL that you reveal to your opponent, reduce one skill check at this Site by -1.",
+    "dialogue": "\"You want to see your son? You come alone and you follow my instructions to the letter.\" - Josepho",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0069v1",
+    "title": "Unearthly exposure",
+    "cost": "6 CP",
+    "episode": "Tunguska",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien Manipulation",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Place this card on any Agent in the Field investigating a Site with two tokens on it. The Agent is removed from play. Remove one token during each of the controlling player's Healing Phases. When no tokens remain, move the Agent to the Field.",
+    "dialogue": "Prisoner: \"I will die in an experiment when there is no longer any use for me.\" Mulder: \"What kind of experiment?",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0070v1",
+    "title": "Restricted Access Notice",
+    "cost": "3 CP",
+    "episode": "Rush",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Observation",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an OBSERVATION 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
+    "dialogue": "\"As of an hour ago, they pumped concrete into the cave. Sealed it for precautionary reasons.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0071v1",
+    "title": "Manipulating the Flock",
+    "cost": "4 CP",
+    "episode": "This is not happening",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Alien",
+      "Resource"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Place this card next to a Site card as a Resource. The next card your opponent plays at this Site must be discarded after it is paid for, except for cards that negate this card or Combat cards. Then, discard this card. Otherwise, the card remains in play until the Site is discarded.",
+    "dialogue": "\"I'm telling you the truth. I only want to help these people.\" - Absalom",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0072v1",
+    "title": "Burning Loyalties",
+    "cost": "4 CP",
+    "episode": "Surekill",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site",
+      "Evolutionary"
+    ],
+    "gameText": "Play this card to negate one Witness RESOURCE immediately or to prevent the investigating player from playing any Witnesses while investigating this Site, except for Witnesses which would specifically negate this card.",
+    "dialogue": "\"The eyes are the windows of the soul. They tell you everything you need to know about a person. So tell me, are you lying?\" - Dwight Cooper",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0073v1",
+    "title": "Weakening Grip",
+    "cost": "3 CP",
+    "episode": "Trevor",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Discard a card at random from your opponent's hand for each Agent investigating this Site.",
+    "dialogue": "\"What does Rawls want? The money? $90,000 from the Bay Saint Louis robbery?\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0074v1",
     "title": "Covering the Killer",
     "cost": "4 CP",
@@ -1389,6 +1721,26 @@
     ],
     "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
     "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0078v1",
+    "title": "Ultimate Deception",
+    "cost": "7 CP",
+    "episode": "S.R. 819",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff",
+      "Government"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Force an opposing Agent (your choice) to go to the Hospital immediately and may not contribute to the Site skill check. The Agent takes two points of damage and must be fully healed to leave the Hospital.",
+    "dialogue": "\"Every minute of every day we choose. Who we are. Who we forgive. Who we defend and protect.\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -2157,42 +2509,54 @@
   },
   {
     "id": "XF08-0117v1",
-    "title": "Unearthly exposure",
-    "cost": "6 CP",
-    "episode": "Tunguska",
-    "type": "Bluff",
+    "title": "Agent Gene Crane",
+    "cost": "2 RP",
+    "episode": "Within",
+    "type": "Agent",
     "keywords": [
-      "Bluff",
-      "Alien Manipulation",
-      "Resource"
+      "Agent",
+      "FBI",
+      "Law"
     ],
-    "activators": [
-      "Conspiracy",
-      "Site"
-    ],
-    "gameText": "Place this card on any Agent in the Field investigating a Site with two tokens on it. The Agent is removed from play. Remove one token during each of the controlling player's Healing Phases. When no tokens remain, move the Agent to the Field.",
-    "dialogue": "Prisoner: \"I will die in an experiment when there is no longer any use for me.\" Mulder: \"What kind of experiment?",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
+    "gameText": "Agent Crane's BUREAUCRACY and EVIDENCE COLLECTION skills are increased by one if he and Agent Doggett are on the same Team.",
+    "bio": "Special Agent Gene Crane worked under Deputy Director Alvin Kersh, assisting in key cases like the search  for Mulder and the Zeus Genetics investigation. In late 2001, he was replaced by a super soldier, as part of an alien plot.",
+    "skills": {
+      "Bureaucracy": 1,
+      "Criminal Investigation": 1,
+      "Evidence Collection": 1,
+      "Long Range Combat": 1,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
   },
   {
     "id": "XF08-0118v1",
-    "title": "Restricted Access Notice",
-    "cost": "3 CP",
-    "episode": "Rush",
-    "type": "Bluff",
+    "title": "Frank Black",
+    "cost": "5 RP",
+    "episode": "Millenium",
+    "type": "Agent",
     "keywords": [
-      "Bluff",
-      "Observation",
-      "Resource"
+      "Agent",
+      "Independent",
+      "Law"
     ],
-    "activators": [
-      "Conspiracy",
-      "Site"
-    ],
-    "gameText": "Play this card to force an opponent Team currently investigating a Site to make an OBSERVATION 4+ skill check. If they fail only Agents with the Keyword FBI may contribute their skills to any skill check made on this Site.",
-    "dialogue": "\"As of an hour ago, they pumped concrete into the cave. Sealed it for precautionary reasons.\" - Mulder",
+    "gameText": "Place 1 [RP] on this card. This [RP] may be used to look at the top two cards of your deck. Replace the [RP] during your Briefing Phase.",
+    "bio": "Frank Black was a former FBI agent who left the bureau to become a freelance consultant. He specialized in criminal profiling and paranormal investigations, often working with the secretive Millennium Group. His psychic abilities, especially his ability to \"see\" through the eyes of criminals, helped him solve complex and often disturbing cases.",
+    "skills": {
+      "Behavioral": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 1,
+      "Sciences": 1,
+      "Occult Investigation": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -3207,7 +3571,7 @@
       "Witness",
       "Healing",
       "Observation",
-      "Occult investigation"
+      "Occult Investigation"
     ],
     "activators": [
       "Active"
@@ -3292,8 +3656,8 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's OCCULT INVESTIGATION skill once per turn while the Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0.",
-    "dialogue": "Father Joe: \"This is where she was taken. This is where she was attacked.\"",
+    "gameText": "Attach this Witness to any Agent in the Field. Adds 1 to that Agent's BEHAVIORAL skill once per turn while the Agent is in the Field. Discard this card when the Agent's HEALTH is reduced to 0.",
+    "dialogue": "\"This is where she was taken. This is where she was attacked.\" - Father Joe",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -3754,6 +4118,24 @@
     ],
     "gameText": "Play to change the Site Prerequisite to CRIMINAL INVESTIGATION 3+.",
     "dialogue": "\"You don't have much time to get to the airport but if you're the X-Files man you say you are you better get your butt in gear.\" - Arthur Dales",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0183v1",
+    "title": "Unnatural Illusion",
+    "cost": "4 CP",
+    "episode": "The Unnatural",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Negate any one Keyword ALIEN INVESTIGATION card.",
+    "dialogue": "\"This is an interesting dream. Wake up. Come on, Artie.\" - Arthur Dales",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -5735,6 +6117,45 @@
     "rarity": "Community"
   },
   {
+    "id": "XF08-0287v1",
+    "title": "Road Map",
+    "cost": "3 RP",
+    "episode": "Sein und Zeit",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Attach this card to any Agent in the Field. Discard this card to return a Site card already investigated to your hand instead of discarding it.",
+    "dialogue": "Skinner: \"What is it?\"\nScully: \"Santa Claus.\"\nMulder: \"What?\"\nScully: \"Stop. Turn around.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0288v1",
+    "title": "Unclassified Reports",
+    "cost": "3 RP",
+    "episode": "Closure",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Government",
+      "Special"
+    ],
+    "activators": [
+      "Bureau"
+    ],
+    "gameText": "Attach this card to any Agent and put three cards from your Discard Pile under it. Any time during the game, you may discard one of the cards to gain a +1 modifier on one of the Keywords listed on that card. Discard this card when no cards remain under it.",
+    "dialogue": "\"That's your sister's file.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
     "id": "XF08-0289v1",
     "title": "The African Artifact",
     "cost": "5 RP",
@@ -6241,6 +6662,32 @@
     ],
     "gameText": "Place this card in the Hospital. Once per turn, during the Healing phase, you can remove from play a card from your hand to heal one point of damage to an Agent in the Hospital.",
     "dialogue": "\"Blood pressure is 67 on palpatation.\" - Nurse",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0315v1",
+    "title": "Ellen Adderly",
+    "cost": "5 CP",
+    "episode": "Chimera",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Result Site"
+    ],
+    "gameText": "The chosen Agent is the only one who may participate in the Combat. This card is free and Activator requirements are ignored if it is played on a Keyword OCCULT INVESTIGATION Site.",
+    "dialogue": "\"Then what? My marriage, my life… everything I thought I had… is nothing. It's all lies. I wish you'd never come here.\" - Ellen Adderly",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 5,
+      "Health": 5
+    },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -7153,7 +7600,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Criminal investigation"
+      "Criminal Investigation"
     ],
     "gameText": "You may play this card in its normal way, or use it to immediately end combat and control one Agent (your choice). Move the Agent to any section of the table. The Agent must remain in that section. Attach this card to the chosen Agent as a reminder. Discard this card during your opponent's next Investigation phase.",
     "dialogue": "\"If we have the courage to see into darkness we see into God... free of the clay which confines us.\" - Anthony Tipet",
@@ -7211,9 +7658,9 @@
     "gameText": "This You may search your Bureau deck for the \"Betty Templeton\" Adversary card and play it immediately, ignoring Activator requirements. If you do, both Adversaries attack simultaneously (treat as one Combat). Double both cards' CRC and HEALTH, and skip the LONG RANGE COMBAT round.",
     "dialogue": "\"What are you doing here?\" - Lulu Pfeiffer",
     "skills": {
-      "Long Range Combat": "0",
-      "Close Range Combat": "3",
-      "Health": "3"
+      "Long Range Combat": 0,
+      "Close Range Combat": 3,
+      "Health": 3
     },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -7237,9 +7684,35 @@
     "gameText": "This You may search your Bureau deck for the \"Lulu Pfeiffer\" Adversary card and play it immediately, ignoring Activator requirements. If you do, both Adversaries attack simultaneously (treat as one Combat). Double both cards' CRC and HEALTH, and skip the LONG RANGE COMBAT round.",
     "dialogue": "\"What are you doing here?\" - Betty Templeton",
     "skills": {
-      "Long Range Combat": "0",
-      "Close Range Combat": "3",
-      "Health": "3"
+      "Long Range Combat": 0,
+      "Close Range Combat": 3,
+      "Health": 3
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0354v1",
+    "title": "Ray Pearce, Metal Fury",
+    "cost": "7 CP",
+    "episode": "Salvage",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Evolutionary",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Affiliation Site"
+    ],
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to Ray Pearce.",
+    "dialogue": "\"I've reviewed Ray's medical records from the VA. What his wife was calling Gulf War Syndrome is nothing of the kind. His entire cellular makeup was affected by exposure to some non-identifiable contaminant-- a metal.\" - Scully",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 6,
+      "Health": 7
     },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
