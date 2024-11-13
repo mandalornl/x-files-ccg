@@ -19,20 +19,21 @@
   },
   {
     "id": "PR08-002-RCZ",
-    "title": "Phil's Dinner",
-    "cost": "3 CP",
-    "episode": "Humbug",
+    "title": "FBI Safe House, Annandale, Virginia",
+    "cost": "2 CP",
+    "episode": "Kitsunegary",
     "type": "Site",
     "keywords": [
       "Site",
-      "Mono",
-      "Affiliation",
+      "Multi",
       "Method",
-      "Behavioral"
+      "Result",
+      "Behavioral",
+      "Subterfuge"
     ],
-    "prerequisite": "BEHAVIORAL 5+",
-    "question": "You may ask one AFFILIATION question and one METHOD question",
-    "dialogue": "\"The town was founded back in the 20s when some of Barnum and Bailey's troops started coming down here during the winter off-season.\" - Hamilton",
+    "prerequisite": "BEHAVIORAL 5+ or SUBTERFUGE 5+",
+    "question": "You may ask on METHOD or one RESULT question. Cost of Adversary cards played on this Site is increased by 2.",
+    "dialogue": "\"She was waving it under our nose, she was playing with us. Modell told me, he warned me not to play the game. I think it was her game he was talking about.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -402,7 +403,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on target Team during a Combat to get an extra combatant in that Team with following skills: LRC: 3, CRC: 2, HEALTH: 5. Discard this card after the Combat phase had ended.",
+    "gameText": "Play this card on target Team during a Combat to get an extra combatant in that Team with following skills: LRC: 3, CRC: 2, HEALTH: 5. Discard this card after the Combat phase has ended.",
     "dialogue": "Mulder: \"Is there contact with the temple?\"\nAgent: \"If you call that contact.\"",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -622,7 +623,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by two points. The combatant using this card does not deal damage in this CRC round.",
+    "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by one point.",
     "dialogue": "\"Let him go, you hear me? Let him go!\" - Reyes",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -651,7 +652,7 @@
   {
     "id": "XF08-0025v1",
     "title": "Smoke Grenade",
-    "cost": "2 *P",
+    "cost": "3 *P",
     "episode": "John Doe",
     "type": "Combat",
     "keywords": [
@@ -660,7 +661,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by two points.",
+    "gameText": "Play this card on any combatant during a LONG RANGE COMBAT round to reduce the damage from all opponent sources by one point.",
     "dialogue": "\"Oh God, John, they're smoking us out. John, I need you here. I need you to focus here John.\" - Agent Reyes",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -1441,22 +1442,19 @@
   },
   {
     "id": "XF08-0064v1",
-    "title": "FBI Safe House, Annandale, Virginia",
-    "cost": "1 RP",
-    "episode": "Kitsunegary",
+    "title": "Phil's Dinner",
+    "cost": "2 RP",
+    "episode": "Humbug",
     "type": "Site",
     "keywords": [
       "Site",
-      "Multi",
-      "Motive",
-      "Method",
-      "Result",
-      "Behavioral",
-      "Subterfuge"
+      "Mono",
+      "Affiliation",K
+      "Behavioral"
     ],
-    "prerequisite": "BEHAVIORAL 5+ or SUBTERFUGE 5+",
-    "question": "You may ask one METHOD or one RESULT question. Witness cards played on this Site cannot be negated.",
-    "dialogue": "\"She was waving it under our nose, she was playing with us. Modell told me, he warned me not to play the game. I think it was her game he was talking about.\" - Mulder",
+    "prerequisite": "BEHAVIORAL 4+",
+    "question": "You may ask one AFFILIATION question.",
+    "dialogue": "\"The town was founded back in the 20s when some of Barnum and Bailey's troops started coming down here during the winter off-season.\" - Hamilton",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
