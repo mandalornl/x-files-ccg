@@ -1398,7 +1398,7 @@
       "Resource"
     ],
     "prerequisite": "Special Equipment required or discard a Witness card from your hand.",
-    "question": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
+    "gameEffect": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
     "dialogue": "\"It's industrial-grade lead, used for weighing scuba divers and lining X-ray vests.\" - John Amis",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1416,7 +1416,7 @@
       "Resource"
     ],
     "prerequisite": "Special Equipment required or discard a Witness card from your hand.",
-    "question": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
+    "gameEffect": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
     "dialogue": "\"It's your sister. We just pulled her body out of the river.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1434,7 +1434,7 @@
       "Resource"
     ],
     "prerequisite": "Special Equipment required or discard a Witness card from your hand.",
-    "question": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
+    "gameEffect": "Put a token on one of the Agents in the Team investigating this Site. Discard it to gain a +1 on any Site skill check made by any Team that Agent belongs to.",
     "dialogue": "\"Agent Mulder, Scully. They killed a US Marshal and then shot Agent Fowley.\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",

@@ -192,6 +192,14 @@ export default {
             label: 'Cost',
             component: 'CardFieldString'
           },
+          prerequisite: {
+            label: 'Prerequisite',
+            component: 'CardFieldString'
+          },
+          question: {
+            label: 'Question',
+            component: 'CardFieldString'
+          },
           gameText: {
             label: 'Game Text',
             component: 'CardFieldText'
@@ -207,14 +215,6 @@ export default {
           characteristics: {
             label: 'Characteristics',
             component: 'CardFieldObject'
-          },
-          prerequisite: {
-            label: 'Prerequisite',
-            component: 'CardFieldString'
-          },
-          question: {
-            label: 'Question',
-            component: 'CardFieldString'
           },
           keywords: {
             label: 'Keywords',
