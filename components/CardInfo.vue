@@ -196,6 +196,10 @@ export default {
             label: 'Game Text',
             component: 'CardFieldText'
           },
+          gameEffect: {
+            label: 'Game Effect',
+            component: 'CardFieldText'
+          },
           skills: {
             label: 'Skills',
             component: 'CardFieldObject'

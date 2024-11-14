@@ -69,7 +69,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place one token on Senior Director Carter. Discard a token to take a target Agent (your choice) from any Team in the Field and send him back to the Bureau.",
+    "gameEffect": "Place one token on Senior Director Carter. Discard a token to take a target Agent (your choice) from any Team in the Field and send him back to the Bureau.",
     "bio": "Senior Director Carter is a high-ranking FBI official who interrogates Agent Dana Scully in Skinner's office regarding Agent Mulder's erratic behavior. He represents the bureaucratic concerns of the FBI as Mulder's investigations draw increasing scrutiny and institutional pressure.",
     "skills": {
       "Alien Investigation": 2,
@@ -2516,7 +2516,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Agent Crane's BUREAUCRACY and EVIDENCE COLLECTION skills are increased by one if he and Agent Doggett are on the same Team.",
+    "gameEffect": "Agent Crane's BUREAUCRACY and EVIDENCE COLLECTION skills are increased by one if he and Agent Doggett are on the same Team.",
     "bio": "Special Agent Gene Crane worked under Deputy Director Alvin Kersh, assisting in key cases like the search  for Mulder and the Zeus Genetics investigation. In late 2001, he was replaced by a super soldier, as part of an alien plot.",
     "skills": {
       "Bureaucracy": 1,
@@ -2542,7 +2542,7 @@
       "Independent",
       "Law"
     ],
-    "gameText": "Place 1 [RP] on this card. This [RP] may be used to look at the top two cards of your deck. Replace the [RP] during your Briefing Phase.",
+    "gameEffect": "Place 1 [RP] on this card. This [RP] may be used to look at the top two cards of your deck. Replace the [RP] during your Briefing Phase.",
     "bio": "Frank Black was a former FBI agent who left the bureau to become a freelance consultant. He specialized in criminal profiling and paranormal investigations, often working with the secretive Millennium Group. His psychic abilities, especially his ability to \"see\" through the eyes of criminals, helped him solve complex and often disturbing cases.",
     "skills": {
       "Behavioral": 3,
@@ -2570,7 +2570,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place two tokens on Agent Rice. Any time during a Combat involving Agent Rice you may discard one token to search through your Bureau deck and add a Combat card to your hand. Show the card to your opponent and shuffle the deck.",
+    "gameEffect": "Place two tokens on Agent Rice. Any time during a Combat involving Agent Rice you may discard one token to search through your Bureau deck and add a Combat card to your hand. Show the card to your opponent and shuffle the deck.",
     "bio": "Agent Rice led the SWAT response, coordinating with Scully during a hostage situation. Despite initial resistance, he contacted Mulder's captor, Gary Lambert, who demanded to broadcast a message, escalating the tense standoff.",
     "skills": {
       "Behavioral": 2,
@@ -2598,7 +2598,7 @@
       "Law",
       "Neutral"
     ],
-    "gameText": "Treat Lieutenant Kraskow's LRC skill as 4 if the number of agents in his Team is 4 or more.",
+    "gameEffect": "Treat Lieutenant Kraskow's LRC skill as 4 if the number of agents in his Team is 4 or more.",
     "bio": "Lieutenant Kraskow is a SWAT team leader managing the crime scene during a bank robbery. He collaborates with FBI Agent Skinner, who is seeking his trapped agents, Mulder and Scully.",
     "skills": {
       "Behavioral": 1,
@@ -2626,7 +2626,7 @@
       "FBI",
       "Believer"
     ],
-    "gameText": "Rudolph Hayes' CRIMINAL INVESTIGATION and OCCULT INVESTIGATION skills are increased by one if he and Agent John Doggett are on the same Team.",
+    "gameEffect": "Rudolph Hayes' CRIMINAL INVESTIGATION and OCCULT INVESTIGATION skills are increased by one if he and Agent John Doggett are on the same Team.",
     "bio": "John Stuart Mimms, using the alias Rudolph Hayes, joined the FBI. He helped Agent John Doggett investigate his son's murder and the murders of two women. Mimms provided crucial information and was wrongly accused by A.D. Brad Follmer before proving his innocence.",
     "skills": {
       "Criminal Investigation": 1,
@@ -2652,7 +2652,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "John Amis has direct access to the Field Office Crime Lab even without any piece of equipment attached.",
+    "gameEffect": "John Amis has direct access to the Field Office Crime Lab even without any piece of equipment attached.",
     "bio": "John Amis worked as a forensic analyst at the King County Crime Lab. He helped his friend Craig Willmore, a Special Agent for the FBI Seattle field office, investigate the mystery of the Russian ship Tarakan, and was accidentally subjected to radiation poisoning.",
     "skills": {
       "Computer": 1,
@@ -2679,7 +2679,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Treat Arlene as RES 2 if she and Assistant Director Walter Skinner are both in the Bureau.",
+    "gameEffect": "Treat Arlene as RES 2 if she and Assistant Director Walter Skinner are both in the Bureau.",
     "bio": "Arlene worked as an executive assistant for the FBI. She helped Assistant Director Walter Skinner and the FBI investigate various cases and incidents, and was present during significant events involving Agents Fox Mulder and Dana Scully.",
     "skills": {
       "Bureaucracy": 1,
@@ -2705,7 +2705,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place two tokens on Agent Hedion. Discard one token to search through your Bureau deck and add any Keyword COMPUTER card to your hand. Show the card to your opponent and shuffle the deck.",
+    "gameEffect": "Place two tokens on Agent Hedion. Discard one token to search through your Bureau deck and add any Keyword COMPUTER card to your hand. Show the card to your opponent and shuffle the deck.",
     "bio": "Agent Hedin assisted in the investigation by matching fingerprints found on the stairwell to Michael Kritschgau, an employee of the Pentagon's research division, leading to a pivotal breakthrough in identifying Scully's attacker.",
     "skills": {
       "Computer": 2,
@@ -2732,7 +2732,7 @@
       "Law",
       "Neutral"
     ],
-    "gameText": "Place a token on this card. Remove a token to look through your Bureau deck to draw any keyword CRIMINAL INVESTIGATION card and add it to your hand. Shuffle your Bureau deck.",
+    "gameEffect": "Place a token on this card. Remove a token to look through your Bureau deck to draw any keyword CRIMINAL INVESTIGATION card and add it to your hand. Shuffle your Bureau deck.",
     "bio": "Lloyd Pennock was part of the local police force in Wilmington, Delaware. He investigated a murder at Paradise Motel and encountered Marty Glenn, a blind woman, near the victim. Collaborating with Mulder and Scully, Pennock navigated the enigma, maintaining an open mind in uncovering Marty's mysterious Capabilities.",
     "skills": {
       "Criminal Investigation": 2,
@@ -2760,7 +2760,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place two tokens on this card. Discard a token to add 1 to Follmer's BUREAUCRACY or OBSERVATION skill.",
+    "gameEffect": "Place two tokens on this card. Discard a token to add 1 to Follmer's BUREAUCRACY or OBSERVATION skill.",
     "bio": "Assistant Director Brad Follmer had a romantic history with Monica Reyes that he briefly brought up while trying to keep her away from the X-Files. Despite his political maneuvers and skepticism towards the X-Files, he aided Doggett in a crucial investigation. However, his involvement in organized crime tainted his reputation, leaving his future uncertain, possibly facing criminal charges.",
     "skills": {
       "Bureaucracy": 3,
@@ -2788,7 +2788,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Treat SAC Fossa as a RES 2 if she is in the Bureau. If Fossa is in the same Team as Agent Mosley Drummy and/or ASAC Dakota Whitney, she gains +1 to her COMPUTER and SCIENCES skills.",
+    "gameEffect": "Treat SAC Fossa as a RES 2 if she is in the Bureau. If Fossa is in the same Team as Agent Mosley Drummy and/or ASAC Dakota Whitney, she gains +1 to her COMPUTER and SCIENCES skills.",
     "bio": "Special Agent in Charge Fossa was a senior member of the FBI. She was part of an FBI team that consecutively searched for missing Agent Monica Bannan and then Cheryl Cunningham.",
     "skills": {
       "Computer": 3,
@@ -2816,7 +2816,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "ASAC Dakota Whitney's OBSERVATION and CRIMINAL INVESTIGATION skills are increased by one if she and Agent Mosley Drummy are on the same Team.",
+    "gameEffect": "ASAC Dakota Whitney's OBSERVATION and CRIMINAL INVESTIGATION skills are increased by one if she and Agent Mosley Drummy are on the same Team.",
     "bio": "Dakota Whitney is an ASAC and a Special Agent in Charge at the FBI. While investigating the deaths of multiple abductees, she was instrumental in arranging the involvement of Agents Mulder and Scully.",
     "skills": {
       "Bureaucracy": 1,
@@ -2845,7 +2845,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Equipment card that increases CRIMINAL INVESTIGATION skill. Add it to your hand. Reshuffle your Bureau Deck.",
+    "gameEffect": "Place a token on this card. Discard a token and look through your Bureau deck to draw any one Equipment card that increases CRIMINAL INVESTIGATION skill. Add it to your hand. Reshuffle your Bureau Deck.",
     "bio": "FBI Agent Mosley Drummy led investigations, aiding in high-profile cases alongside Mulder and Scully. Known for skepticism, pivotal role in arrests, and leadership during crises. Involved in capturing notorious criminals, including modern-day Frankenstein Doctor.",
     "skills": {
       "Behavioral": 2,
@@ -2874,7 +2874,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword CRIMINAL INVESTIGATION or OCCULT INVESTIGATION cards. If you spend this [RP], you may replace it during the Briefing phase if Leyla Harrison is in the same Team as Agents Monica Reyes or John Doggett.",
+    "gameEffect": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword CRIMINAL INVESTIGATION or OCCULT INVESTIGATION cards. If you spend this [RP], you may replace it during the Briefing phase if Leyla Harrison is in the same Team as Agents Monica Reyes or John Doggett.",
     "bio": "Leyla Harrison was an agent assigned to the FBI. She transitioned from the accounting office to the X-Files unit. Leyla admirably pieced together Mulder and Scully's adventures, later assisting Reyes and Doggett in their investigations.",
     "skills": {
       "Alien Investigation": 1,
@@ -2904,7 +2904,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "If Agent Monica Reyes is in the Field, all Site cards with Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION may be played for 1 [RP] less.",
+    "gameEffect": "If Agent Monica Reyes is in the Field, all Site cards with Keyword ALIEN INVESTIGATION or OCCULT INVESTIGATION may be played for 1 [RP] less.",
     "bio": "Assigned to the X-Files alongside Agent John Doggett, Monica Reyes was initially skeptical but later embraced belief in the paranormal. She's characterized by her intuition, open-mindedness, and spiritual inclinations. Reyes' dynamic nature adds depth to the investigative team, balancing skepticism with a willingness to explore unexplained phenomena.",
     "skills": {
       "Alien Investigation": 2,
@@ -2933,7 +2933,7 @@
       "Independent",
       "Skeptic"
     ],
-    "gameText": "Lizzy Gill allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase. Treat Lizzy Gill as RES 2 if she is in the same Team as Agent Scully. If so, Scully's HEALTH value is decreased by one.",
+    "gameEffect": "Lizzy Gill allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase. Treat Lizzy Gill as RES 2 if she is in the same Team as Agent Scully. If so, Scully's HEALTH value is decreased by one.",
     "bio": "Lizzy Gill was introduced by Margaret Scully to assist during Scully's pregnancy. Later revealed as a scientist working for a faction interested in Scully's baby's genome. Despite suspicion, her actions imply Scully's baby is a natural miracle.",
     "skills": {
       "Alien Investigation": 2,
@@ -2962,7 +2962,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place one token on this card. Discard a token to negate one Bluff. Additionally, if Agent Doggett is on the same Team as Agent Scully, change her Keyword SKEPTIC to BELIEVER.",
+    "gameEffect": "Place one token on this card. Discard a token to negate one Bluff. Additionally, if Agent Doggett is on the same Team as Agent Scully, change her Keyword SKEPTIC to BELIEVER.",
     "bio": "John Doggett is a no-nonsense Agent who frequently applies his down to earth sensibilities. A former a marine and NYPD detective, Doggett joined The X-Files, partnering with Dana Scully and later Monica Reyes, investigating unsolved cases with mysterious or supernatural elements. His son Luke Doggett was abducted and murdered.",
     "skills": {
       "Bureaucracy": 3,
@@ -2991,7 +2991,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place one token on this card. Discard a token and look through your Bureau deck to draw any on Keyword MOTIVE or RESULT Site card. Add that card to your hand. Reshuffle your Bureau deck.",
+    "gameEffect": "Place one token on this card. Discard a token and look through your Bureau deck to draw any on Keyword MOTIVE or RESULT Site card. Add that card to your hand. Reshuffle your Bureau deck.",
     "bio": "Jeffrey Frank Spender is the son of the Cigarette Smoking Man and Cassandra Spender, as well as the paternal half-brother of Agent Fox Mulder. He worked as a Special Agent in the FBI, assigned to the X-Files unit, partnered with Agent Diana Fowley.",
     "skills": {
       "Alien Investigation": 2,
@@ -3020,7 +3020,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Treat Agent Conrad Lozano as RES 1 if the Team he belongs makes an ALIEN INVESTIGATION 5+ skill during the Briefing phase.",
+    "gameEffect": "Treat Agent Conrad Lozano as RES 1 if the Team he belongs makes an ALIEN INVESTIGATION 5+ skill during the Briefing phase.",
     "bio": "Lozano is of Mexican descent but is American by nationality. He works at the INS Service Processing Center in Fresno, CA. Despite his skepticism, Lozano agrees to help Agent Mulder locate Eladio Buente, indicating his willingness to assist in the investigation despite his doubts about the supernatural elements involved.",
     "skills": {
       "Alien Investigation": 1,
@@ -3047,7 +3047,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place two tokens on this card. Discard a token during your Briefing phase as Active player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
+    "gameEffect": "Place two tokens on this card. Discard a token during your Briefing phase as Active player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
     "bio": "Agent Flagler is a meticulous investigator that analyzes evidence and handwriting samples for the FBI. Flagler's attention to detail contributed to unraveling a mysterious kidnapping case, collaborating with Mulder and Scully.",
     "skills": {
       "Criminal Investigation": 1,
@@ -3074,7 +3074,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place two tokens on this card. Discard a token during your Briefing phase as Directed player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
+    "gameEffect": "Place two tokens on this card. Discard a token during your Briefing phase as Directed player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
     "bio": "Agent Chesty Short is a bureaucratic figure that criticizes Mulder and Scully's investigations' expense and efficacy. He doubts their belief in aliens and symbolizes the bureaucratic skepticism that often opposes Mulder and Scully's pursuit of the paranormal.",
     "skills": {
       "Bureaucracy": 3,
@@ -3100,7 +3100,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place one token on Kritschgau. Discard one token to search through your Bureau deck and add a keyword BUREAUCRACY Witness card to your hand. Show it to your opponent and shuffle the deck. Additionally, if he is on the same Team as Agent Mulder, change Mulder's Keyword BELIEVER to SKEPTIC.",
+    "gameEffect": "Place one token on Kritschgau. Discard one token to search through your Bureau deck and add a keyword BUREAUCRACY Witness card to your hand. Show it to your opponent and shuffle the deck. Additionally, if he is on the same Team as Agent Mulder, change Mulder's Keyword BELIEVER to SKEPTIC.",
     "bio": "Michael Kritschgau was an employee of the Department of Defense. He stole a core sample from an FBI lab and later revealed Mulder that UFO conspiracy was a cover-up for military experiments.",
     "skills": {
       "Alien Investigation": 1,
@@ -3129,7 +3129,7 @@
       "Law",
       "Neutral"
     ],
-    "gameText": "If Detective Kresge is in the same Team as Agent Scully, they both gain a +1 to their cumulative OBSERVATION and CRIMINAL INVESTIGATION skills, and a -1 to their SUBTERFUGE and EVIDENCE COLLECTION skills.",
+    "gameEffect": "If Detective Kresge is in the same Team as Agent Scully, they both gain a +1 to their cumulative OBSERVATION and CRIMINAL INVESTIGATION skills, and a -1 to their SUBTERFUGE and EVIDENCE COLLECTION skills.",
     "bio": "Detective John Kresge was a seasoned San Diego police officer that assisted Agent Dana Scully in investigating Mrs. Roberta Sim's apparent suicide. He updated her on Marshall Sim's confession regarding the murder case. This interaction showcases Kresge's role as a reliable ally to Scully.",
     "skills": {
       "Criminal Investigation": 2,
@@ -3158,7 +3158,7 @@
       "Believer",
       "Killer"
     ],
-    "gameText": "Any time during the Game you can sacrifice SAC Darius Michaud. Remove the card from the Game. If so, you may ask any one Characteristic question regarding one opponent's X-File.",
+    "gameEffect": "Any time during the Game you can sacrifice SAC Darius Michaud. Remove the card from the Game. If so, you may ask any one Characteristic question regarding one opponent's X-File.",
     "bio": "Special Agent in Charge Darius Michaud played a significant role in the investigation of the mysterious bombing of a Federal Building in Dallas, Texas. He sacrificed himself in the building while searching for the bomb, demonstrating his dedication to duty and the safety of others.",
     "skills": {
       "Alien Investigation": 1,
@@ -3187,7 +3187,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Treat Dep. Director Alvin Kersh as a RES 3 if he is in the Bureau Section of the table. Kersh also allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
+    "gameEffect": "Treat Dep. Director Alvin Kersh as a RES 3 if he is in the Bureau Section of the table. Kersh also allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
     "bio": "Alvin Kersh obstructed Mulder and Scully's paranormal investigations, assigning them mundane tasks, later Overseeing their work. Kersh, a former U.S. Air Force pilot, brought military discipline to his role. His skepticism towards the X-Files drove bureaucratic actions, often impeding the Agents their pursuit of the Truth.",
     "skills": {
       "Behavioral": 1,
@@ -3216,7 +3216,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Agent Peyton Ritter's BUREAUCRACY skill is increased by one if he and Deputy Alvin Kersh are on the same Team. If Agent Peyton Ritter is in the same Team as Agent Dana Scully, she loses one HEALTH.",
+    "gameEffect": "Agent Peyton Ritter's BUREAUCRACY skill is increased by one if he and Deputy Alvin Kersh are on the same Team. If Agent Peyton Ritter is in the same Team as Agent Dana Scully, she loses one HEALTH.",
     "bio": "Agent Peyton Ritter accompanied Scully to investigate Alfred Fellig, a crime scene photographer suspected of staging deaths. Ritter exhibited a single-minded focus on building a case against Fellig, disregarding Scully's cautious approach and revealing a dependency on the directives of his superior, Alvin Kersh.",
     "skills": {
       "Bureaucracy": 2,
@@ -3245,7 +3245,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "Agent Fowley allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase. If Agent Fowley is in the same Team as Agent Dana Scully, both gain a -1 to their cumulative CRIMINAL INVESTIGATION and EVIDENCE COLLECTION skills.",
+    "gameEffect": "Agent Fowley allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase. If Agent Fowley is in the same Team as Agent Dana Scully, both gain a -1 to their cumulative CRIMINAL INVESTIGATION and EVIDENCE COLLECTION skills.",
     "bio": "As an FBI Special Agent, Diana Fowley investigated Gibson Praise with Agent Spender before joining Mulder's search for an Alien Hybrid. Despite her involvement, her motivations remained mysterious, leading to speculation about her ties to the Syndicate and her role with Mulder.",
     "skills": {
       "Alien Investigation": 2,
@@ -3275,7 +3275,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Detective Norman's LONG RANGE COMBAT skill is doubled against any EVOLUTIONARY adversary played on any Team he belongs. Additionally, if Detective Norman is in any Team including Fox Mulder, add 1 to Norman's CRIMINAL INVESTIGATION skill.",
+    "gameEffect": "Detective Norman's LONG RANGE COMBAT skill is doubled against any EVOLUTIONARY adversary played on any Team he belongs. Additionally, if Detective Norman is in any Team including Fox Mulder, add 1 to Norman's CRIMINAL INVESTIGATION skill.",
     "bio": "Norman was a detective with the Newark County Police Department who was Mulder's contact in New Jersey on what Mulder initially thought was a routine homicide investigation.",
     "skills": {
       "Behavioral": 1,
@@ -3304,7 +3304,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "Place a [RP] token on this card. This may be used to pay for for any CRIMINAL INVESTIGATION or BEHAVIORAL cards. If you use this [RP], replace it during your briefing phase.",
+    "gameEffect": "Place a [RP] token on this card. This may be used to pay for for any CRIMINAL INVESTIGATION or BEHAVIORAL cards. If you use this [RP], replace it during your briefing phase.",
     "bio": "Agent Thomas helped FBI agents Mulder and Scully to find traces that lead them to Lucas Henry, by showing Liz Hawley, a series of Polaroid photographs of a possible suspect.",
     "skills": {
       "Behavioral": 2,
@@ -3332,7 +3332,7 @@
       "Independent",
       "Law"
     ],
-    "gameText": "Place two tokens on Detective Barron. Discard a token to play a Bluff card from your hand at half its cost. Additionally, Barron's BEHAVIORAL and CRIMINAL INVESTIGATION skills are increased by one if he and Agent Kelly Ryan are in the same Team.",
+    "gameEffect": "Place two tokens on Detective Barron. Discard a token to play a Bluff card from your hand at half its cost. Additionally, Barron's BEHAVIORAL and CRIMINAL INVESTIGATION skills are increased by one if he and Agent Kelly Ryan are in the same Team.",
     "bio": "Barron was a detective with the Richmond, Virginia police and the superior of Kelly Ryan. He was an extremely short-tempered man who viewed the involvement of the FBI as an intrusion onto his turf.",
     "skills": {
       "Behavioral": 2,
@@ -3360,7 +3360,7 @@
       "Independent",
       "Law"
     ],
-    "gameText": "Place two tokens on Ambrose Chapel. Discard one token during any skill check to add 1 to Ambrose Chapel's ALIEN INVESTIGATION or SUBTERFUGE skill. If Ambrose Chapel's Team is attacked by the Alien Bounty Hunter, Chapel may not participate in the Combat, but he may still contribute to the Site skill check.",
+    "gameEffect": "Place two tokens on Ambrose Chapel. Discard one token during any skill check to add 1 to Ambrose Chapel's ALIEN INVESTIGATION or SUBTERFUGE skill. If Ambrose Chapel's Team is attacked by the Alien Bounty Hunter, Chapel may not participate in the Combat, but he may still contribute to the Site skill check.",
     "bio": "Ambrose Chapel is an Agent that works for the Central Intelligence Agency (C.I.A.). He was impersonated by the Alien Bounty Hunter.",
     "skills": {
       "Alien Investigation": 1,
@@ -3387,7 +3387,7 @@
       "Independent",
       "Law"
     ],
-    "gameText": "Place one token on Detective Kelly Ryan. Discard a token to look through your Bureau deck any time during the game to draw any one Bluff card. Show the Bluff to your opponent and shuffle the deck.",
+    "gameEffect": "Place one token on Detective Kelly Ryan. Discard a token to look through your Bureau deck any time during the game to draw any one Bluff card. Show the Bluff to your opponent and shuffle the deck.",
     "bio": "Kelly Ryan became a detective with the Richmond Police Department in Virginia after being tutored as a student of Dana Scully. She asked for assistance from Scully and Mulder when investigating a bizarre series of murders and while searching for Dr. Chester Ray Banton.",
     "skills": {
       "Behavioral": 2,
@@ -3414,7 +3414,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "If Agent Craig Willmore is in the same Team as Agent Pendrell, Willmore gains a +1 to his COMPUTER and SCIENCES skills, and a -1 to his ALIEN INVESTIGATION skill.",
+    "gameEffect": "If Agent Craig Willmore is in the same Team as Agent Pendrell, Willmore gains a +1 to his COMPUTER and SCIENCES skills, and a -1 to his ALIEN INVESTIGATION skill.",
     "bio": "Craig Willmore is a Special Agent for the FBI field office in Seattle, Washington. On April 2, 1996, he was assigned to investigate the disappearance of Agents Fox Mulder and Dana Scully.",
     "skills": {
       "Alien Investigation": 3,
@@ -3441,7 +3441,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place one token on this card. Remove one token to add a +1 modifier to any COMPUTER or EVIDENCE COLLECTION skill check made by the Team including Polly.",
+    "gameEffect": "Place one token on this card. Remove one token to add a +1 modifier to any COMPUTER or EVIDENCE COLLECTION skill check made by the Team including Polly.",
     "bio": "Holly, a government worker for the FBI, worked in the Computer Records Office. Influenced by \"Pusher\" Robert Patrick Modell, she leaked confidential records. She also worked in the FBI Communications Center, investigating repeated calls to Skinner's floor, while remaining friends with Agent Dana Scully.",
     "skills": {
       "Computer": 1,
@@ -3467,7 +3467,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place one token on Detective Waltos. Discard one token to search through your Bureau deck and add an Equipment card of cost not higher than 2 [RP]. Add it to your hand, reshuffle your Bureau deck. If the card drawn is the \"Lie Detector\" you may attach it to Waltos immediately for zero cost.",
+    "gameEffect": "Place one token on Detective Waltos. Discard one token to search through your Bureau deck and add an Equipment card of cost not higher than 2 [RP]. Add it to your hand, reshuffle your Bureau deck. If the card drawn is the \"Lie Detector\" you may attach it to Waltos immediately for zero cost.",
     "bio": "Detective Waltos was in charge of the investigation into the murder of Carina Sayles, of which Assistant Director Walter Skinner was accused. Skinner, a suspect in the murder case, was uncooperative, refusing to take a lie-detector test.",
     "skills": {
       "Behavioral": 1,
@@ -3495,7 +3495,7 @@
       "Law",
       "Neutral"
     ],
-    "gameText": "If Marita Covarrubias is in the same Team as Agent Alex Krycek, they both gain +1 to their cumulative ALIEN INVESTIGATION and SCIENCES skills, and -1 to their CRIMINAL INVESTIGATION and EVIDENCE COLLECTION skills.",
+    "gameEffect": "If Marita Covarrubias is in the same Team as Agent Alex Krycek, they both gain +1 to their cumulative ALIEN INVESTIGATION and SCIENCES skills, and -1 to their CRIMINAL INVESTIGATION and EVIDENCE COLLECTION skills.",
     "bio": "Assistant to one of the Special Representatives of the of the UN Secretary General, Marita Covarrubias is a mysterious character with little know background who provided top secret information to Agent Fox Mulder, whilst working with The Cigarette-Smoking Man.",
     "skills": {
       "Alien Investigation": 2,
@@ -3522,7 +3522,7 @@
       "FBI",
       "Skeptic"
     ],
-    "gameText": "Place a token on this card. Discard a token to move Agent Dana Scully from anywhere on the table to the Team Agent Schoniger is in. Scully may assist in any skill check made by the team. In this manner, Scully may assist on two Sites in one turn.",
+    "gameEffect": "Place a token on this card. Discard a token to move Agent Dana Scully from anywhere on the table to the Team Agent Schoniger is in. Scully may assist in any skill check made by the team. In this manner, Scully may assist on two Sites in one turn.",
     "bio": "Agent Schoniger, with 30 years of FBI experience, assists Scully in analyzing Mulder's hypnosis tape about Samantha's abduction, attributing Mulder's memories to compensatory fantasy, and believes Samantha was likely killed in 1973.",
     "skills": {
       "Behavioral": 2,

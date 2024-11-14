@@ -324,7 +324,7 @@
       "Neutral",
       "Believer"
     ],
-    "gameText": "Once per game, Agent Patterson may attack any Team investigating a Site as if he were an Adversary with the appropriate Activators. If a card is played that Negates him he is placed back into his controller's Field. If he is reduced to zero HEALTH, he is removed from the game.",
+    "gameEffect": "Once per game, Agent Patterson may attack any Team investigating a Site as if he were an Adversary with the appropriate Activators. If a card is played that Negates him he is placed back into his controller's Field. If he is reduced to zero HEALTH, he is removed from the game.",
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -353,7 +353,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "Place three tokens on Agent Pendrell. During a skill check, discard one token to add 1 to Agent Pendrell's COMPUTER, SCIENCES, or MEDICAL skill.",
+    "gameEffect": "Place three tokens on Agent Pendrell. During a skill check, discard one token to add 1 to Agent Pendrell's COMPUTER, SCIENCES, or MEDICAL skill.",
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -378,7 +378,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Agent Nemhauser's BEHAVIORAL and CRIMINAL INVESTIGATION skills are increased by one if he and Agent Patterson are on the same Team.",
+    "gameEffect": "Agent Nemhauser's BEHAVIORAL and CRIMINAL INVESTIGATION skills are increased by one if he and Agent Patterson are on the same Team.",
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -401,7 +401,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place one token on this card. Remove one token to negate a Keyword HEALING card played by your opponent.",
+    "gameEffect": "Place one token on this card. Remove one token to negate a Keyword HEALING card played by your opponent.",
     "tags": [
       "Negate"
     ],
@@ -430,7 +430,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place one token on this card. Remove one token to examine an opponent's hand and remove one of the cards in his hand from the game.",
+    "gameEffect": "Place one token on this card. Remove one token to examine an opponent's hand and remove one of the cards in his hand from the game.",
     "tags": [
       "Examine Hand"
     ],
@@ -461,7 +461,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "If Detective White is in the same Team as Agent Mulder, they both gain a +1 to their cumulative OCCULT INVESTIGATION and CRIMINAL INVESTIGATION skills, and a -1 to their OBSERVATION and BEHAVIORAL skills.",
+    "gameEffect": "If Detective White is in the same Team as Agent Mulder, they both gain a +1 to their cumulative OCCULT INVESTIGATION and CRIMINAL INVESTIGATION skills, and a -1 to their OBSERVATION and BEHAVIORAL skills.",
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -486,7 +486,7 @@
       "Law",
       "Independent"
     ],
-    "gameText": "Place two tokens on Detective Manners. Discard one token to search through your Bureau deck and add a Witness card to your hand. Show the Witness to your opponent and shuffle the deck.",
+    "gameEffect": "Place two tokens on Detective Manners. Discard one token to search through your Bureau deck and add a Witness card to your hand. Show the Witness to your opponent and shuffle the deck.",
     "tags": [
       "Search"
     ],

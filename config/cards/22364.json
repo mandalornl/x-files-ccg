@@ -348,7 +348,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameText": "Place a token on Agent Bonnecaze. At any time during the game, discard a token to force any Agent to return to the Bureau immediately. This effect may not be used to interrupt Combat. An Agent moved in this manner may not contribute to any skill checks this turn.",
+    "gameEffect": "Place a token on Agent Bonnecaze. At any time during the game, discard a token to force any Agent to return to the Bureau immediately. This effect may not be used to interrupt Combat. An Agent moved in this manner may not contribute to any skill checks this turn.",
     "bio": "Agent Bonnecaze was in charge of the Office of Professional Conduct's investigation into the death of Carina Sayles and the murder charges against Assistant Director Walter Skinner.",
     "createdBy": "NXT Games, USPCC"
   },
@@ -376,7 +376,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "An opposing Conspiracy player may pay two conspiracy points to send Detective Chao back to your Bureau if Detective Chao is investigating a Site with CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, or BUREAUCRACY.",
+    "gameEffect": "An opposing Conspiracy player may pay two conspiracy points to send Detective Chao back to your Bureau if Detective Chao is investigating a Site with CRIMINAL INVESTIGATION, EVIDENCE COLLECTION, or BUREAUCRACY.",
     "bio": "Detective Chao worked as an enforcer for one of China Town's Tong gangs. When Agents Fox Mulder and Dana Scully were called in to investigate a series of strange deaths, Chao had a change of heart and helped them to stop the Tong from killing them.",
     "createdBy": "NXT Games, USPCC"
   },
@@ -401,7 +401,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "When an Agent in Fuller's Team is forced to go to the Hospital, Agent Fuller may immediately elect to \"escort\" the Agent to the Hospital. Fuller may only do this if he would not normally be required to go to the Hospital himself. No other cards may be played on an Agent that Fuller escorts. This will prevent cards from being played on the escorted Agent.",
+    "gameEffect": "When an Agent in Fuller's Team is forced to go to the Hospital, Agent Fuller may immediately elect to \"escort\" the Agent to the Hospital. Fuller may only do this if he would not normally be required to go to the Hospital himself. No other cards may be played on an Agent that Fuller escorts. This will prevent cards from being played on the escorted Agent.",
     "bio": "Agent Brian Fuller was assigned to investigate the shooting of Assistant Director Walter Skinner by Luis Cardinal. Later, Fuller acted as a bodyguard for Skinner while he was hospitalized.",
     "createdBy": "NXT Games, USPCC"
   },
@@ -428,7 +428,7 @@
       "Law",
       "Believer"
     ],
-    "gameText": "Treat Agent Burst as a RES 2 if he is in the Field.",
+    "gameEffect": "Treat Agent Burst as a RES 2 if he is in the Field.",
     "bio": "Agent Frank Burst was the first to capture the contract killer known as \"Pusher\". Burst called Agents Fox Mulder and Dana Scully to help apprehend him.",
     "createdBy": "NXT Games, USPCC"
   },
@@ -454,7 +454,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Place two tokens on this card. Discard a token to draw one card from the top of your Bureau deck for zero [RP] cost any time you are the active player.",
+    "gameEffect": "Place two tokens on this card. Discard a token to draw one card from the top of your Bureau deck for zero [RP] cost any time you are the active player.",
     "bio": "Agent Linda Caleca was assigned to investigate the shooting of Assistant Director Walter Skinner. She identified the shooter as Luis Cardinal.",
     "createdBy": "NXT Games, USPCC"
   },
@@ -479,7 +479,7 @@
       "FBI",
       "Law"
     ],
-    "gameText": "Agent Brophy may use MARTIAL ARTS cards. He may add 1 to any damage caused by EQUIPMENT card attached to him that have a CLOSE RANGE COMBAT or LONG RANGE COMBAT modifier.",
+    "gameEffect": "Agent Brophy may use MARTIAL ARTS cards. He may add 1 to any damage caused by EQUIPMENT card attached to him that have a CLOSE RANGE COMBAT or LONG RANGE COMBAT modifier.",
     "bio": "Agent Brophy, an FBI SWAT Lieutenant, worked with Agents Fox Mulder and Dana Scully, to apprehend the hit man Robert Modell, a.k.a. \"Pusher\".",
     "createdBy": "NXT Games, USPCC"
   },
