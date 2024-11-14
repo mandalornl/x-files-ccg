@@ -133,7 +133,7 @@
       "Health": 3,
       "Resources": 1
     },
-    "gameText": "Place a token on this card. Discard a token and look through your Bureau deck to draw any Site that asks a MOTIVE question. Add it to your hand, reshuffle your Bureau deck.",
+    "gameEffect": "Place a token on this card. Discard a token and look through your Bureau deck to draw any Site that asks a MOTIVE question. Add it to your hand, reshuffle your Bureau deck.",
     "tags": [
       "Search"
     ]

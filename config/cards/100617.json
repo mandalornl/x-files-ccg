@@ -24,7 +24,7 @@
       "Cute",
       "Believer"
     ],
-    "gameText": "Place one token on this card. Remove a token to negate one Keyword CREATURE Adversary.",
+    "gameEffect": "Place one token on this card. Remove a token to negate one Keyword CREATURE Adversary.",
     "bio": "As a toddler, Delaney Arvidson was imbued with psychokinetic abilities, the result of prolonged exposure to mystical runes hidden within her favorite stuffed animal. Agents Mulder and Scully learned of her powers while investigating a string of grisly murders near Delaney's home.",
     "createdBy": "Stephen Arvidson"
   },
@@ -92,7 +92,7 @@
       "Information",
       "Believer"
     ],
-    "gameText": "Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck.",
+    "gameEffect": "Place two tokens on this card. Remove a token to search through your Bureau deck and add one Keyword RESOURCE card to your hand. Show the card to your opponent and shuffle your deck.",
     "bio": "Stephen Arvidson is a reference librarian and the father of Delaney Arvidson. He and his wife sought to conceal their daughter's psychokinetic abilities. His research into Texas folklore uncovered evidence of a monster stalking the outskirts of Houston.",
     "createdBy": "Stephen Arvidson"
   },
@@ -420,7 +420,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place one token on this card. Discard a token to negate one non-Combat effect that forces an Agent on the Team to go to the Hospital.",
+    "gameEffect": "Place one token on this card. Discard a token to negate one non-Combat effect that forces an Agent on the Team to go to the Hospital.",
     "bio": "Yumi Sagiuchi Shultz is violist for the Bergen Philharmonic Orchestra in Norway. She and her husband, Martin, encountered Agents Mulder and Scully during their investigation into several bizarre attacks by troll-like creatures.",
     "createdBy": "Stephen Arvidson"
   },
@@ -549,7 +549,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place 1 [RP] on this card. This [RP] may be used to pay for any ACTIVE card. If you use this [RP], replace it during your Briefing Phase.",
+    "gameEffect": "Place 1 [RP] on this card. This [RP] may be used to pay for any ACTIVE card. If you use this [RP], replace it during your Briefing Phase.",
     "bio": "As a supply chain manager, Guillaume Saladin ensures that the store he oversees is consistently stocked. Guillaume watches 90's TV shows and collects vinyl records. His beloved cat, Choléra, is never far from his side.",
     "createdBy": "Guillaume Saladin"
   },
@@ -638,7 +638,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Place a token on this card. Remove a token to search your Bureau deck to draw any one Keyword Equipment card. Show this card to your opponent, add it to your hand and shuffle your deck.",
+    "gameEffect": "Place a token on this card. Remove a token to search your Bureau deck to draw any one Keyword Equipment card. Show this card to your opponent, add it to your hand and shuffle your deck.",
     "bio": "As a self-proclaimed \"data nerd\", David Pease provides information, research and resources. Growing up in a region rife with paranormal activities, he is ready to bring his research to practical use. David has keen observation skills and firearms training.",
     "createdBy": "David Pease"
   },
@@ -691,7 +691,7 @@
       "Independent",
       "Believer"
     ],
-    "gameText": "Agent Berns may start the game with the \"Uniden Bearcat UBC-125XLT\" Equipment card attached at 0 cost. Additionally, if Agent Berns is in the Field, Joseph Patnik can not be played.",
+    "gameEffect": "Agent Berns may start the game with the \"Uniden Bearcat UBC-125XLT\" Equipment card attached at 0 cost. Additionally, if Agent Berns is in the Field, Joseph Patnik can not be played.",
     "bio": "Works at a small software company and is an avid military aircraft enthusiast in his spare time. Joost encountered Agents Mulder and Scully once while investigating an UFO sighting above a military air base of the RNLAF. He likes to think they are out there…somewhere.",
     "createdBy": "Joost Berns"
   },
