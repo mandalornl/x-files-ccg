@@ -817,7 +817,7 @@
       "Alien Investigation"
     ],
     "prerequisite": "OBSERVATION 5+ or ALIEN INVESTIGATION 5+",
-    "question": "You may ask one MOTIVE question or a METHOD question.",
+    "question": "You may ask one MOTIVE question or one METHOD question.",
     "dialogue": "\"Actually I'd rather know who sold you the secret.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -838,7 +838,7 @@
       "Alien Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ or ALIEN INVESTIGATION 5+",
-    "question": "You may ask one AFFILIATION question or a MOTIVE question.",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
     "dialogue": "\"This place isn't even on the map. How'd you get here?\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -859,7 +859,7 @@
       "Criminal Investigation"
     ],
     "prerequisite": "BEHAVIORAL 5+ or CRIMINAL INVESTIGATION 5+",
-    "question": "You may ask one AFFILIATION question or a METHOD question.",
+    "question": "You may ask one AFFILIATION question or one METHOD question.",
     "dialogue": "\"Chickens feed on chickens?\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -899,7 +899,7 @@
       "Subterfuge"
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 5+ or SUBTERFUGE 5+",
-    "question": "You may ask one AFFILIATION question or a MOTIVE question.",
+    "question": "You may ask one AFFILIATION question or one MOTIVE question.",
     "dialogue": "\"Roche drove a white El Camino, Scully. I saw it in my dream…\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -920,7 +920,7 @@
       "Subterfuge"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or SUBTERFUGE 5+",
-    "question": "You may ask one AFFILIATION question or a METHOD question.",
+    "question": "You may ask one AFFILIATION question or one METHOD question.",
     "dialogue": "Mulder: \"June 30, 1908. Tungus tribesmen and Russian fur traders look up into the southeastern Siberian sky and see a fireball streaking to Earth. When it hit the atmosphere, it created a series of cataclysmic explosions that are considered to be the largest single cosmic event in the history of civilization. Two thousand times the force of the bomb that was dropped on Hiroshima.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -941,7 +941,7 @@
       "Evidence Collection"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one AFFILIATION question or a METHOD question.",
+    "question": "You may ask one AFFILIATION question or one METHOD question.",
     "dialogue": "Mulder: \"Excuse me, sir, Max Fenig?\"\nGardener: \"Over there.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
