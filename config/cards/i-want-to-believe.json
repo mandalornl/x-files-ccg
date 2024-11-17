@@ -764,7 +764,7 @@
   {
     "id": "XF08-0031v1",
     "title": "US Naval Station, San Diego",
-    "cost": "0 RP",
+    "cost": "1 RP",
     "episode": "Piper Maru",
     "type": "Site",
     "keywords": [
@@ -776,8 +776,8 @@
       "Observation",
       "Alien Investigation"
     ],
-    "prerequisite": "OBSERVATION 4+ AND ALIEN INVESTIGATION 4+",
-    "question": "You may ask one METHOD question or RESULT or MOTIVE question.",
+    "prerequisite": "OBSERVATION 3+ AND ALIEN INVESTIGATION 3+",
+    "question": "You may ask one METHOD, one RESULT or one MOTIVE question.",
     "dialogue": "Morgan: \"What the hell is that?\"\nMulder: \"Looks like the fuselage of a plane.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -834,10 +834,10 @@
       "Multi",
       "Affiliation",
       "Motive",
-      "Behavioral",
-      "Alien Investigation"
+      "Alien Investigation",
+      "Behavioral"
     ],
-    "prerequisite": "BEHAVIORAL 5+ or ALIEN INVESTIGATION 5+",
+    "prerequisite": "ALIEN INVESTIGATION 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION question or one MOTIVE question.",
     "dialogue": "\"This place isn't even on the map. How'd you get here?\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
@@ -1156,7 +1156,7 @@
   {
     "id": "XF08-0050v1",
     "title": "T3 Connection, Fairfax County, Virginia",
-    "cost": "2 RP",
+    "cost": "1 RP",
     "episode": "Kill Switch",
     "type": "Site",
     "keywords": [
@@ -1165,8 +1165,9 @@
       "Affiliation",
       "Computer"
     ],
-    "prerequisite": "COMPUTER 4+",
+    "prerequisite": "COMPUTER 5+",
     "question": "You may ask one AFFILIATION question.",
+    "gameEffect": "Bluffs played at this Site cost 1 additional [CP].",
     "dialogue": "\"Yeah, I've found something down in Fairfax County. A derelict chicken farm with a T3 connection, paid for by Aleph Industries, Palo Alto, of which there's no other record anywhere.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1238,7 +1239,7 @@
   {
     "id": "XF08-0054v1",
     "title": "Santa Monica Peer, Los Angeles, CA",
-    "cost": "0 RP",
+    "cost": "1 RP",
     "episode": "The Amazing Maleeni",
     "type": "Site",
     "keywords": [
@@ -1247,10 +1248,10 @@
       "Motive",
       "Method",
       "Result",
-      "Behavioral",
-      "Criminal Investigation"
+      "Criminal Investigation",
+      "Evidence Collection"
     ],
-    "prerequisite": "BEHAVIORAL 5+ and CRIMINAL INVESTIGATION 5+",
+    "prerequisite": "CRIMINAL INVESTIGATION 3+ and EVIDENCE COLLECTION 3+",
     "question": "You may ask one MOTIVE, one METHOD or one RESULT question.",
     "dialogue": "\"Bosco's passes with the cups and balls. Wah-day… Chubio… Colerader. Three gone… And yet, three return.\" - Maleeni",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
@@ -1345,19 +1346,19 @@
   {
     "id": "XF08-0059v1",
     "title": "Sangradura, Mexico",
-    "cost": "0 RP",
+    "cost": "1 RP",
     "episode": "John Doe",
     "type": "Site",
     "keywords": [
       "Site",
       "Multi",
+      "Affiliation",
       "Motive",
-      "Method",
       "Result",
       "Criminal Investigation",
       "Subterfuge"
     ],
-    "prerequisite": "CRIMINAL INVESTIGATION 5+ and SUBTERFUGE 5+",
+    "prerequisite": "CRIMINAL INVESTIGATION 3+ and SUBTERFUGE 3+",
     "question": "You may ask one AFFILIATION, one MOTIVE, or one RESULT question.",
     "dialogue": "\"Hey, guard! Come here! Andale! Hey, guard! Somebody come here!\" - Doggett",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
@@ -1406,7 +1407,7 @@
   },
   {
     "id": "XF08-0062v1",
-    "title": "Field Office Crime Lab (FBI) – Version 1",
+    "title": "Field Office Crime Lab (FBI)",
     "cost": "2 RP",
     "episode": "End Game",
     "type": "Site",
@@ -1424,7 +1425,7 @@
   },
   {
     "id": "XF08-0063v1",
-    "title": "Field Office Crime Lab (FBI) – Version 2",
+    "title": "Field Office Crime Lab (FBI)",
     "cost": "2 RP",
     "episode": "The End",
     "type": "Site",
@@ -1598,7 +1599,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Place this card next to a Site card as a Resource. The next card your opponent plays at this Site must be discarded after it is paid for, except for cards that negate this card or Combat cards. Then, discard this card. Otherwise, the card remains in play until the Site is discarded.",
+    "gameText": "Place this card next to a Site card as a Resource. The next card your opponent plays at this Site must be discarded with no effect after it is paid for, except for cards that negate this card or Combat cards. Then, discard this card. If no such card is played, this card remains in play until the Site is discarded.",
     "dialogue": "\"I'm telling you the truth. I only want to help these people.\" - Absalom",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -2138,7 +2139,7 @@
   {
     "id": "XF08-0099v1",
     "title": "Never Again",
-    "cost": "2 CP",
+    "cost": "4 CP",
     "episode": "Never Again",
     "type": "Bluff",
     "keywords": [
@@ -2151,7 +2152,7 @@
       "Agent",
       "Site"
     ],
-    "gameText": "Attach this card to any Agent in a Team investigating a Site to decrease all Agent's skills by one (LRC, CRC and HEALTH are not decreased). The final values cannot be negative. Discard this card when a Healing card is played on the Agent.",
+    "gameText": "Attach this card to any Agent in a Team investigating a Site to decrease all Agent's skills by one (LRC, CRC and HEALTH are not decreased). The final values cannot be negative. Discard this card when the Agent visits the Hospital.",
     "dialogue": "\"Never say never. Yeah, sometimes I wish I were that impulsive.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -2476,7 +2477,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Remove from play any Agent in the Field with the Keyword FBI. The Agent may not contribute their skills to any check this turn. Move the Agent to the Field during the next Briefing Phase.",
+    "gameText": "Remove from play any Agent with the Keyword FBI in a Team investigating this Site. The Agent may not contribute their skills to any check this turn. Move the Agent back to the Field during the next Briefing Phase.",
     "dialogue": "\"This card's not meant for me. It's yours.\" - Puppet",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -2643,6 +2644,32 @@
   },
   {
     "id": "XF08-0122v1",
+    "title": "Executive Assistant Arlene",
+    "cost": "2 RP",
+    "episode": "S.R. 819",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law"
+    ],
+    "gameEffect": "Treat Arlene as RES 2 if she and Assistant Director Walter Skinner are both in the Bureau.",
+    "bio": "Arlene worked as an executive assistant for the FBI. She helped Assistant Director Walter Skinner and the FBI investigate various cases and incidents, and was present during significant events involving Agents Fox Mulder and Dana Scully.",
+    "skills": {
+      "Bureaucracy": 1,
+      "Computer": 1,
+      "Evidence Collection": 2,
+      "Long Range Combat": 1,
+      "Close Range Combat": 1,
+      "Health": 3,
+      "Resources": 0
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "XF08-0123v1",
     "title": "Forensic Analyst John Amis",
     "cost": "2 RP",
     "episode": "The X-Files Game",
@@ -2662,32 +2689,6 @@
       "Long Range Combat": 1,
       "Close Range Combat": 1,
       "Health": 4,
-      "Resources": 0
-    },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "XF08-0123v1",
-    "title": "Executive Assistant Arlene",
-    "cost": "2 RP",
-    "episode": "S.R. 819",
-    "type": "Agent",
-    "keywords": [
-      "Agent",
-      "FBI",
-      "Law"
-    ],
-    "gameEffect": "Treat Arlene as RES 2 if she and Assistant Director Walter Skinner are both in the Bureau.",
-    "bio": "Arlene worked as an executive assistant for the FBI. She helped Assistant Director Walter Skinner and the FBI investigate various cases and incidents, and was present during significant events involving Agents Fox Mulder and Dana Scully.",
-    "skills": {
-      "Bureaucracy": 1,
-      "Computer": 1,
-      "Evidence Collection": 2,
-      "Long Range Combat": 1,
-      "Close Range Combat": 1,
-      "Health": 3,
       "Resources": 0
     },
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
