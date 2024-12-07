@@ -1,215 +1,5 @@
 [
   {
-    "id": "PR08-001-BMR",
-    "title": "Briefed on secrets",
-    "cost": "3 CP",
-    "episode": "Zero Sum",
-    "type": "Event",
-    "keywords": [
-      "Event"
-    ],
-    "activators": [
-      "Conspiracy"
-    ],
-    "gameText": "Discard an Equipment card in play (your choice).",
-    "dialogue": "\"I'm starting to get used to the dark.\" - Skinner",
-    "createdBy": "Alfredo Sánchez, Billie Reid",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-002-RCZ",
-    "title": "FBI Safe House, Annandale, Virginia",
-    "cost": "2 RP",
-    "episode": "Kitsunegary",
-    "type": "Site",
-    "keywords": [
-      "Site",
-      "Multi",
-      "Method",
-      "Result",
-      "Behavioral",
-      "Subterfuge"
-    ],
-    "prerequisite": "BEHAVIORAL 5+ or SUBTERFUGE 5+",
-    "question": "You may ask on METHOD or one RESULT question. Cost of Adversary cards played on this Site is increased by 2.",
-    "dialogue": "\"She was waving it under our nose, she was playing with us. Modell told me, he warned me not to play the game. I think it was her game he was talking about.\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-003-ASE",
-    "title": "Samantha's Diary",
-    "cost": "1 RP",
-    "episode": "Closure",
-    "type": "Equipment",
-    "keywords": [
-      "Equipment",
-      "Standard"
-    ],
-    "activators": [
-      "Field"
-    ],
-    "gameText": "Discard Samantha's Diary to return one card from your hand to the Bureau deck, then shuffle the deck. At the beginning of your next Briefing phase, you may draw two additional cards.",
-    "dialogue": "Scully: \"It's a diary. It's your sister's.\"",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-004-PSE",
-    "title": "Senior Director Carter",
-    "cost": "5 CP",
-    "episode": "Anasazi",
-    "type": "Agent",
-    "keywords": [
-      "Agent",
-      "FBI",
-      "Law",
-      "Skeptic"
-    ],
-    "gameEffect": "Place one token on Senior Director Carter. Discard a token to take a target Agent (your choice) from any Team in the Field and send him back to the Bureau.",
-    "bio": "Senior Director Carter is a high-ranking FBI official who interrogates Agent Dana Scully in Skinner's office regarding Agent Mulder's erratic behavior. He represents the bureaucratic concerns of the FBI as Mulder's investigations draw increasing scrutiny and institutional pressure.",
-    "skills": {
-      "Alien Investigation": 2,
-      "Bureaucracy": 3,
-      "Computer": 1,
-      "Criminal Investigation": 2,
-      "Evidence Collection": 2,
-      "Long Range Combat": 2,
-      "Close Range Combat": 2,
-      "Health": 4,
-      "Resources": 1
-    },
-    "createdBy": "Alfredo Sánchez, Pablo Sánchez",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-005-GRG",
-    "title": "The Elder's Call",
-    "cost": "4 RP",
-    "episode": "731",
-    "type": "Event",
-    "keywords": [
-      "Event",
-      "Resource"
-    ],
-    "activators": [
-      "Active",
-      "Witness",
-      "Site"
-    ],
-    "gameText": "Put two tokens on this card. You can use a token to keep at your side a non-resource Witness card or a Site for an additional turn. Remove a token each time you use this ability. You can use both in the same turn. Remove this card from the game once all the tokens have been removed.",
-    "dialogue": "\"Mister Mulder, I have someone here who'd like to speak with you.\" - First Elder",
-    "createdBy": "Alfredo Sánchez, Greg Fremaux",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-006-RCZ-pl",
-    "title": "Piękny Umysł",
-    "cost": "1 *P",
-    "episode": "The End",
-    "type": "Event",
-    "keywords": [
-      "Event"
-    ],
-    "activators": [
-      "Active",
-      "Conspiracy"
-    ],
-    "gameText": "Zagraj te karte aby zobaczyc 3 karty z gory swojej talii Biura. Nastepnie mozesz umiescic je z powrotem w dowolnej kolejnosci.",
-    "dialogue": "\"Skad wiesz co zamierza zrobic twoj przeciwnik? Dostajesz sie do jego glowy, czytasz jego mysli.\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-006-RCZ-en",
-    "title": "A privileged mind",
-    "cost": "1 *P",
-    "episode": "The End",
-    "type": "Event",
-    "keywords": [
-      "Event"
-    ],
-    "activators": [
-      "Active",
-      "Conspiracy"
-    ],
-    "gameText": "Play this card to look at the top three cards of your Bureau deck. Then, you may place them back in any order.",
-    "dialogue": "\"How you know what your opponent's going to do? You get inside his head. You read his thoughts.\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-007-ASE",
-    "title": "Pinker Rawls",
-    "cost": "6 CP",
-    "episode": "Trevor",
-    "type": "Adversary",
-    "keywords": [
-      "Adversary",
-      "Occult",
-      "Creature"
-    ],
-    "activators": [
-      "Conspiracy",
-      "Method Site",
-      "Result Site"
-    ],
-    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to Pinker Rawls.",
-    "dialogue": "\"Trevor what?\" - Pinker Rawls",
-    "skills": {
-      "Long Range Combat": 0,
-      "Close Range Combat": 5,
-      "Health": 5
-    },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-008-ASE",
-    "title": "Unstoppable Ally",
-    "cost": "3 *P",
-    "episode": "Nothing Important Happened Today (II)",
-    "type": "Combat",
-    "keywords": [
-      "Combat"
-    ],
-    "activators": [
-      "Combat"
-    ],
-    "gameText": "Play this card during a Close Range Combat round to search your Bureau Deck for any one card with the keyword COMBAT. Reveal the card to your opponent and add it to your hand. Shuffle your Bureau deck. If the card is immediately playable, You may do so for zero cost.",
-    "dialogue": "\"You didn't trust me.\" - Shannon McMahon",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
-    "id": "PR08-009-RCZ",
-    "title": "Messages from beyond",
-    "cost": "3 *P",
-    "episode": "Closure",
-    "type": "Event",
-    "keywords": [
-      "Event"
-    ],
-    "activators": [
-      "Active",
-      "Conspiracy"
-    ],
-    "gameText": "Play this card to draw four cards, then place any two cards from your hand on top of your Bureau deck or in your discard pile.",
-    "dialogue": "\"Close your eyes and let them come to you. They will come to you if you're ready to see.\" - Harold Piller",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "I Want to Believe",
-    "rarity": "Community"
-  },
-  {
     "id": "XF08-0001v1",
     "title": "Midnight Chase",
     "cost": "1 RP",
@@ -7713,6 +7503,216 @@
       "Close Range Combat": 6,
       "Health": 7
     },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-001-BMR",
+    "title": "Briefed on secrets",
+    "cost": "3 CP",
+    "episode": "Zero Sum",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Discard an Equipment card in play (your choice).",
+    "dialogue": "\"I'm starting to get used to the dark.\" - Skinner",
+    "createdBy": "Alfredo Sánchez, Billie Reid",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-002-RCZ",
+    "title": "FBI Safe House, Annandale, Virginia",
+    "cost": "2 RP",
+    "episode": "Kitsunegary",
+    "type": "Site",
+    "keywords": [
+      "Site",
+      "Multi",
+      "Method",
+      "Result",
+      "Behavioral",
+      "Subterfuge"
+    ],
+    "prerequisite": "BEHAVIORAL 5+ or SUBTERFUGE 5+",
+    "question": "You may ask on METHOD or one RESULT question. Cost of Adversary cards played on this Site is increased by 2.",
+    "dialogue": "\"She was waving it under our nose, she was playing with us. Modell told me, he warned me not to play the game. I think it was her game he was talking about.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-003-ASE",
+    "title": "Samantha's Diary",
+    "cost": "1 RP",
+    "episode": "Closure",
+    "type": "Equipment",
+    "keywords": [
+      "Equipment",
+      "Standard"
+    ],
+    "activators": [
+      "Field"
+    ],
+    "gameText": "Discard Samantha's Diary to return one card from your hand to the Bureau deck, then shuffle the deck. At the beginning of your next Briefing phase, you may draw two additional cards.",
+    "dialogue": "Scully: \"It's a diary. It's your sister's.\"",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-004-PSE",
+    "title": "Senior Director Carter",
+    "cost": "5 CP",
+    "episode": "Anasazi",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "gameEffect": "Place one token on Senior Director Carter. Discard a token to take a target Agent (your choice) from any Team in the Field and send him back to the Bureau.",
+    "bio": "Senior Director Carter is a high-ranking FBI official who interrogates Agent Dana Scully in Skinner's office regarding Agent Mulder's erratic behavior. He represents the bureaucratic concerns of the FBI as Mulder's investigations draw increasing scrutiny and institutional pressure.",
+    "skills": {
+      "Alien Investigation": 2,
+      "Bureaucracy": 3,
+      "Computer": 1,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "createdBy": "Alfredo Sánchez, Pablo Sánchez",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-005-GRG",
+    "title": "The Elder's Call",
+    "cost": "4 RP",
+    "episode": "731",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Resource"
+    ],
+    "activators": [
+      "Active",
+      "Witness",
+      "Site"
+    ],
+    "gameText": "Put two tokens on this card. You can use a token to keep at your side a non-resource Witness card or a Site for an additional turn. Remove a token each time you use this ability. You can use both in the same turn. Remove this card from the game once all the tokens have been removed.",
+    "dialogue": "\"Mister Mulder, I have someone here who'd like to speak with you.\" - First Elder",
+    "createdBy": "Alfredo Sánchez, Greg Fremaux",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-006-RCZ-pl",
+    "title": "Piękny Umysł",
+    "cost": "1 *P",
+    "episode": "The End",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Zagraj te karte aby zobaczyc 3 karty z gory swojej talii Biura. Nastepnie mozesz umiescic je z powrotem w dowolnej kolejnosci.",
+    "dialogue": "\"Skad wiesz co zamierza zrobic twoj przeciwnik? Dostajesz sie do jego glowy, czytasz jego mysli.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-006-RCZ-en",
+    "title": "A privileged mind",
+    "cost": "1 *P",
+    "episode": "The End",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to look at the top three cards of your Bureau deck. Then, you may place them back in any order.",
+    "dialogue": "\"How you know what your opponent's going to do? You get inside his head. You read his thoughts.\" - Mulder",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-007-ASE",
+    "title": "Pinker Rawls",
+    "cost": "6 CP",
+    "episode": "Trevor",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Occult",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Method Site",
+      "Result Site"
+    ],
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to Pinker Rawls.",
+    "dialogue": "\"Trevor what?\" - Pinker Rawls",
+    "skills": {
+      "Long Range Combat": 0,
+      "Close Range Combat": 5,
+      "Health": 5
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-008-ASE",
+    "title": "Unstoppable Ally",
+    "cost": "3 *P",
+    "episode": "Nothing Important Happened Today (II)",
+    "type": "Combat",
+    "keywords": [
+      "Combat"
+    ],
+    "activators": [
+      "Combat"
+    ],
+    "gameText": "Play this card during a Close Range Combat round to search your Bureau Deck for any one card with the keyword COMBAT. Reveal the card to your opponent and add it to your hand. Shuffle your Bureau deck. If the card is immediately playable, You may do so for zero cost.",
+    "dialogue": "\"You didn't trust me.\" - Shannon McMahon",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-009-RCZ",
+    "title": "Messages from beyond",
+    "cost": "3 *P",
+    "episode": "Closure",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Active",
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to draw four cards, then place any two cards from your hand on top of your Bureau deck or in your discard pile.",
+    "dialogue": "\"Close your eyes and let them come to you. They will come to you if you're ready to see.\" - Harold Piller",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
