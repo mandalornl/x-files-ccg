@@ -1233,7 +1233,7 @@
   },
   {
     "id": "XF08-0064v1",
-    "title": "Phil's Dinner",
+    "title": "Phil's Diner",
     "cost": "2 RP",
     "episode": "Humbug",
     "type": "Site",
@@ -4292,21 +4292,20 @@
   },
   {
     "id": "XF08-0203v1",
-    "title": "DNA Disclosure",
-    "cost": "2 RP",
-    "episode": "Three Words",
+    "title": "Agent Krycek, Killed by Skinner",
+    "cost": "10 CP",
+    "episode": "Existence",
     "type": "Event",
     "keywords": [
       "Event",
-      "Alien Investigation",
-      "Computer",
-      "Resource"
+      "Killer",
+      "Alien Investigation"
     ],
     "activators": [
-      "Active"
+      "Conspiracy"
     ],
-    "gameText": "Play on one Team in the Field. If the Team makes a COMPUTER skill check 5+, then they may add 3 to an ALIEN INVESTIGATION Site skill check (or 1 to any other Site skill check). Discard this card after you have used the modifier.",
-    "dialogue": "\"There going to learn that they've been targeted because of their genetic profiles for abduction and replacement by alien facsimiles.\" - Mulder",
+    "gameText": "If your opponent includes Agent Krycek in any skill check in the Field, Agent Krycek is instantly killed and removed from the game.",
+    "dialogue": "\"It's going to take more bullets than you can… ever fire to win this game. But one bullet… and I can give you a thousand lives.\" - Alex Krycek",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
@@ -5208,7 +5207,7 @@
       "Event"
     ],
     "activators": [
-      "Active",
+      "Conspiracy",
       "Agent"
     ],
     "gameText": "Play this card at the beginning of the Briefing phase. Remove target Agent from play (Equipment and tokens included) and replace it with this card, representing a doppelganger with all skills reduced by one. Owner may use the Agent normally. At the end of the turn, discard this card and return the original Agent.",
