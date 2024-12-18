@@ -316,7 +316,8 @@ export default {
           const hit = [
             card.id,
             card.title,
-            card.gameText
+            card.gameText,
+            card.gameEffect
           ].filter(Boolean).some((value) => (
             value.toLocaleLowerCase().includes(search)
           ));
