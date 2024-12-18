@@ -1334,7 +1334,7 @@
   },
   {
     "id": "XF08-0069v1",
-    "title": "Unearthly exposure",
+    "title": "Unearthly Exposure",
     "cost": "6 CP",
     "episode": "Tunguska",
     "type": "Bluff",
@@ -1729,7 +1729,7 @@
   },
   {
     "id": "XF08-0089v1",
-    "title": "They are watching",
+    "title": "They are Watching",
     "cost": "4 CP",
     "episode": "Biogenesis",
     "type": "Bluff",
@@ -1951,7 +1951,7 @@
   {
     "id": "XF08-0100v1",
     "title": "Psychotic Episodes",
-    "cost": "4 CP",
+    "cost": "5 CP",
     "episode": "Field Trip",
     "type": "Bluff",
     "keywords": [
@@ -2171,7 +2171,7 @@
   },
   {
     "id": "XF08-0111v1",
-    "title": "Fingerprints erased",
+    "title": "Fingerprints Erased",
     "cost": "6 CP",
     "episode": "Tempus Fugit",
     "type": "Bluff",
@@ -4350,7 +4350,7 @@
   },
   {
     "id": "XF08-0206v1",
-    "title": "Three words, one solution",
+    "title": "Three Words, One Solution",
     "cost": "0 RP",
     "episode": "Three Words",
     "type": "Event",
@@ -4446,7 +4446,7 @@
   },
   {
     "id": "XF08-0211v1",
-    "title": "Langly (Ammended version)",
+    "title": "Langly",
     "cost": "2 RP",
     "episode": "All about Yves",
     "type": "Event",
@@ -4618,7 +4618,7 @@
   },
   {
     "id": "XF08-0220v1",
-    "title": "Tandem investigations",
+    "title": "Tandem Investigations",
     "cost": "4 CP",
     "episode": "Grotesque",
     "type": "Event",
@@ -4714,7 +4714,7 @@
   },
   {
     "id": "XF08-0225v1",
-    "title": "Fight Fire with Fire",
+    "title": "Fight Fire With Fire",
     "cost": "2 RP",
     "episode": "Fire",
     "type": "Event",
@@ -4770,7 +4770,7 @@
   },
   {
     "id": "XF08-0228v1",
-    "title": "Covering Up Evidence",
+    "title": "Covering up Evidence",
     "cost": "2 CP",
     "episode": "The Erlenmeyer Flask",
     "type": "Event",
@@ -4864,7 +4864,7 @@
   },
   {
     "id": "XF08-0233v1",
-    "title": "FBI Recruit's from Quantico",
+    "title": "FBI Recruit's From Quantico",
     "cost": "4 RP",
     "episode": "Daemonicus",
     "type": "Event",
@@ -4983,7 +4983,7 @@
   },
   {
     "id": "XF08-0239v1",
-    "title": "Letter from Samantha",
+    "title": "Letter From Samantha",
     "cost": "5 RP",
     "episode": "End Game",
     "type": "Event",
@@ -5100,7 +5100,7 @@
   },
   {
     "id": "XF08-0245v1",
-    "title": "Elusive informant",
+    "title": "Elusive Informant",
     "cost": "4 *P",
     "episode": "Terma",
     "type": "Event",
@@ -5444,7 +5444,7 @@
   },
   {
     "id": "XF08-0263v1",
-    "title": "No One so Paranoid",
+    "title": "No One So Paranoid",
     "cost": "5 RP",
     "episode": "Jump the Shark",
     "type": "Event",
@@ -5616,7 +5616,7 @@
   },
   {
     "id": "XF08-0272v1",
-    "title": "We are not alone",
+    "title": "We Are Not Alone",
     "cost": "1 *P",
     "episode": "Providence",
     "type": "Event",
@@ -5676,7 +5676,7 @@
   },
   {
     "id": "XF08-0275v1",
-    "title": "All lies lead to the Truth",
+    "title": "All Lies Lead to the Truth",
     "cost": "4 RP",
     "episode": "The Truth",
     "type": "Event",
@@ -5734,7 +5734,7 @@
   },
   {
     "id": "XF08-0278v1",
-    "title": "Everything dies",
+    "title": "Everything Dies",
     "cost": "9 CP",
     "episode": "Three Words",
     "type": "Event",
@@ -5754,7 +5754,7 @@
   },
   {
     "id": "XF08-0279v1",
-    "title": "Dead zone",
+    "title": "Dead Zone",
     "cost": "1 CP",
     "episode": "Providence",
     "type": "Event",
@@ -5811,7 +5811,7 @@
   },
   {
     "id": "XF08-0282v1",
-    "title": "Believe to understand",
+    "title": "Believe to Understand",
     "cost": "4 CP",
     "episode": "Biogenesis",
     "type": "Event",
@@ -5820,7 +5820,8 @@
       "Alien"
     ],
     "activators": [
-      "Conspiracy"
+      "Conspiracy",
+      "Site"
     ],
     "gameText": "Force an opponent Team investigating a Site to make a ALIEN INVESTIGATION 4+ skill check or the current player's turn ends immediately.",
     "dialogue": "\"The map to our human genetic makeup every gene on every chromosome -- proof of what I've been saying. If only we could find more pieces.\" - Doctor Sandoz",
@@ -5830,7 +5831,7 @@
   },
   {
     "id": "XF08-0283v1",
-    "title": "Resist or serve",
+    "title": "Resist or Serve",
     "cost": "4 CP",
     "episode": "Fight the Future",
     "type": "Event",
@@ -5839,7 +5840,8 @@
       "Subterfuge"
     ],
     "activators": [
-      "Conspiracy"
+      "Conspiracy",
+      "Site"
     ],
     "gameText": "Force an opponent Team investigating a Site to make a SUBTERFUGE 4+ skill check or the current player's turn ends immediately.",
     "dialogue": "\"Talk to me, Scully! Sculllllllyyyyy! Dammit! Scully! Scully! Scully! Scully!\" - Mulder",
@@ -7035,7 +7037,7 @@
   },
   {
     "id": "XF08-0337v1",
-    "title": "The Walk (alternate)",
+    "title": "The Walk",
     "cost": "5 CP",
     "episode": "The Walk",
     "type": "Adversary",
@@ -7297,7 +7299,7 @@
   },
   {
     "id": "XF08-0347v1",
-    "title": "Rob Roberts, the voracious predator",
+    "title": "Rob Roberts, the Voracious Predator",
     "cost": "6 CP",
     "episode": "Hungry",
     "type": "Adversary",
@@ -7508,7 +7510,7 @@
   },
   {
     "id": "PR08-001-BMR",
-    "title": "Briefed on secrets",
+    "title": "Briefed on Secrets",
     "cost": "3 CP",
     "episode": "Zero Sum",
     "type": "Event",
@@ -7635,7 +7637,7 @@
   },
   {
     "id": "PR08-006-RCZ-en",
-    "title": "A privileged mind",
+    "title": "A Privileged Mind",
     "cost": "1 *P",
     "episode": "The End",
     "type": "Event",
@@ -7699,7 +7701,7 @@
   },
   {
     "id": "PR08-009-RCZ",
-    "title": "Messages from beyond",
+    "title": "Messages From Beyond",
     "cost": "3 *P",
     "episode": "Closure",
     "type": "Event",
