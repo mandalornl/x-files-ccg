@@ -34,7 +34,7 @@
       </tbody>
     </table>
     <div class="mt-3">
-      <b>Game Text</b><br><em>{{ card.gameText }}</em>
+      <b>Game Effect</b><br><em>{{ card.gameEffect }}</em>
     </div>
   </v-tooltip>
 </template>
