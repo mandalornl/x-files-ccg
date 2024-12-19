@@ -34,7 +34,12 @@
       </tbody>
     </table>
     <div class="mt-3">
-      <b>Game Effect</b><br><em>{{ card.gameEffect }}</em>
+      <b>Game Effect</b>
+      <text-game-effect
+        :value="card.gameEffect"
+        small
+        tag="blockquote"
+      />
     </div>
   </v-tooltip>
 </template>

@@ -10,29 +10,14 @@ export default {
   },
 
   render(createElement) {
-    const options = {
+    return createElement('text-game-effect', {
+      class: 'text-body-2 text--secondary',
       props: {
+        tag: 'blockquote',
+        value: this.value,
         small: true
       }
-    };
-
-    return createElement('blockquote', {
-      class: 'text-body-2 text-pre-wrap text--secondary'
-    }, this.value
-      .split(/(\[[RC*]P])/)
-      .map((value) => {
-        switch (value) {
-          case '[RP]':
-            return createElement('resource-pool', options);
-          case '[CP]':
-            return createElement('conspiracy-pool', options);
-          case '[*P]':
-            return createElement('star-pool', options);
-          default:
-            return value;
-        }
-      })
-    );
+    });
   }
 }
 </script>
