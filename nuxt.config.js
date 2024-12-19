@@ -10,7 +10,8 @@ export default {
   target: 'static',
 
   router: {
-    base: isDev ? '/' : '/x-files-ccg/'
+    base: isDev ? '/' : '/x-files-ccg/',
+    trailingSlash: false
   },
 
   publicRuntimeConfig: {
