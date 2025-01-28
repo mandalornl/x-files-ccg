@@ -85,7 +85,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card during an LRC round on a combatant you control with an LRC skill. That combatant and one other combatant's HEALTH by two during the Combat.",
+    "gameText": "Play this card during a LONG RANGE COMBAT round on a combatant you control with a LRC skill. That combatant and one other combatant of the owning player's choice will deal no damage in this LRC round. Additionally, reduce any combatant's HEALTH by two during the Combat.",
     "dialogue": "Scully: \"Damn it, Skinner!\nMulder: \"Drop your weapon!\"\nSkinner: \"Back off!\"",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -225,7 +225,8 @@
     "episode": "Kitsunegary",
     "type": "Combat",
     "keywords": [
-      "Combat"
+      "Combat",
+      "Adversary"
     ],
     "activators": [
       "Combat"
@@ -302,7 +303,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any Agent during the LRC round to add 2 points to that Agent's LRC skill. Additionally, if there is a CRC round, you can reduce the damage from any source by 2 points.",
+    "gameText": "Play this card on any Agent during LONG RANGE COMBAT to add 2 points to that Agent's LRC skill. Additionally, if there is a CRC round, you can reduce the damage from any source by 2 points.",
     "dialogue": "\"Federal agent, I'm armed! Exit the vehicle, now!\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -320,7 +321,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card on any Team of Agents at the end of any Combat round. If the Adversary you control is still alive, then You can discard that card to send to the Hospital any one Agent in the Team (your choice). That Agent is reduced to ZERO Health.",
+    "gameText": "Play this card on any Team of Agents at the end of any Combat round. If the Adversary you control is still alive, you may discard the Adversary to send to the Hospital any one Agent in the Team (your choice). That Agent is reduced to zero HEALTH.",
     "dialogue": "\"He's got a bomb. He's got a bomb. He's got a bomb. He's got a bomb. He's got a bomb...\" - Mulder",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -353,12 +354,12 @@
     "keywords": [
       "Combat",
       "Primordial",
-      "Martial Arts."
+      "Martial Arts"
     ],
     "activators": [
       "Combat"
     ],
-    "gameText": "Play this card during a CLOSE RANGE COMBAT round on any Adversary with the Keyword PRIMORDIAL or that is capable of use MARTIAL ARTS cards. The Adversary is capable of binding an Agent (your choice) so that Agent does not deal damage in the rest of CRC rounds.",
+    "gameText": "Play this card during a CLOSE RANGE COMBAT round on any Adversary with the Keyword PRIMORDIAL or that is capable of using MARTIAL ARTS cards. The Adversary may bind an Agent (your choice), preventing that Agent from dealing damage during the remaining CRC rounds.",
     "dialogue": "\"Go back to hell!\" - Scully",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -395,7 +396,7 @@
     "activators": [
       "Combat"
     ],
-    "gameText": "Play on any PRIMORDIAL Adversary. One of that Adversary's opponents (your choice) is considered \"paralyzed\" for the next round of Combat. That Agent will deal no damage in the next round of Combat.",
+    "gameText": "Play this card on any PRIMORDIAL Adversary. One of that Adversary's opponents (your choice) is paralyzed and will deal no damage during the next round of Combat.",
     "dialogue": "\"Help!\" - Mulder",
     "createdBy": "Alfredo Sánchez",
     "set": "I Want to Believe",
@@ -731,7 +732,7 @@
       "Evidence Collection"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
-    "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "question": "You may ask one MOTIVE question or one METHOD question.",
     "dialogue": "Mulder: \"Excuse me, sir, Max Fenig?\"\nGardener: \"Over there.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -870,8 +871,8 @@
     "keywords": [
       "Site",
       "Multi",
-      "Affiliation",
       "Motive",
+      "Method",
       "Criminal Investigation",
       "Observation"
     ],
@@ -1078,13 +1079,13 @@
     "keywords": [
       "Site",
       "Multi",
-      "Motive",
-      "Result",
+      "Affiliation",
+      "Method",
       "Alien Investigation",
       "Bureaucracy"
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
-    "question": "You may ask one METHOD question or one AFFILIATION question. Prerequisites of this card may not be changed by any card.",
+    "question": "You may ask one AFFILIATION question or one METHOD question. Prerequisites of this card may not be changed by any card.",
     "dialogue": "\"Would you defend a man who believes in aliens against the FBI and the military? \" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1164,7 +1165,6 @@
     "keywords": [
       "Site",
       "Multi",
-      "Motive",
       "Motive",
       "Result",
       "Medical",
@@ -1326,7 +1326,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "For each card in your hand with the keyword ALIEN, ALIEN INVESTIGATION or BEHAVIORAL that you reveal to your opponent, reduce one skill check at this Site by -1.",
+    "gameText": "Play this card on a Site. For each card in your hand with the Keyword ALIEN, ALIEN INVESTIGATION, or BEHAVIORAL that you reveal to your opponent, increase the Site's Pre-requisite by 1.",
     "dialogue": "\"You want to see your son? You come alone and you follow my instructions to the letter.\" - Josepho",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1508,7 +1508,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "If your opponent successfully investigates this Site and asks a new question about the X-File characteristic that is answered with \"yes,\" you may immediately replace the current X-File card with another X-File card from your deck.",
+    "gameText": "Play this card on a Site only when your opponent is about to ask a new question about your X-File characteristic. If the question is answered with \"yes\" you may immediately replace your current X-File card with a different one.",
     "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1672,7 +1672,7 @@
   {
     "id": "XF08-0086v1",
     "title": "Cerulean Hunt",
-    "cost": "2 CP",
+    "cost": "1 CP",
     "episode": "Kitsunegary",
     "type": "Bluff",
     "keywords": [
@@ -1682,7 +1682,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "You can change up to two cards from your hand with a similar number of Bluffs already assigned to a Site in play (face down). The new Bluffs under the Site can still be negated.",
+    "gameText": "You can change up to two cards from your hand with a similar number of Bluffs that you have already played on a Site and are still in play (face down). The new Bluffs under the Site can still be negated.",
     "dialogue": "\"Appears as if he died from ingesting paint.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1856,7 +1856,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card to halve (round up) the cost of any Bluff card played at this Site. If played over a face-down Bluff, halve the printed cost on the card.",
+    "gameText": "The printed cost of any Bluff played at this Site is halved (rounded up).",
     "dialogue": "\"Tell him what he wants to hear.\" - The Cigarette-Smoking Man",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1898,7 +1898,7 @@
       "Agent",
       "Site"
     ],
-    "gameText": "Attach this card to any Agent in the Field to reduce their HEALTH by one. Opponents may play ALIEN MANIPULATION cards that affect that Agent at half cost (round up). Discard this card if the Agent visits the Hospital or if the Team he belongs makes a successful MEDICAL or SCIENCES +7 skill check.",
+    "gameText": "Attach this card to any Agent in the Field to reduce their HEALTH by one. Opponents may play ALIEN MANIPULATION cards that affect that Agent at half cost (rounded up). Discard this card if the Agent visits the Hospital or if the Team he belongs makes a successful MEDICAL or SCIENCES +7 skill check.",
     "dialogue": "\"It's the same thing I had removed from my own neck.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
     "set": "I Want to Believe",
@@ -2041,7 +2041,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Select one Agent from the Team investigating this Site. That Agent, along with any attached cards, if any, are placed face up, twelve cards down, in the owning player's Bureau deck. When the Agent's card reaches the top of the deck, the Agent (and the attached cards) are immediately moved to the Field (undamaged).",
+    "gameText": "Select one Agent from the Team investigating this Site. That Agent, along with any attached cards, is placed face-up, twelve cards down, in the owning player's Bureau deck. When the Agent's card reaches the top of the deck, the Agent (and any attached cards) are immediately moved to the Field, undamaged.",
     "dialogue": "\"Why? Why me, Gerry? Do I remind you of your sister? Why did your sister kill herself, Gerry?\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -2309,7 +2309,7 @@
       "Skeptic"
     ],
     "gameEffect": "Agent Crane's BUREAUCRACY and EVIDENCE COLLECTION skills are increased by one if he and Agent Doggett are on the same Team.",
-    "bio": "Special Agent Gene Crane worked under Deputy Director Alvin Kersh, assisting in key cases like the search  for Mulder and the Zeus Genetics investigation. In late 2001, he was replaced by a super soldier, as part of an alien plot.",
+    "bio": "Special Agent Gene Crane worked under Deputy Director Alvin Kersh, assisting in key cases like the search for Mulder and the Zeus Genetics investigation. In late 2001, he was replaced by a super soldier, as part of an alien plot.",
     "skills": {
       "Bureaucracy": 1,
       "Criminal Investigation": 1,
@@ -2666,7 +2666,7 @@
       "Law",
       "Believer"
     ],
-    "gameEffect": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword CRIMINAL INVESTIGATION or OCCULT INVESTIGATION cards. If you spend this [RP], you may replace it during the Briefing phase if Leyla Harrison is in the same Team as Agents Monica Reyes or John Doggett.",
+    "gameEffect": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword CRIMINAL INVESTIGATION or OCCULT INVESTIGATION cards. If you spend this [RP], you may replace it during the Briefing Phase if Leyla Harrison is in the same Team as Agents Monica Reyes or John Doggett.",
     "bio": "Leyla Harrison was an agent assigned to the FBI. She transitioned from the accounting office to the X-Files unit. Leyla admirably pieced together Mulder and Scully's adventures, later assisting Reyes and Doggett in their investigations.",
     "skills": {
       "Alien Investigation": 1,
@@ -2812,7 +2812,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameEffect": "Treat Agent Conrad Lozano as RES 1 if the Team he belongs makes an ALIEN INVESTIGATION 5+ skill during the Briefing phase.",
+    "gameEffect": "Treat Agent Conrad Lozano as RES 1 if the Team he belongs makes an ALIEN INVESTIGATION 5+ skill during the Briefing Phase.",
     "bio": "Lozano is of Mexican descent but is American by nationality. He works at the INS Service Processing Center in Fresno, CA. Despite his skepticism, Lozano agrees to help Agent Mulder locate Eladio Buente, indicating his willingness to assist in the investigation despite his doubts about the supernatural elements involved.",
     "skills": {
       "Alien Investigation": 1,
@@ -2839,7 +2839,7 @@
       "FBI",
       "Law"
     ],
-    "gameEffect": "Place two tokens on this card. Discard a token during your Briefing phase as Active player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
+    "gameEffect": "Place two tokens on this card. Discard a token during your Briefing Phase as Active player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
     "bio": "Agent Flagler is a meticulous investigator that analyzes evidence and handwriting samples for the FBI. Flagler's attention to detail contributed to unraveling a mysterious kidnapping case, collaborating with Mulder and Scully.",
     "skills": {
       "Criminal Investigation": 1,
@@ -2866,7 +2866,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameEffect": "Place two tokens on this card. Discard a token during your Briefing phase as Directed player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
+    "gameEffect": "Place two tokens on this card. Discard a token during your Briefing Phase as Directed player to be able to purchase one additional card from your Bureau deck after the first purchase of cards. You must still pay for each card drawn this way.",
     "bio": "Agent Chesty Short is a bureaucratic figure that criticizes Mulder and Scully's investigations' expense and efficacy. He doubts their belief in aliens and symbolizes the bureaucratic skepticism that often opposes Mulder and Scully's pursuit of the paranormal.",
     "skills": {
       "Bureaucracy": 3,
@@ -3440,7 +3440,7 @@
     "type": "Witness",
     "keywords": [
       "Witness",
-      "Occult Investigation",
+      "Behavioral",
       "Resource"
     ],
     "activators": [
@@ -3621,7 +3621,8 @@
     "type": "Witness",
     "keywords": [
       "Witness",
-      "Negate Occult Investigation"
+      "Negate",
+      "Occult Investigation"
     ],
     "activators": [
       "Active"
@@ -3769,7 +3770,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 1 [RP] to your pool every time a Keyword CRIMINAL INVESTIGATION or SUBTERFUGE card playedIf played after Adversary Card 2Shy attacked a Team, the cost of this card is halved.",
+    "gameText": "Adds 3 to one Team's BEHAVIORAL or adds 2 to one Team's CRIMINAL INVESTIGATION skill check. If played after Adversary card \"2Shy\" attacked a Team, the cost of this card is halved.",
     "dialogue": "\"I smelled her perfume. That's when I knew he was lying. She was wearing her perfume when she left for her class.\" - Jesse",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -3849,7 +3850,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Adds 3 to one Team's OCCULT or adds 2 to one Team's MEDICAL skill check.",
+    "gameText": "Adds 3 to one Team's MEDICAL or adds 2 to one Team's BEHAVIORAL skill check.",
     "dialogue": "\"High serotonin levels have been associated with mania.\" - Doctor Lorenz",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -3924,7 +3925,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Negate any one Keyword ALIEN INVESTIGATION card.",
+    "gameText": "Negate any one Keyword ALIEN, ALIEN MANIPULATION or ALIEN INVESTIGATION card.",
     "dialogue": "\"This is an interesting dream. Wake up. Come on, Artie.\" - Arthur Dales",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -3997,7 +3998,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card immediately after your opponent asks you a question. You may respond with from the game.",
+    "gameText": "Play this card immediately after your opponent asks you a question. You may respond with this phrase: \"I can neither confirm nor deny that assumption.\" After playing this card remove it from the game.",
     "dialogue": "\"We have a vaccine. Developed by the Russians, stolen by Krycek, given to me.\" - The Well-Manicured Man",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -4263,7 +4264,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "If your opponent uses Agent Blevins as RES 2, while being in the Bureau during the Briefing phase, Agent Blevins is instantly killed and removed from the game.",
+    "gameText": "If your opponent uses Agent Blevins as RES 2, while being in the Bureau during the Briefing Phase, Agent Blevins is instantly killed and removed from the game.",
     "dialogue": "\"Blevins had been on payroll for four years to a biotechnology company called Roush, which is somehow connected to all this.\" - Skinner",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -4533,7 +4534,7 @@
       "Government"
     ],
     "activators": [
-      "Active"
+      "Conspiracy"
     ],
     "gameText": "Select one card from your Discard Pile with the Keyword CONSPIRACY and place it in your hand. You cannot use the card this turn.",
     "dialogue": "\"If I see, or suspect that you're not working alone I will terminate our communication.\" - Shadow Man",
@@ -4818,7 +4819,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Discard a card from your hand. Draw two cards during your next Briefing Phase. Ignore the effects of any card that prevents you from doing so.",
+    "gameText": "Discard a card from your hand. During your next Briefing Phase, draw two additional cards (in addition to the one you would normally draw). Ignore the effects of any card that prevents you from doing so.",
     "dialogue": "\"I need to know the last call made from this booth.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -4916,7 +4917,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Place this card in the Field. While this card is in play, at the beginning of the Debriefing phase, each player must draw one card from their Bureau Deck and then discard one card from their Bureau Deck into their discard pile. Afterward, both players must reduce their hand to seven cards, as usual.",
+    "gameText": "Place this card in the Field. At the beginning of each player's Debriefing Phase, each player must draw one card from their Bureau Deck and then discard one card from their Bureau Deck. Afterwards, both players must reduce their hand to seven cards, as usual.",
     "dialogue": "\"Time acceleration is an equation, Mulder, a theory.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -4951,7 +4952,7 @@
     "keywords": [
       "Event",
       "Evidence Collection",
-      "Criminal Investigation"
+      "Occult Investigation"
     ],
     "activators": [
       "Active"
@@ -4975,7 +4976,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Search through your Bureau deck and play any one Witness card with the Keyword OCCULT INVESTIGATION half cost (round up). If you successfully investigate a Site with this Witness this turn, you may search for an Equipment card from your Bureau deck and add it to Your hand. Shuffle your Bureau deck afterwards.",
+    "gameText": "Search through your Bureau deck and play any one Witness card with the Keyword OCCULT INVESTIGATION at half cost (rounded up). If you successfully investigate a Site with this Witness this turn, you may search for an Equipment card from your Bureau deck and add it to your hand. Shuffle your Bureau deck afterwards.",
     "dialogue": "\"Last checked out to a Dave Duran.\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5051,7 +5052,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Put three tokens on this card and choose one Agent. Attach the card to the chosen Agent. During each Briefing phase, you can remove one token to add two to that Agent's RES value. When all the tokens are removed, discard this card.",
+    "gameText": "Attach this card to an Agent you control and place two tokens on it. During each Briefing Phase, remove one token to add +2 to that Agent's RES value. Discard this card when all tokens are removed.",
     "dialogue": "\"Everything about insects is fascinating. They are truly remarkable creatures. So beautiful, and so honest.\" - Bambi Berembaum",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5081,7 +5082,7 @@
   {
     "id": "XF08-0244v1",
     "title": "Krycek's Amputation",
-    "cost": "9 CP",
+    "cost": "8 CP",
     "episode": "Terma",
     "type": "Event",
     "keywords": [
@@ -5170,9 +5171,9 @@
       "Resource"
     ],
     "activators": [
-      "Active"
+      "Conspiracy"
     ],
-    "gameText": "Place this card on any opponent's Field with two tokens on it. Each time this opponent plays a RP card, they must discard one card from their hand (opponent's choice). Remove a token during your opponent's Briefing phase. When all tokens have been removed, discard this card.",
+    "gameText": "Place this card on any opponent's Field with two tokens on it. Each time this opponent plays a [RP] card, they must discard one card from their hand (opponent's choice). Remove a token during your opponent's Briefing Phase. When all tokens have been removed, discard this card.",
     "dialogue": "Scully: \"Mulder, get in the car, there's no time!\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5191,7 +5192,7 @@
       "Active",
       "Agent"
     ],
-    "gameText": "Play this card during the Briefing phase to select any Agent card from any player's Discard Pile and play it for half cost (rounded up). The chosen Agent cannot be similar to any of your Agents already in play, you must ignore the Game Effect and you must discard it at the end of this turn.",
+    "gameText": "Play this card during the Briefing Phase to select any Agent card from any player's Discard Pile and play it for half cost (rounded up). The chosen Agent cannot be similar to any of your Agents already in play, you must ignore the Game Effect and you must discard it at the end of this turn.",
     "dialogue": "Pendrell: \"Shouldn't we wait for Agent Scully? Just so I won't have to repeat myself.\"\nMulder: \"She's not coming. She's got a date.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
     "set": "I Want to Believe",
@@ -5210,7 +5211,7 @@
       "Conspiracy",
       "Agent"
     ],
-    "gameText": "Play this card at the beginning of the Briefing phase. Remove target Agent from play (Equipment and tokens included) and replace it with this card, representing a doppelganger with all skills reduced by one. Owner may use the Agent normally. At the end of the turn, discard this card and return the original Agent.",
+    "gameText": "Play this card at the beginning of the Briefing Phase. Remove target Agent from play (Equipment and tokens included) and replace it with this card, representing a doppelganger with all skills reduced by one. Owner may use the Agent normally. At the end of the turn, discard this card and return the original Agent.",
     "dialogue": "\"Who called the cops?\" - Eddie Van Blundht",
     "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
     "set": "I Want to Believe",
@@ -5230,7 +5231,7 @@
       "Conspiracy",
       "Resource"
     ],
-    "gameText": "Place this card on your opponent's side. While this card is in play, your opponent cannot use cards nor Agent's Game Effects that allow them to draw cards (or search for cards) from the Bureau deck or from the Discard Pile. During your Briefing phase pay 1 CP or discard this card.",
+    "gameText": "Place this card on your opponent's side. While this card is in play, your opponent cannot use cards nor Agent's Game Effects that allow them to draw cards (or search for cards) from the Bureau deck or from the Discard Pile. During your Briefing Phase pay 1 [CP] or discard this card.",
     "dialogue": "\"I was warned by a man we both know… who I believe knows the truth…\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5266,7 +5267,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Play this card during the Briefing phase to force any opponent to skip the next Healing, Requisition and Deployment phases and go directly to the Case Assignment phase. Remove this card from the game. The effects of this card may not be negated.",
+    "gameText": "Play this card during the Briefing Phase to force any opponent to skip the next Healing, Requisition and Deployment phases and go directly to the Case Assignment phase. Remove this card from the game. The effects of this card may not be negated.",
     "dialogue": "Mike Millar: \"You're saying the man sitting in seat thirteen-F was abducted mid-flight without any depressurization of the cabin, without any effect on the plane…\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel, Greg Fremaux",
     "set": "I Want to Believe",
@@ -5304,7 +5305,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card at the beginning of the Briefing phase. You may exchange one of your Agents with any Agent controlled by your oponent, with the same or lower cost and in the same section of the table (including tokens and attached cards). Both players may use their new Agents as usual, except for their Game Effect. At the end of this turn exchange the Agents again in their final locations (sections).",
+    "gameText": "Play this card at the beginning of the Briefing Phase. You may exchange one of your Agents with any Agent controlled by your opponent, with the same or lower [RP] cost and in the same section of the table (including tokens and attached cards). Both players may use their new Agents as usual, except for their Game Effect. At the end of this turn exchange the Agents again in their final locations (sections).",
     "dialogue": "Mulder: \"Scully! He's not me!\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5360,7 +5361,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Play this card at the end of the Briefing phase to move any number of tokens from your [RP] pool to your [CP] pool or vice versa. Each player may only have one of this card in their deck. Remove this card from the game.",
+    "gameText": "Play this card at the end of the Briefing Phase to move any number of tokens from your [RP] pool to your [CP] pool or vice versa. Each player may only have one of this card in their deck. Remove this card from the game.",
     "dialogue": "\"Keeping Fox Mulder down is not a job. It's your dirty work!\" - Spender",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5379,7 +5380,7 @@
       "Active",
       "Conspiracy"
     ],
-    "gameText": "Discard the top card from both players' Bureau decks. If your card has higher cost than your opponent's, you may add 8 tokens to your [RP] pool (if you are the active player) or to the [CP] pool (if you are the Directed player). If your card has lower cost, empty both of your pools.",
+    "gameText": "Discard the top card from both players' Bureau decks. If your card has higher cost than your opponent's, you may add 8 tokens to your [RP] pool (if you are the active player) or to the [CP] pool (if you are the Directed player). If lower, only empty your [RP] and [CP] pools, your opponent's pools remain unaffected.",
     "dialogue": "\"Is this what you saw? It's a Seraphim. An angel, with four faces. Those of a man, a lion, an eagle, and a bull.\" - Father McCue",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5388,7 +5389,7 @@
   {
     "id": "XF08-0260v1",
     "title": "Hope vs Selfishness",
-    "cost": "4 *P",
+    "cost": "X *P",
     "episode": "Fight the Future",
     "type": "Event",
     "keywords": [
@@ -5506,7 +5507,7 @@
     "type": "Event",
     "keywords": [
       "Artifact",
-      "Event¡"
+      "Event"
     ],
     "activators": [
       "Active",
@@ -5600,9 +5601,7 @@
     "episode": "Redux",
     "type": "Event",
     "keywords": [
-      "Event",
-      "Criminal Investigation",
-      "Evidence Collection"
+      "Event"
     ],
     "activators": [
       "Active",
@@ -5686,7 +5685,7 @@
       "Resource"
     ],
     "activators": [
-      "Conspiracy"
+      "Active"
     ],
     "gameText": "Place this card in one of your opponents Fields. Your opponent must subtract 1 from the [CP] he generates each turn while this card is in his Field. Your opponent may pay 5 [CP] to force you to discard this card.",
     "dialogue": "\"When I went to work for the FBI, I didn't know of my father's crimes. When I stood up to him, he shot me.\" - Jeffrey Spender",
@@ -5766,7 +5765,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Place this card in one of your opponents' Field. While this card is in play, no Agent controlled by your opponent may add his skills to a skill check that is occurring in another Section of the table. Your opponent may pay 4 [RP] to force you to discard this card.",
+    "gameText": "Place this card in any Section of your opponent's side of the table. While this card is in play, no Agents in that Section may contribute their skills to skill checks in another Section of the table. The player controlling this Section may pay 3 [RP] to discard this card.",
     "dialogue": "\"Before William was kidnapped, Byers was able to tuck a cell phone under the padding of the baby\" – Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5794,7 +5793,7 @@
   {
     "id": "XF08-0281v1",
     "title": "Nothing Important Happened Today",
-    "cost": "2 CP",
+    "cost": "2 RP",
     "episode": "Nothing important happened today",
     "type": "Event",
     "keywords": [
@@ -5817,7 +5816,7 @@
     "type": "Event",
     "keywords": [
       "Event",
-      "Alien"
+      "Alien Investigation"
     ],
     "activators": [
       "Conspiracy",
@@ -5857,12 +5856,13 @@
     "type": "Event",
     "keywords": [
       "Event",
-      "Alien Investigation"
+      "Alien Investigation",
+      "Question"
     ],
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card after a Team of Agents has successfully investigated a Site. If you receive a \"yes\" answer to the Characteristic question regarding your X-File, you may add 3 tokens to your pool.",
+    "gameText": "Play this card immediately after a Team of Agents has successfully investigated a Site and asked a Characteristic question regarding your X-File. If the question is answered with \"yes\", add 3 tokens to your [RP] pool.",
     "dialogue": "\"…what you may find is you concentrate on hitting that little ball… The rest of the world just fades away-- all your everyday, nagging concerns.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -5895,7 +5895,8 @@
     "type": "Event",
     "keywords": [
       "Event",
-      "Question"
+      "Question",
+      "Resource"
     ],
     "activators": [
       "Conspiracy"
@@ -5979,7 +5980,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds three to the Agent’s LONG RANGE COMBAT skill once per Combat.",
+    "gameText": "Adds three to the Agent's LONG RANGE COMBAT skill once per combat.",
     "dialogue": "\"Checkmate.\" - Gibson Praise",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -6157,7 +6158,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Place 2 tokens on this card. Discard a token to look through your Bureau deck to draw any Site that asks a MOTIVE or METHOD question. Add it to your hand and reshuffle your Bureau deck. When no tokens remain, move this card to the discard pile.",
+    "gameText": "Place 2 tokens on this card. Discard a token to look through your Bureau deck to draw any Site that asks a MOTIVE or METHOD question. Add it to your hand and reshuffle your Bureau deck. When no tokens remain, move this card to the Discard Pile.",
     "dialogue": "Mulder: \"I'm going to get you out of there.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -6498,7 +6499,7 @@
       "Conspiracy",
       "Result Site"
     ],
-    "gameText": "The LONG RANGE COMBAT round is skipped. Dacyshyn engages one opposing Agent (your choice) in Combat. If Dacyshyn reduces  the Agent to zero HEALTH, place this card on top of the Agent along with 3 tokens. Remove one token during each Briefing phase. When no tokens are on the Agent, move the Agent to the Hospital including the damage tokens. This card is considered an ABDUCTION card.",
+    "gameText": "The LONG RANGE COMBAT round is skipped. Dacyshyn engages one opposing Agent (your choice) in Combat. If Dacyshyn reduces the Agent to zero HEALTH, place this card on top of the Agent along with 3 tokens. Remove one token during each Briefing Phase. When no tokens are on the Agent, move the Agent to the Hospital including the damage tokens. This card is considered an ABDUCTION card.",
     "dialogue": "\"I'm transporting vital organ.\" - Janke Dacyshyn",
     "skills": {
       "Long Range Combat": "N/A",
@@ -6682,7 +6683,7 @@
       "Conspiracy",
       "Motive Site"
     ],
-    "gameText": "Wanshang Dhole deals damage to its opponents first during each CRC round. If the HEALTH value of any opponent reaches zero after applying  modifiers or healing cards,that combatant is sent to the Hospital and cannot deliver any damage back that round.",
+    "gameText": "Wanshang Dhole deals damage to its opponents first during each CRC round. If the HEALTH value of any opponent reaches zero after applying modifiers or healing cards,that combatant is sent to the Hospital and cannot deliver any damage back that round.",
     "dialogue": "\"Hey, Buck. What's wrong, Buck?\" - Dr James Riley",
     "skills": {
       "Long Range Combat": "N/A",
@@ -6842,7 +6843,7 @@
       "Method Site"
     ],
     "gameText": "The LONG RANGE COMBAT round is skipped. For each Agent that Karin's Dark Sorcery sends to the Hospital you may remove up to 4 [RP] from your opponent's Resource Pool.",
-    "dialogue": "Mulder: \"Make him stop, Karin!  Tell him what you should have told him twenty years  ago. You're not going to take it anymore.\"",
+    "dialogue": "Mulder: \"Make him stop, Karin!  Tell him what you should have told him twenty years ago. You're not going to take it anymore.\"",
     "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
@@ -7024,7 +7025,7 @@
       "Conspiracy",
       "Result Site"
     ],
-    "gameText": "Play this card on a Team of two or more Agents. Choose an Agent at random and attach this card to that Agent. The Agent engages in Combat against the rest of Agents  on the Team. You control the Agent as an Adversary until the Combat ends. Discard this card afterwards.",
+    "gameText": "Play this card on a Team of two or more Agents. Choose an Agent at random and attach this card to that Agent. The Agent engages in Combat against the rest of Agents on the Team. You control the Agent as an Adversary until the Combat ends. Discard this card afterwards.",
     "dialogue": "\"Mulder: Are you familiar with subliminal messages?\"",
     "skills": {
       "Long Range Combat": "N/A",
@@ -7051,7 +7052,7 @@
       "Affiliation Site"
     ],
     "gameText": "Subtract one from all damage sources applied to this Adversary.",
-    "dialogue": "\"I know a lot of crips have the same dream. The Walk. In my dream, I rise up, out of my chair, and I can stand. I look down  the hallway, I'm not in the ward anymore, I'm home. With my baby girl.\" - Amputee",
+    "dialogue": "\"I know a lot of crips have the same dream. The Walk. In my dream, I rise up, out of my chair, and I can stand. I look down the hallway, I'm not in the ward anymore, I'm home. With my baby girl.\" - Amputee",
     "skills": {
       "Long Range Combat": 0,
       "Close Range Combat": 4,
@@ -7284,7 +7285,7 @@
     ],
     "activators": [
       "Conspiracy",
-      "Result Site"
+      "Motive Site"
     ],
     "gameText": "Once the Combat had ended, you can pay 2 [CP] to return Van Allen's Revenge to your hand. Your opponent may pay 3 [RP] to interrupt this effect.",
     "dialogue": "\"Don't feel sorry. You going to hell just like I am, brother.\" - Ed Kelso",
@@ -7338,7 +7339,7 @@
       "Conspiracy",
       "Motive Site"
     ],
-    "gameText": "At the beginning of each combat round, you may choose one Agent. That Agent is webbed and cannot attack or use abilities that round. If that Agent's HEALTH is reduced to 0 by the end of the Combat, you may draw one extra card at the start of your next Briefing phase.",
+    "gameText": "At the beginning of each combat round, you may choose one Agent. That Agent is webbed and cannot attack or use abilities that round. If that Agent's HEALTH is reduced to 0 by the end of the Combat, you may draw one extra card at the start of your next Briefing Phase.",
     "dialogue": "\"Your mouth, your tongue... there's something wrong with you.\" - Natalie Gordon",
     "skills": {
       "Long Range Combat": 3,
@@ -7497,7 +7498,7 @@
       "Conspiracy",
       "Affiliation Site"
     ],
-    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to Ray Pearce.",
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (rounded up) to Ray Pearce.",
     "dialogue": "\"I've reviewed Ray's medical records from the VA. What his wife was calling Gulf War Syndrome is nothing of the kind. His entire cellular makeup was affected by exposure to some non-identifiable contaminant-- a metal.\" - Scully",
     "skills": {
       "Long Range Combat": 0,
@@ -7560,7 +7561,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Discard Samantha's Diary to return one card from your hand to the Bureau deck, then shuffle the deck. At the beginning of your next Briefing phase, you may draw two additional cards.",
+    "gameText": "Discard Samantha's Diary to return one card from your hand to the Bureau deck, then shuffle the deck. At the beginning of your next Briefing Phase, you may draw two additional cards.",
     "dialogue": "Scully: \"It's a diary. It's your sister's.\"",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -7578,7 +7579,7 @@
       "Law",
       "Skeptic"
     ],
-    "gameEffect": "Place one token on Senior Director Carter. Discard a token to take a target Agent (your choice) from any Team in the Field and send him back to the Bureau.",
+    "gameEffect": "Place one token on Director Carter. Discard a token to remove one Agent from any Team you control and send them to the Bureau. If in combat, the Agent takes no damage and contributes no skills.",
     "bio": "Senior Director Carter is a high-ranking FBI official who interrogates Agent Dana Scully in Skinner's office regarding Agent Mulder's erratic behavior. He represents the bureaucratic concerns of the FBI as Mulder's investigations draw increasing scrutiny and institutional pressure.",
     "skills": {
       "Alien Investigation": 2,
@@ -7668,9 +7669,9 @@
     "activators": [
       "Conspiracy",
       "Method Site",
-      "Result Site"
+      "Motive Site"
     ],
-    "gameText": "LONG RANGE COMBAT attacks cause only half damage (round up) to Pinker Rawls.",
+    "gameText": "LONG RANGE COMBAT attacks cause only half damage (rounded up) to Pinker Rawls.",
     "dialogue": "\"Trevor what?\" - Pinker Rawls",
     "skills": {
       "Long Range Combat": 0,
@@ -7714,6 +7715,118 @@
     ],
     "gameText": "Play this card to draw four cards, then place any two cards from your hand on top of your Bureau deck or in your discard pile.",
     "dialogue": "\"Close your eyes and let them come to you. They will come to you if you're ready to see.\" - Harold Piller",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-010-ASE",
+    "title": "Agent Kallenbrunner",
+    "cost": "5 CP",
+    "episode": "The Truth",
+    "type": "Agent",
+    "keywords": [
+      "Agent",
+      "FBI",
+      "Law",
+      "Skeptic"
+    ],
+    "gameEffect": "Place one token on Agent Kallenbrunner. Discard this token to negate a Witness card played by your opponent. This token cannot be replaced.",
+    "bio": "A key prosecutor on Mulder's trial, Agent Kallenbrunner is a prominent figure within the Syndicate. He is skeptical of alien conspiracies and uses harsh tactics to discredit witnesses like Scully or Spender. His role reflects his commitment to upholding the government's cover-up and suppressing the truth'.",
+    "skills": {
+      "Alien Investigation": 1,
+      "Bureaucracy": 3,
+      "Criminal Investigation": 2,
+      "Evidence Collection": 2,
+      "Sciences": 2,
+      "Long Range Combat": 2,
+      "Close Range Combat": 2,
+      "Health": 4,
+      "Resources": 1
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-011-RCZ",
+    "title": "The Toothpick Man",
+    "cost": "3 CP",
+    "episode": "The Truth",
+    "type": "Event",
+    "keywords": [
+      "Event",
+      "Negate"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to negate one Witness card played by your opponent. Each player may only have one of this card in their deck. Remove this card from the game.",
+    "dialogue": "\"He is ot human.\" - Gibson Praise",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-012-ASE",
+    "title": "In Deep Shadows",
+    "cost": "2 CP",
+    "episode": "Providence",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Play this card to negate search through your Bureau Deck and add one of the following cards to your hand: The End, Second's Elder Deliberation, Covering Up Evidence, or the Toothpick Man. If you play the chosen card immediately, you may do so at half cost (rounded up). Alternatively, you can use this card to negate the effect of William.",
+    "dialogue": "\"Your son has to die.\" - Robert Comer",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-013-RCZ",
+    "title": "Billy Miles, Resurrected",
+    "cost": "12 CP",
+    "episode": "Essence",
+    "type": "Adversary",
+    "keywords": [
+      "Adversary",
+      "Alien",
+      "Government",
+      "Creature"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "This card does not initiate combat. Move up to two Agents in the Team investigating this site (your choice) to the Hospital with zero HEALTH. The Agent(s) may not leave the Hospital until fully healed. Combat cards cannot be used against this Adversary.",
+    "dialogue": "\"Billy Miles? He did this?\" - Scully",
+    "skills": {
+      "Long Range Combat": "N/A",
+      "Close Range Combat": "N/A",
+      "Health": "N/A"
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-014-RCZ",
+    "title": "The Overcoat Woman",
+    "cost": "4 CP",
+    "episode": "Provenance",
+    "type": "Bluff",
+    "keywords": [
+      "Bluff"
+    ],
+    "activators": [
+      "Conspiracy",
+      "Site"
+    ],
+    "gameText": "Force your opponent to reveal their hand. Select one [CP] card. You may either play the selected card immediately (at its normal cost) or send it directly to its owner's Discard Pile. If played, the card is discarded afterwards.",
+    "dialogue": "\"Yes, he is safe. We're here.\" - The Overcoat Woman",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
