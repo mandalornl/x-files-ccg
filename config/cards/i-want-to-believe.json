@@ -1508,7 +1508,7 @@
       "Conspiracy",
       "Site"
     ],
-    "gameText": "Play this card on a Site only when your opponent is about to ask a new question about your X-File characteristic. If the question is answered with \"yes\" you may immediately replace your current X-File card with a different one.",
+    "gameText": "Play this card on a Site only when your opponent is about to ask a new question about your X-File characteristic. If the question is answered with \"yes\" you may immediately replace your current X-File card with a different X-File card.",
     "dialogue": "\"This was all strategized - every move. I just couldn't see it. It was all of a plan.\" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -1768,7 +1768,7 @@
   {
     "id": "XF08-0091v1",
     "title": "Mirage of Samantha",
-    "cost": "3 CP",
+    "cost": "4 CP",
     "episode": "Miracle Man",
     "type": "Bluff",
     "keywords": [
@@ -2527,7 +2527,7 @@
     "gameEffect": "Place a token on this card. Remove a token to look through your Bureau deck to draw any keyword CRIMINAL INVESTIGATION card and add it to your hand. Shuffle your Bureau deck.",
     "bio": "Lloyd Pennock was part of the local police force in Wilmington, Delaware. He investigated a murder at Paradise Motel and encountered Marty Glenn, a blind woman, near the victim. Collaborating with Mulder and Scully, Pennock navigated the enigma, maintaining an open mind in uncovering Marty's mysterious Capabilities.",
     "skills": {
-      "Criminal Investigation": 2,
+      "Criminal Investigation": 1,
       "Evidence Collection": 2,
       "Observation": 2,
       "Subterfuge": 1,
@@ -5765,7 +5765,7 @@
     "activators": [
       "Conspiracy"
     ],
-    "gameText": "Place this card in any Section of your opponent's side of the table. While this card is in play, no Agents in that Section may contribute their skills to skill checks in another Section of the table. The player controlling this Section may pay 3 [RP] to discard this card.",
+    "gameText": "Place this card in any Section of your opponent's side of the table. While this card is in play, no Agent in that Section may contribute their skills to skill checks in another Section of the table. The player controlling this Section may pay 4 [RP] to discard this card.",
     "dialogue": "\"Before William was kidnapped, Byers was able to tuck a cell phone under the padding of the baby\" – Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -7762,7 +7762,7 @@
       "Conspiracy"
     ],
     "gameText": "Play this card to negate one Witness card played by your opponent. Each player may only have one of this card in their deck. Remove this card from the game.",
-    "dialogue": "\"He is ot human.\" - Gibson Praise",
+    "dialogue": "\"He is not human.\" - Gibson Praise",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
     "rarity": "Community"
