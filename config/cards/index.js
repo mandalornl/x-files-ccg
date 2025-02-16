@@ -8,6 +8,7 @@ import gencon from '~/config/cards/gencon.json';
 import delaney from '~/config/cards/100617.json';
 import classified from '~/config/cards/classified.json';
 import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
+import carter from '~/config/cards/101357.json';
 
 export const pool = [
   ...premiere,
@@ -19,7 +20,8 @@ export const pool = [
   ...gencon,
   ...delaney,
   ...classified,
-  ...iWantToBelieve
+  ...iWantToBelieve,
+  ...carter
 ].map((card) => ({
   ...card,
   image: `images/${card.set}/${card.id}.jpg`
@@ -37,7 +39,8 @@ export const sets = [
   'Gen Con',
   '100617',
   'Classified',
-  'I Want to Believe'
+  'I Want to Believe',
+  '101357'
 ];
 
 export const types = [
