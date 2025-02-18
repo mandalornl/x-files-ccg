@@ -149,7 +149,7 @@
       "Result",
       "Site"
     ],
-    "gameText": "The chosen Agent is the only one who may participate in Combat. The Kitten's Revenge may use SUBTERFUGE cards. If he attacks Assistand Director Walter Skinner, LRC is skipped.",
+    "gameText": "The chosen Agent is the only one who may participate in Combat. The Kitten's Revenge may use SUBTERFUGE cards. If he attacks Assistant Director Walter Skinner, LRC is skipped.",
     "dialogue": "\"Imagine the power of a government that could literally control the minds... of millions of citizens.\" - Davey James",
     "skills": {
       "Long Range Combat": "N/A",
@@ -203,7 +203,7 @@
       "Method",
       "Site"
     ],
-    "gameText": "When you play Mr. Chuckleteeth, your opponent must choose two Agents. Send all other Agents are sent to the Hospital with zero HEALTH. Then, discar this Adversary.",
+    "gameText": "When you play Mr. Chuckleteeth, your opponent must choose two Agents. Send all other Agents are sent to the Hospital with zero HEALTH. Then, discard this Adversary.",
     "dialogue": "\"Mr. Chuckleteeth, Happy as can be. Mister Chuckleteeth, won't you play with me. When I'm feeling lonely, lonely as can be, Oh, Mister Chuckleteeth, won't you play with me.\" - Mulder",
     "skills": {
       "Long Range Combat": "SPECIAL",
@@ -259,7 +259,7 @@
       "Site"
     ],
     "gameText": "",
-    "dialogue": "\"It's a mix of Canis Latras and Canis Lupus. It's a hibrid coyote-wolf.\" - Mulder",
+    "dialogue": "\"It's a mix of Canis Latras and Canis Lupus. It's a hybrid coyote-wolf.\" - Mulder",
     "skills": {
       "Long Range Combat": "N/A",
       "Close Range Combat": 7,
@@ -835,7 +835,7 @@
       "Active"
     ],
     "gameText": "You play an Agent card from your hand at no cost (tokens included). The Agent cannot investigate any Site, but you may use their game effect. At the end of your turn, remove this card and the Agent from the game.",
-    "dialogue": "\"I wish this were under better circumstances, but I wish a lot of things were differente here today.\" - Monica Reyes",
+    "dialogue": "\"I wish this were under better circumstances, but I wish a lot of things were different here today.\" - Monica Reyes",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "101357",
     "rarity": "Community"
@@ -854,7 +854,7 @@
       "Active"
     ],
     "gameText": "Play after one of your Teams successfully investigated a Site with Alien Investigation skill as a prerequisite. Add 7 [RP] to your pool.",
-    "dialogue": "\"Advanced extraterrestial species visiting us, concerned for mankind and the threat of our self-destruction, forestalling or annihilation through their own self-sacrifice. The crashes at Roswell. \" - Mulder",
+    "dialogue": "\"Advanced extraterrestrial species visiting us, concerned for mankind and the threat of our self-destruction, forestalling or annihilation through their own self-sacrifice. The crashes at Roswell. \" - Mulder",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "101357",
     "rarity": "Community"
@@ -921,7 +921,7 @@
   },
   {
     "id": "XF08-0395x1",
-    "title": "Saint Elizabeth Hospital, Whashington, D.C.",
+    "title": "Saint Elizabeth Hospital, Washington, D.C.",
     "cost": "1 RP",
     "episode": "Founder's Mutation",
     "type": "Site",
@@ -935,7 +935,7 @@
     ],
     "prerequisite": "BUREAUCRACY 5+ or SCIENCES 5+",
     "question": "You may ask one MOTIVE question or one METHOD question.",
-    "dialogue": "\"The government. Augustus worked for them. I couldn't trut anyone. Especially the police. I was so scared. I was going too fast.\" - Mrs. Goldman",
+    "dialogue": "\"The government. Augustus worked for them. I couldn't trust anyone. Especially the police. I was so scared. I was going too fast.\" - Mrs. Goldman",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "101357",
     "rarity": "Community"
