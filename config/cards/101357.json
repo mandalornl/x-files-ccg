@@ -21,7 +21,10 @@
       "Long Range Combat": 3,
       "Close Range Combat": 3,
       "Health": 3
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0356x1",
@@ -44,7 +47,10 @@
       "Long Range Combat": "N/A",
       "Close Range Combat": 5,
       "Health": 5
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0357x1",
@@ -67,7 +73,10 @@
       "Long Range Combat": 3,
       "Close Range Combat": 3,
       "Health": 3
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0358x1",
@@ -92,7 +101,10 @@
       "Long Range Combat": 4,
       "Close Range Combat": 4,
       "Health": 9
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0359x1",
@@ -116,7 +128,10 @@
       "Long Range Combat": "SPECIAL",
       "Close Range Combat": "SPECIAL",
       "Health": "SPECIAL"
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0360x1",
@@ -140,7 +155,10 @@
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 5
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0361x1",
@@ -164,7 +182,10 @@
       "Long Range Combat": 3,
       "Close Range Combat": "N/A",
       "Health": 7
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0362x1",
@@ -188,7 +209,10 @@
       "Long Range Combat": "SPECIAL",
       "Close Range Combat": "SPECIAL",
       "Health": "SPECIAL"
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0363x1",
@@ -213,7 +237,10 @@
       "Long Range Combat": "N/A",
       "Close Range Combat": 4,
       "Health": 4
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0364x1",
@@ -237,7 +264,10 @@
       "Long Range Combat": "N/A",
       "Close Range Combat": 7,
       "Health": 9
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0365x1",
@@ -262,7 +292,10 @@
       "Long Range Combat": 3,
       "Close Range Combat": 4,
       "Health": 5
-    }
+    },
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
+    "rarity": "Community"
   },
   {
     "id": "XF08-0366x1",
@@ -1105,4 +1138,3 @@
     "rarity": "Community"
   }
 ]
-
