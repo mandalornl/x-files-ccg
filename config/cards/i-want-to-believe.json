@@ -1908,7 +1908,7 @@
     "id": "XF08-0098v1",
     "title": "Unexpected Hospital Visit",
     "cost": "5 CP",
-    "episode": "The Sith Extintion",
+    "episode": "The Sith Extinction",
     "type": "Bluff",
     "keywords": [
       "Bluff",
@@ -6276,7 +6276,7 @@
     "activators": [
       "Bureau"
     ],
-    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill. Agents equiped with this card are not affected by ALIEN MANIPULATION cards. Additionally, you can discard this card to add one to the Agent's SCIENCES skill.",
+    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill. Agents equipped with this card are not affected by ALIEN MANIPULATION cards. Additionally, you can discard this card to add one to the Agent's SCIENCES skill.",
     "dialogue": "\"It looks like a nest... some type of black vermiform organism attached to the pineal gland...\" - Scully",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
@@ -7829,6 +7829,24 @@
     "dialogue": "\"Yes, he is safe. We're here.\" - The Overcoat Woman",
     "createdBy": "Alfredo Sánchez, Robert Czepiel",
     "set": "I Want to Believe",
+    "rarity": "Community"
+  },
+  {
+    "id": "PR08-015-ASE",
+    "title": "Lone No More",
+    "cost": "3 CP",
+    "episode": "Jump the Shark",
+    "type": "Event",
+    "keywords": [
+      "Event"
+    ],
+    "activators": [
+      "Conspiracy"
+    ],
+    "gameText": "Negate one of these cards (your choice): 'Byers', 'Frohike', 'Langly', 'Call on us more often', 'No one so paranoid', 'Three words, one solution', 'The Lone Gunman', 'The Lone Gunmen' or 'Three of a kind'.",
+    "dialogue": "\"They meant so much to me. I'm not sure if they really knew.\" - Scully",
+    "createdBy": "Alfredo Sánchez, Robert Czepiel",
+    "set": "101357",
     "rarity": "Community"
   }
 ]
