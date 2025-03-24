@@ -1,7 +1,7 @@
 [
   {
-    "title": "Aura Of Invulnerability",
     "id": "XF97-0001v2",
+    "title": "Aura Of Invulnerability",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Humbug",
@@ -15,11 +15,12 @@
       "Combat"
     ],
     "gameText": "Play on any OCCULT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "First Aid",
     "id": "XF97-0002v2",
+    "title": "First Aid",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -33,11 +34,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent in the Field to immediately Heal one point of damage.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Face-Off",
     "id": "XF97-0003v2",
+    "title": "Face-Off",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ice",
@@ -50,11 +52,12 @@
       "Combat"
     ],
     "gameText": "Play this card during a LONG RANGE COMBAT round on a combatant you control with an LRC skill. That combatant and one other combatant of the owning player's choice will deal no damage in this LRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Rending Claws",
     "id": "XF97-0004v2",
+    "title": "Rending Claws",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Shapes",
@@ -69,11 +72,12 @@
       "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 1 to their CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fast Strike",
     "id": "XF97-0005v2",
+    "title": "Fast Strike",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "End Game",
@@ -86,11 +90,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant with a CLOSE RANGE COMBAT skill of three or more to allow that combatant to attack twice in a CRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sneak Attack",
     "id": "XF97-0006v2",
+    "title": "Sneak Attack",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Tooms",
@@ -104,11 +109,12 @@
       "Combat"
     ],
     "gameText": "Play on any EVOLUTIONARY Adversary to allow it to deal all of its damage in the round before its opponents. Any opponents sent to the Hospital as a result of this damage do not cause damage this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ambush",
     "id": "XF97-0007v2",
+    "title": "Ambush",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -122,11 +128,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. The opposing side's LONG RANGE COMBAT attack is negated this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kick",
     "id": "XF97-0008v2",
+    "title": "Kick",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Red Museum",
@@ -140,11 +147,12 @@
       "Combat"
     ],
     "gameText": "Play on any Combatant that can use MARTIAL ARTS or any combatant opposing a stunned opponent. Add 2 to the combatant's CLOSE RANGE COMBAT damage result this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gun Jammed",
     "id": "XF97-0009v2",
+    "title": "Gun Jammed",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -157,11 +165,12 @@
       "Combat"
     ],
     "gameText": "Negates the effects of any one Equipment card that adds to LONG RANGE COMBAT Skill for the duration of this combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hide",
     "id": "XF97-0010v2",
+    "title": "Hide",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -175,11 +184,12 @@
       "Combat"
     ],
     "gameText": "Play this on one combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. No damage may be dealt to that combatant in this round and the combatant deals no damage.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dodge",
     "id": "XF97-0011v2",
+    "title": "Dodge",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -192,11 +202,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this LRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Nerve Strike",
     "id": "XF97-0012v2",
+    "title": "Nerve Strike",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -210,11 +221,12 @@
       "Combat"
     ],
     "gameText": "Play on any combatant that can use MARTIAL ARTS to add 2 to their CLOSE RANGE COMBAT skill in this round. In addition, the opponent is considered \"stunned\" for the next round of combat. The opponent will deal no damage in the next round of combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Webbed",
     "id": "XF97-0013v2",
+    "title": "Webbed",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Darkness Falls",
@@ -228,11 +240,12 @@
       "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL Adversary to add 1 to their CLOSE RANGE COMBAT skill and prevent all damage from one opponent this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Vicious Fangs",
     "id": "XF97-0014v2",
+    "title": "Vicious Fangs",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Shapes",
@@ -247,11 +260,12 @@
       "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 2 to their CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Spin Kick",
     "id": "XF97-0015v2",
+    "title": "Spin Kick",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Gender Bender",
@@ -265,11 +279,12 @@
       "Combat"
     ],
     "gameText": "Combatants that can use MARTIAL ARTS may play this card to add 3 to their CLOSE RANGE COMBAT skill this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mind Control",
     "id": "XF97-0016v2",
+    "title": "Mind Control",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -284,11 +299,12 @@
       "Combat"
     ],
     "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to cause one Agent to allocate all damage to a target of the Adversary's choice this round (including other Agents).",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Stealth Technology",
     "id": "XF97-0017v2",
+    "title": "Alien Stealth Technology",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -302,11 +318,12 @@
       "Combat"
     ],
     "gameText": "Play on any ALIEN combatant to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Block and Attack",
     "id": "XF97-0018v2",
+    "title": "Block and Attack",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Ice",
@@ -323,11 +340,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Block",
     "id": "XF97-0019v2",
+    "title": "Block",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ice",
@@ -340,11 +358,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this CRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Body Armor",
     "id": "XF97-0020v2",
+    "title": "Body Armor",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -358,11 +377,12 @@
       "Combat"
     ],
     "gameText": "Play on any GOVERNMENT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by one this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Disarm",
     "id": "XF97-0021v2",
+    "title": "Disarm",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Ice",
@@ -376,11 +396,12 @@
       "Combat"
     ],
     "gameText": "Adversaries that can use MARTIAL ARTS may play this card in a CLOSE RANGE COMBAT round to cause one Equipment card from the opposing side to be discarded. If the Equipment normally adds to CRC skill check, then it is discarded before it may do so.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Running Gun Battle",
     "id": "XF97-0022v2",
+    "title": "Running Gun Battle",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -393,11 +414,12 @@
       "Combat"
     ],
     "gameText": "Combatants with a LONG RANGE COMBAT skill of 3+ may use this card to fight one additional round of LRC immediately.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fascination",
     "id": "XF97-0023v2",
+    "title": "Fascination",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "3",
@@ -414,11 +436,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Internal Bleeding",
     "id": "XF97-0024v2",
+    "title": "Internal Bleeding",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Duane Barry",
@@ -431,11 +454,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent that has taken two or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until he is fully healed.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Covering Fire",
     "id": "XF97-0025v2",
+    "title": "Covering Fire",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -452,11 +476,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "No Way Out",
     "id": "XF97-0026v2",
+    "title": "No Way Out",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "3",
@@ -472,11 +497,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hard Punch",
     "id": "XF97-0027v2",
+    "title": "Hard Punch",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -489,11 +515,12 @@
       "Combat"
     ],
     "gameText": "Play on any combatant in a CLOSE RANGE COMBAT round. Add one to the combatant's damage result.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Choke Hold",
     "id": "XF97-0028v2",
+    "title": "Choke Hold",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -507,11 +534,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant that can use MARTIAL ARTS. The combatant applies a choke hold. If the combatant causes damage in CLOSE RANGE COMBAT then the damaged Adversary/Agent takes no further part in the combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fast Draw",
     "id": "XF97-0029v2",
+    "title": "Fast Draw",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -524,11 +552,12 @@
       "Combat"
     ],
     "gameText": "Play on any one combatant who would not normally be allowed to fight a round of LONG RANGE COMBAT. The combatant must still have LRC skill. The combatant may fight one round of LRC as normal.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Watch Out!",
     "id": "XF97-0030v2",
+    "title": "Watch Out!",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Blood",
@@ -541,11 +570,12 @@
       "Combat"
     ],
     "gameText": "Play this card when your opponent is about to assign damage. You now choose which of the Agents or Adversaries under your control take the damage. The damage may not be split unless you play a card that allows you to do so.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hit and Run",
     "id": "XF97-0031v2",
+    "title": "Hit and Run",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Colony",
@@ -558,11 +588,12 @@
       "Combat"
     ],
     "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Handcuff",
     "id": "XF97-0032v2",
+    "title": "Handcuff",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Squeeze",
@@ -575,11 +606,12 @@
       "Combat"
     ],
     "gameText": "Play this card in a CLOSE RANGE COMBAT round after damage has been dealt. If the Agents dealt two or more points more damage than their opponent, combat ends immediately. In addition, place the opposing Adversary in the Agents' Bureau section. The player may discard this card at any time to add two points of damage to any future combat involving an Adversary with the same Keywords.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Illusionary Foe",
     "id": "XF97-0033v2",
+    "title": "Illusionary Foe",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -597,11 +629,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Run For It!",
     "id": "XF97-0034v2",
+    "title": "Run For It!",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -614,11 +647,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any Agent to immediately end combat for that Agent. Finish the combat without the Agent. The Agent takes no damage from the combat and may still contribute his skills to other skill checks.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Terminal Damage",
     "id": "XF97-0035v2",
+    "title": "Terminal Damage",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -632,11 +666,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent that has taken 5 or more damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent cannot leave the Hospital until fully healed. Subtract 5 from the Agent's Cost. If the Cost is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue and Weiss are immune to this effect.)",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Flaming Wall",
     "id": "XF97-0036v2",
+    "title": "Flaming Wall",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fire",
@@ -650,11 +685,12 @@
       "Combat"
     ],
     "gameText": "Play on any EVOLUTIONARY Adversary to cause one point of damage to each opponent in a LONG RANGE COMBAT round. This is in addition to any other damage caused by the Adversary in this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Massive Internal Damage",
     "id": "XF97-0037v2",
+    "title": "Massive Internal Damage",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -668,11 +704,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent that has taken four or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until fully healed. Subtract 4 from the Agent's Cost. If the result is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue, and Weiss are immune to this effect).",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Semi-Jacketed Hollow Points",
     "id": "XF97-0038v2",
+    "title": "Semi-Jacketed Hollow Points",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Anasazi",
@@ -685,11 +722,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to add 2 points to that combatant's LRC skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Stunning Blow",
     "id": "XF97-0039v2",
+    "title": "Stunning Blow",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -702,11 +740,12 @@
       "Combat"
     ],
     "gameText": "Play this on any opponent who has just taken damage. The opponent is considered \"stunned\" for the next round of combat. This opponent will deal no damage in the next round of combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Take Cover!",
     "id": "XF97-0040v2",
+    "title": "Take Cover!",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Blood",
@@ -719,11 +758,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant to decrease damage from one LONG RANGE COMBAT source by two points this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Energy Strike",
     "id": "XF97-0041v2",
+    "title": "Energy Strike",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -738,11 +778,12 @@
       "Combat"
     ],
     "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gibsonton, FL",
     "id": "XF97-0042v2",
+    "title": "Gibsonton, FL",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Humbug",
@@ -756,11 +797,12 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Excelsius Dei Convalescent Home, Worcester, MA",
     "id": "XF97-0043v2",
+    "title": "Excelsius Dei Convalescent Home, Worcester, MA",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Excelsius Dei",
@@ -779,11 +821,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Broad Street, Philadelphia, PA",
     "id": "XF97-0044v2",
+    "title": "Broad Street, Philadelphia, PA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Shadows",
@@ -797,11 +840,12 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ellens Air Base, ID",
     "id": "XF97-0045v2",
+    "title": "Ellens Air Base, ID",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Deep Throat",
@@ -815,11 +859,12 @@
     ],
     "prerequisite": "BUREAUCRACY 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Coastal Northwest Oregon",
     "id": "XF97-0046v2",
+    "title": "Coastal Northwest Oregon",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Pilot",
@@ -833,11 +878,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Olympic National Forest, WA",
     "id": "XF97-0047v2",
+    "title": "Olympic National Forest, WA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Darkness Falls",
@@ -851,11 +897,12 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arlington, VA",
     "id": "XF97-0048v2",
+    "title": "Arlington, VA",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "The Calusari",
@@ -869,11 +916,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lake Okobogee, Campsite #53, Sioux City, IA",
     "id": "XF97-0049v2",
+    "title": "Lake Okobogee, Campsite #53, Sioux City, IA",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Conduit",
@@ -887,11 +935,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Newark, NJ",
     "id": "XF97-0050v2",
+    "title": "Newark, NJ",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "The Host",
@@ -905,11 +954,12 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Central Prison, Raleigh, NC",
     "id": "XF97-0051v2",
+    "title": "Central Prison, Raleigh, NC",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Beyond The Sea",
@@ -928,11 +978,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Genetics Clinic, Marin County, CA",
     "id": "XF97-0052v2",
+    "title": "Genetics Clinic, Marin County, CA",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Eve",
@@ -946,11 +997,12 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cumberland Prison, VA",
     "id": "XF97-0053v2",
+    "title": "Cumberland Prison, VA",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "F. Emasculata",
@@ -964,11 +1016,12 @@
     ],
     "prerequisite": "SUBTERFUGE 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mt. Avalon, WA",
     "id": "XF97-0054v2",
+    "title": "Mt. Avalon, WA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Firewalker",
@@ -982,11 +1035,12 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Northeast Georgetown Medical Center, Washington, DC",
     "id": "XF97-0055v2",
+    "title": "Northeast Georgetown Medical Center, Washington, DC",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -1000,11 +1054,12 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "NASA Mission Control, Houston, TX",
     "id": "XF97-0056v2",
+    "title": "NASA Mission Control, Houston, TX",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Space",
@@ -1020,11 +1075,12 @@
     ],
     "prerequisite": "SCIENCES 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "New York City, NY",
     "id": "XF97-0057v2",
+    "title": "New York City, NY",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -1043,11 +1099,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fairfield Zoo, Fairfield, ID",
     "id": "XF97-0058v2",
+    "title": "Fairfield Zoo, Fairfield, ID",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fearful Symmetry",
@@ -1061,11 +1118,12 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deadhorse, AK",
     "id": "XF97-0059v2",
+    "title": "Deadhorse, AK",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "End Game",
@@ -1084,11 +1142,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Containment Facility, Georgetown, MD",
     "id": "XF97-0060v2",
+    "title": "Containment Facility, Georgetown, MD",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Erlenmeyer Flask",
@@ -1102,11 +1161,12 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "University Of Maryland, Baltimore, MD",
     "id": "XF97-0061v2",
+    "title": "University Of Maryland, Baltimore, MD",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Lazarus",
@@ -1120,11 +1180,12 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Chaco House, Dudley, AR",
     "id": "XF97-0062v2",
+    "title": "Chaco House, Dudley, AR",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Our Town",
@@ -1143,11 +1204,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Aubrey, MO",
     "id": "XF97-0063v2",
+    "title": "Aubrey, MO",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Aubrey",
@@ -1161,11 +1223,12 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cape Cod, MA",
     "id": "XF97-0064v2",
+    "title": "Cape Cod, MA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Fire",
@@ -1179,11 +1242,12 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Icy Cape, AK",
     "id": "XF97-0065v2",
+    "title": "Icy Cape, AK",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ice",
@@ -1197,11 +1261,12 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Farmington, NM",
     "id": "XF97-0066v2",
+    "title": "Farmington, NM",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Anasazi",
@@ -1220,11 +1285,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "U.F.O. Wreckage, Townsend, WI",
     "id": "XF97-0067v2",
+    "title": "U.F.O. Wreckage, Townsend, WI",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -1240,11 +1306,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
     "question": "You may ask one MOTIVE question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mattawa, WA",
     "id": "XF97-0068v2",
+    "title": "Mattawa, WA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -1258,11 +1325,12 @@
     ],
     "prerequisite": "BUREAUCRACY 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mahan Propulsion Laboratory, Colson, WA",
     "id": "XF97-0069v2",
+    "title": "Mahan Propulsion Laboratory, Colson, WA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Roland",
@@ -1276,11 +1344,12 @@
     ],
     "prerequisite": "COMPUTER 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Church Of The Red Museum, Delta Glen, WI",
     "id": "XF97-0070v2",
+    "title": "Church Of The Red Museum, Delta Glen, WI",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Red Museum",
@@ -1296,11 +1365,12 @@
     ],
     "prerequisite": "SUBTERFUGE 5+ or MEDICAL 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Psychiatric Hospital, Richmond, VA",
     "id": "XF97-0071v2",
+    "title": "Psychiatric Hospital, Richmond, VA",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Soft Light",
@@ -1314,11 +1384,12 @@
     ],
     "prerequisite": "COMPUTER 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Washington Monument, Washington, DC",
     "id": "XF97-0072v2",
+    "title": "Washington Monument, Washington, DC",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Young At Heart",
@@ -1334,11 +1405,12 @@
     ],
     "prerequisite": "BEHAVIORAL 5+ or OBSERVATION 5+",
     "question": "You may ask one MOTIVE question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Marion, VA",
     "id": "XF97-0073v2",
+    "title": "Marion, VA",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -1352,11 +1424,12 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arecibo, Puerto Rico",
     "id": "XF97-0074v2",
+    "title": "Arecibo, Puerto Rico",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Little Green Men",
@@ -1372,11 +1445,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sea Off Tildeskan, Norway",
     "id": "XF97-0075v2",
+    "title": "Sea Off Tildeskan, Norway",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -1390,11 +1464,12 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Aleister Crowley High School, Milford Haven, NH",
     "id": "XF97-0076v2",
+    "title": "Aleister Crowley High School, Milford Haven, NH",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -1410,11 +1485,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Los Angeles, CA",
     "id": "XF97-0077v2",
+    "title": "Los Angeles, CA",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "3",
@@ -1430,11 +1506,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Minneapolis, MN",
     "id": "XF97-0078v2",
+    "title": "Minneapolis, MN",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Irresistible",
@@ -1450,11 +1527,12 @@
     ],
     "prerequisite": "MEDICAL 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Franklin, PA",
     "id": "XF97-0079v2",
+    "title": "Franklin, PA",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Blood",
@@ -1468,11 +1546,12 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eurisko Building, Crystal City, VA",
     "id": "XF97-0080v2",
+    "title": "Eurisko Building, Crystal City, VA",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -1491,11 +1570,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Folkstone, NC",
     "id": "XF97-0081v2",
+    "title": "Folkstone, NC",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -1511,11 +1591,12 @@
     ],
     "prerequisite": "BUREAUCRACY 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION question or one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Outskirts Of Atlantic City, NJ",
     "id": "XF97-0082v2",
+    "title": "Outskirts Of Atlantic City, NJ",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -1531,11 +1612,12 @@
     ],
     "prerequisite": "SUBTERFUGE 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION question or one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Browning, MT",
     "id": "XF97-0083v2",
+    "title": "Browning, MT",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Shapes",
@@ -1549,11 +1631,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Steveston, MA",
     "id": "XF97-0084v2",
+    "title": "Steveston, MA",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Gender Bender",
@@ -1567,11 +1650,12 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Skyland Mountain, VA",
     "id": "XF97-0085v2",
+    "title": "Skyland Mountain, VA",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ascension",
@@ -1585,11 +1669,12 @@
     ],
     "prerequisite": "SUBTERFUGE 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Baltimore, MD",
     "id": "XF97-0086v2",
+    "title": "Baltimore, MD",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Squeeze",
@@ -1608,11 +1693,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Kelly Ryan",
     "id": "XF97-0087v2",
+    "title": "Detective Kelly Ryan",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Soft Light",
@@ -1629,11 +1715,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sinus Cavity Implant",
     "id": "XF97-0088v2",
+    "title": "Sinus Cavity Implant",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -1649,11 +1736,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing card is played on the Agent.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Peter Tanaka",
     "id": "XF97-0089v2",
+    "title": "Peter Tanaka",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Firewalker",
@@ -1670,11 +1758,12 @@
     "tags": [
       "Change Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cigarette Butts",
     "id": "XF97-0091v2",
+    "title": "Cigarette Butts",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Ascension",
@@ -1693,11 +1782,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Daniels",
     "id": "XF97-0092v2",
+    "title": "Sheriff Daniels",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Miracle Man",
@@ -1715,11 +1805,12 @@
     "tags": [
       "Change Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Berube",
     "id": "XF97-0093v2",
+    "title": "Dr. Berube",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Erlenmeyer Flask",
@@ -1736,11 +1827,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Overcoat Man",
     "id": "XF97-0094v2",
+    "title": "The Overcoat Man",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "One Breath",
@@ -1757,11 +1849,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "You've Got A Tail",
     "id": "XF97-0095v2",
+    "title": "You've Got A Tail",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -1775,11 +1868,12 @@
       "Conspiracy"
     ],
     "gameText": "Play after a Team investigates a Site to destroy one Event RESOURCE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pete Calcagni",
     "id": "XF97-0096v2",
+    "title": "Pete Calcagni",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Die Hand Die Verletzt",
@@ -1797,11 +1891,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Holtzman, D.S.A.",
     "id": "XF97-0097v2",
+    "title": "Holtzman, D.S.A.",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Conduit",
@@ -1818,11 +1913,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Claude Peterson",
     "id": "XF97-0098v2",
+    "title": "Claude Peterson",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Ghost In The Machine",
@@ -1839,11 +1935,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Conundrum",
     "id": "XF97-0099v2",
+    "title": "The Conundrum",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Humbug",
@@ -1862,11 +1959,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Paul Mossinger",
     "id": "XF97-0100v2",
+    "title": "Paul Mossinger",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Deep Throat",
@@ -1883,11 +1981,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Intruder Counter-Measures Program",
     "id": "XF97-0101v2",
+    "title": "Intruder Counter-Measures Program",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -1904,11 +2003,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Aaron Monte",
     "id": "XF97-0102v2",
+    "title": "Dr. Aaron Monte",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Tooms",
@@ -1925,11 +2025,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Poisonous Gases",
     "id": "XF97-0103v2",
+    "title": "Poisonous Gases",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Erlenmeyer Flask",
@@ -1947,11 +2048,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Laser Barrier",
     "id": "XF97-0104v2",
+    "title": "Laser Barrier",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -1965,11 +2067,12 @@
       "Conspiracy"
     ],
     "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agent's skills to one skill check (your choice) that the Team makes this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Nasty Surprise",
     "id": "XF97-0105v2",
+    "title": "Nasty Surprise",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Roland",
@@ -1986,11 +2089,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Radioactive Area",
     "id": "XF97-0107v2",
+    "title": "Radioactive Area",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -2004,11 +2108,12 @@
       "Conspiracy"
     ],
     "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ghost In The Machine",
     "id": "XF97-0108v2",
+    "title": "Ghost In The Machine",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -2026,11 +2131,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Unnatural Aging",
     "id": "XF97-0109v2",
+    "title": "Unnatural Aging",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -2048,11 +2154,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Car Troubles",
     "id": "XF97-0110v2",
+    "title": "Car Troubles",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Shadows",
@@ -2067,11 +2174,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on a Team of three or more Agents moving to the same Site. The Team may only send two Agents to that Site (owning player's choice). Any extra Agents remain in the Team but may not contribute their skills to any checks this turn. In addition, playing this card will prevent the use of the \"Evasive Maneuver\" card by this Team this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Puzzles Within Puzzles",
     "id": "XF97-0111v2",
+    "title": "Puzzles Within Puzzles",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -2088,11 +2196,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Cover-Up",
     "id": "XF97-0112v2",
+    "title": "Government Cover-Up",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -2111,11 +2220,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hazardous Sample",
     "id": "XF97-0113v2",
+    "title": "Hazardous Sample",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Ice",
@@ -2132,11 +2242,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Henry Trondheim",
     "id": "XF97-0114v2",
+    "title": "Henry Trondheim",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -2152,11 +2263,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Miles",
     "id": "XF97-0115v2",
+    "title": "Detective Miles",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -2173,11 +2285,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Thompson",
     "id": "XF97-0116v2",
+    "title": "Detective Thompson",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -2194,11 +2307,12 @@
     "tags": [
       "Change Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Harry Cokely",
     "id": "XF97-0117v2",
+    "title": "Harry Cokely",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Aubrey",
@@ -2215,11 +2329,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Tony Fiore",
     "id": "XF97-0118v2",
+    "title": "Detective Tony Fiore",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Born Again",
@@ -2236,11 +2351,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "B.J. Morrow, Genetic Trait Recipient",
     "id": "XF97-0119v2",
+    "title": "B.J. Morrow, Genetic Trait Recipient",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Aubrey",
@@ -2251,11 +2367,12 @@
       "Method": "Possession",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Augustus Cole, A.K.A. The Preacher",
     "id": "XF97-0120v2",
+    "title": "Augustus Cole, A.K.A. The Preacher",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Sleepless",
@@ -2266,11 +2383,12 @@
       "Method": "Manipulation",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Cigarette-Smoking Man",
     "id": "XF97-0121v2",
+    "title": "The Cigarette-Smoking Man",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": null,
@@ -2281,11 +2399,12 @@
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Duane Barry",
     "id": "XF97-0122v2",
+    "title": "Duane Barry",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -2296,11 +2415,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Jersey Devil",
     "id": "XF97-0123v2",
+    "title": "The Jersey Devil",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "The Jersey Devil",
@@ -2311,11 +2431,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Host",
     "id": "XF97-0124v2",
+    "title": "The Host",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "The Host",
@@ -2326,11 +2447,12 @@
       "Method": "Violence",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lucas Henry, Serial Killer",
     "id": "XF97-0125v2",
+    "title": "Lucas Henry, Serial Killer",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Beyond The Sea",
@@ -2341,11 +2463,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arthur Grable",
     "id": "XF97-0126v2",
+    "title": "Arthur Grable",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Roland",
@@ -2356,11 +2479,12 @@
       "Method": "Possession",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Warren James Dupré, The Lazarus Man",
     "id": "XF97-0127v2",
+    "title": "Warren James Dupré, The Lazarus Man",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Lazarus",
@@ -2371,11 +2495,12 @@
       "Method": "Possession",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Colonel Wharton, Zombie Master",
     "id": "XF97-0128v2",
+    "title": "Colonel Wharton, Zombie Master",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fresh Bones",
@@ -2386,11 +2511,12 @@
       "Method": "Subterfuge",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Dna Steroid Program (project Purity Control)",
     "id": "XF97-0129v2",
+    "title": "Alien Dna Steroid Program (project Purity Control)",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Red Museum",
@@ -2401,11 +2527,12 @@
       "Method": "Subterfuge",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Gregors",
     "id": "XF97-0130v2",
+    "title": "The Gregors",
     "set": "The Truth is Out There",
     "rarity": "Promo",
     "foundIn": "most copies of Scrye 4.3",
@@ -2417,11 +2544,12 @@
       "Method": "Manipulation",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Tom Arens, Cannibal",
     "id": "XF97-0131v2",
+    "title": "Sheriff Tom Arens, Cannibal",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Our Town",
@@ -2432,11 +2560,12 @@
       "Method": "Subterfuge",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Vampire, A.K.A. The Unholy Spirit",
     "id": "XF97-0132v2",
+    "title": "The Vampire, A.K.A. The Unholy Spirit",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "3",
@@ -2447,11 +2576,12 @@
       "Method": "Subterfuge",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Central Operating System, Artificial Intelligence",
     "id": "XF97-0133v2",
+    "title": "Central Operating System, Artificial Intelligence",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -2462,11 +2592,12 @@
       "Method": "Violence",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Volcanic Spore",
     "id": "XF97-0134v2",
+    "title": "Volcanic Spore",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Firewalker",
@@ -2477,11 +2608,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Michael Holvey, The Evil One",
     "id": "XF97-0135v2",
+    "title": "Michael Holvey, The Evil One",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "The Calusari",
@@ -2492,11 +2624,12 @@
       "Method": "Possession",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eugene Victor Tooms",
     "id": "XF97-0136v2",
+    "title": "Eugene Victor Tooms",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Squeeze",
@@ -2507,11 +2640,12 @@
       "Method": "Subterfuge",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Howard Graves, The Poltergeist",
     "id": "XF97-0137v2",
+    "title": "Howard Graves, The Poltergeist",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Shadows",
@@ -2522,11 +2656,12 @@
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Banton and His Shadow",
     "id": "XF97-0138v2",
+    "title": "Dr. Banton and His Shadow",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Soft Light",
@@ -2537,11 +2672,12 @@
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Listeners",
     "id": "XF97-0139v2",
+    "title": "Alien Listeners",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Little Green Men",
@@ -2552,11 +2688,12 @@
       "Method": "Subterfuge",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Commander Colin Henderson",
     "id": "XF97-0140v2",
+    "title": "Commander Colin Henderson",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fallen Angel",
@@ -2567,11 +2704,12 @@
       "Method": "Subterfuge",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arctic Worm",
     "id": "XF97-0141v2",
+    "title": "Arctic Worm",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ice",
@@ -2582,11 +2720,12 @@
       "Method": "Possession",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Manitou",
     "id": "XF97-0142v2",
+    "title": "The Manitou",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Shapes",
@@ -2597,11 +2736,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Leonard Vance",
     "id": "XF97-0143v2",
+    "title": "Leonard Vance",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Miracle Man",
@@ -2612,11 +2752,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ancestor Spirits",
     "id": "XF97-0144v2",
+    "title": "Ancestor Spirits",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Excelsius Dei",
@@ -2627,11 +2768,12 @@
       "Method": "Threats",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ed Funsch, Postal Worker",
     "id": "XF97-0145v2",
+    "title": "Ed Funsch, Postal Worker",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Blood",
@@ -2642,11 +2784,12 @@
       "Method": "Possession",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mrs. Paddock, A.K.A. The Dark Angel",
     "id": "XF97-0146v2",
+    "title": "Mrs. Paddock, A.K.A. The Dark Angel",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Die Hand Die Verletzt",
@@ -2657,11 +2800,12 @@
       "Method": "Threats",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dod Kalm",
     "id": "XF97-0147v2",
+    "title": "Dod Kalm",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Dod Kalm",
@@ -2672,11 +2816,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "John Barnett",
     "id": "XF97-0148v2",
+    "title": "John Barnett",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Young At Heart",
@@ -2687,11 +2832,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Conservationist",
     "id": "XF97-0149v2",
+    "title": "Alien Conservationist",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fearful Symmetry",
@@ -2702,11 +2848,12 @@
       "Method": "Subterfuge",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Faciphaga Emasculata",
     "id": "XF97-0150v2",
+    "title": "Faciphaga Emasculata",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "F. Emasculata",
@@ -2717,11 +2864,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Donnie Pfaster, Death Fetishist",
     "id": "XF97-0151v2",
+    "title": "Donnie Pfaster, Death Fetishist",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Irresistible",
@@ -2732,11 +2880,12 @@
       "Method": "Subterfuge",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Brother Martin, Rogue Kindred",
     "id": "XF97-0152v2",
+    "title": "Brother Martin, Rogue Kindred",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Gender Bender",
@@ -2747,11 +2896,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Abductors",
     "id": "XF97-0153v2",
+    "title": "Alien Abductors",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fallen Angel",
@@ -2762,11 +2912,12 @@
       "Method": "Subterfuge",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eve",
     "id": "XF97-0154v2",
+    "title": "Eve",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Eve",
@@ -2777,11 +2928,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Experimenters",
     "id": "XF97-0155v2",
+    "title": "Alien Experimenters",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Pilot",
@@ -2792,11 +2944,12 @@
       "Method": "Possession",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Reverse Engineers",
     "id": "XF97-0156v2",
+    "title": "Reverse Engineers",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Deep Throat",
@@ -2807,11 +2960,12 @@
       "Method": "Threats",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Swarm",
     "id": "XF97-0157v2",
+    "title": "The Swarm",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Darkness Falls",
@@ -2822,11 +2976,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Leonard, Detachable Congenital Twin",
     "id": "XF97-0158v2",
+    "title": "Leonard, Detachable Congenital Twin",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Humbug",
@@ -2837,11 +2992,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cecil L'ively",
     "id": "XF97-0159v2",
+    "title": "Cecil L'ively",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fire",
@@ -2852,11 +3008,12 @@
       "Method": "Threats",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Section Chief Scott Blevins",
     "id": "XF97-0160v2",
+    "title": "Section Chief Scott Blevins",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Pilot",
@@ -2881,11 +3038,12 @@
       "Resources": 1
     },
     "gameEffect": "Treat Section Chief Blevins as a RES 2 if he is in the Bureau Section. If he is in the Bureau Section, he may contribute to the Conspiracy Pool instead of the Resources Pool during the Briefing Phase.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Albert Hosteen",
     "id": "XF97-0161v2",
+    "title": "Albert Hosteen",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Anasazi",
@@ -2911,11 +3069,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lt. Brian Tillman, Aubrey Police Department",
     "id": "XF97-0164v2",
+    "title": "Lt. Brian Tillman, Aubrey Police Department",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Aubrey",
@@ -2941,11 +3100,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Rich",
     "id": "XF97-0165v2",
+    "title": "Agent Rich",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -2972,11 +3132,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Lucy Kazdin",
     "id": "XF97-0166v2",
+    "title": "Agent Lucy Kazdin",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -3000,11 +3161,12 @@
       "Resources": 1
     },
     "gameEffect": "If one of your Agents is Abducted, you may immediately draw two cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Jack Willis",
     "id": "XF97-0167v2",
+    "title": "Agent Jack Willis",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Lazarus",
@@ -3030,11 +3192,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Inspector Phoebe Green",
     "id": "XF97-0168v2",
+    "title": "Inspector Phoebe Green",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Fire",
@@ -3059,11 +3222,12 @@
     "tags": [
       "Move"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Fox Mulder",
     "id": "XF97-0169v2",
+    "title": "Agent Fox Mulder",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": null,
@@ -3090,11 +3254,12 @@
       "Resources": 2
     },
     "gameEffect": "[RP]s generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero [RP] cost.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Alex Krycek",
     "id": "XF97-0170v2",
+    "title": "Agent Alex Krycek",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ascension",
@@ -3119,11 +3284,12 @@
       "Resources": 2
     },
     "gameEffect": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Nancy Spiller",
     "id": "XF97-0171v2",
+    "title": "Agent Nancy Spiller",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -3151,11 +3317,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Dana Scully",
     "id": "XF97-0173v2",
+    "title": "Agent Dana Scully",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": null,
@@ -3184,11 +3351,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Charles Burk",
     "id": "XF97-0175v2",
+    "title": "Dr. Charles Burk",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "The Calusari",
@@ -3214,11 +3382,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Tom Colton",
     "id": "XF97-0176v2",
+    "title": "Agent Tom Colton",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Squeeze",
@@ -3244,11 +3413,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Janus, Trained Medic",
     "id": "XF97-0177v2",
+    "title": "Agent Janus, Trained Medic",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -3272,11 +3442,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Moe Bocks",
     "id": "XF97-0178v2",
+    "title": "Agent Moe Bocks",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Irresistible",
@@ -3304,11 +3475,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Reggie Purdue",
     "id": "XF97-0179v2",
+    "title": "Agent Reggie Purdue",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Young At Heart",
@@ -3336,11 +3508,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Assistant Director Walter Skinner",
     "id": "XF97-0180v2",
+    "title": "Assistant Director Walter Skinner",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ascension",
@@ -3363,11 +3536,12 @@
       "Resources": 1
     },
     "gameEffect": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Weiss",
     "id": "XF97-0181v2",
+    "title": "Agent Weiss",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Colony",
@@ -3393,11 +3567,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Jerry Lamana",
     "id": "XF97-0182v2",
+    "title": "Agent Jerry Lamana",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -3422,11 +3597,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Karen Kosseff, Counselor",
     "id": "XF97-0183v2",
+    "title": "Agent Karen Kosseff, Counselor",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Irresistible",
@@ -3452,11 +3628,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Spencer",
     "id": "XF97-0184v2",
+    "title": "Sheriff Spencer",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Blood",
@@ -3471,11 +3648,12 @@
       "Criminal Investigation"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Blockhead",
     "id": "XF97-0185v2",
+    "title": "Dr. Blockhead",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Humbug",
@@ -3492,11 +3670,12 @@
       "Negate"
     ],
     "gameText": "Negates one EVOLUTIONARY CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Thinker",
     "id": "XF97-0186v2",
+    "title": "The Thinker",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -3512,11 +3691,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Byers",
     "id": "XF97-0187v2",
+    "title": "Byers",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -3531,11 +3711,12 @@
       "Computer"
     ],
     "gameText": "Adds 1 to one Team's COMPUTER skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Emil and Zoe",
     "id": "XF97-0188v2",
+    "title": "Emil and Zoe",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Deep Throat",
@@ -3550,11 +3731,12 @@
       "Observation"
     ],
     "gameText": "Adds 2 to one Team's OBSERVATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Davey",
     "id": "XF97-0189v2",
+    "title": "Dr. Davey",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Soft Light",
@@ -3569,11 +3751,12 @@
       "Sciences"
     ],
     "gameText": "Adds 2 to one Team's SCIENCES skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Billy Miles",
     "id": "XF97-0190v2",
+    "title": "Billy Miles",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Pilot",
@@ -3588,11 +3771,12 @@
       "Alien Investigation"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Diamond",
     "id": "XF97-0191v2",
+    "title": "Dr. Diamond",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Jersey Devil",
@@ -3607,11 +3791,12 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BEHAVIORAL skill check once during your turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Frank Briggs",
     "id": "XF97-0192v2",
+    "title": "Detective Frank Briggs",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Squeeze",
@@ -3626,11 +3811,12 @@
       "Criminal Investigation"
     ],
     "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Sharon Lazard",
     "id": "XF97-0195v2",
+    "title": "Detective Sharon Lazard",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Born Again",
@@ -3645,11 +3831,12 @@
       "Evidence Collection"
     ],
     "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Laskos",
     "id": "XF97-0196v2",
+    "title": "Dr. Laskos",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -3664,11 +3851,12 @@
       "Medical"
     ],
     "gameText": "Adds 2 to one Team's MEDICAL skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Calusari",
     "id": "XF97-0197v2",
+    "title": "The Calusari",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Calusari",
@@ -3685,11 +3873,12 @@
       "Creature"
     ],
     "gameText": "Negates one OCCULT CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Bill Mulder",
     "id": "XF97-0198v2",
+    "title": "Bill Mulder",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Colony",
@@ -3705,11 +3894,12 @@
       "Subterfuge"
     ],
     "gameText": "Adds 2 to one Agent's SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sir Malcolm Marsden",
     "id": "XF97-0202v2",
+    "title": "Sir Malcolm Marsden",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Fire",
@@ -3724,11 +3914,12 @@
       "Bureaucracy"
     ],
     "gameText": "Adds 1 to one Team's BUREAUCRACY skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Samantha Mulder",
     "id": "XF97-0203v2",
+    "title": "Samantha Mulder",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Colony",
@@ -3743,11 +3934,12 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Max Fenig",
     "id": "XF97-0204v2",
+    "title": "Max Fenig",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -3762,11 +3954,12 @@
       "Alien Investigation"
     ],
     "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is the target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Hodge",
     "id": "XF97-0205v2",
+    "title": "Dr. Hodge",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ice",
@@ -3781,11 +3974,12 @@
       "Medical"
     ],
     "gameText": "Adds 1 to one Team's MEDICAL skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Doug Spinney",
     "id": "XF97-0206v2",
+    "title": "Doug Spinney",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Darkness Falls",
@@ -3800,11 +3994,12 @@
       "Sciences"
     ],
     "gameText": "Adds 1 to one Team's SCIENCES skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Sheila Braun",
     "id": "XF97-0207v2",
+    "title": "Dr. Sheila Braun",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Born Again",
@@ -3819,11 +4014,12 @@
       "Behavioral"
     ],
     "gameText": "Adds 2 to one Team's BEHAVIORAL skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "U.S. Marshall Tapia",
     "id": "XF97-0208v2",
+    "title": "U.S. Marshall Tapia",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "F. Emasculata",
@@ -3838,11 +4034,12 @@
       "Evidence Collection"
     ],
     "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Brad Wilczek",
     "id": "XF97-0209v2",
+    "title": "Brad Wilczek",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -3857,11 +4054,12 @@
       "Computer"
     ],
     "gameText": "Adds 2 to one Team's COMPUTER skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ish-Tribal Elder",
     "id": "XF97-0211v2",
+    "title": "Ish-Tribal Elder",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Shapes",
@@ -3876,11 +4074,12 @@
       "Occult Investigation"
     ],
     "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Mazeroski",
     "id": "XF97-0212v2",
+    "title": "Sheriff Mazeroski",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Red Museum",
@@ -3897,11 +4096,12 @@
       "Pawn"
     ],
     "gameText": "Negates one GOVERNMENT PAWN",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lt. Colonel Marcus Aurelius Belt",
     "id": "XF97-0213v2",
+    "title": "Lt. Colonel Marcus Aurelius Belt",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Space",
@@ -3918,11 +4118,12 @@
       "Creature"
     ],
     "gameText": "Negates one ALIEN CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gung Bituen",
     "id": "XF97-0214v2",
+    "title": "Gung Bituen",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Excelsius Dei",
@@ -3937,11 +4138,12 @@
       "Active"
     ],
     "gameText": "Attach this Witness to a Team. Enables your Agents to deal damage to OCCULT CREATUREs as normal. For example, you may use LRC against POLTERGEISTs and VAMPIREs. If at any time there are no Agents in the Team to which this card is attached, discard this card.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gerd Thomas",
     "id": "XF97-0216v2",
+    "title": "Gerd Thomas",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Red Museum",
@@ -3956,11 +4158,12 @@
       "Observation"
     ],
     "gameText": "Adds 1 to one Team's OBSERVATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Daniel Trepkos",
     "id": "XF97-0217v2",
+    "title": "Dr. Daniel Trepkos",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Firewalker",
@@ -3977,11 +4180,12 @@
       "Creature"
     ],
     "gameText": "Negates one PRIMORDIAL CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Maggie Holvey",
     "id": "XF97-0218v2",
+    "title": "Maggie Holvey",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Calusari",
@@ -3996,11 +4200,12 @@
       "Occult Investigation"
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Luther Lee Boggs",
     "id": "XF97-0219v2",
+    "title": "Luther Lee Boggs",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Beyond The Sea",
@@ -4017,11 +4222,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Senator Richard Matheson",
     "id": "XF97-0220v2",
+    "title": "Senator Richard Matheson",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Little Green Men",
@@ -4036,11 +4242,12 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Successful Diagnosis",
     "id": "XF97-0221v2",
+    "title": "Successful Diagnosis",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Darkness Falls",
@@ -4054,11 +4261,12 @@
       "Active"
     ],
     "gameText": "Place on a Team in the Hospital containing an injured Agent. The Agent heals 2 damage immediately.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Shutting Down The X-Files",
     "id": "XF97-0223v2",
+    "title": "Shutting Down The X-Files",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "3",
@@ -4073,11 +4281,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on any Team containing Agent Fox Mulder and/or Agent Dana Scully. Mulder must immediately be moved to the Bureau. Scully must immediately be moved to the Hospital (undamaged). Neither my contribute their skills to skill checks this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Reporters At The Crime Scene",
     "id": "XF97-0224v2",
+    "title": "Reporters At The Crime Scene",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -4092,11 +4301,12 @@
       "Conspiracy"
     ],
     "gameText": "Play when one player has just asked a Characteristic question and you were not the Directed player. If the player achieved the prerequisite skill number exactly, then he must tell all opponents the answer to the Characteristic question.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "I Want To Believe",
     "id": "XF97-0225v2",
+    "title": "I Want To Believe",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Conduit",
@@ -4111,11 +4321,12 @@
       "Active"
     ],
     "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Road Trip",
     "id": "XF97-0226v2",
+    "title": "Road Trip",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Ascension",
@@ -4130,11 +4341,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 6+ skill check they may investigate two Sites this turn. Resolve each Site individually.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hidden Transmitter",
     "id": "XF97-0227v2",
+    "title": "Hidden Transmitter",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -4154,11 +4366,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Medical Treatment",
     "id": "XF97-0228v2",
+    "title": "Medical Treatment",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Colony",
@@ -4172,11 +4385,12 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the Hospital. The Agent heals one token of damage immediately.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Cigarette-Smoking Man Strikes",
     "id": "XF97-0230v2",
+    "title": "The Cigarette-Smoking Man Strikes",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -4189,11 +4403,12 @@
       "Conspiracy"
     ],
     "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eve 7",
     "id": "XF97-0231v2",
+    "title": "Eve 7",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Eve",
@@ -4211,11 +4426,12 @@
     "tags": [
       "Move"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Street Contacts",
     "id": "XF97-0232v2",
+    "title": "Street Contacts",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -4232,11 +4448,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Arrests Suspects",
     "id": "XF97-0233v2",
+    "title": "Government Arrests Suspects",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Conduit",
@@ -4252,11 +4469,12 @@
       "Witness"
     ],
     "gameText": "Negate one Witness that modifies ALIEN INVESTIGATION or BUREAUCRACY skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Red Tape",
     "id": "XF97-0234v2",
+    "title": "Red Tape",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Host",
@@ -4270,11 +4488,12 @@
       "Conspiracy"
     ],
     "gameText": "Play during the Briefing Phase to prevent one opponent from drawing any cards during the remainder of this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "S.W.A.T. Training",
     "id": "XF97-0235v2",
+    "title": "S.W.A.T. Training",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -4289,11 +4508,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal and in addition has a +1 in one of the following skills: LRC, CRC or the ability to use MARTIAL ARTS Combat cards. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fingerprints",
     "id": "XF97-0236v2",
+    "title": "Fingerprints",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Tooms",
@@ -4308,11 +4528,12 @@
       "Active"
     ],
     "gameText": "Play on one Team in the Field. If the Team makes an EVIDENCE COLLECTION skill check 5+, then they may add 2 to any Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Back Tracking Program",
     "id": "XF97-0237v2",
+    "title": "Back Tracking Program",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Little Green Men",
@@ -4330,11 +4551,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Evidence Destroyed",
     "id": "XF97-0239v2",
+    "title": "Evidence Destroyed",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Pilot",
@@ -4350,11 +4572,12 @@
       "Evidence Collection"
     ],
     "gameText": "Negate one Keyword EVIDENCE COLLECTION card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Surfing The Net",
     "id": "XF97-0240v2",
+    "title": "Surfing The Net",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Colony",
@@ -4368,11 +4591,12 @@
       "Active"
     ],
     "gameText": "Have a Team make a COMPUTER 4+ skill check. If successful, draw three cards from your chosen opponent's Bureau deck and choose one to place in your Bureau Section face down. Place the other two cards back on top of your opponent's Bureau Deck in any order. You may use the chosen card when appropriate but you must pay the cost. Return the card to its owner's Discard Pile after it has been used. Leave this card on top of the card you've taken from your opponent to remind you that the card you took is considered an EVENT, RESOURCE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Sanctioned Pheromone Experiments",
     "id": "XF97-0241v2",
+    "title": "Government Sanctioned Pheromone Experiments",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Blood",
@@ -4389,11 +4613,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Thorough Documentation",
     "id": "XF97-0242v2",
+    "title": "Thorough Documentation",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Roland",
@@ -4408,11 +4633,12 @@
       "Active"
     ],
     "gameText": "Play prior to a Site skill check. If the Site skill check is successful, place this card in your Bureau Section. You may discard this card in any of your investigation phases to add 2 to a Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Evidence Overlooked",
     "id": "XF97-0246v2",
+    "title": "Evidence Overlooked",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Lazarus",
@@ -4428,11 +4654,12 @@
       "Site"
     ],
     "gameText": "If the Team makes an OBSERVATION 4+ skill check, they gain a +1 to the Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Reading The Signs",
     "id": "XF97-0249v2",
+    "title": "Reading The Signs",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -4446,11 +4673,12 @@
       "Active"
     ],
     "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 [CP] from their opponent's Conspiracy Pool and add them to their Resource Pool.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Skinner Adopts The Company Line",
     "id": "XF97-0251v2",
+    "title": "Skinner Adopts The Company Line",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Tooms",
@@ -4468,11 +4696,12 @@
     "tags": [
       "Affect Agent"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Safe House",
     "id": "XF97-0252v2",
+    "title": "Safe House",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Red Museum",
@@ -4489,11 +4718,12 @@
     "tags": [
       "Modify Witness"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Crop Circles",
     "id": "XF97-0253v2",
+    "title": "Crop Circles",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Gender Bender",
@@ -4510,11 +4740,12 @@
       "Alien Investigation"
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Langly",
     "id": "XF97-0254v2",
+    "title": "Langly",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -4531,11 +4762,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Expedite Request For Resources",
     "id": "XF97-0255v2",
+    "title": "Expedite Request For Resources",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -4552,11 +4784,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Paperwork",
     "id": "XF97-0256v2",
+    "title": "Paperwork",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Conduit",
@@ -4573,11 +4806,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Unexplainable Time Loss",
     "id": "XF97-0257v2",
+    "title": "Unexplainable Time Loss",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Pilot",
@@ -4595,11 +4829,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Clone",
     "id": "XF97-0258v2",
+    "title": "Clone",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "End Game",
@@ -4613,11 +4848,12 @@
       "Conspiracy"
     ],
     "gameText": "Play this card on any Witness that has just been played. The owning player must shuffle the Witness back into their Bureau deck immediately and does not benefit from the Witness.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Suspect Description",
     "id": "XF97-0259v2",
+    "title": "Suspect Description",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Young At Heart",
@@ -4631,11 +4867,12 @@
       "Active"
     ],
     "gameText": "Play on a Team that fails a Site skill check when combat was involved. If the Team makes a CRIMINAL INVESTIGATION 3+ skill check, place the Site in the Bureau. At the start of your Briefing Phase, you may place the Site into your hand.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Smoke Screen",
     "id": "XF97-0260v2",
+    "title": "Smoke Screen",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Tooms",
@@ -4650,11 +4887,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then designate a Team in the Field. As long as no new members are added to that Team, GOVERNMENT Adversaries may not attack that Team. This card remains in effect until a new Agent is added to the Team.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dark Forces Align",
     "id": "XF97-0261v2",
+    "title": "Dark Forces Align",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -4668,11 +4906,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on an opponent Team in any Section. For the rest of the turn, that Team is considered to have a single Characteristic SITE Keyword (i.e., RESULT SITE). You may choose any one Characteristic for the Keyword.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Computer Access Denied",
     "id": "XF97-0262v2",
+    "title": "Computer Access Denied",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Ghost In The Machine",
@@ -4689,11 +4928,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Improved Channels",
     "id": "XF97-0263v2",
+    "title": "Improved Channels",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -4707,11 +4947,12 @@
       "Active"
     ],
     "gameText": "The Team must make a BUREAUCRACY 4+ skill check. If successful, you may now have up to ten cards in hand at the end of your turn. This condition stays in effect until you are forced to discard this card. Discard this card if one of your Agents is moved from or to the Bureau Section of the table for any reason.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Krycek, The Double Agent",
     "id": "XF97-0265v2",
+    "title": "Krycek, The Double Agent",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Ascension",
@@ -4729,11 +4970,12 @@
     "tags": [
       "Affect Agent"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Spying Mission",
     "id": "XF97-0266v2",
+    "title": "Spying Mission",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -4751,11 +4993,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Authorized Access Only",
     "id": "XF97-0267v2",
+    "title": "Authorized Access Only",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Deep Throat",
@@ -4774,11 +5017,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Equipment Malfunction",
     "id": "XF97-0268v2",
+    "title": "Equipment Malfunction",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -4795,11 +5039,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Local Law Enforcement Are Uncooperative",
     "id": "XF97-0269v2",
+    "title": "The Local Law Enforcement Are Uncooperative",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -4815,11 +5060,12 @@
       "Criminal Investigation"
     ],
     "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Discretion",
     "id": "XF97-0271v2",
+    "title": "Alien Discretion",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Space",
@@ -4835,11 +5081,12 @@
       "Site"
     ],
     "gameText": "Play on a Team about to investigate a Site with ALIEN INVESTIGATION as a prerequisite. Discard all cards assigned as Bluff cards at that Site. X = the number of Bluffs at the Site.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fingernail Scrapings",
     "id": "XF97-0272v2",
+    "title": "Fingernail Scrapings",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Blood",
@@ -4854,11 +5101,12 @@
       "Active"
     ],
     "gameText": "If the Team makes an EVIDENCE COLLECTION 4+ skill check, they gain a +1 to a Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Trust No One",
     "id": "XF97-0273v2",
+    "title": "Trust No One",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -4876,11 +5124,12 @@
     "tags": [
       "Modify Witness"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lula Phillips",
     "id": "XF97-0274v2",
+    "title": "Lula Phillips",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Lazarus",
@@ -4896,11 +5145,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "No Place Is Safe",
     "id": "XF97-0275v2",
+    "title": "No Place Is Safe",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Squeeze",
@@ -4913,11 +5163,12 @@
       "Conspiracy"
     ],
     "gameText": "For the remainder of this turn, the Bureau is considered to have a single Characteristic SITE Keyword. You may choose any one Characteristic for the Keyword (i.e., RESULT SITE).",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Blackmail",
     "id": "XF97-0276v2",
+    "title": "Blackmail",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -4932,11 +5183,12 @@
       "Active"
     ],
     "gameText": "Play when you have just guessed incorrectly the identity of an X-File. Select a Team in your Bureau. If that Team successfully completes a BUREAUCRACY 4+ skill check, your opponent does not get to ask you a penalty question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dissection",
     "id": "XF97-0277v2",
+    "title": "Dissection",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -4952,11 +5204,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Application For FBI Resources Approved",
     "id": "XF97-0279v2",
+    "title": "Application For FBI Resources Approved",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -4971,11 +5224,12 @@
       "Active"
     ],
     "gameText": "If the Team makes a BUREAUCRACY 4+ skill check, you may borrow any one of your opponent's Agents. It may not be an Agent you already control. Add the Agent to the Team for the remainder of the turn. Afterward, the Agent returns to the original owner's control. The Agent must be returned to the Team it belonged to or sent to the Hospital if the Agent was reduced to 0 HEALTH during a combat.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Expert Briefing",
     "id": "XF97-0280v2",
+    "title": "Expert Briefing",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -4990,11 +5244,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn the Agent may be deployed as normal and in addition has a +1 in one of the following skills: OBSERVATION, BEHAVIORAL or SUBTERFUGE. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Access Personnel Files",
     "id": "XF97-0281v2",
+    "title": "Access Personnel Files",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Duane Barry",
@@ -5013,11 +5268,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hard Evidence",
     "id": "XF97-0282v2",
+    "title": "Hard Evidence",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Pilot",
@@ -5034,11 +5290,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Relentless Pursuit",
     "id": "XF97-0283v2",
+    "title": "Relentless Pursuit",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Gender Bender",
@@ -5051,11 +5308,12 @@
       "Active"
     ],
     "gameText": "Play to prevent the opposing player from drawing cards after the player has paid, but before the cards are drawn. X = The number of cards that the opposing player has paid to draw.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deductive Reasoning",
     "id": "XF97-0285v2",
+    "title": "Deductive Reasoning",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Conduit",
@@ -5070,11 +5328,12 @@
       "Active"
     ],
     "gameText": "Play on a Team that has just completed a combat. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, then they may ask whether or not the Adversary has a Keyword that is the same as the AFFILIATION of the controller's X-File.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Grid Pattern Search",
     "id": "XF97-0286v2",
+    "title": "Grid Pattern Search",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Lazarus",
@@ -5091,11 +5350,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Driving",
     "id": "XF97-0287v2",
+    "title": "Driving",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Conduit",
@@ -5110,11 +5370,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "In-Service Training",
     "id": "XF97-0288v2",
+    "title": "In-Service Training",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -5129,11 +5390,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: COMPUTER, MEDICAL, or SCIENCES. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Rejuvenating Caves",
     "id": "XF97-0289v2",
+    "title": "Rejuvenating Caves",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Gender Bender",
@@ -5150,11 +5412,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Experimentation",
     "id": "XF97-0290v2",
+    "title": "Alien Experimentation",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -5170,11 +5433,12 @@
       "Event"
     ],
     "gameText": "Negate any one Keyword EVENT card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hidden Grave",
     "id": "XF97-0291v2",
+    "title": "Hidden Grave",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Conduit",
@@ -5188,11 +5452,12 @@
       "Active"
     ],
     "gameText": "Take any Witness from your opponent's Discard Pile and use it for one skill check immediately at no cost.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Trap",
     "id": "XF97-0292v2",
+    "title": "Trap",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "End Game",
@@ -5209,11 +5474,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Assigned To The X-Files",
     "id": "XF97-0294v2",
+    "title": "Assigned To The X-Files",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Pilot",
@@ -5228,11 +5494,12 @@
       "Active"
     ],
     "gameText": "Play to permanently add any one Agent from your hand to a Team. The normal rules for selecting an Agent still apply. In addition, the Agent may not be one that was removed from the game prior to playing this card. X = Agent's Cost.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "X-Files Research",
     "id": "XF97-0296v2",
+    "title": "X-Files Research",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": null,
@@ -5247,11 +5514,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "A Friend In The FBI",
     "id": "XF97-0297v2",
+    "title": "A Friend In The FBI",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "E.B.E.",
@@ -5268,11 +5536,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Written Report",
     "id": "XF97-0298v2",
+    "title": "Written Report",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -5287,11 +5556,12 @@
       "Move"
     ],
     "gameText": "Play when an Agent is forced to return to the Bureau. Prior to moving, the Team may make a CRIMINAL INVESTIGATION 5+ skill check. If successful, the Agent does not have to return to the Bureau.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Mindwipe Serum",
     "id": "XF97-0299v2",
+    "title": "Government Mindwipe Serum",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Deep Throat",
@@ -5308,11 +5578,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Travel Arrangements",
     "id": "XF97-0300v2",
+    "title": "Travel Arrangements",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Deep Throat",
@@ -5327,11 +5598,12 @@
       "Agent"
     ],
     "gameText": "You may move one of your Agents to any Section immediately. This card may not be played once an Adversary has forced combat until after the combat is resolved. The Agent may join any Team that occupies the new Section.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Decoy",
     "id": "XF97-0301v2",
+    "title": "Decoy",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -5347,11 +5619,12 @@
       "Adversary"
     ],
     "gameText": "Play when an Adversary is allowed to enter combat with a single Agent. If the Team to which the Agent is attached makes a SUBTERFUGE 4+ skill check, the Adversary is negated.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Autopsy",
     "id": "XF97-0302v2",
+    "title": "Autopsy",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Host",
@@ -5368,11 +5641,12 @@
     "tags": [
       "Modify Witness"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Evasive Maneuvers",
     "id": "XF97-0303v2",
+    "title": "Evasive Maneuvers",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -5387,11 +5661,12 @@
       "Adversary"
     ],
     "gameText": "Negate one non-PHENOMENA Adversary.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Frohike",
     "id": "XF97-0304v2",
+    "title": "Frohike",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Blood",
@@ -5409,11 +5684,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Road Hazard",
     "id": "XF97-0306v2",
+    "title": "Road Hazard",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Ascension",
@@ -5428,11 +5704,12 @@
       "Move"
     ],
     "gameText": "Negate one card with the Keyword MOVE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Core Training",
     "id": "XF97-0307v2",
+    "title": "Core Training",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Lazarus",
@@ -5446,11 +5723,12 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Samuel Hartley",
     "id": "XF97-0308v2",
+    "title": "Samuel Hartley",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Miracle Man",
@@ -5465,11 +5743,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field that has just had an Agent removed from the game this turn. Make an OCCULT INVESTIGATION skill check of 4+. If successful, the Agent remains in play.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "True Grit",
     "id": "XF97-0309v2",
+    "title": "True Grit",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -5484,11 +5763,12 @@
       "Agent"
     ],
     "gameText": "Play when an Agent is forced to go to the Hospital. He must still go to the Hospital by the end of this turn but he may add his skills to one skill check before going.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Decreased Workload",
     "id": "XF97-0310v2",
+    "title": "Decreased Workload",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Host",
@@ -5503,11 +5783,12 @@
       "Briefing"
     ],
     "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Laptop Computer",
     "id": "XF97-0311v2",
+    "title": "Laptop Computer",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -5522,11 +5803,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's COMPUTER skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gas Chromatograph",
     "id": "XF97-0312v2",
+    "title": "Gas Chromatograph",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Firewalker",
@@ -5541,11 +5823,12 @@
       "Bureau"
     ],
     "gameText": "Agents equipped with a Gas Chromatograph have access to the field office crime lab. Adds 1 to the Agent's SCIENCES skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Wire-Tap",
     "id": "XF97-0313v2",
+    "title": "Wire-Tap",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Little Green Men",
@@ -5560,11 +5843,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's SUBTERFUGE skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Binoculars",
     "id": "XF97-0314v2",
+    "title": "Binoculars",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Little Green Men",
@@ -5578,11 +5862,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's OBSERVATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Medi-Kit",
     "id": "XF97-0315v2",
+    "title": "Medi-Kit",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -5597,11 +5882,12 @@
       "Bureau"
     ],
     "gameText": "An agent with MEDICAL skill may use the Medi-Kit to heal one wound on any agent in the Team once per turn. The may prevent an Agent from going to the Hospital.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kevlar Vest",
     "id": "XF97-0316v2",
+    "title": "Kevlar Vest",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -5616,11 +5902,12 @@
       "Bureau"
     ],
     "gameText": "The Kevlar Vest will absorb three points of damage. Place three tokens on this card. Discard a token to prevent one point of damage. Discard the Vest when all the tokens have been discarded. Excess damage is applied to the Agent as normal.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Glock 19 Semi-Automatic Pistol",
     "id": "XF97-0317v2",
+    "title": "Glock 19 Semi-Automatic Pistol",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -5635,11 +5922,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "High Resolution Camera",
     "id": "XF97-0318v2",
+    "title": "High Resolution Camera",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Calusari",
@@ -5654,11 +5942,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "High-Powered Flashlight",
     "id": "XF97-0319v2",
+    "title": "High-Powered Flashlight",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -5673,11 +5962,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's OBSERVATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Car",
     "id": "XF97-0320v2",
+    "title": "Government Car",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "E.B.E.",
@@ -5692,11 +5982,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Knife",
     "id": "XF97-0321v2",
+    "title": "Knife",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Die Hand Die Verletzt",
@@ -5711,11 +6002,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Taped Intelligence",
     "id": "XF97-0322v2",
+    "title": "Taped Intelligence",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -5730,11 +6022,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agent's Team when investigating a Site, even when they would otherwise be barred from doing so.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Walther PPK 7.65 Hold Out Weapon",
     "id": "XF97-0323v2",
+    "title": "Walther PPK 7.65 Hold Out Weapon",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Lazarus",
@@ -5749,11 +6042,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Geiger Counter",
     "id": "XF97-0324v2",
+    "title": "Geiger Counter",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -5768,11 +6062,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hospital Crash Cart",
     "id": "XF97-0325v2",
+    "title": "Hospital Crash Cart",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -5787,11 +6082,12 @@
       "Hospital"
     ],
     "gameText": "This piece of Equipment does not need to be attached to any Agent. Place three tokens on the Hospital Crash Cart. Discard one token to heal one point of damage to an Agent in the Hospital. Discard when all three tokens have been expended.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cellular Phone",
     "id": "XF97-0326v2",
+    "title": "Cellular Phone",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Blood",
@@ -5805,11 +6101,12 @@
       "Bureau"
     ],
     "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Symbol Of Faith",
     "id": "XF97-0327v2",
+    "title": "Symbol Of Faith",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -5824,11 +6121,12 @@
       "Believer"
     ],
     "gameText": "OCCULT Adversaries may not assign damage to this Agent unless there are no other eligible targets. If the Agent is the only eligible target then the damage from OCCULT Adversaries is halved.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Electron Emission Microscope",
     "id": "XF97-0328v2",
+    "title": "Electron Emission Microscope",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Young At Heart",
@@ -5843,11 +6141,12 @@
       "Bureau"
     ],
     "gameText": "Agents equipped with an Electron Emission Microscope have access to the field office crime lab. Adds 1 to the Agent's MEDICAL skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Shotgun",
     "id": "XF97-0329v2",
+    "title": "Shotgun",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Shapes",
@@ -5865,11 +6164,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "M-16 Assault Rifle",
     "id": "XF97-0330v2",
+    "title": "M-16 Assault Rifle",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -5887,11 +6187,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mojo Bag",
     "id": "XF97-0331v2",
+    "title": "Mojo Bag",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -5906,11 +6207,12 @@
       "Believer"
     ],
     "gameText": "Subtract one point from each damaging hit caused by an OCCULT CREATURE. In addition, OCCULT Adversaries may not play combat cards on Agents equipped with a Mojo Bag.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lie Detector",
     "id": "XF97-0332v2",
+    "title": "Lie Detector",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Squeeze",
@@ -5925,11 +6227,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's BEHAVIORAL skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Slithers In The Night",
     "id": "XF97-0333v2",
+    "title": "Slithers In The Night",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Die Hand Die Verletzt",
@@ -5951,11 +6254,12 @@
       "Affiliation Site"
     ],
     "gameText": null,
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hunter In The Dark",
     "id": "XF97-0335v2",
+    "title": "Hunter In The Dark",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -5979,11 +6283,12 @@
     "tags": [
       "Skip Long Range"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Crew-Cut Man",
     "id": "XF97-0336v2",
+    "title": "Crew-Cut Man",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -6005,11 +6310,12 @@
       "Method Site"
     ],
     "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Bounty Hunter",
     "id": "XF97-0337v2",
+    "title": "Alien Bounty Hunter",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Colony",
@@ -6031,11 +6337,12 @@
       "Motive Site"
     ],
     "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Host Attacks",
     "id": "XF97-0338v2",
+    "title": "The Host Attacks",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Host",
@@ -6057,11 +6364,12 @@
       "Result Site"
     ],
     "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pvt. McAlpin, Zombie",
     "id": "XF97-0339v2",
+    "title": "Pvt. McAlpin, Zombie",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Fresh Bones",
@@ -6086,11 +6394,12 @@
     "tags": [
       "Reduce Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Good People, Good Food",
     "id": "XF97-0340v2",
+    "title": "Good People, Good Food",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Our Town",
@@ -6114,11 +6423,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Sandman",
     "id": "XF97-0341v2",
+    "title": "The Sandman",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Sleepless",
@@ -6139,11 +6449,12 @@
       "Result Site"
     ],
     "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Abduction",
     "id": "XF97-0342v2",
+    "title": "Abduction",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -6166,11 +6477,12 @@
     "tags": [
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Squeeze",
     "id": "XF97-0343v2",
+    "title": "Squeeze",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Squeeze",
@@ -6194,11 +6506,12 @@
     "tags": [
       "Skip Long Range"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Psychotic Attack",
     "id": "XF97-0344v2",
+    "title": "The Psychotic Attack",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Fire",
@@ -6222,11 +6535,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Mechanic",
     "id": "XF97-0345v2",
+    "title": "The Mechanic",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -6248,11 +6562,12 @@
       "Affiliation Site"
     ],
     "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Darkness Falls",
     "id": "XF97-0346v2",
+    "title": "Darkness Falls",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Darkness Falls",
@@ -6276,11 +6591,12 @@
     "tags": [
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Suppressed Fury",
     "id": "XF97-0347v2",
+    "title": "Suppressed Fury",
     "set": "The Truth is Out There",
     "rarity": "Common",
     "episode": "Beyond The Sea",
@@ -6301,11 +6617,12 @@
       "Result Site"
     ],
     "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Living Machine",
     "id": "XF97-0348v2",
+    "title": "Living Machine",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -6329,11 +6646,12 @@
     "tags": [
       "Skip Long Range"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Operation Falcon Blue Berets",
     "id": "XF97-0349v2",
+    "title": "Operation Falcon Blue Berets",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -6358,11 +6676,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pheromone-Induced Psychosis",
     "id": "XF97-0350v2",
+    "title": "Pheromone-Induced Psychosis",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Blood",
@@ -6383,11 +6702,12 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness card is discarded and the Team is attacked! The Creature's LONG RANGE COMBAT and CLOSE RANGE COMBAT are equal to the Witness's modifier. If the Witness has no modifier, treat the Witness as a +3.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deadly Blur",
     "id": "XF97-0351v2",
+    "title": "Deadly Blur",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -6411,11 +6731,12 @@
     "tags": [
       "Reduce Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Manitou Stalks His Prey",
     "id": "XF97-0352v2",
+    "title": "The Manitou Stalks His Prey",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Shapes",
@@ -6436,11 +6757,12 @@
       "Motive Site"
     ],
     "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Poltergeist Attack",
     "id": "XF97-0353v2",
+    "title": "Poltergeist Attack",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
     "episode": "Shadows",
@@ -6462,11 +6784,12 @@
       "Occult Investigation"
     ],
     "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kiss Of The Vampire",
     "id": "XF97-0354v2",
+    "title": "Kiss Of The Vampire",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "3",
@@ -6488,11 +6811,12 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. Discard the Witness card. The Witness actually becomes a lesser vampire that attacks the Team in conjunction with the master vampire, with a CLOSE RANGE COMBAT rating of 3 and a HEALTH rating of 3. LONG RANGE COMBAT will cause no damage to either vampire.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "John Barnett Links You To Mulder",
     "id": "XF97-0355v2",
+    "title": "John Barnett Links You To Mulder",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Young At Heart",
@@ -6516,11 +6840,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Brother Martin Is Attracted To You",
     "id": "XF97-0356v2",
+    "title": "Brother Martin Is Attracted To You",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Gender Bender",
@@ -6545,11 +6870,12 @@
       "Unique",
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Leonard",
     "id": "XF97-0357v2",
+    "title": "Leonard",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Humbug",
@@ -6574,11 +6900,12 @@
       "Unique",
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "F. Emasculata Outbreak",
     "id": "XF97-0358v2",
+    "title": "F. Emasculata Outbreak",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "F. Emasculata",
@@ -6604,11 +6931,12 @@
       "Unique",
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Evil One",
     "id": "XF97-0359v2",
+    "title": "The Evil One",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Calusari",
@@ -6634,11 +6962,12 @@
       "Unique",
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Spirit Of The Amaru",
     "id": "XF97-0360v2",
+    "title": "Spirit Of The Amaru",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "Teso dos Bichos",
@@ -6664,11 +6993,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Limited Choices",
     "id": "XF97-0361v2",
+    "title": "Limited Choices",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "Paper Clip",
@@ -6685,11 +7015,12 @@
       "Unique",
       "Discard"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Too Close To The Truth",
     "id": "XF97-0362v2",
+    "title": "Too Close To The Truth",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "Apocrypha",
@@ -6706,11 +7037,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Injured Relative",
     "id": "XF97-0363v2",
+    "title": "Injured Relative",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Paper Clip",
@@ -6728,11 +7060,12 @@
       "Unique",
       "Move"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Explosion",
     "id": "XF97-0364v2",
+    "title": "Explosion",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Paper Clip",
@@ -6749,11 +7082,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lock Pick",
     "id": "XF97-0365v2",
+    "title": "Lock Pick",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Colony",
@@ -6770,11 +7104,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "U.S.G.S. Quadrant Map",
     "id": "XF97-0366v2",
+    "title": "U.S.G.S. Quadrant Map",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Deep Throat",
@@ -6792,11 +7127,12 @@
       "Unique",
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Nurse Owens",
     "id": "XF97-0367v2",
+    "title": "Nurse Owens",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "One Breath",
@@ -6812,11 +7148,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "One Breath",
     "id": "XF97-0368v2",
+    "title": "One Breath",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "One Breath",
@@ -6834,11 +7171,12 @@
       "Unique",
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Taking Chances",
     "id": "XF97-0369v2",
+    "title": "Taking Chances",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Darkness Falls",
@@ -6855,11 +7193,12 @@
       "Unique",
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "A Friend In The Lab",
     "id": "XF97-0370v2",
+    "title": "A Friend In The Lab",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fire",
@@ -6876,11 +7215,12 @@
       "Unique",
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "A False Leads",
     "id": "XF97-0371v2",
+    "title": "A False Leads",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "E.B.E.",
@@ -6897,11 +7237,12 @@
       "Unique",
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Witness Intimidated",
     "id": "XF97-0372v2",
+    "title": "Witness Intimidated",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Fire",
@@ -6919,11 +7260,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Assassinated",
     "id": "XF97-0373v2",
+    "title": "Assassinated",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -6941,11 +7283,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Security Clearance",
     "id": "XF97-0374v2",
+    "title": "Security Clearance",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -6962,11 +7305,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Joe Ridley",
     "id": "XF97-0375v2",
+    "title": "Dr. Joe Ridley",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Young At Heart",
@@ -6983,11 +7327,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Colonel Kissell",
     "id": "XF97-0376v2",
+    "title": "Colonel Kissell",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Deep Throat",
@@ -7004,11 +7349,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Meet Brother Andrew",
     "id": "XF97-0377v2",
+    "title": "Meet Brother Andrew",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Gender Bender",
@@ -7025,11 +7371,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Misclassified Case",
     "id": "XF97-0378v2",
+    "title": "Misclassified Case",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "The Host",
@@ -7046,11 +7393,12 @@
       "Unique",
       "Prevent"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Additional Resources",
     "id": "XF97-0379v2",
+    "title": "Additional Resources",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "The Host",
@@ -7068,11 +7416,12 @@
       "Unique",
       "Search"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Women's Health Clinic, Richville, MD",
     "id": "XF97-0380v2",
+    "title": "Women's Health Clinic, Richville, MD",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "End Game",
@@ -7089,11 +7438,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Tracking The Killer",
     "id": "XF97-0381v2",
+    "title": "Tracking The Killer",
     "set": "The Truth is Out There",
     "rarity": "Rare",
     "episode": "Colony",
@@ -7110,11 +7460,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mrs. Mulder",
     "id": "XF97-0382v2",
+    "title": "Mrs. Mulder",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "The Blessing Way",
@@ -7134,11 +7485,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Margaret Scully",
     "id": "XF97-0383v2",
+    "title": "Margaret Scully",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "Paper Clip",
@@ -7158,11 +7510,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Melissa Scully",
     "id": "XF97-0384v2",
+    "title": "Melissa Scully",
     "set": "The Truth is Out There",
     "rarity": "Ultra-Rare",
     "episode": "The Blessing Way",
@@ -7182,6 +7535,7 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   }
 ]

@@ -236,6 +236,10 @@ export default {
             label: 'Dialogue',
             component: 'CardFieldText'
           },
+          advanced: {
+            label: 'Advanced',
+            component: 'CardFieldBoolean'
+          },
           foundIn: {
             label: 'Found In',
             component: 'CardFieldString'
@@ -248,7 +252,10 @@ export default {
             label: 'Created by',
             component: 'CardFieldString'
           }
-        }).filter(([ key ]) => !!this.card?.[key])
+        }).filter(([ key ]) => (
+          this.card?.[key] !== undefined
+          && this.card?.[key] !== null
+        ))
       );
     },
 

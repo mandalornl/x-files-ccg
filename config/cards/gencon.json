@@ -1,7 +1,7 @@
 [
   {
-    "title": "Arecibo, Puerto Rico",
     "id": "XF96-0001 GCon",
+    "title": "Arecibo, Puerto Rico",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -18,11 +18,12 @@
     "prerequisite": "Alien Investigation 5+ or Computer 5+",
     "question": "You may ask one Affiliation question or one Method question.",
     "dialogue": "\"We wanted to listen. On October 12, 1992 NASA initiated the high resolution microwave survey. A decade long search by radio-telescope scanning 10 million frequencies for any transmission by extraterrestrial intelligence.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arlington, VA.",
     "id": "XF96-0002 GCon",
+    "title": "Arlington, VA.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -37,11 +38,12 @@
     "prerequisite": "Occult Investigation 4+",
     "question": "You may ask one Affiliation question.",
     "dialogue": "\"She was trying to cleanse the house of evil. She thought Charlie was responsible somehow.\" - Maggie Holvey on events leading to her mother's death.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Browning, MT.",
     "id": "XF96-0003 GCon",
+    "title": "Browning, MT.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -56,11 +58,12 @@
     "prerequisite": "Occult Investigation 4+",
     "question": "You may ask one Motive question.",
     "dialogue": "\"I could have swore I saw red eyes and fangs.\" - Mr. Parker",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Central Prison, Raleigh NC.",
     "id": "XF96-0004 GCon",
+    "title": "Central Prison, Raleigh NC.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -77,11 +80,12 @@
     "prerequisite": "Occult Investigation 5+ or Criminal Investigation 5+",
     "question": "You may ask one Motive question or one Method question. If you ask if the Method is Possession, the skill check prerequisite is 4+.",
     "dialogue": "\"In one week, Luther Lee Boggs will take a seat in a North Carolina gas chamber.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Church Of The Red Museum, Delta Glen WI.",
     "id": "XF96-0005 GCon",
+    "title": "Church Of The Red Museum, Delta Glen WI.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -98,11 +102,12 @@
     "prerequisite": "Subterfuge 5+ or Medical 5+",
     "question": "You may ask one Affiliation question or one Method question.",
     "dialogue": "\"Today we bear witness to three that do not believe. We encourage them to open their hearts and minds to our teachings, that they who slaughter the flesh, slaughter their own souls and must be taught the way.\" - Richard Odin",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cumberland Prison, VA.",
     "id": "XF96-0006 GCon",
+    "title": "Cumberland Prison, VA.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -117,11 +122,12 @@
     "prerequisite": "Subterfuge 4+",
     "question": "You may ask one Affiliation question.",
     "dialogue": "Mulder: \"I thought this was about escaped prisoners.\"\nScully: \"It is.\"\nMulder: \"Then who are the men in the funny suits?\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Frozen Submarine, Alaska.",
     "id": "XF96-0007 GCon",
+    "title": "Frozen Submarine, Alaska.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -138,11 +144,12 @@
     "prerequisite": "Alien Investigation 5+ or Evidence Collection 5+",
     "question": "You may ask one Affiliation question or one Result question. If you ask if the Result is Manipulation Of Evidence, the skill check prerequisite is 4+.",
     "dialogue": "\"A nuclear submarine located his craft in the Boffort Sea five days ago. They were ordered to destroy it, but they were disabled. An attack fleet left port from Anchorage this morning to make sure this man does not leave.\" - X",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Genetics Clinic, Marin County CA.",
     "id": "XF96-0008 GCon",
+    "title": "Genetics Clinic, Marin County CA.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -157,11 +164,12 @@
     "prerequisite": "Medical 4+",
     "question": "You may ask one Affiliation question.",
     "dialogue": "\"Sally Kendrick was using the clinic to carry on the Lichefield experiment. She was cloning herself.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gibsonton, FL.",
     "id": "XF96-0009 GCon",
+    "title": "Gibsonton, FL.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -176,11 +184,12 @@
     "prerequisite": "Medical 4+",
     "question": "You may ask one Method question.",
     "dialogue": "\"The town was founded back in the twenties, when some of Barnum & Baileys' troupes started coming down here during the winter off-season.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lake Okobogee, Campsite #53 Sioux City IA.",
     "id": "XF96-0010 GCon",
+    "title": "Lake Okobogee, Campsite #53 Sioux City IA.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -195,11 +204,12 @@
     "prerequisite": "Alien Investigation 4+",
     "question": "You may ask one Motive question.",
     "dialogue": "\"You don't believe in UFO's; guess you haven't been out to Lake Okobogee.\" - Bartender at the Pennsylvania Pub.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Los Angeles, CA.",
     "id": "XF96-0011 GCon",
+    "title": "Los Angeles, CA.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -216,11 +226,12 @@
     "prerequisite": "Occult Investigation 5+ or Evidence Collection 5+",
     "question": "You may ask one Affiliation question or one Method question.",
     "dialogue": "\"Their need is insatiable, but murdering for blood risks exposure and capture. If my profile of previous cases holds true, they've been living in the city and working near blood products for the past month.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Oregon Coast",
     "id": "XF96-0012 GCon",
+    "title": "Oregon Coast",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -235,11 +246,12 @@
     "prerequisite": "Alien Investigation 4+",
     "question": "You may ask one Affiliation question.",
     "dialogue": "\"See you tomorrow morning Scully, bright and early. We leave for the very plausible state of Oregon at 8:00 A.M.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Scully's Dream, Georgetown, MD",
     "id": "XF96-0013 GCon",
+    "title": "Scully's Dream, Georgetown, MD",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -254,11 +266,12 @@
     "prerequisite": "Medical 4+",
     "question": "You may ask one Method question.",
     "dialogue": "\"To fit in with her brothers, Dana also shot at the snake.\" - Margaret Scully",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "U.F.O Wreckage, Townsend WI.",
     "id": "XF96-0014 GCon",
+    "title": "U.F.O Wreckage, Townsend WI.",
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
@@ -275,11 +288,12 @@
     "prerequisite": "Alien Investigation 5+ or Bureaucracy 5+",
     "question": "You may ask one Motive question or one Result question.",
     "dialogue": "\"Well, whatever it was it was dropped off the screen at 24:18 sir. Hit ground just west of Lake Michigan outside Townsend Wisconsin.\" - Air Force Air Traffic Controller",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Thompson",
     "id": "XF96-0015 GCon",
+    "title": "Detective Thompson",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "The Jersey Devil",
@@ -294,11 +308,12 @@
     ],
     "gameText": "Play to change a Site prerequisite to Bureaucracy 3+.",
     "dialogue": "\"I don't work for you sir, and unless you hear differently from the Attorney General, this case is a local matter.\" - Detective Thompson",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Henry Trondheim",
     "id": "XF96-0016 GCon",
+    "title": "Henry Trondheim",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Dod Kalm",
@@ -312,11 +327,12 @@
     ],
     "gameText": "Force the Team investigating a Site to discard one Equipment card of your choice.",
     "dialogue": "\"My name is Trondheim, Henry Trondheim. The ship you want is the Za'Ahr. It's a fifty ton trawler with a double hull, it's my ship.\" - Henry Trondheim",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Laser Barrier",
     "id": "XF96-0017 GCon",
+    "title": "Laser Barrier",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Fallen Angel",
@@ -331,11 +347,12 @@
     ],
     "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agent's skills to the one skill check (your choice) that the Team makes this turn.",
     "dialogue": "Colonel Henderson: \"We're trying to contain an ecological disaster.\nMulder: \"That's a lot of firepower just to protect Mother Nature.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sleep Deprivation",
     "id": "XF96-0018 GCon",
+    "title": "Sleep Deprivation",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "E.B.E.",
@@ -350,11 +367,12 @@
     ],
     "gameText": "Decrease all of the skill levels on one Agent (your choice) by one for this turn only.",
     "dialogue": "Scully: \"Mulder, you know that proper surveillance requires two pairs of agents, one pair relieving the other after twelve hours.\"\nMulder: \"Article thirty, paragraph eight point seven.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arctic Worm",
     "id": "XF96-0019 GCon",
+    "title": "Arctic Worm",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Ice",
@@ -366,11 +384,12 @@
       "Result": "Insanity"
     },
     "dialogue": "\"Maybe the worm feeds on the acetylcholine which floods our capacity to control violent behavior.\" - Dr. Hodge",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Duane Barry",
     "id": "XF96-0020 GCon",
+    "title": "Duane Barry",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Duane Barry",
@@ -382,11 +401,12 @@
       "Result": "Abduction"
     },
     "dialogue": "\"They took her, I told you they were gonna take somebody else.\" - Duane Barry describing Scully's abduction.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eugene Victor Tooms",
     "id": "XF96-0021 GCon",
+    "title": "Eugene Victor Tooms",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Squeeze",
@@ -398,11 +418,12 @@
       "Result": "Death"
     },
     "dialogue": "\"I contend that perhaps through a genetic mutation Eugene Tooms is capable of contorting and elongating his body in order to gain access to his victims.\" - Mulder under oath at Toom's psychiatric review.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eve",
     "id": "XF96-0022 GCon",
+    "title": "Eve",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Eve",
@@ -414,11 +435,12 @@
       "Result": "Abduction"
     },
     "dialogue": "\"Psychotic behavior didn't develop in the Adams and Eves until age 16; homicidal behavior at 20. Imagine my disappointment when I learned of your accelerated development.\" - Eve 7",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Jersey Devil",
     "id": "XF96-0023 GCon",
+    "title": "Jersey Devil",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Jersey Devil",
@@ -430,11 +452,12 @@
       "Result": "Death"
     },
     "dialogue": "Mulder: \"You should have seen her, she was beautiful.\"\nScully: \"Yeah, well she just about ripped your lungs out.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Cigarette Smoking Man",
     "id": "XF96-0024 GCon",
+    "title": "The Cigarette Smoking Man",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Anasazi",
@@ -446,11 +469,12 @@
       "Result": "Manipulation of Evidence"
     },
     "dialogue": "\"You can kill me now, but you'll never know the truth. And that's why I'll win.\" - The Cigarette Smoking Man",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Manitou",
     "id": "XF96-0025 GCon",
+    "title": "The Manitou",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Shapes",
@@ -462,11 +486,12 @@
       "Result": "Death"
     },
     "dialogue": "\"The Manitou is an evil spirit capable of changing a man into a beast.\" - Sioux Tribal Elder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Albert Hosteen",
     "id": "XF96-0026 GCon",
+    "title": "Albert Hosteen",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Anasazi",
@@ -490,11 +515,12 @@
     },
     "gameEffect": "Place a token on Hosteen's card. Discard a token to examine your opponent's hand. Select any one Conspiracy card. If your opponent plays that card at any time in the game, you may immediately ask one question about the X‐File. This question may only be asked the first time the card is played.",
     "bio": "Albert Hosteen is a Navajo Tribal Elder. He met and assisted Agent Mulder during the events depicted in \"Anasazi\", \"The Blessing Way\", and \"Paper Clip\". He performed a ritual that helped Mulder survive injuries inflicted on him by the Cigarette Smoking Man.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Alex Krycek",
     "id": "XF96-0027 GCon",
+    "title": "Agent Alex Krycek",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Sleepless",
@@ -520,11 +546,12 @@
     },
     "gameEffect": "He may choose to add to the Conspiracy Pool instead of the Resource Pool during his Briefing Phase.",
     "bio": "Alex Krycek is a clean cut agent who professes an admiration for agent Mulder and his work on the X-Files. Krycek worked with Mulder in apprehending Augustus Cole (Sleepless) and in searching for Dana Scully after her abduction (Ascension). What no one else knows is that he is a double agent working for the Cigarette Smoking Man. He aided in the abduction of Scully, killed Mulder's father, attempted to kill Mulder (he shot Scully instead), and was present at Melissa Scully's murder.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Dana Scully",
     "id": "XF96-0028 GCon",
+    "title": "Agent Dana Scully",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": null,
@@ -551,11 +578,12 @@
     },
     "gameEffect": "Place 3 tokens on this card. Discard token to examine any one Bluff card. Place Bluff card back on the Site after examining.",
     "bio": "Agent Dana Scully is a well respected agent who, at one time, taught at Quantico. She is trained in the areas of forensics and pathology and is highly skeptical of paranormal activity. Teamed with Mulder, she balances his theories with scientific reason.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Fox Mulder",
     "id": "XF96-0029 GCon",
+    "title": "Agent Fox Mulder",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": null,
@@ -583,11 +611,12 @@
     },
     "gameEffect": "RPs generated by Mulder must be used to purchase cards. Place 3 tokens on this card. Discard a token to play a Site for 0 [RP] cost.",
     "bio": "One of the FBI's most accomplished detectives, Fox Mulder uses his background in psychology to track down and profile a variety of serial killers. His real interest is paranormal phenomena, an obsession that earned him the nickname \"Spooky\".",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Special Agent Karen Kossoff, Counselor",
     "id": "XF96-0030 GCon",
+    "title": "Special Agent Karen Kossoff, Counselor",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Calusari",
@@ -611,11 +640,12 @@
     },
     "gameEffect": "Place 1 [RP] on this card. This [RP] may be used to pay for any Keyword Behavioral or Observation cards. If you use this [RP], replace it during your Briefing Phase.",
     "bio": "Agent Karen Kossoff is an F.B.I. crisis counselor who has assisited Mulder and Scully on several cases, most notably counseling Scully in \"Irresistable\", and family intervention in \"The Calusari\" and \"Born Again\".",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Colonel Marcus Aurelius Belt",
     "id": "XF96-0031 GCon",
+    "title": "Colonel Marcus Aurelius Belt",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Space",
@@ -633,11 +663,12 @@
     ],
     "gameText": "Negates one Alien Creature.",
     "dialogue": "\"I think that whatever it was, he took it with him, and that was the only way he knew how to stop it.\" - Mulder describing Colonel Belts' heroic sacrifice.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Daniel Trepkos",
     "id": "XF96-0032 GCon",
+    "title": "Dr. Daniel Trepkos",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Firewalker",
@@ -655,11 +686,12 @@
     ],
     "gameText": "Negates one Primordial Creature.",
     "dialogue": "\"I say the Earth holds some truths best left buried.\" - Dr. Daniel Trepkos",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Laskos",
     "id": "XF96-0033 GCon",
+    "title": "Dr. Laskos",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Dod Kalm",
@@ -675,11 +707,12 @@
     ],
     "gameText": "Adds +2 to one Team's Medical skill check.",
     "dialogue": "\"It's been 36 hours since your rescue. I've got you on dialysis with a high flux filter. You're obviously responding well. Your electrolytes are almost back to normal and your fluid status has been corrected.\" - Dr. Laskos",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Calusari",
     "id": "XF96-0034 GCon",
+    "title": "The Calusari",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "The Calusari",
@@ -697,11 +730,12 @@
     ],
     "gameText": "Negates one Occult Creature.",
     "dialogue": "\"They are the Calusari. In Romania they are responsible for the correct observance of sacred rites.\" - Maggie Holvey",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Experimentation",
     "id": "XF96-0035 GCon",
+    "title": "Alien Experimentation",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Duane Barry",
@@ -718,11 +752,12 @@
     ],
     "gameText": "Negate any one Keyword Event card.",
     "dialogue": "Mulder: \"They take you aboard the ship to perform the tests.\"\nDuane Barry: \"They drill holes in my teeth. They drill holes in my damn teeth!\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Technology",
     "id": "XF96-0036 GCon",
+    "title": "Alien Technology",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Erlenmeyer Flask",
@@ -740,11 +775,12 @@
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with Alien Investigation or Bureaucracy skill as a prerequisite. Place this card in your Bureau. Discard this card to negate one Alien or Government Adversary.",
     "dialogue": "\"There were tanks here, and five bodies suspended in solution. There were computers monitoring them. They were alive Scully, underwater!\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Computer Access Denied",
     "id": "XF96-0037 GCon",
+    "title": "Computer Access Denied",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Ghost In The Machine",
@@ -759,11 +795,12 @@
     ],
     "gameText": "Force an opponent Team to make a Computer 4+ skill check or they will be unable to complete the skill check.",
     "dialogue": "\"Come on, come on, let me in damn it.\" - Brad Wilczek",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Crop Circles",
     "id": "XF96-0038 GCon",
+    "title": "Crop Circles",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Gender Bender",
@@ -781,11 +818,12 @@
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with Alien Investigation skill as a prerequisite. Place this card in your Bureau. Discard this card to add +1 to an Alien Investigation skill check.",
     "dialogue": "Scully: \"I don't understand, how can they just disappear? They have no means of transportation.\"\nMulder: \"No earthly means of transportation.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deep Throat",
     "id": "XF96-0039 GCon",
+    "title": "Deep Throat",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Deep Throat",
@@ -800,11 +838,12 @@
     ],
     "gameText": "Ask any one Characteristic question regarding one opponent's X‐File. Remove this card from the game. The effects of this card may not be negated.",
     "dialogue": "\"Mr. Mulder, they've been here for a very, very long time.\" - Deep Throat",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fighter Interceptor",
     "id": "XF96-0040 GCon",
+    "title": "Fighter Interceptor",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "E.B.E.",
@@ -821,11 +860,12 @@
     ],
     "gameText": "Negates an Alien Adversary.",
     "dialogue": "Iraqi Air Command (translated): \"You're under attack!\"\nIraqi Pilot (translated): \"I'm locked in. It's a hit! I got him!\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Frohike",
     "id": "XF96-0041 GCon",
+    "title": "Frohike",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Blood",
@@ -841,11 +881,12 @@
     ],
     "gameText": "This card will negate one Event card played on your Team.",
     "dialogue": "Mulder's phone rings. \"If that's the lovely Agent Scully, let her know I've been working out. I'm buff!\" - Frohike",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Grid Pattern Search",
     "id": "XF96-0042 GCon",
+    "title": "Grid Pattern Search",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Lazarus",
@@ -860,11 +901,12 @@
     ],
     "gameText": "Select one card from your Discard Pile and place it in your hand.",
     "dialogue": "\"That gives us an area of just over 3 square miles to cover, roughly a thousand households.\" - Mulder searching for Scully.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Paper Shackles",
     "id": "XF96-0043 GCon",
+    "title": "Paper Shackles",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Conduit",
@@ -879,11 +921,12 @@
     ],
     "gameText": "Force an opponent Team to make a Criminal Investigation 5+ skill check or they will be unable to add their skills to a Site skill check this turn.",
     "dialogue": "\"It came up through channels. From Mulder's ASAC to the district G-14 and onto my desk.\" - Section Chief Scott Blevins",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Street Contacts",
     "id": "XF96-0044 GCon",
+    "title": "Street Contacts",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "One Breath",
@@ -898,11 +941,12 @@
     ],
     "gameText": "Search through your Bureau Deck and place any one Witness card in your hand. Show the Witness to your opponents. Shuffle the Bureau Deck.",
     "dialogue": "\"You want to see what it takes to find the truth Agent Mulder? You want to know the things I know?\" - X",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Smoking Man Strikes!",
     "id": "XF96-0045 GCon",
+    "title": "The Smoking Man Strikes!",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Anasazi",
@@ -916,11 +960,12 @@
     ],
     "gameText": "Change any Keyword to any other Keyword on a card played by your opponent. This effect lasts until the end of the turn.",
     "dialogue": "\"Nothing vanishes without a trace, burn it!\" - Cigarette Smoking Man",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Travel Arrangements",
     "id": "XF96-0046 GCon",
+    "title": "Travel Arrangements",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Deep Throat",
@@ -936,11 +981,12 @@
     ],
     "gameText": "You may move one of your Agents to any Section immediately. This card may not be played once an Adversary has forced combat until after the combat is resolved. The Agent may join any Team that occupies the new Section.",
     "dialogue": "\"We've got a charter flight waiting to take us to Seattle. From there a helicopter will fly us to Mount Avalon.\" - Dr. Adma Pierce",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "True Grit",
     "id": "XF96-0047 GCon",
+    "title": "True Grit",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Fallen Angel",
@@ -956,11 +1002,12 @@
     ],
     "gameText": "Play when an Agent is forced to go to the Hospital. He must still go to the Hospital by the end of this turn but he may add his skills to one skill check before going.",
     "dialogue": "Crew Cut Man: \"Your cellular phone has been ringing of the hook.\" Mulder: \"I'm a popular guy, why don't you answer it for me.\" Crew Cut Man: \"I don't like talking on the phone. I have this thing about unsecured lines.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "X",
     "id": "XF96-0048 GCon",
+    "title": "X",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Sleepless",
@@ -976,11 +1023,12 @@
     ],
     "gameText": "Negate any one Keyword Adversary card.",
     "dialogue": "\"You still don't get it do you? The truth is still out there, but it's never been more dangerous. The man we both knew paid for that information with his life; a sacrifice I'm not willing to make.\" - X",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Geiger Counter",
     "id": "XF96-0049 GCon",
+    "title": "Geiger Counter",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "E.B.E.",
@@ -996,11 +1044,12 @@
     ],
     "gameText": "Adds +1 to the Agent's Alien Investigation skill.",
     "dialogue": "\"The radiation level is five times the norm.\" - Mulder on the radiation levels at a U.F.O. site.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "High Resolution Camera",
     "id": "XF96-0050 GCon",
+    "title": "High Resolution Camera",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Clyde Bruckman's Final Repose",
@@ -1016,11 +1065,12 @@
     ],
     "gameText": "Adds +1 to the Agent's Occult Investigation skill.",
     "dialogue": "\"So your saying a ghost killed Teddy Holvey. Has anyone checked the camera that took this photo? The lens and the pressure plate?\" - Scully",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Nokia 121 Cellular Phone",
     "id": "XF96-0051 GCon",
+    "title": "Nokia 121 Cellular Phone",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Blood",
@@ -1035,11 +1085,12 @@
     ],
     "gameText": "The Agent may add his skills to a skill check that is occuring in another Section of the table. The Agent's skill is reduced by 1 (i.e., Skill: 3 becomes Skill: 2). LRC and CRC may not be added.",
     "dialogue": "\"The single connecting trace evidence in the killing is the destruction of an electrical device at the crime scene. A pager, a fax, a cellular phone, a gas pump digital display.\" - Mulder, on the murders in Franklin PA.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Wire-Tap",
     "id": "XF96-0052 GCon",
+    "title": "Wire-Tap",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Little Green Men",
@@ -1055,11 +1106,12 @@
     ],
     "gameText": "Adds +1 to the Agent's Subterfuge skill.",
     "dialogue": "\"I had enough on that surveillance to arrest those suspects after 3 days, I could have nailed them on 40 counts of bank fraud. But you left me there. I'm surprised you even noticed I was gone.\" - Mulder",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Abduction!",
     "id": "XF96-0053 GCon",
+    "title": "Abduction!",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Conduit",
@@ -1081,11 +1133,12 @@
     ],
     "gameText": "Pick one Agent in the Team. That Agent is placed 10 cards down, face up, in the owning player's Bureau deck. Any equipment the Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate combat.",
     "dialogue": "\"The government knows about it you know. They're even in on it sometimes. Right there in the room when they come. They work together with a secret corporation.\" - Duane Barry",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Darkness Falls",
     "id": "XF96-0054 GCon",
+    "title": "Darkness Falls",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Darkness Falls",
@@ -1108,11 +1161,12 @@
     ],
     "gameText": "Unless a Healing card is played immediately and the card results in 1 point being healed, move the Agent to the Hospital. The Agent must stay in hospital for the next turn.",
     "dialogue": "Scully: \"Mulder, get them off me!\"\nMulder: \"They're not just on you, they're everywhere.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deadly Blur",
     "id": "XF96-0055 GCon",
+    "title": "Deadly Blur",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Fallen Angel",
@@ -1135,11 +1189,12 @@
     ],
     "gameText": "Any Agent damaged by the Deadly Blur is placed in the hospital for the next two turns regardless of how much Health they have. Each opponent's LRC and CRC is reduced one point. The Deadly Blur may use Subterfuge Combat cards.",
     "dialogue": "Mulder: \"No human pilot walked away from the wreckage I saw.\"\nScully: \"Well, maybe he ejected.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Poltergeist Attack",
     "id": "XF96-0056 GCon",
+    "title": "Poltergeist Attack",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Shadows",
@@ -1162,11 +1217,12 @@
     ],
     "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one Long Range and one Close Range Combat round and then leave.",
     "dialogue": "\"Lauren, how will you be able to rest if he never can?\" - Scully questioning Lauren Kyte concerning the poltergeist Howard Graves",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pvt. McAlpin, Zombie",
     "id": "XF96-0057 GCon",
+    "title": "Pvt. McAlpin, Zombie",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Fresh Bones",
@@ -1190,11 +1246,12 @@
     ],
     "gameText": "Long Range Combat attacks cause only half damage (round up) to the Zombie.",
     "dialogue": "Scully: \"He's non-verbal, non-responsive to voice, touch or pain. The neurologist suspects he's suffered a severe concussion in the crash resulting in amnesia.\" Mulder: \"That's a plausible diagnosis only I'm more interested in how he came back to life.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Slithers In The Night",
     "id": "XF96-0058 GCon",
+    "title": "Slithers In The Night",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Die Hand Die Verletzt",
@@ -1218,11 +1275,12 @@
     ],
     "gameText": "Pick one Agent in the Team. That Agent is placed 10 cards down, face up, in the owning player's Bureau Deck. Any equipment the Agent had is discarded. When the Agent's card reaches the top of the deck, the Agent is immediately moved to the Hospital (undamaged). This card does not initiate Combat.",
     "dialogue": "Mulder: \"Scully, snake skin!\"\nScully: \"There's a python in Paddock's room!\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Suppressed Fury",
     "id": "XF96-0059 GCon",
+    "title": "Suppressed Fury",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Beyond The Sea",
@@ -1245,11 +1303,12 @@
     ],
     "gameText": "Regardless of how much damage is done to this creature in the Long Range Combat round, it will attack in the Close Range Combat round. If its Health has been exceeded it is removed at the end of the Close Combat round.",
     "dialogue": "\"Nngh, gaah! - Lucas Henry.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Mechanic",
     "id": "XF96-0060 GCon",
+    "title": "The Mechanic",
     "set": "Gen Con",
     "rarity": "Demo",
     "episode": "Erlenmeyer Flask",
@@ -1273,6 +1332,7 @@
     ],
     "gameText": "The Mechanic may use Martial Arts and Subterfuge Combat cards.",
     "dialogue": "Mulder: \"There were three men last night, I was chased!\" Deep Throat: \"If you were chased you would have been killed. Those men are trained for that sort of business, and they are trained very well.\"",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   }
 ]

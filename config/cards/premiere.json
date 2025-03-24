@@ -1,7 +1,7 @@
 [
   {
-    "title": "Aura Of Invulnerability",
     "id": "XF96-0001v1",
+    "title": "Aura Of Invulnerability",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Humbug",
@@ -15,11 +15,12 @@
       "Combat"
     ],
     "gameText": "Play on any OCCULT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "First Aid",
     "id": "XF96-0002v1",
+    "title": "First Aid",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -33,11 +34,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent in the Field to immediately Heal one point of damage.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Face-Off",
     "id": "XF96-0003v1",
+    "title": "Face-Off",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ice",
@@ -50,11 +52,12 @@
       "Combat"
     ],
     "gameText": "Play this card during a LONG RANGE COMBAT round on a combatant you control with an LRC skill. That combatant and one other combatant of the owning player's choice will deal no damage in this LRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Rending Claws",
     "id": "XF96-0004v1",
+    "title": "Rending Claws",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Shapes",
@@ -69,11 +72,12 @@
       "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 1 to their CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fast Strike",
     "id": "XF96-0005v1",
+    "title": "Fast Strike",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "End Game",
@@ -86,11 +90,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant with a CLOSE RANGE COMBAT skill of three or more to allow that combatant to attack twice in a CRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sneak Attack",
     "id": "XF96-0006v1",
+    "title": "Sneak Attack",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Tooms",
@@ -104,11 +109,12 @@
       "Combat"
     ],
     "gameText": "Play on any EVOLUTIONARY Adversary to allow it to deal all of its damage in the round before its opponents. Any opponents sent to the Hospital as a result of this damage do not cause damage this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ambush",
     "id": "XF96-0007v1",
+    "title": "Ambush",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -122,11 +128,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. The opposing side's LONG RANGE COMBAT attack is negated this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kick",
     "id": "XF96-0008v1",
+    "title": "Kick",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Red Museum",
@@ -140,11 +147,12 @@
       "Combat"
     ],
     "gameText": "Play on any Combatant that can use MARTIAL ARTS or any combatant opposing a stunned opponent. Add 2 to the combatant's CLOSE RANGE COMBAT damage result this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gun Jammed",
     "id": "XF96-0009v1",
+    "title": "Gun Jammed",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -160,11 +168,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hide",
     "id": "XF96-0010v1",
+    "title": "Hide",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -178,11 +187,12 @@
       "Combat"
     ],
     "gameText": "Play this on one combatant with a SUBTERFUGE skill of 1+ or that is capable of using SUBTERFUGE cards. No damage may be dealt to that combatant in this round and the combatant deals no damage.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dodge",
     "id": "XF96-0011v1",
+    "title": "Dodge",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -195,11 +205,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this LRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Nerve Strike",
     "id": "XF96-0012v1",
+    "title": "Nerve Strike",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -213,11 +224,12 @@
       "Combat"
     ],
     "gameText": "Play on any combatant that can use MARTIAL ARTS to add 2 to their CLOSE RANGE COMBAT skill in this round. In addition, the opponent is considered \"stunned\" for the next round of combat. The opponent will deal no damage in the next round of combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Webbed",
     "id": "XF96-0013v1",
+    "title": "Webbed",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Darkness Falls",
@@ -231,11 +243,12 @@
       "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL Adversary to add 1 to their CLOSE RANGE COMBAT skill and prevent all damage from one opponent this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Vicious Fangs",
     "id": "XF96-0014v1",
+    "title": "Vicious Fangs",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Shapes",
@@ -250,11 +263,12 @@
       "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL or OCCULT Adversary to add 2 to their CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Spin Kick",
     "id": "XF96-0015v1",
+    "title": "Spin Kick",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Gender Bender",
@@ -268,11 +282,12 @@
       "Combat"
     ],
     "gameText": "Combatants that can use MARTIAL ARTS may play this card to add 3 to their CLOSE RANGE COMBAT skill this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mind Control",
     "id": "XF96-0016v1",
+    "title": "Mind Control",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -287,11 +302,12 @@
       "Combat"
     ],
     "gameText": "Play on any OCCULT or EVOLUTIONARY Adversary to cause one Agent to allocate all damage to a target of the Adversary's choice this round (including other Agents).",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Stealth Technology",
     "id": "XF96-0017v1",
+    "title": "Alien Stealth Technology",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -305,11 +321,12 @@
       "Combat"
     ],
     "gameText": "Play on any ALIEN combatant to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Block and Attack",
     "id": "XF96-0018v1",
+    "title": "Block and Attack",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ice",
@@ -326,11 +343,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Block",
     "id": "XF96-0019v1",
+    "title": "Block",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ice",
@@ -343,11 +361,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant in a CLOSE RANGE COMBAT round to reduce the damage from any one source by four points. The combatant using this card does not deal damage in this CRC round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Body Armor",
     "id": "XF96-0020v1",
+    "title": "Body Armor",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -361,11 +380,12 @@
       "Combat"
     ],
     "gameText": "Play on any GOVERNMENT Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by one this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Disarm",
     "id": "XF96-0021v1",
+    "title": "Disarm",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ice",
@@ -379,11 +399,12 @@
       "Combat"
     ],
     "gameText": "Adversaries that can use MARTIAL ARTS may play this card in a CLOSE RANGE COMBAT round to cause one Equipment card from the opposing side to be discarded. If the Equipment normally adds to CRC skill check, then it is discarded before it may do so.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Running Gun Battle",
     "id": "XF96-0022v1",
+    "title": "Running Gun Battle",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -396,11 +417,12 @@
       "Combat"
     ],
     "gameText": "Combatants with a LONG RANGE COMBAT skill of 3+ may use this card to fight one additional round of LRC immediately.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fascination",
     "id": "XF96-0023v1",
+    "title": "Fascination",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "3",
@@ -417,11 +439,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Internal Bleeding",
     "id": "XF96-0024v1",
+    "title": "Internal Bleeding",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Duane Barry",
@@ -434,11 +457,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent that has taken two or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until he is fully healed.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Covering Fire",
     "id": "XF96-0025v1",
+    "title": "Covering Fire",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -455,11 +479,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "No Way Out",
     "id": "XF96-0026v1",
+    "title": "No Way Out",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "3",
@@ -475,11 +500,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hard Punch",
     "id": "XF96-0027v1",
+    "title": "Hard Punch",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -492,11 +518,12 @@
       "Combat"
     ],
     "gameText": "Play on any combatant in a CLOSE RANGE COMBAT round. Add one to the combatant's damage result.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Choke Hold",
     "id": "XF96-0028v1",
+    "title": "Choke Hold",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -510,11 +537,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant that can use MARTIAL ARTS. The combatant applies a choke hold. If the combatant causes damage in CLOSE RANGE COMBAT then the damaged Adversary/Agent takes no further part in the combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fast Draw",
     "id": "XF96-0029v1",
+    "title": "Fast Draw",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -527,11 +555,12 @@
       "Combat"
     ],
     "gameText": "Play on any one combatant who would not normally be allowed to fight a round of LONG RANGE COMBAT. The combatant must still have LRC skill. The combatant may fight one round of LRC as normal.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Watch Out!",
     "id": "XF96-0030v1",
+    "title": "Watch Out!",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Blood",
@@ -544,11 +573,12 @@
       "Combat"
     ],
     "gameText": "Play this card when your opponent is about to assign damage. You now choose which of the Agents or Adversaries under your control take the damage. The damage may not be split unless you play a card that allows you to do so.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hit and Run",
     "id": "XF96-0031v1",
+    "title": "Hit and Run",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Colony",
@@ -561,11 +591,12 @@
       "Combat"
     ],
     "gameText": "One Agent equipped with a \"Government Car\" may use this card to make one CLOSE RANGE COMBAT attack at CRC skill: 6. Any damage allocated to the Agent is taken by the car first. The car is destroyed after taking six hits. Hits in excess of those needed to destroy the car are applied to the Agent. Discard the \"Government Car\" card after this combat round is resolved.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Handcuff",
     "id": "XF96-0032v1",
+    "title": "Handcuff",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Squeeze",
@@ -578,11 +609,12 @@
       "Combat"
     ],
     "gameText": "Play this card in a CLOSE RANGE COMBAT round after damage has been dealt. If the Agents dealt two or more points more damage than their opponent, combat ends immediately. In addition, place the opposing Adversary in the Agents' Bureau section. The player may discard this card at any time to add two points of damage to any future combat involving an Adversary with the same Keywords.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Illusionary Foe",
     "id": "XF96-0033v1",
+    "title": "Illusionary Foe",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -600,11 +632,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Run For It!",
     "id": "XF96-0034v1",
+    "title": "Run For It!",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -617,11 +650,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any Agent to immediately end combat for that Agent. Finish the combat without the Agent. The Agent takes no damage from the combat and may still contribute his skills to other skill checks.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Terminal Damage",
     "id": "XF96-0035v1",
+    "title": "Terminal Damage",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -635,11 +669,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent that has taken 5 or more damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent cannot leave the Hospital until fully healed. Subtract 5 from the Agent's Cost. If the Cost is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue and Weiss are immune to this effect.)",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Flaming Wall",
     "id": "XF96-0036v1",
+    "title": "Flaming Wall",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fire",
@@ -653,11 +688,12 @@
       "Combat"
     ],
     "gameText": "Play on any EVOLUTIONARY Adversary to cause one point of damage to each opponent in a LONG RANGE COMBAT round. This is in addition to any other damage caused by the Adversary in this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Massive Internal Damage",
     "id": "XF96-0037v1",
+    "title": "Massive Internal Damage",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -671,11 +707,12 @@
       "Combat"
     ],
     "gameText": "Play on any Agent that has taken four or more points of damage from a single damage source. That Agent must go to the Hospital immediately and may no longer participate in the combat. The Agent may not leave the Hospital until fully healed. Subtract 4 from the Agent's Cost. If the result is zero or less, the Agent is removed from the game. (Agents Lamana, Willis, Purdue, and Weiss are immune to this effect).",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Semi-Jacketed Hollow Points",
     "id": "XF96-0038v1",
+    "title": "Semi-Jacketed Hollow Points",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Anasazi",
@@ -688,11 +725,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant in a LONG RANGE COMBAT round to add 2 points to that combatant's LRC skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Stunning Blow",
     "id": "XF96-0039v1",
+    "title": "Stunning Blow",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -705,11 +743,12 @@
       "Combat"
     ],
     "gameText": "Play this on any opponent who has just taken damage. The opponent is considered \"stunned\" for the next round of combat. This opponent will deal no damage in the next round of combat.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Take Cover!",
     "id": "XF96-0040v1",
+    "title": "Take Cover!",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Blood",
@@ -722,11 +761,12 @@
       "Combat"
     ],
     "gameText": "Play this card on any combatant to decrease damage from one LONG RANGE COMBAT source by two points this round.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Energy Strike",
     "id": "XF96-0041v1",
+    "title": "Energy Strike",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -741,11 +781,12 @@
       "Combat"
     ],
     "gameText": "Play on any ALIEN or EVOLUTIONARY Adversary to add 3 to any LONG RANGE COMBAT skill check. If the Adversary does not have LRC skill, this card gives it a 3 for this round only.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gibsonton, FL",
     "id": "XF96-0042v1",
+    "title": "Gibsonton, FL",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Humbug",
@@ -759,11 +800,12 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Excelsius Dei Convalescent Home, Worcester, MA",
     "id": "XF96-0043v1",
+    "title": "Excelsius Dei Convalescent Home, Worcester, MA",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Excelsius Dei",
@@ -782,11 +824,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Broad Street, Philadelphia, PA",
     "id": "XF96-0044v1",
+    "title": "Broad Street, Philadelphia, PA",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Shadows",
@@ -800,11 +843,12 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ellens Air Base, ID",
     "id": "XF96-0045v1",
+    "title": "Ellens Air Base, ID",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Deep Throat",
@@ -818,11 +862,12 @@
     ],
     "prerequisite": "BUREAUCRACY 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Coastal Northwest Oregon",
     "id": "XF96-0046v1",
+    "title": "Coastal Northwest Oregon",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Pilot",
@@ -836,11 +881,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Olympic National Forest, WA",
     "id": "XF96-0047v1",
+    "title": "Olympic National Forest, WA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Darkness Falls",
@@ -854,11 +900,12 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arlington, VA",
     "id": "XF96-0048v1",
+    "title": "Arlington, VA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Calusari",
@@ -872,11 +919,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lake Okobogee, Campsite #53, Sioux City, IA",
     "id": "XF96-0049v1",
+    "title": "Lake Okobogee, Campsite #53, Sioux City, IA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Conduit",
@@ -890,11 +938,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Newark, NJ",
     "id": "XF96-0050v1",
+    "title": "Newark, NJ",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Host",
@@ -908,11 +957,12 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Central Prison, Raleigh, NC",
     "id": "XF96-0051v1",
+    "title": "Central Prison, Raleigh, NC",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Beyond The Sea",
@@ -931,11 +981,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Genetics Clinic, Marin County, CA",
     "id": "XF96-0052v1",
+    "title": "Genetics Clinic, Marin County, CA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Eve",
@@ -949,11 +1000,12 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cumberland Prison, VA",
     "id": "XF96-0053v1",
+    "title": "Cumberland Prison, VA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "F. Emasculata",
@@ -967,11 +1019,12 @@
     ],
     "prerequisite": "SUBTERFUGE 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mt. Avalon, WA",
     "id": "XF96-0054v1",
+    "title": "Mt. Avalon, WA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Firewalker",
@@ -985,11 +1038,12 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Northeast Georgetown Medical Center, Washington, DC",
     "id": "XF96-0055v1",
+    "title": "Northeast Georgetown Medical Center, Washington, DC",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -1003,11 +1057,12 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "NASA Mission Control, Houston, TX",
     "id": "XF96-0056v1",
+    "title": "NASA Mission Control, Houston, TX",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Space",
@@ -1023,11 +1078,12 @@
     ],
     "prerequisite": "SCIENCES 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "New York City, NY",
     "id": "XF96-0057v1",
+    "title": "New York City, NY",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -1046,11 +1102,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fairfield Zoo, Fairfield, ID",
     "id": "XF96-0058v1",
+    "title": "Fairfield Zoo, Fairfield, ID",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fearful Symmetry",
@@ -1064,11 +1121,12 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deadhorse, AK",
     "id": "XF96-0059v1",
+    "title": "Deadhorse, AK",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "End Game",
@@ -1087,11 +1145,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Containment Facility, Georgetown, MD",
     "id": "XF96-0060v1",
+    "title": "Containment Facility, Georgetown, MD",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Erlenmeyer Flask",
@@ -1105,11 +1164,12 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "University Of Maryland, Baltimore, MD",
     "id": "XF96-0061v1",
+    "title": "University Of Maryland, Baltimore, MD",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Lazarus",
@@ -1123,11 +1183,12 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Chaco House, Dudley, AR",
     "id": "XF96-0062v1",
+    "title": "Chaco House, Dudley, AR",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Our Town",
@@ -1146,11 +1207,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Aubrey, MO",
     "id": "XF96-0063v1",
+    "title": "Aubrey, MO",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Aubrey",
@@ -1164,11 +1226,12 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cape Cod, MA",
     "id": "XF96-0064v1",
+    "title": "Cape Cod, MA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fire",
@@ -1182,11 +1245,12 @@
     ],
     "prerequisite": "SCIENCES 4+",
     "question": "You may ask one AFFILIATION question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Icy Cape, AK",
     "id": "XF96-0065v1",
+    "title": "Icy Cape, AK",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Ice",
@@ -1200,11 +1264,12 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Farmington, NM",
     "id": "XF96-0066v1",
+    "title": "Farmington, NM",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Anasazi",
@@ -1223,11 +1288,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "U.F.O. Wreckage, Townsend, WI",
     "id": "XF96-0067v1",
+    "title": "U.F.O. Wreckage, Townsend, WI",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -1243,11 +1309,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or BUREAUCRACY 5+",
     "question": "You may ask one MOTIVE question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mattawa, WA",
     "id": "XF96-0068v1",
+    "title": "Mattawa, WA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -1261,11 +1328,12 @@
     ],
     "prerequisite": "BUREAUCRACY 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mahan Propulsion Laboratory, Colson, WA",
     "id": "XF96-0069v1",
+    "title": "Mahan Propulsion Laboratory, Colson, WA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Roland",
@@ -1279,11 +1347,12 @@
     ],
     "prerequisite": "COMPUTER 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Church Of The Red Museum, Delta Glen, WI",
     "id": "XF96-0070v1",
+    "title": "Church Of The Red Museum, Delta Glen, WI",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Red Museum",
@@ -1299,11 +1368,12 @@
     ],
     "prerequisite": "SUBTERFUGE 5+ or MEDICAL 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Psychiatric Hospital, Richmond, VA",
     "id": "XF96-0071v1",
+    "title": "Psychiatric Hospital, Richmond, VA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Soft Light",
@@ -1317,11 +1387,12 @@
     ],
     "prerequisite": "COMPUTER 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Washington Monument, Washington, DC",
     "id": "XF96-0072v1",
+    "title": "Washington Monument, Washington, DC",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -1337,11 +1408,12 @@
     ],
     "prerequisite": "BEHAVIORAL 5+ or OBSERVATION 5+",
     "question": "You may ask one MOTIVE question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Marion, VA",
     "id": "XF96-0073v1",
+    "title": "Marion, VA",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Duane Barry",
@@ -1355,11 +1427,12 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arecibo, Puerto Rico",
     "id": "XF96-0074v1",
+    "title": "Arecibo, Puerto Rico",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -1375,11 +1448,12 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 5+ or COMPUTER 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sea Off Tildeskan, Norway",
     "id": "XF96-0075v1",
+    "title": "Sea Off Tildeskan, Norway",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Dod Kalm",
@@ -1393,11 +1467,12 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Aleister Crowley High School, Milford Haven, NH",
     "id": "XF96-0076v1",
+    "title": "Aleister Crowley High School, Milford Haven, NH",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -1413,11 +1488,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Los Angeles, CA",
     "id": "XF96-0077v1",
+    "title": "Los Angeles, CA",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "3",
@@ -1433,11 +1509,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 5+ or EVIDENCE COLLECTION 5+",
     "question": "You may ask one AFFILIATION question or one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Minneapolis, MN",
     "id": "XF96-0078v1",
+    "title": "Minneapolis, MN",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Irresistible",
@@ -1453,11 +1530,12 @@
     ],
     "prerequisite": "MEDICAL 5+ or CRIMINAL INVESTIGATION 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Franklin, PA",
     "id": "XF96-0079v1",
+    "title": "Franklin, PA",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Blood",
@@ -1471,11 +1549,12 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eurisko Building, Crystal City, VA",
     "id": "XF96-0080v1",
+    "title": "Eurisko Building, Crystal City, VA",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -1494,11 +1573,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Folkstone, NC",
     "id": "XF96-0081v1",
+    "title": "Folkstone, NC",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -1514,11 +1594,12 @@
     ],
     "prerequisite": "BUREAUCRACY 5+ or BEHAVIORAL 5+",
     "question": "You may ask one AFFILIATION question or one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Outskirts Of Atlantic City, NJ",
     "id": "XF96-0082v1",
+    "title": "Outskirts Of Atlantic City, NJ",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -1534,11 +1615,12 @@
     ],
     "prerequisite": "SUBTERFUGE 5+ or OBSERVATION 5+",
     "question": "You may ask one AFFILIATION question or one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Browning, MT",
     "id": "XF96-0083v1",
+    "title": "Browning, MT",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Shapes",
@@ -1552,11 +1634,12 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
     "question": "You may ask one MOTIVE question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Steveston, MA",
     "id": "XF96-0084v1",
+    "title": "Steveston, MA",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Gender Bender",
@@ -1570,11 +1653,12 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one RESULT question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Skyland Mountain, VA",
     "id": "XF96-0085v1",
+    "title": "Skyland Mountain, VA",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ascension",
@@ -1588,11 +1672,12 @@
     ],
     "prerequisite": "SUBTERFUGE 4+",
     "question": "You may ask one METHOD question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Baltimore, MD",
     "id": "XF96-0086v1",
+    "title": "Baltimore, MD",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Squeeze",
@@ -1611,11 +1696,12 @@
     "tags": [
       "Reduce Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Kelly Ryan",
     "id": "XF96-0087v1",
+    "title": "Detective Kelly Ryan",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Soft Light",
@@ -1632,11 +1718,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sinus Cavity Implant",
     "id": "XF96-0088v1",
+    "title": "Sinus Cavity Implant",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -1652,11 +1739,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on one Agent to decrease the Agent's RES value by one. This card is removed when a Healing card is played on the Agent.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Peter Tanaka",
     "id": "XF96-0089v1",
+    "title": "Peter Tanaka",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Firewalker",
@@ -1673,11 +1761,12 @@
     "tags": [
       "Change Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Section Chief Joseph Mcgrath",
     "id": "XF96-0090v1",
+    "title": "Section Chief Joseph Mcgrath",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -1697,11 +1786,12 @@
       "Unique",
       "Move"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cigarette Butts",
     "id": "XF96-0091v1",
+    "title": "Cigarette Butts",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Ascension",
@@ -1720,11 +1810,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Daniels",
     "id": "XF96-0092v1",
+    "title": "Sheriff Daniels",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Miracle Man",
@@ -1742,11 +1833,12 @@
     "tags": [
       "Change Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Berube",
     "id": "XF96-0093v1",
+    "title": "Dr. Berube",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Erlenmeyer Flask",
@@ -1763,11 +1855,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Overcoat Man",
     "id": "XF96-0094v1",
+    "title": "The Overcoat Man",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "One Breath",
@@ -1784,11 +1877,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "You've Got A Tail",
     "id": "XF96-0095v1",
+    "title": "You've Got A Tail",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -1802,11 +1896,12 @@
       "Conspiracy"
     ],
     "gameText": "Play after a Team investigates a Site to destroy one Event RESOURCE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pete Calcagni",
     "id": "XF96-0096v1",
+    "title": "Pete Calcagni",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Die Hand Die Verletzt",
@@ -1824,11 +1919,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Holtzman, D.S.A.",
     "id": "XF96-0097v1",
+    "title": "Holtzman, D.S.A.",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Conduit",
@@ -1845,11 +1941,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Claude Peterson",
     "id": "XF96-0098v1",
+    "title": "Claude Peterson",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Ghost In The Machine",
@@ -1866,11 +1963,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Conundrum",
     "id": "XF96-0099v1",
+    "title": "The Conundrum",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Humbug",
@@ -1889,11 +1987,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Paul Mossinger",
     "id": "XF96-0100v1",
+    "title": "Paul Mossinger",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Deep Throat",
@@ -1910,11 +2009,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Intruder Counter-Measures Program",
     "id": "XF96-0101v1",
+    "title": "Intruder Counter-Measures Program",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -1931,11 +2031,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Aaron Monte",
     "id": "XF96-0102v1",
+    "title": "Dr. Aaron Monte",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Tooms",
@@ -1952,11 +2053,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Poisonous Gases",
     "id": "XF96-0103v1",
+    "title": "Poisonous Gases",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Erlenmeyer Flask",
@@ -1974,11 +2076,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Laser Barrier",
     "id": "XF96-0104v1",
+    "title": "Laser Barrier",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -1992,11 +2095,12 @@
       "Conspiracy"
     ],
     "gameText": "Play to prevent one Agent assigned to a Site from contributing the Agent's skills to one skill check (your choice) that the Team makes this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Nasty Surprise",
     "id": "XF96-0105v1",
+    "title": "Nasty Surprise",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Roland",
@@ -2013,11 +2117,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sleep Deprivation",
     "id": "XF96-0106v1",
+    "title": "Sleep Deprivation",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "E.B.E.",
@@ -2034,11 +2139,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Radioactive Area",
     "id": "XF96-0107v1",
+    "title": "Radioactive Area",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -2052,11 +2158,12 @@
       "Conspiracy"
     ],
     "gameText": "Increase a Site Prerequisite by one point (i.e., Prerequisite: Skill 5+ becomes Skill 6+). In addition, if the Team fails the skill check, each Agent on the Team takes one point of damage. If one of the Agents has a \"Geiger Counter\", this card has no effect.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ghost In The Machine",
     "id": "XF96-0108v1",
+    "title": "Ghost In The Machine",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Ghost In The Machine",
@@ -2074,11 +2181,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Unnatural Aging",
     "id": "XF96-0109v1",
+    "title": "Unnatural Aging",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -2096,11 +2204,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Car Troubles",
     "id": "XF96-0110v1",
+    "title": "Car Troubles",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Shadows",
@@ -2115,11 +2224,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on a Team of three or more Agents moving to the same Site. The Team may only send two Agents to that Site (owning player's choice). Any extra Agents remain in the Team but may not contribute their skills to any checks this turn. In addition, playing this card will prevent the use of the \"Evasive Maneuver\" card by this Team this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Puzzles Within Puzzles",
     "id": "XF96-0111v1",
+    "title": "Puzzles Within Puzzles",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -2136,11 +2246,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Cover-Up",
     "id": "XF96-0112v1",
+    "title": "Government Cover-Up",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -2159,11 +2270,12 @@
     "tags": [
       "Decrease Skill"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hazardous Sample",
     "id": "XF96-0113v1",
+    "title": "Hazardous Sample",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Ice",
@@ -2180,11 +2292,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Henry Trondheim",
     "id": "XF96-0114v1",
+    "title": "Henry Trondheim",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -2200,11 +2313,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Miles",
     "id": "XF96-0115v1",
+    "title": "Detective Miles",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -2221,11 +2335,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Thompson",
     "id": "XF96-0116v1",
+    "title": "Detective Thompson",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -2242,11 +2357,12 @@
     "tags": [
       "Change Prerequisite"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Harry Cokely",
     "id": "XF96-0117v1",
+    "title": "Harry Cokely",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Aubrey",
@@ -2263,11 +2379,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Tony Fiore",
     "id": "XF96-0118v1",
+    "title": "Detective Tony Fiore",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Born Again",
@@ -2284,11 +2401,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "B.J. Morrow, Genetic Trait Recipient",
     "id": "XF96-0119v1",
+    "title": "B.J. Morrow, Genetic Trait Recipient",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Aubrey",
@@ -2299,11 +2417,12 @@
       "Method": "Possession",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Augustus Cole, A.K.A. The Preacher",
     "id": "XF96-0120v1",
+    "title": "Augustus Cole, A.K.A. The Preacher",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Sleepless",
@@ -2314,11 +2433,12 @@
       "Method": "Manipulation",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Cigarette-Smoking Man",
     "id": "XF96-0121v1",
+    "title": "The Cigarette-Smoking Man",
     "set": "Premiere",
     "rarity": "Common",
     "episode": null,
@@ -2329,11 +2449,12 @@
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Duane Barry",
     "id": "XF96-0122v1",
+    "title": "Duane Barry",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -2344,11 +2465,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Jersey Devil",
     "id": "XF96-0123v1",
+    "title": "The Jersey Devil",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -2359,11 +2481,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Host",
     "id": "XF96-0124v1",
+    "title": "The Host",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "The Host",
@@ -2374,11 +2497,12 @@
       "Method": "Violence",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lucas Henry, Serial Killer",
     "id": "XF96-0125v1",
+    "title": "Lucas Henry, Serial Killer",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Beyond The Sea",
@@ -2389,11 +2513,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arthur Grable",
     "id": "XF96-0126v1",
+    "title": "Arthur Grable",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Roland",
@@ -2404,11 +2529,12 @@
       "Method": "Possession",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Warren James Dupré, The Lazarus Man",
     "id": "XF96-0127v1",
+    "title": "Warren James Dupré, The Lazarus Man",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Lazarus",
@@ -2419,11 +2545,12 @@
       "Method": "Possession",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Colonel Wharton, Zombie Master",
     "id": "XF96-0128v1",
+    "title": "Colonel Wharton, Zombie Master",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fresh Bones",
@@ -2434,11 +2561,12 @@
       "Method": "Subterfuge",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Dna Steroid Program (project Purity Control)",
     "id": "XF96-0129v1",
+    "title": "Alien Dna Steroid Program (project Purity Control)",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Red Museum",
@@ -2449,11 +2577,12 @@
       "Method": "Subterfuge",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Gregors",
     "id": "XF96-0130v1",
+    "title": "The Gregors",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Colony",
@@ -2464,11 +2593,12 @@
       "Method": "Manipulation",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Tom Arens, Cannibal",
     "id": "XF96-0131v1",
+    "title": "Sheriff Tom Arens, Cannibal",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Our Town",
@@ -2479,11 +2609,12 @@
       "Method": "Subterfuge",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Vampire, A.K.A. The Unholy Spirit",
     "id": "XF96-0132v1",
+    "title": "The Vampire, A.K.A. The Unholy Spirit",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "3",
@@ -2494,11 +2625,12 @@
       "Method": "Subterfuge",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Central Operating System, Artificial Intelligence",
     "id": "XF96-0133v1",
+    "title": "Central Operating System, Artificial Intelligence",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -2509,11 +2641,12 @@
       "Method": "Violence",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Volcanic Spore",
     "id": "XF96-0134v1",
+    "title": "Volcanic Spore",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Firewalker",
@@ -2524,11 +2657,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Michael Holvey, The Evil One",
     "id": "XF96-0135v1",
+    "title": "Michael Holvey, The Evil One",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "The Calusari",
@@ -2539,11 +2673,12 @@
       "Method": "Possession",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eugene Victor Tooms",
     "id": "XF96-0136v1",
+    "title": "Eugene Victor Tooms",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Squeeze",
@@ -2554,11 +2689,12 @@
       "Method": "Subterfuge",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Howard Graves, The Poltergeist",
     "id": "XF96-0137v1",
+    "title": "Howard Graves, The Poltergeist",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Shadows",
@@ -2569,11 +2705,12 @@
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Banton and His Shadow",
     "id": "XF96-0138v1",
+    "title": "Dr. Banton and His Shadow",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Soft Light",
@@ -2584,11 +2721,12 @@
       "Method": "Threats",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Listeners",
     "id": "XF96-0139v1",
+    "title": "Alien Listeners",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -2599,11 +2737,12 @@
       "Method": "Subterfuge",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Commander Colin Henderson",
     "id": "XF96-0140v1",
+    "title": "Commander Colin Henderson",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fallen Angel",
@@ -2614,11 +2753,12 @@
       "Method": "Subterfuge",
       "Result": "Manipulation of Evidence"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Arctic Worm",
     "id": "XF96-0141v1",
+    "title": "Arctic Worm",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Ice",
@@ -2629,11 +2769,12 @@
       "Method": "Possession",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Manitou",
     "id": "XF96-0142v1",
+    "title": "The Manitou",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Shapes",
@@ -2644,11 +2785,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Leonard Vance",
     "id": "XF96-0143v1",
+    "title": "Leonard Vance",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Miracle Man",
@@ -2659,11 +2801,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ancestor Spirits",
     "id": "XF96-0144v1",
+    "title": "Ancestor Spirits",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Excelsius Dei",
@@ -2674,11 +2817,12 @@
       "Method": "Threats",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ed Funsch, Postal Worker",
     "id": "XF96-0145v1",
+    "title": "Ed Funsch, Postal Worker",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Blood",
@@ -2689,11 +2833,12 @@
       "Method": "Possession",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mrs. Paddock, A.K.A. The Dark Angel",
     "id": "XF96-0146v1",
+    "title": "Mrs. Paddock, A.K.A. The Dark Angel",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Die Hand Die Verletzt",
@@ -2704,11 +2849,12 @@
       "Method": "Threats",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dod Kalm",
     "id": "XF96-0147v1",
+    "title": "Dod Kalm",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Dod Kalm",
@@ -2719,11 +2865,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "John Barnett",
     "id": "XF96-0148v1",
+    "title": "John Barnett",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Young At Heart",
@@ -2734,11 +2881,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Conservationist",
     "id": "XF96-0149v1",
+    "title": "Alien Conservationist",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fearful Symmetry",
@@ -2749,11 +2897,12 @@
       "Method": "Subterfuge",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Faciphaga Emasculata",
     "id": "XF96-0150v1",
+    "title": "Faciphaga Emasculata",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "F. Emasculata",
@@ -2764,11 +2913,12 @@
       "Method": "Manipulation",
       "Result": "Physiological Imbalance"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Donnie Pfaster, Death Fetishist",
     "id": "XF96-0151v1",
+    "title": "Donnie Pfaster, Death Fetishist",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Irresistible",
@@ -2779,11 +2929,12 @@
       "Method": "Subterfuge",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Brother Martin, Rogue Kindred",
     "id": "XF96-0152v1",
+    "title": "Brother Martin, Rogue Kindred",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Gender Bender",
@@ -2794,11 +2945,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Abductors",
     "id": "XF96-0153v1",
+    "title": "Alien Abductors",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fallen Angel",
@@ -2809,11 +2961,12 @@
       "Method": "Subterfuge",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eve",
     "id": "XF96-0154v1",
+    "title": "Eve",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Eve",
@@ -2824,11 +2977,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Experimenters",
     "id": "XF96-0155v1",
+    "title": "Alien Experimenters",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Pilot",
@@ -2839,11 +2993,12 @@
       "Method": "Possession",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Reverse Engineers",
     "id": "XF96-0156v1",
+    "title": "Reverse Engineers",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Deep Throat",
@@ -2854,11 +3009,12 @@
       "Method": "Threats",
       "Result": "Insanity"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Swarm",
     "id": "XF96-0157v1",
+    "title": "The Swarm",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Darkness Falls",
@@ -2869,11 +3025,12 @@
       "Method": "Violence",
       "Result": "Abduction"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Leonard, Detachable Congenital Twin",
     "id": "XF96-0158v1",
+    "title": "Leonard, Detachable Congenital Twin",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Humbug",
@@ -2884,11 +3041,12 @@
       "Method": "Violence",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cecil L'ively",
     "id": "XF96-0159v1",
+    "title": "Cecil L'ively",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fire",
@@ -2899,11 +3057,12 @@
       "Method": "Threats",
       "Result": "Death"
     },
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Section Chief Scott Blevins",
     "id": "XF96-0160v1",
+    "title": "Section Chief Scott Blevins",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Pilot",
@@ -2928,11 +3087,12 @@
       "Resources": 1
     },
     "gameEffect": "Treat Section Chief Blevins as a RES 2 if he is in the Bureau Section. If he is in the Bureau Section, he may contribute to the Conspiracy Pool instead of the Resources Pool during the Briefing Phase.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Albert Hosteen",
     "id": "XF96-0161v1",
+    "title": "Albert Hosteen",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Anasazi",
@@ -2958,11 +3118,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Alex Krycek",
     "id": "XF96-0162v1",
+    "title": "Agent Alex Krycek",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "Ascension",
@@ -2990,11 +3151,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Fox Mulder",
     "id": "XF96-0163v1",
+    "title": "Agent Fox Mulder",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": null,
@@ -3024,11 +3186,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lt. Brian Tillman, Aubrey Police Department",
     "id": "XF96-0164v1",
+    "title": "Lt. Brian Tillman, Aubrey Police Department",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Aubrey",
@@ -3054,11 +3217,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Rich",
     "id": "XF96-0165v1",
+    "title": "Agent Rich",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -3085,11 +3249,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Lucy Kazdin",
     "id": "XF96-0166v1",
+    "title": "Agent Lucy Kazdin",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -3113,11 +3278,12 @@
       "Resources": 1
     },
     "gameEffect": "If one of your Agents is Abducted, you may immediately draw two cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Jack Willis",
     "id": "XF96-0167v1",
+    "title": "Agent Jack Willis",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Lazarus",
@@ -3143,11 +3309,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Inspector Phoebe Green",
     "id": "XF96-0168v1",
+    "title": "Inspector Phoebe Green",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Fire",
@@ -3172,11 +3339,12 @@
     "tags": [
       "Move"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Fox Mulder",
     "id": "XF96-0169v1",
+    "title": "Agent Fox Mulder",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": null,
@@ -3203,11 +3371,12 @@
       "Resources": 2
     },
     "gameEffect": "[RP]s generated by Agent Mulder must be used to purchase cards. Place three tokens on this card. Discard a token to play a Site for zero [RP] cost.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Alex Krycek",
     "id": "XF96-0170v1",
+    "title": "Agent Alex Krycek",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Ascension",
@@ -3232,11 +3401,12 @@
       "Resources": 2
     },
     "gameEffect": "Agent Krycek allows you to choose to add to the Conspiracy Pool instead of the Resource Pool during the Briefing Phase.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Nancy Spiller",
     "id": "XF96-0171v1",
+    "title": "Agent Nancy Spiller",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -3264,11 +3434,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Dana Scully",
     "id": "XF96-0172v1",
+    "title": "Agent Dana Scully",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": null,
@@ -3298,11 +3469,12 @@
       "Unique",
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Dana Scully",
     "id": "XF96-0173v1",
+    "title": "Agent Dana Scully",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": null,
@@ -3331,11 +3503,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Assistant Director Walter Skinner",
     "id": "XF96-0174v1",
+    "title": "Assistant Director Walter Skinner",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": null,
@@ -3361,11 +3534,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Charles Burk",
     "id": "XF96-0175v1",
+    "title": "Dr. Charles Burk",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "The Calusari",
@@ -3391,11 +3565,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Tom Colton",
     "id": "XF96-0176v1",
+    "title": "Agent Tom Colton",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Squeeze",
@@ -3421,11 +3596,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Janus, Trained Medic",
     "id": "XF96-0177v1",
+    "title": "Agent Janus, Trained Medic",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Duane Barry",
@@ -3449,11 +3625,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Moe Bocks",
     "id": "XF96-0178v1",
+    "title": "Agent Moe Bocks",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Irresistible",
@@ -3481,11 +3658,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Reggie Purdue",
     "id": "XF96-0179v1",
+    "title": "Agent Reggie Purdue",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Young At Heart",
@@ -3513,11 +3691,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Assistant Director Walter Skinner",
     "id": "XF96-0180v1",
+    "title": "Assistant Director Walter Skinner",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Ascension",
@@ -3540,11 +3719,12 @@
       "Resources": 1
     },
     "gameEffect": "Treat Assistant Director Skinner as a RES 3 if he is in the Bureau Section of the table.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Weiss",
     "id": "XF96-0181v1",
+    "title": "Agent Weiss",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Colony",
@@ -3570,11 +3750,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Jerry Lamana",
     "id": "XF96-0182v1",
+    "title": "Agent Jerry Lamana",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Ghost In The Machine",
@@ -3599,11 +3780,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Karen Kosseff, Counselor",
     "id": "XF96-0183v1",
+    "title": "Agent Karen Kosseff, Counselor",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Irresistible",
@@ -3629,11 +3811,12 @@
     "tags": [
       "Replenish Token"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Spencer",
     "id": "XF96-0184v1",
+    "title": "Sheriff Spencer",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Blood",
@@ -3648,11 +3831,12 @@
       "Criminal Investigation"
     ],
     "gameText": "Adds 1 to one Team's CRIMINAL INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Blockhead",
     "id": "XF96-0185v1",
+    "title": "Dr. Blockhead",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Humbug",
@@ -3669,11 +3853,12 @@
       "Negate"
     ],
     "gameText": "Negates one EVOLUTIONARY CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Thinker",
     "id": "XF96-0186v1",
+    "title": "The Thinker",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -3686,11 +3871,12 @@
       "Active"
     ],
     "gameText": "Change one Keyword to any other one Keyword on a card played by your opponent.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Byers",
     "id": "XF96-0187v1",
+    "title": "Byers",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "E.B.E.",
@@ -3705,11 +3891,12 @@
       "Computer"
     ],
     "gameText": "Adds 1 to one Team's COMPUTER skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Emil and Zoe",
     "id": "XF96-0188v1",
+    "title": "Emil and Zoe",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Deep Throat",
@@ -3724,11 +3911,12 @@
       "Observation"
     ],
     "gameText": "Adds 2 to one Team's OBSERVATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Davey",
     "id": "XF96-0189v1",
+    "title": "Dr. Davey",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Soft Light",
@@ -3743,11 +3931,12 @@
       "Sciences"
     ],
     "gameText": "Adds 2 to one Team's SCIENCES skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Billy Miles",
     "id": "XF96-0190v1",
+    "title": "Billy Miles",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Pilot",
@@ -3762,11 +3951,12 @@
       "Alien Investigation"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Diamond",
     "id": "XF96-0191v1",
+    "title": "Dr. Diamond",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Jersey Devil",
@@ -3781,11 +3971,12 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BEHAVIORAL skill check once during your turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Frank Briggs",
     "id": "XF96-0192v1",
+    "title": "Detective Frank Briggs",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Squeeze",
@@ -3800,11 +3991,12 @@
       "Criminal Investigation"
     ],
     "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Grissom",
     "id": "XF96-0193v1",
+    "title": "Dr. Grissom",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -3824,11 +4016,12 @@
       "Unique",
       "Recurring Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kevin Morris, A.K.A. The Conduit",
     "id": "XF96-0194v1",
+    "title": "Kevin Morris, A.K.A. The Conduit",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Conduit",
@@ -3848,11 +4041,12 @@
       "Unique",
       "Recurring Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Detective Sharon Lazard",
     "id": "XF96-0195v1",
+    "title": "Detective Sharon Lazard",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Born Again",
@@ -3867,11 +4061,12 @@
       "Evidence Collection"
     ],
     "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Laskos",
     "id": "XF96-0196v1",
+    "title": "Dr. Laskos",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Dod Kalm",
@@ -3886,11 +4081,12 @@
       "Medical"
     ],
     "gameText": "Adds 2 to one Team's MEDICAL skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Calusari",
     "id": "XF96-0197v1",
+    "title": "The Calusari",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Calusari",
@@ -3907,11 +4103,12 @@
       "Creature"
     ],
     "gameText": "Negates one OCCULT CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Bill Mulder",
     "id": "XF96-0198v1",
+    "title": "Bill Mulder",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Colony",
@@ -3927,11 +4124,12 @@
       "Subterfuge"
     ],
     "gameText": "Adds 2 to one Agent's SUBTERFUGE skill check. Alternately, any card that would send Fox Mulder to the Hospital may be negated by playing the Bill Mulder card. If played in this way, remove Bill Mulder from the game.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Charley Tskany",
     "id": "XF96-0199v1",
+    "title": "Charley Tskany",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Shapes",
@@ -3948,11 +4146,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Osborne",
     "id": "XF96-0200v1",
+    "title": "Dr. Osborne",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "F. Emasculata",
@@ -3972,11 +4171,12 @@
       "Unique",
       "Recurring Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Michelle Generoo",
     "id": "XF96-0201v1",
+    "title": "Michelle Generoo",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Space",
@@ -3996,11 +4196,12 @@
       "Unique",
       "Recurring Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sir Malcolm Marsden",
     "id": "XF96-0202v1",
+    "title": "Sir Malcolm Marsden",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Fire",
@@ -4015,11 +4216,12 @@
       "Bureaucracy"
     ],
     "gameText": "Adds 1 to one Team's BUREAUCRACY skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Samantha Mulder",
     "id": "XF96-0203v1",
+    "title": "Samantha Mulder",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Colony",
@@ -4034,11 +4236,12 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's SUBTERFUGE skill check once per turn. You may have any number of Samantha Mulder cards in play.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Max Fenig",
     "id": "XF96-0204v1",
+    "title": "Max Fenig",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -4053,11 +4256,12 @@
       "Alien Investigation"
     ],
     "gameText": "Adds 2 to one Team's ALIEN INVESTIGATION skill check. Alternately, you may play this card when one of your Agents is the target of an abduction. Max Fenig is abducted instead. Discard Max Fenig. The abduction is negated.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Hodge",
     "id": "XF96-0205v1",
+    "title": "Dr. Hodge",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Ice",
@@ -4072,11 +4276,12 @@
       "Medical"
     ],
     "gameText": "Adds 1 to one Team's MEDICAL skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Doug Spinney",
     "id": "XF96-0206v1",
+    "title": "Doug Spinney",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Darkness Falls",
@@ -4091,11 +4296,12 @@
       "Sciences"
     ],
     "gameText": "Adds 1 to one Team's SCIENCES skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Sheila Braun",
     "id": "XF96-0207v1",
+    "title": "Dr. Sheila Braun",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Born Again",
@@ -4110,11 +4316,12 @@
       "Behavioral"
     ],
     "gameText": "Adds 2 to one Team's BEHAVIORAL skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "U.S. Marshall Tapia",
     "id": "XF96-0208v1",
+    "title": "U.S. Marshall Tapia",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "F. Emasculata",
@@ -4129,11 +4336,12 @@
       "Evidence Collection"
     ],
     "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Brad Wilczek",
     "id": "XF96-0209v1",
+    "title": "Brad Wilczek",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -4148,11 +4356,12 @@
       "Computer"
     ],
     "gameText": "Adds 2 to one Team's COMPUTER skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Nollette",
     "id": "XF96-0210v1",
+    "title": "Dr. Nollette",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Roland",
@@ -4172,11 +4381,12 @@
       "Unique",
       "Recurring Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Ish-Tribal Elder",
     "id": "XF96-0211v1",
+    "title": "Ish-Tribal Elder",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Shapes",
@@ -4191,11 +4401,12 @@
       "Occult Investigation"
     ],
     "gameText": "Adds 2 to one Team's OCCULT INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Sheriff Mazeroski",
     "id": "XF96-0212v1",
+    "title": "Sheriff Mazeroski",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Red Museum",
@@ -4212,11 +4423,12 @@
       "Pawn"
     ],
     "gameText": "Negates one GOVERNMENT PAWN",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lt. Colonel Marcus Aurelius Belt",
     "id": "XF96-0213v1",
+    "title": "Lt. Colonel Marcus Aurelius Belt",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Space",
@@ -4233,11 +4445,12 @@
       "Creature"
     ],
     "gameText": "Negates one ALIEN CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gung Bituen",
     "id": "XF96-0214v1",
+    "title": "Gung Bituen",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Excelsius Dei",
@@ -4252,11 +4465,12 @@
       "Active"
     ],
     "gameText": "Attach this Witness to a Team. Enables your Agents to deal damage to OCCULT CREATUREs as normal. For example, you may use LRC against POLTERGEISTs and VAMPIREs. If at any time there are no Agents in the Team to which this card is attached, discard this card.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kristen Kilar",
     "id": "XF96-0215v1",
+    "title": "Kristen Kilar",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "3",
@@ -4276,11 +4490,12 @@
       "Unique",
       "Recurring Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gerd Thomas",
     "id": "XF96-0216v1",
+    "title": "Gerd Thomas",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Red Museum",
@@ -4295,11 +4510,12 @@
       "Observation"
     ],
     "gameText": "Adds 1 to one Team's OBSERVATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dr. Daniel Trepkos",
     "id": "XF96-0217v1",
+    "title": "Dr. Daniel Trepkos",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Firewalker",
@@ -4316,11 +4532,12 @@
       "Creature"
     ],
     "gameText": "Negates one PRIMORDIAL CREATURE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Maggie Holvey",
     "id": "XF96-0218v1",
+    "title": "Maggie Holvey",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "The Calusari",
@@ -4335,11 +4552,12 @@
       "Occult Investigation"
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Luther Lee Boggs",
     "id": "XF96-0219v1",
+    "title": "Luther Lee Boggs",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Beyond The Sea",
@@ -4356,11 +4574,12 @@
     "tags": [
       "Examine Hand"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Senator Richard Matheson",
     "id": "XF96-0220v1",
+    "title": "Senator Richard Matheson",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Little Green Men",
@@ -4375,11 +4594,12 @@
       "Active"
     ],
     "gameText": "Place three tokens on this card. Discard a token to add 2 to one Team's BUREAUCRACY skill check. You may discard a token once per turn. Discard this resource when all tokens have been discarded.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Successful Diagnosis",
     "id": "XF96-0221v1",
+    "title": "Successful Diagnosis",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Darkness Falls",
@@ -4393,11 +4613,12 @@
       "Active"
     ],
     "gameText": "Place on a Team in the Hospital containing an injured Agent. The Agent heals 2 damage immediately.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deep Throat",
     "id": "XF96-0222v1",
+    "title": "Deep Throat",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "Deep Throat",
@@ -4414,11 +4635,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Shutting Down The X-Files",
     "id": "XF96-0223v1",
+    "title": "Shutting Down The X-Files",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "3",
@@ -4433,11 +4655,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on any Team containing Agent Fox Mulder and/or Agent Dana Scully. Mulder must immediately be moved to the Bureau. Scully must immediately be moved to the Hospital (undamaged). Neither my contribute their skills to skill checks this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Reporters At The Crime Scene",
     "id": "XF96-0224v1",
+    "title": "Reporters At The Crime Scene",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -4452,11 +4675,12 @@
       "Conspiracy"
     ],
     "gameText": "Play when one player has just asked a Characteristic question and you were not the Directed player. If the player achieved the prerequisite skill number exactly, then he must tell all opponents the answer to the Characteristic question.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "I Want To Believe",
     "id": "XF96-0225v1",
+    "title": "I Want To Believe",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Conduit",
@@ -4471,11 +4695,12 @@
       "Active"
     ],
     "gameText": "Play on one Agent to allow that Agent to use their EVIDENCE COLLECTION skill number for any one ALIEN INVESTIGATION or OCCULT INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Road Trip",
     "id": "XF96-0226v1",
+    "title": "Road Trip",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ascension",
@@ -4490,11 +4715,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 6+ skill check they may investigate two Sites this turn. Resolve each Site individually.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hidden Transmitter",
     "id": "XF96-0227v1",
+    "title": "Hidden Transmitter",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -4514,11 +4740,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Medical Treatment",
     "id": "XF96-0228v1",
+    "title": "Medical Treatment",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Colony",
@@ -4532,11 +4759,12 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the Hospital. The Agent heals one token of damage immediately.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Weiss Killed By Unknown Toxin",
     "id": "XF96-0229v1",
+    "title": "Agent Weiss Killed By Unknown Toxin",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Colony",
@@ -4554,11 +4782,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Cigarette-Smoking Man Strikes",
     "id": "XF96-0230v1",
+    "title": "The Cigarette-Smoking Man Strikes",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -4574,11 +4803,12 @@
     "tags": [
       "Change Keyword"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Eve 7",
     "id": "XF96-0231v1",
+    "title": "Eve 7",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Eve",
@@ -4593,11 +4823,12 @@
       "Bluff"
     ],
     "gameText": "Move any Bluff cards from one Site to another Site or back into the owner's hand. If at the end of an Investigation Phase a Site is left with no Bluffs attached, discard it. X = 1 [CP] per Bluff removed.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Street Contacts",
     "id": "XF96-0232v1",
+    "title": "Street Contacts",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -4614,11 +4845,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Arrests Suspects",
     "id": "XF96-0233v1",
+    "title": "Government Arrests Suspects",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Conduit",
@@ -4634,11 +4866,12 @@
       "Witness"
     ],
     "gameText": "Negate one Witness that modifies ALIEN INVESTIGATION or BUREAUCRACY skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Red Tape",
     "id": "XF96-0234v1",
+    "title": "Red Tape",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Host",
@@ -4652,11 +4885,12 @@
       "Conspiracy"
     ],
     "gameText": "Play during the Briefing Phase to prevent one opponent from drawing any cards during the remainder of this turn.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "S.W.A.T. Training",
     "id": "XF96-0235v1",
+    "title": "S.W.A.T. Training",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Jersey Devil",
@@ -4671,11 +4905,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal and in addition has a +1 in one of the following skills: LRC, CRC or the ability to use MARTIAL ARTS Combat cards. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fingerprints",
     "id": "XF96-0236v1",
+    "title": "Fingerprints",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Tooms",
@@ -4690,11 +4925,12 @@
       "Active"
     ],
     "gameText": "Play on one Team in the Field. If the Team makes an EVIDENCE COLLECTION skill check 5+, then they may add 2 to any Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Back Tracking Program",
     "id": "XF96-0237v1",
+    "title": "Back Tracking Program",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -4712,11 +4948,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Lamana Dies In Fatal Elevator Accident",
     "id": "XF96-0238v1",
+    "title": "Agent Lamana Dies In Fatal Elevator Accident",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ghost In The Machine",
@@ -4733,11 +4970,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Evidence Destroyed",
     "id": "XF96-0239v1",
+    "title": "Evidence Destroyed",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -4753,11 +4991,12 @@
       "Evidence Collection"
     ],
     "gameText": "Negate one Keyword EVIDENCE COLLECTION card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Surfing The Net",
     "id": "XF96-0240v1",
+    "title": "Surfing The Net",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Colony",
@@ -4771,11 +5010,12 @@
       "Active"
     ],
     "gameText": "Have a Team make a COMPUTER 4+ skill check. If successful, draw three cards from your chosen opponent's Bureau deck and choose one to place in your Bureau Section face down. Place the other two cards back on top of your opponent's Bureau Deck in any order. You may use the chosen card when appropriate but you must pay the cost. Return the card to its owner's Discard Pile after it has been used. Leave this card on top of the card you've taken from your opponent to remind you that the card you took is considered an EVENT, RESOURCE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Sanctioned Pheromone Experiments",
     "id": "XF96-0241v1",
+    "title": "Government Sanctioned Pheromone Experiments",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Blood",
@@ -4792,11 +5032,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Thorough Documentation",
     "id": "XF96-0242v1",
+    "title": "Thorough Documentation",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Roland",
@@ -4811,11 +5052,12 @@
       "Active"
     ],
     "gameText": "Play prior to a Site skill check. If the Site skill check is successful, place this card in your Bureau Section. You may discard this card in any of your investigation phases to add 2 to a Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Skinner Chooses A Side",
     "id": "XF96-0243v1",
+    "title": "Skinner Chooses A Side",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "End Game",
@@ -4833,11 +5075,12 @@
       "Affect Agent",
       "Negate"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Overwhelming Force",
     "id": "XF96-0244v1",
+    "title": "Overwhelming Force",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Calusari",
@@ -4853,11 +5096,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Warning From The Loa",
     "id": "XF96-0245v1",
+    "title": "Warning From The Loa",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fresh Bones",
@@ -4875,11 +5119,12 @@
       "Unique",
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Evidence Overlooked",
     "id": "XF96-0246v1",
+    "title": "Evidence Overlooked",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Lazarus",
@@ -4895,11 +5140,12 @@
       "Site"
     ],
     "gameText": "If the Team makes an OBSERVATION 4+ skill check, they gain a +1 to the Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Message From The Stars",
     "id": "XF96-0247v1",
+    "title": "Message From The Stars",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -4920,11 +5166,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dana Scully, Abducted",
     "id": "XF96-0248v1",
+    "title": "Dana Scully, Abducted",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "Ascension",
@@ -4942,11 +5189,12 @@
       "Unique",
       "Affect Agent"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Reading The Signs",
     "id": "XF96-0249v1",
+    "title": "Reading The Signs",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -4960,11 +5208,12 @@
       "Active"
     ],
     "gameText": "Play on any Team in the Field. If the Team makes an OCCULT INVESTIGATION 4+ skill check, they may take 2 [CP] from their opponent's Conspiracy Pool and add them to their Resource Pool.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Jack Willis Shot To Death In Bank Robbery",
     "id": "XF96-0250v1",
+    "title": "Agent Jack Willis Shot To Death In Bank Robbery",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Lazarus",
@@ -4982,11 +5231,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Skinner Adopts The Company Line",
     "id": "XF96-0251v1",
+    "title": "Skinner Adopts The Company Line",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Tooms",
@@ -5004,11 +5254,12 @@
     "tags": [
       "Affect Agent"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Safe House",
     "id": "XF96-0252v1",
+    "title": "Safe House",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Red Museum",
@@ -5025,11 +5276,12 @@
     "tags": [
       "Modify Witness"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Crop Circles",
     "id": "XF96-0253v1",
+    "title": "Crop Circles",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Gender Bender",
@@ -5046,11 +5298,12 @@
       "Alien Investigation"
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION skill as a prerequisite. Place this card in your Bureau. Discard this card to add 1 to an ALIEN INVESTIGATION skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Langly",
     "id": "XF96-0254v1",
+    "title": "Langly",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -5067,11 +5320,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Expedite Request For Resources",
     "id": "XF96-0255v1",
+    "title": "Expedite Request For Resources",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -5085,11 +5339,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then you may search through your Bureau Deck and draw one Equipment card to add to your hand. Show the card to your opponents and then shuffle your deck.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Paperwork",
     "id": "XF96-0256v1",
+    "title": "Paperwork",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Conduit",
@@ -5106,11 +5361,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Unexplainable Time Loss",
     "id": "XF96-0257v1",
+    "title": "Unexplainable Time Loss",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Pilot",
@@ -5128,11 +5384,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Clone",
     "id": "XF96-0258v1",
+    "title": "Clone",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "End Game",
@@ -5146,11 +5403,12 @@
       "Conspiracy"
     ],
     "gameText": "Play this card on any Witness that has just been played. The owning player must shuffle the Witness back into their Bureau deck immediately and does not benefit from the Witness.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Suspect Description",
     "id": "XF96-0259v1",
+    "title": "Suspect Description",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -5164,11 +5422,12 @@
       "Active"
     ],
     "gameText": "Play on a Team that fails a Site skill check when combat was involved. If the Team makes a CRIMINAL INVESTIGATION 3+ skill check, place the Site in the Bureau. At the start of your Briefing Phase, you may place the Site into your hand.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Smoke Screen",
     "id": "XF96-0260v1",
+    "title": "Smoke Screen",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Tooms",
@@ -5183,11 +5442,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Bureau. If the Team makes a BUREAUCRACY 4+ skill check then designate a Team in the Field. As long as no new members are added to that Team, GOVERNMENT Adversaries may not attack that Team. This card remains in effect until a new Agent is added to the Team.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dark Forces Align",
     "id": "XF96-0261v1",
+    "title": "Dark Forces Align",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Die Hand Die Verletzt",
@@ -5201,11 +5461,12 @@
       "Conspiracy"
     ],
     "gameText": "Play on an opponent Team in any Section. For the rest of the turn, that Team is considered to have a single Characteristic SITE Keyword (i.e., RESULT SITE). You may choose any one Characteristic for the Keyword.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Computer Access Denied",
     "id": "XF96-0262v1",
+    "title": "Computer Access Denied",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ghost In The Machine",
@@ -5222,11 +5483,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Improved Channels",
     "id": "XF96-0263v1",
+    "title": "Improved Channels",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "One Breath",
@@ -5240,11 +5502,12 @@
       "Active"
     ],
     "gameText": "The Team must make a BUREAUCRACY 4+ skill check. If successful, you may now have up to ten cards in hand at the end of your turn. This condition stays in effect until you are forced to discard this card. Discard this card if one of your Agents is moved from or to the Bureau Section of the table for any reason.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Erlenmeyer Flask",
     "id": "XF96-0264v1",
+    "title": "The Erlenmeyer Flask",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -5263,11 +5526,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Krycek, The Double Agent",
     "id": "XF96-0265v1",
+    "title": "Krycek, The Double Agent",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Ascension",
@@ -5285,11 +5549,12 @@
     "tags": [
       "Affect Agent"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Spying Mission",
     "id": "XF96-0266v1",
+    "title": "Spying Mission",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -5304,11 +5569,12 @@
       "Active"
     ],
     "gameText": "Play on any Team. If the Team makes a SUBTERFUGE 4+ skill check, it may use this card to immediately negate any one card that requires them to make a non-combat skill check.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Authorized Access Only",
     "id": "XF96-0267v1",
+    "title": "Authorized Access Only",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Deep Throat",
@@ -5327,11 +5593,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Equipment Malfunction",
     "id": "XF96-0268v1",
+    "title": "Equipment Malfunction",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -5348,11 +5615,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Local Law Enforcement Are Uncooperative",
     "id": "XF96-0269v1",
+    "title": "The Local Law Enforcement Are Uncooperative",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Jersey Devil",
@@ -5368,11 +5636,12 @@
       "Criminal Investigation"
     ],
     "gameText": "Negate one Keyword CRIMINAL INVESTIGATION card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Lone Gunmen",
     "id": "XF96-0270v1",
+    "title": "The Lone Gunmen",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "E.B.E.",
@@ -5390,11 +5659,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Discretion",
     "id": "XF96-0271v1",
+    "title": "Alien Discretion",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Space",
@@ -5410,11 +5680,12 @@
       "Site"
     ],
     "gameText": "Play on a Team about to investigate a Site with ALIEN INVESTIGATION as a prerequisite. Discard all cards assigned as Bluff cards at that Site. X = the number of Bluffs at the Site.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Fingernail Scrapings",
     "id": "XF96-0272v1",
+    "title": "Fingernail Scrapings",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Blood",
@@ -5429,11 +5700,12 @@
       "Active"
     ],
     "gameText": "If the Team makes an EVIDENCE COLLECTION 4+ skill check, they gain a +1 to a Site skill check. Discard this card after you've used the modifier.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Trust No One",
     "id": "XF96-0273v1",
+    "title": "Trust No One",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -5451,11 +5723,12 @@
     "tags": [
       "Modify Witness"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lula Phillips",
     "id": "XF96-0274v1",
+    "title": "Lula Phillips",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Lazarus",
@@ -5471,11 +5744,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "No Place Is Safe",
     "id": "XF96-0275v1",
+    "title": "No Place Is Safe",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Squeeze",
@@ -5488,11 +5762,12 @@
       "Conspiracy"
     ],
     "gameText": "For the remainder of this turn, the Bureau is considered to have a single Characteristic SITE Keyword. You may choose any one Characteristic for the Keyword (i.e., RESULT SITE).",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Blackmail",
     "id": "XF96-0276v1",
+    "title": "Blackmail",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -5507,11 +5782,12 @@
       "Active"
     ],
     "gameText": "Play when you have just guessed incorrectly the identity of an X-File. Select a Team in your Bureau. If that Team successfully completes a BUREAUCRACY 4+ skill check, your opponent does not get to ask you a penalty question.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Dissection",
     "id": "XF96-0277v1",
+    "title": "Dissection",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -5527,11 +5803,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hack Into Government Files",
     "id": "XF96-0278v1",
+    "title": "Hack Into Government Files",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -5548,11 +5825,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Application For FBI Resources Approved",
     "id": "XF96-0279v1",
+    "title": "Application For FBI Resources Approved",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Sleepless",
@@ -5567,11 +5845,12 @@
       "Active"
     ],
     "gameText": "If the Team makes a BUREAUCRACY 4+ skill check, you may borrow any one of your opponent's Agents. It may not be an Agent you already control. Add the Agent to the Team for the remainder of the turn. Afterward, the Agent returns to the original owner's control. The Agent must be returned to the Team it belonged to or sent to the Hospital if the Agent was reduced to 0 HEALTH during a combat.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Expert Briefing",
     "id": "XF96-0280v1",
+    "title": "Expert Briefing",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Anasazi",
@@ -5586,11 +5865,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn the Agent may be deployed as normal and in addition has a +1 in one of the following skills: OBSERVATION, BEHAVIORAL or SUBTERFUGE. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Access Personnel Files",
     "id": "XF96-0281v1",
+    "title": "Access Personnel Files",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Duane Barry",
@@ -5609,11 +5889,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hard Evidence",
     "id": "XF96-0282v1",
+    "title": "Hard Evidence",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Pilot",
@@ -5630,11 +5911,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Relentless Pursuit",
     "id": "XF96-0283v1",
+    "title": "Relentless Pursuit",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Gender Bender",
@@ -5647,11 +5929,12 @@
       "Active"
     ],
     "gameText": "Play to prevent the opposing player from drawing cards after the player has paid, but before the cards are drawn. X = The number of cards that the opposing player has paid to draw.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Counterintelligence Measures",
     "id": "XF96-0284v1",
+    "title": "Counterintelligence Measures",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "E.B.E.",
@@ -5668,11 +5951,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deductive Reasoning",
     "id": "XF96-0285v1",
+    "title": "Deductive Reasoning",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Conduit",
@@ -5687,11 +5971,12 @@
       "Active"
     ],
     "gameText": "Play on a Team that has just completed a combat. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, then they may ask whether or not the Adversary has a Keyword that is the same as the AFFILIATION of the controller's X-File.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Grid Pattern Search",
     "id": "XF96-0286v1",
+    "title": "Grid Pattern Search",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Lazarus",
@@ -5708,11 +5993,12 @@
     "tags": [
       "Search"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Driving",
     "id": "XF96-0287v1",
+    "title": "Driving",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Conduit",
@@ -5727,11 +6013,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field during the Deployment Phase. If the Team makes a CRIMINAL INVESTIGATION 5+ skill check, they may investigate two Sites in the same state this turn.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "In-Service Training",
     "id": "XF96-0288v1",
+    "title": "In-Service Training",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -5746,11 +6033,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: COMPUTER, MEDICAL, or SCIENCES. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Rejuvenating Caves",
     "id": "XF96-0289v1",
+    "title": "Rejuvenating Caves",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Gender Bender",
@@ -5767,11 +6055,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Experimentation",
     "id": "XF96-0290v1",
+    "title": "Alien Experimentation",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -5787,11 +6076,12 @@
       "Event"
     ],
     "gameText": "Negate any one Keyword EVENT card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hidden Grave",
     "id": "XF96-0291v1",
+    "title": "Hidden Grave",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Conduit",
@@ -5805,11 +6095,12 @@
       "Active"
     ],
     "gameText": "Take any Witness from your opponent's Discard Pile and use it for one skill check immediately at no cost.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Trap",
     "id": "XF96-0292v1",
+    "title": "Trap",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "End Game",
@@ -5826,11 +6117,12 @@
     "tags": [
       "Force Skill Check"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "X",
     "id": "XF96-0293v1",
+    "title": "X",
     "set": "Premiere",
     "rarity": "Ultra-Rare",
     "episode": "Sleepless",
@@ -5845,11 +6137,12 @@
       "Adversary"
     ],
     "gameText": "Negate any one Keyword ADVERSARY card.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Assigned To The X-Files",
     "id": "XF96-0294v1",
+    "title": "Assigned To The X-Files",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Pilot",
@@ -5867,11 +6160,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Plague Of Locusts",
     "id": "XF96-0295v1",
+    "title": "Plague Of Locusts",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Miracle Man",
@@ -5890,11 +6184,12 @@
       "Unique",
       "Force Skill Check"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "X-Files Research",
     "id": "XF96-0296v1",
+    "title": "X-Files Research",
     "set": "Premiere",
     "rarity": "Common",
     "episode": null,
@@ -5909,11 +6204,12 @@
       "Agent"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: ALIEN INVESTIGATION, OCCULT INVESTIGATION, or SCIENCES. This card may not be played on Agents Mulder or Scully. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "A Friend In The FBI",
     "id": "XF96-0297v1",
+    "title": "A Friend In The FBI",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "E.B.E.",
@@ -5930,11 +6226,12 @@
     "tags": [
       "Resource"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Written Report",
     "id": "XF96-0298v1",
+    "title": "Written Report",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -5949,11 +6246,12 @@
       "Move"
     ],
     "gameText": "Play when an Agent is forced to return to the Bureau. Prior to moving, the Team may make a CRIMINAL INVESTIGATION 5+ skill check. If successful, the Agent does not have to return to the Bureau.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Mindwipe Serum",
     "id": "XF96-0299v1",
+    "title": "Government Mindwipe Serum",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Deep Throat",
@@ -5970,11 +6268,12 @@
     "tags": [
       "Discard"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Travel Arrangements",
     "id": "XF96-0300v1",
+    "title": "Travel Arrangements",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Deep Throat",
@@ -5989,11 +6288,12 @@
       "Agent"
     ],
     "gameText": "You may move one of your Agents to any Section immediately. This card may not be played once an Adversary has forced combat until after the combat is resolved. The Agent may join any Team that occupies the new Section.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Decoy",
     "id": "XF96-0301v1",
+    "title": "Decoy",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -6009,11 +6309,12 @@
       "Adversary"
     ],
     "gameText": "Play when an Adversary is allowed to enter combat with a single Agent. If the Team to which the Agent is attached makes a SUBTERFUGE 4+ skill check, the Adversary is negated.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Autopsy",
     "id": "XF96-0302v1",
+    "title": "Autopsy",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Host",
@@ -6030,11 +6331,12 @@
     "tags": [
       "Modify Witness"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Evasive Maneuvers",
     "id": "XF96-0303v1",
+    "title": "Evasive Maneuvers",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -6049,11 +6351,12 @@
       "Adversary"
     ],
     "gameText": "Negate one non-PHENOMENA Adversary.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Frohike",
     "id": "XF96-0304v1",
+    "title": "Frohike",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Blood",
@@ -6071,11 +6374,12 @@
     "tags": [
       "Negate"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Agent Reggie Purdue Found Strangled",
     "id": "XF96-0305v1",
+    "title": "Agent Reggie Purdue Found Strangled",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Young At Heart",
@@ -6093,11 +6397,12 @@
     "tags": [
       "Unique"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Road Hazard",
     "id": "XF96-0306v1",
+    "title": "Road Hazard",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ascension",
@@ -6112,11 +6417,12 @@
       "Move"
     ],
     "gameText": "Negate one card with the Keyword MOVE.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Core Training",
     "id": "XF96-0307v1",
+    "title": "Core Training",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Lazarus",
@@ -6130,11 +6436,12 @@
       "Active"
     ],
     "gameText": "Play on an Agent in the Bureau. The Agent is taken out of play for one full turn. At the start of the Briefing Phase of the second turn, the Agent may be deployed as normal, and in addition has a +1 in one of the following skills: CRIMINAL INVESTIGATION or EVIDENCE COLLECTION. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Samuel Hartley",
     "id": "XF96-0308v1",
+    "title": "Samuel Hartley",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Miracle Man",
@@ -6149,11 +6456,12 @@
       "Active"
     ],
     "gameText": "Play on a Team in the Field that has just had an Agent removed from the game this turn. Make an OCCULT INVESTIGATION skill check of 4+. If successful, the Agent remains in play.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "True Grit",
     "id": "XF96-0309v1",
+    "title": "True Grit",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Erlenmeyer Flask",
@@ -6168,11 +6476,12 @@
       "Agent"
     ],
     "gameText": "Play when an Agent is forced to go to the Hospital. He must still go to the Hospital by the end of this turn but he may add his skills to one skill check before going.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Decreased Workload",
     "id": "XF96-0310v1",
+    "title": "Decreased Workload",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Host",
@@ -6187,11 +6496,12 @@
       "Briefing"
     ],
     "gameText": "Play during the Briefing Phase. One Team in the Bureau may make a BUREAUCRACY 4+ skill check. If successful, choose one Agent. The Agent now has a RES number equal to the Agent's CRIMINAL INVESTIGATION skill during the next Briefing Phase. Place this card below the Agent to remind you of the increased skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Laptop Computer",
     "id": "XF96-0311v1",
+    "title": "Laptop Computer",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Pilot",
@@ -6206,11 +6516,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's COMPUTER skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Gas Chromatograph",
     "id": "XF96-0312v1",
+    "title": "Gas Chromatograph",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Firewalker",
@@ -6225,11 +6536,12 @@
       "Bureau"
     ],
     "gameText": "Agents equipped with a Gas Chromatograph have access to the field office crime lab. Adds 1 to the Agent's SCIENCES skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Wire-Tap",
     "id": "XF96-0313v1",
+    "title": "Wire-Tap",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -6244,11 +6556,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's SUBTERFUGE skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Binoculars",
     "id": "XF96-0314v1",
+    "title": "Binoculars",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Little Green Men",
@@ -6262,11 +6575,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's OBSERVATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Medi-Kit",
     "id": "XF96-0315v1",
+    "title": "Medi-Kit",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -6281,11 +6595,12 @@
       "Bureau"
     ],
     "gameText": "An agent with MEDICAL skill may use the Medi-Kit to heal one wound on any agent in the Team once per turn. The may prevent an Agent from going to the Hospital.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kevlar Vest",
     "id": "XF96-0316v1",
+    "title": "Kevlar Vest",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -6300,11 +6615,12 @@
       "Bureau"
     ],
     "gameText": "The Kevlar Vest will absorb three points of damage. Place three tokens on this card. Discard a token to prevent one point of damage. Discard the Vest when all the tokens have been discarded. Excess damage is applied to the Agent as normal.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Glock 19 Semi-Automatic Pistol",
     "id": "XF96-0317v1",
+    "title": "Glock 19 Semi-Automatic Pistol",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Young At Heart",
@@ -6319,11 +6635,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's LONG RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "High Resolution Camera",
     "id": "XF96-0318v1",
+    "title": "High Resolution Camera",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "The Calusari",
@@ -6338,11 +6655,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's OCCULT INVESTIGATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "High-Powered Flashlight",
     "id": "XF96-0319v1",
+    "title": "High-Powered Flashlight",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Little Green Men",
@@ -6357,11 +6675,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's OBSERVATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Government Car",
     "id": "XF96-0320v1",
+    "title": "Government Car",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "E.B.E.",
@@ -6376,11 +6695,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's CRIMINAL INVESTIGATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Knife",
     "id": "XF96-0321v1",
+    "title": "Knife",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Die Hand Die Verletzt",
@@ -6395,11 +6715,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Taped Intelligence",
     "id": "XF96-0322v1",
+    "title": "Taped Intelligence",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Anasazi",
@@ -6414,11 +6735,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's BUREAUCRACY skill. GOVERNMENT Adversaries may now attack the Agent's Team when investigating a Site, even when they would otherwise be barred from doing so.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Walther PPK 7.65 Hold Out Weapon",
     "id": "XF96-0323v1",
+    "title": "Walther PPK 7.65 Hold Out Weapon",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Lazarus",
@@ -6433,11 +6755,12 @@
       "Bureau"
     ],
     "gameText": "Adds 2 to the Agent's CLOSE RANGE COMBAT skill.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Geiger Counter",
     "id": "XF96-0324v1",
+    "title": "Geiger Counter",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "E.B.E.",
@@ -6452,11 +6775,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hospital Crash Cart",
     "id": "XF96-0325v1",
+    "title": "Hospital Crash Cart",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -6471,11 +6795,12 @@
       "Hospital"
     ],
     "gameText": "This piece of Equipment does not need to be attached to any Agent. Place three tokens on the Hospital Crash Cart. Discard one token to heal one point of damage to an Agent in the Hospital. Discard when all three tokens have been expended.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Cellular Phone",
     "id": "XF96-0326v1",
+    "title": "Cellular Phone",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Blood",
@@ -6489,11 +6814,12 @@
       "Bureau"
     ],
     "gameText": "The Agent may add his skills to a skill check that is occurring in another Section of the table. The Agent's skill is reduced by one (i.e.; Skill: 3 becomes Skill: 2). LONG RANGE COMBAT and CLOSE RANGE COMBAT may not be added.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Symbol Of Faith",
     "id": "XF96-0327v1",
+    "title": "Symbol Of Faith",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "One Breath",
@@ -6508,11 +6834,12 @@
       "Believer"
     ],
     "gameText": "OCCULT Adversaries may not assign damage to this Agent unless there are no other eligible targets. If the Agent is the only eligible target then the damage from OCCULT Adversaries is halved.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Electron Emission Microscope",
     "id": "XF96-0328v1",
+    "title": "Electron Emission Microscope",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Young At Heart",
@@ -6527,11 +6854,12 @@
       "Bureau"
     ],
     "gameText": "Agents equipped with an Electron Emission Microscope have access to the field office crime lab. Adds 1 to the Agent's MEDICAL skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Shotgun",
     "id": "XF96-0329v1",
+    "title": "Shotgun",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Shapes",
@@ -6549,11 +6877,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mini-14 Assault Rifle",
     "id": "XF96-0330v1",
+    "title": "Mini-14 Assault Rifle",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -6571,11 +6900,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Mojo Bag",
     "id": "XF96-0331v1",
+    "title": "Mojo Bag",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fresh Bones",
@@ -6590,11 +6920,12 @@
       "Believer"
     ],
     "gameText": "Subtract one point from each damaging hit caused by an OCCULT CREATURE. In addition, OCCULT Adversaries may not play combat cards on Agents equipped with a Mojo Bag.",
+    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Lie Detector",
     "id": "XF96-0332v1",
+    "title": "Lie Detector",
     "set": "Premiere",
     "rarity": "Common",
     "episode": "Squeeze",
@@ -6609,11 +6940,12 @@
       "Bureau"
     ],
     "gameText": "Adds 1 to the Agent's BEHAVIORAL skill.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Slithers In The Night",
     "id": "XF96-0333v1",
+    "title": "Slithers In The Night",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Die Hand Die Verletzt",
@@ -6635,11 +6967,12 @@
       "Affiliation Site"
     ],
     "gameText": null,
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Harvester",
     "id": "XF96-0334v1",
+    "title": "Alien Harvester",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -6664,11 +6997,12 @@
       "Unique",
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Hunter In The Dark",
     "id": "XF96-0335v1",
+    "title": "Hunter In The Dark",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "The Jersey Devil",
@@ -6692,11 +7026,12 @@
     "tags": [
       "Skip Long Range"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Crew-Cut Man",
     "id": "XF96-0336v1",
+    "title": "Crew-Cut Man",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -6718,11 +7053,12 @@
       "Method Site"
     ],
     "gameText": "The chosen Agent is the only one who may participate in the Combat. The Crew-Cut Man may use MARTIAL ARTS and SUBTERFUGE cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Alien Bounty Hunter",
     "id": "XF96-0337v1",
+    "title": "Alien Bounty Hunter",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Colony",
@@ -6744,11 +7080,12 @@
       "Motive Site"
     ],
     "gameText": "Each source of damage affecting the Alien Bounty Hunter in CLOSE RANGE COMBAT also causes 1 damage to each opposing Team member involved in the Combat (because he has poisonous blood). The Hunter may use MARTIAL ARTS and SUBTERFUGE Combat cards. If killed in Combat, place the Hunter back in your deck and shuffle.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Host Attacks",
     "id": "XF96-0338v1",
+    "title": "The Host Attacks",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "The Host",
@@ -6770,11 +7107,12 @@
       "Result Site"
     ],
     "gameText": "Place five tokens on any Agent that loses HEALTH as a result of this creature's attack. Remove a token in each of that Agent's Briefing Phases. At the end of the turn in which the last token is removed, the Agent is removed from the game. This card can be negated by the Team containing the afflicted Agent making a MEDICAL 3+ skill check or by playing a HEALING card on the afflicted player prior to the Agent being removed.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pvt. McAlpin, Zombie",
     "id": "XF96-0339v1",
+    "title": "Pvt. McAlpin, Zombie",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Fresh Bones",
@@ -6799,11 +7137,12 @@
     "tags": [
       "Reduce Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Good People, Good Food",
     "id": "XF96-0340v1",
+    "title": "Good People, Good Food",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Our Town",
@@ -6827,11 +7166,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Sandman",
     "id": "XF96-0341v1",
+    "title": "The Sandman",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Sleepless",
@@ -6852,11 +7192,12 @@
       "Result Site"
     ],
     "gameText": "The Creature has LONG RANGE COMBAT and CLOSE RANGE COMBAT equal to the highest Combat rating on the opposing team (including modifiers) +1. The Sandman may use SUBTERFUGE Combat cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Abduction",
     "id": "XF96-0342v1",
+    "title": "Abduction",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Duane Barry",
@@ -6879,11 +7220,12 @@
     "tags": [
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Squeeze",
     "id": "XF96-0343v1",
+    "title": "Squeeze",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Squeeze",
@@ -6907,11 +7249,12 @@
     "tags": [
       "Skip Long Range"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Psychotic Attack",
     "id": "XF96-0344v1",
+    "title": "The Psychotic Attack",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Fire",
@@ -6935,11 +7278,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Mechanic",
     "id": "XF96-0345v1",
+    "title": "The Mechanic",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "The Erlenmeyer Flask",
@@ -6961,11 +7305,12 @@
       "Affiliation Site"
     ],
     "gameText": "The Mechanic may use MARTIAL ARTS and SUBTERFUGE Combat cards.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Darkness Falls",
     "id": "XF96-0346v1",
+    "title": "Darkness Falls",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Darkness Falls",
@@ -6989,11 +7334,12 @@
     "tags": [
       "Non-combative"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Suppressed Fury",
     "id": "XF96-0347v1",
+    "title": "Suppressed Fury",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Beyond The Sea",
@@ -7014,11 +7360,12 @@
       "Result Site"
     ],
     "gameText": "Regardless of how much damage is done to this creature in the LONG RANGE COMBAT round, it will attack in the CLOSE RANGE COMBAT round. If its HEALTH has been exceeded, it is removed at the end of the CRC round.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Living Machine",
     "id": "XF96-0348v1",
+    "title": "Living Machine",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Ghost In The Machine",
@@ -7042,11 +7389,12 @@
     "tags": [
       "Skip Long Range"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Operation Falcon Blue Berets",
     "id": "XF96-0349v1",
+    "title": "Operation Falcon Blue Berets",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Fallen Angel",
@@ -7071,11 +7419,12 @@
     "tags": [
       "Split Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Pheromone-Induced Psychosis",
     "id": "XF96-0350v1",
+    "title": "Pheromone-Induced Psychosis",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Blood",
@@ -7096,11 +7445,12 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. The Witness card is discarded and the Team is attacked! The Creature's LONG RANGE COMBAT and CLOSE RANGE COMBAT are equal to the Witness's modifier. If the Witness has no modifier, treat the Witness as a +3.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Deadly Blur",
     "id": "XF96-0351v1",
+    "title": "Deadly Blur",
     "set": "Premiere",
     "rarity": "Uncommon",
     "episode": "Fallen Angel",
@@ -7124,11 +7474,12 @@
     "tags": [
       "Reduce Damage"
     ],
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "The Manitou Stalks His Prey",
     "id": "XF96-0352v1",
+    "title": "The Manitou Stalks His Prey",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "Shapes",
@@ -7149,11 +7500,12 @@
       "Motive Site"
     ],
     "gameText": "Any Agent wounded by the Manitou may not heal wounds until a Healing card is successfully played on him.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Poltergeist Attack",
     "id": "XF96-0353v1",
+    "title": "Poltergeist Attack",
     "set": "Premiere",
     "rarity": "Fixed",
     "episode": "Shadows",
@@ -7175,11 +7527,12 @@
       "Occult Investigation"
     ],
     "gameText": "The Poltergeist is unaffected by Combat attacks. It will attack for only one LONG RANGE COMBAT and one CLOSE RANGE COMBAT round and then is discarded.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
-    "title": "Kiss Of The Vampire",
     "id": "XF96-0354v1",
+    "title": "Kiss Of The Vampire",
     "set": "Premiere",
     "rarity": "Rare",
     "episode": "3",
@@ -7201,6 +7554,7 @@
       "Witness"
     ],
     "gameText": "Play this card on a Team in the Field that plays a Witness. Discard the Witness card. The Witness actually becomes a lesser vampire that attacks the Team in conjunction with the master vampire, with a CLOSE RANGE COMBAT rating of 3 and a HEALTH rating of 3. LONG RANGE COMBAT will cause no damage to eiter vampire.",
+    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   }
 ]
