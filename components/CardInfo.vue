@@ -236,10 +236,6 @@ export default {
             label: 'Dialogue',
             component: 'CardFieldText'
           },
-          advanced: {
-            label: 'Advanced',
-            component: 'CardFieldBoolean'
-          },
           foundIn: {
             label: 'Found In',
             component: 'CardFieldString'

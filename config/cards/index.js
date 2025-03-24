@@ -338,7 +338,9 @@ export const costs = [
 ];
 
 export const tags = [
+  'Advanced',
   'Affect Agent',
+  'Basic',
   'Change Keyword',
   'Change Prerequisite',
   'Decrease Skill',

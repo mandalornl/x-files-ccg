@@ -24,7 +24,9 @@
       "Affiliation Site"
     ],
     "gameText": "The Dark Angel can play all combat cards for one [CP] less.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR96-0002-INQ",
@@ -45,9 +47,9 @@
     ],
     "gameText": "Negates an Alien Adversary.",
     "tags": [
+      "Basic",
       "Negate"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR96-0003-GAM",
@@ -69,9 +71,9 @@
     ],
     "gameText": "Play after one of your Teams successfully investigates a Site with ALIEN INVESTIGATION or BUREAUCRACY skill as a prerequisite. Place this card in your Bureau. Discard this card to negate one ALIEN or GOVERNMENT Adversary.",
     "tags": [
+      "Basic",
       "Negate"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR96-0004-GCON",
@@ -88,7 +90,9 @@
       "Active"
     ],
     "gameText": "Play this card to gain one of the following: Adds +1 to Computer skill, negates one Event, or discard one Bluff card from a site.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR96-0005-GMR",
@@ -111,9 +115,9 @@
     ],
     "gameText": "Negate one OCCULT Adversary. In addition, if the Team makes an OCCULT INVESTIGATION skill check of 6+, they may ask either one METHOD question or one RESULT question.",
     "tags": [
+      "Basic",
       "Negate"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR96-0006-DUE",
@@ -140,9 +144,9 @@
     },
     "gameEffect": "Place a token on this card. Discard a token and look through your Bureau deck to draw any Site that asks a MOTIVE question. Add it to your hand, reshuffle your Bureau deck.",
     "tags": [
+      "Basic",
       "Search"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR96-0007-SUR",
@@ -160,9 +164,9 @@
     ],
     "gameText": "Play this card on any Team consisting of no more than two Agents during the Investigation Phase when they are sent to investigate a Site. You may add a number of tokens to the [RP] pool equal to the Agents' total RES value.",
     "tags": [
+      "Advanced",
       "Resource"
-    ],
-    "advanced": true
+    ]
   },
   {
     "id": "PR97-0001-BBB",
@@ -182,9 +186,9 @@
     ],
     "gameText": "Exchange your X-File with ALIEN Affiliation with any X-File with GOVERNMENT Affiliation.",
     "tags": [
+      "Basic",
       "Voyager Promotions"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR97-0002-BBB",
@@ -205,9 +209,9 @@
     ],
     "gameText": "Play this card and place it beneath one Agent to lower all of that Agent's skill levels by 1. This cannot result in a skill being negative or permanent Health being less than 1. When played on Agent Dana Scully, the conspiracy player may choose to force Scully to spend every other turn in the Hospital (if this option is chosen, Scully's skills are not reduced). This choice must be made when the card is played and cannot be changed later. Healing cards will negate this card.",
     "tags": [
+      "Basic",
       "Voyager Promotions"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR97-0003-BBB",
@@ -228,10 +232,10 @@
     ],
     "gameText": "Play this card to immediately move one opposing Agent to the Hospital. Place this card beneath the Agent and place five tokens on the Agent (seven tokens if played on Agent Mulder). Remove a token during the Agent's Healing Phase. When all tokens have been removed, discard this card. The Agent may leave the Hospital when all tokens have been removed.",
     "tags": [
+      "Basic",
       "Move",
       "Voyager Promotions"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR97-0004-BOX",
@@ -249,10 +253,10 @@
     ],
     "gameText": "Once this card is played, only the Investigating player may play Events while investigating this Site, except for Events which would negate this card. Discard this card when the Site is discarded.",
     "tags": [
+      "Basic",
       "Prevent",
       "Voyager Promotions"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR97-0005-INQ",
@@ -270,7 +274,9 @@
       "Conspiracy"
     ],
     "gameText": "Discard your entire hand and draw seven cards from the top of your Bureau Deck.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0006-SC1",
@@ -287,7 +293,9 @@
       "Active"
     ],
     "gameText": "Apply a +1 modifier to any skill check.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0006-SC2",
@@ -304,7 +312,9 @@
       "Conspiracy"
     ],
     "gameText": "Apply a -1 modifier to any skill check.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0006-SC3",
@@ -321,7 +331,9 @@
       "Active"
     ],
     "gameText": "Apply a +2 modifier to any one opponent skill check.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0006-SC4",
@@ -338,7 +350,9 @@
       "Conspiracy"
     ],
     "gameText": "Apply a -2 modifier to any one opponent skill check",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0006-SC5",
@@ -356,7 +370,9 @@
       "Conspiracy"
     ],
     "gameText": "Apply a +3 or -3 (your choice) modifier to any skill check.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0007-BOX",
@@ -374,10 +390,10 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and add one of the following cards to your hand: No One So Paranoid, The Lone Gunmen, Langly, Frohike, or Byers. If you play the chosen card immediately, you may do so for half Cost (round up).",
     "tags": [
+      "Basic",
       "Search",
       "Voyager Promotions"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR97-0009-GMR",
@@ -395,7 +411,9 @@
       "Conspiracy"
     ],
     "gameText": "Play this card and flip over the next card on your Bureau Deck. If that card is playable this turn you may do so for zero [RP] or [CP]. If you do not play it this turn, move the card to your discard pile.",
-    "advanced": true
+    "tags": [
+      "Advanced"
+    ]
   },
   {
     "id": "PR97-0010-FRN",
@@ -415,9 +433,9 @@
     ],
     "gameText": "Recherchez dans votre paquet de cartes FBI et choisissez une carte ALIEN Mot-clé ou ALIEN INVESTIGATION. Montrez cette carte à votre adversaire, ajoutez-la à votre jeu et mélangez le paquet de cartes FBI.\n\nEnglish Translation: Search your Bureau deck and choose one keyword ALIEN or ALIEN INVESTIGATION card. Show this card to your opponent, add it to your hand and shuffle your Bureau deck.",
     "tags": [
+      "Basic",
       "Search"
-    ],
-    "advanced": false
+    ]
   },
   {
     "id": "PR97-0011-DEU",
@@ -436,9 +454,9 @@
     ],
     "gameText": "Spielen Sie diese Karte zum Durchsuchen Ihres Büro Stapels. Dann wählen Sie einen OCCULT Gegner, mit dem Sie automatisch den AgentenTeam zur Ortserkundung angehören. Der OCCULT Gegner kann anstatt der 0 [CP] gespielt werden, unter Mißachtung der Aktivierungs-Anforderungen.\n\nEnglish Translation: You may search your Bureau deck and take any Occult Creature and you may play it on the agents team making the skill check. You may play it at any site. (Meaning you can play an Adversary with Activator Affiliation on a Motive, Method, or Result site as well.) This costs 0 [CP].",
     "tags": [
+      "Advanced",
       "Search"
-    ],
-    "advanced": true
+    ]
   },
   {
     "id": "PR97-0012-COM",
@@ -457,7 +475,9 @@
       "Conspiracy"
     ],
     "gameText": "Draw 2 cards from the top of your Bureau deck and add them to your hand.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "PR97-0999-DNY",
@@ -474,12 +494,16 @@
       "Conspiracy"
     ],
     "gameText": "Play this card immediately after your opponent asks you a question. You may respond with this phrase: \"I can neither confirm nor deny that assumption.\" After playing this card remove it from the game.",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   },
   {
     "id": "-",
     "title": "…",
     "set": "Promo",
-    "advanced": false
+    "tags": [
+      "Basic"
+    ]
   }
 ]
