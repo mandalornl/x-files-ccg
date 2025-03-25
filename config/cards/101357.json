@@ -2,6 +2,8 @@
   {
     "id": "XF08-0355x1",
     "title": "High Frequency Wave",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "Founder's Mutation",
     "type": "Adversary",
@@ -22,13 +24,16 @@
       "Close Range Combat": 3,
       "Health": 3
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0356x1",
     "title": "The Band-Aid Nose Man",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 CP",
     "episode": "Home Again",
     "type": "Adversary",
@@ -48,13 +53,16 @@
       "Close Range Combat": 5,
       "Health": 5
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0357x1",
     "title": "Mr. Y's Loyal Servant",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "8 CP",
     "episode": "My Struggle (III)",
     "type": "Adversary",
@@ -74,13 +82,16 @@
       "Close Range Combat": 3,
       "Health": 3
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0358x1",
     "title": "Commander Al's Covert Mission",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "8 CP",
     "episode": "This",
     "type": "Adversary",
@@ -102,13 +113,16 @@
       "Close Range Combat": 4,
       "Health": 9
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0359x1",
     "title": "Double Trouble: Plus One",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "6 CP",
     "episode": "Plus One",
     "type": "Adversary",
@@ -129,13 +143,16 @@
       "Close Range Combat": "SPECIAL",
       "Health": "SPECIAL"
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0360x1",
     "title": "Kitten's Revenge",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "Kitten",
     "type": "Adversary",
@@ -156,13 +173,16 @@
       "Close Range Combat": 4,
       "Health": 5
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0361x1",
     "title": "High Frequency Wave",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "Rm9sbG93ZXJz",
     "type": "Adversary",
@@ -183,13 +203,16 @@
       "Close Range Combat": "N/A",
       "Health": 7
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0362x1",
     "title": "Mr. Chuckle Teeth",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "Familiar",
     "type": "Adversary",
@@ -210,13 +233,16 @@
       "Close Range Combat": "SPECIAL",
       "Health": "SPECIAL"
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0363x1",
     "title": "Beaumount's Bloodbound Cult",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "6 CP",
     "episode": "Nothing Lasts Forever",
     "type": "Adversary",
@@ -238,13 +264,16 @@
       "Close Range Combat": 4,
       "Health": 4
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0364x1",
     "title": "Lurking Coywolf",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "6 CP",
     "episode": "Familiar",
     "type": "Adversary",
@@ -265,13 +294,16 @@
       "Close Range Combat": 7,
       "Health": 9
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0365x1",
     "title": "Mr. Green",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "Ghouli",
     "type": "Adversary",
@@ -293,13 +325,16 @@
       "Close Range Combat": 4,
       "Health": 5
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0366x1",
     "title": "Agent Kyd Miller",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 RP",
     "episode": "Babylon",
     "type": "Agent",
@@ -322,13 +357,16 @@
       "Health": 4,
       "Resources": 1
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0367x1",
     "title": "Agent Liz Einstein",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 RP",
     "episode": "Babylon",
     "type": "Agent",
@@ -352,13 +390,16 @@
       "Health": 4,
       "Resources": 1
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0368x1",
     "title": "Agent Colquitt",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "This",
     "type": "Agent",
@@ -377,13 +418,16 @@
       "Health": 3,
       "Resources": 0
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0369x1",
     "title": "Detectove Costa",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "Ghouli",
     "type": "Agent",
@@ -405,13 +449,16 @@
       "Health": 4,
       "Resources": 1
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0370x1",
     "title": "Agent Murphy",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "2 RP",
     "episode": "Founder's Mutation",
     "type": "Agent",
@@ -433,13 +480,16 @@
       "Health": 4,
       "Resources": 0
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0371x1",
     "title": "Detective Aaron Dross",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 RP",
     "episode": "Home Again",
     "type": "Agent",
@@ -461,13 +511,16 @@
       "Health": 4,
       "Resources": 1
     },
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0372x1",
     "title": "Mr. Y's Manipulation",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "My Struggle (IV)",
     "type": "Bluff",
@@ -483,13 +536,16 @@
     ],
     "gameText": "Play this card on a MULTI Site card. If the Team successfully investigates the Site after meeting the Site Prerequisite, you may choose the type of question your opponent may ask from the options listed on the Site card.",
     "dialogue": "\"You can't keep this secret for long.\" - Mr. Y",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0373x1",
     "title": "Magical Mystery Tour",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "Babylon",
     "type": "Bluff",
@@ -502,13 +558,16 @@
     ],
     "gameText": "Decrease all of the skills levels on one Agent (your choice) by 2 for this turn only. Then, regardless of whether the Site Prerequisite is met or not, move the Agent to the Hospital with one damage token.",
     "dialogue": "\"Dude, I was on fire!.\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0374x1",
     "title": "The System is Watching",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 CP",
     "episode": "Rm9sbG93ZXJz",
     "type": "Bluff",
@@ -521,13 +580,16 @@
     ],
     "gameText": "Play this card to examine your opponent's hand. Select one Active card. If your opponent plays that card this turn, subtract 4 points from their Team's Site skill check.",
     "dialogue": "\"The AI would learn from humans. It was constructed to become progressively more intelligent.\"",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0375x1",
     "title": "Quid Pro Quo",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 CP",
     "episode": "My Struggle (II)",
     "type": "Bluff",
@@ -543,13 +605,16 @@
     ],
     "gameText": "If the Team investigating this Site successfully meets the Site Prerequisite, you must reveal one of your X-File's characteristics to your opponent (their choice), and your opponent must reveal the same characteristic to you. Remove this card from play. You may only have one of this card in your deck.",
     "dialogue": "\"I thought that you were dead.\" - Monica Reyes",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0376x1",
     "title": "This Never Happened",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "6 CP",
     "episode": "My Struggle (III)",
     "type": "Bluff",
@@ -562,13 +627,16 @@
     ],
     "gameText": "Play this card to force the investigating player to discard their entire hand.",
     "dialogue": "\"That's how heroes are made.!\" - Carl Gerhard Busch",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0377x1",
     "title": "Immunity for Loyalty",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 CP",
     "episode": "My Struggle (III)",
     "type": "Bluff",
@@ -584,13 +652,16 @@
     ],
     "gameText": "Attach this card to any Agent in the Team investigating this Site. Each time this Agent contributes to a skill check, you must place a damage token on them. Remove this card when the Agent is sent to the Hospital with zero HEALTH. Only one of this card may be in play at a time.",
     "dialogue": "\"This faith in technology our new religion... When a simple pathogen would kill billions and billions.\" - Carl Gerhard Busch",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0378x1",
     "title": "Protector's Charm",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 RP",
     "episode": "Babylon",
     "type": "Equipment",
@@ -603,13 +674,16 @@
     ],
     "gameText": "When this card enters play, choose one Adversary Keyword (i.e.: ALIEN). Adversaries with chosen Keyword may not deal any damage to this Agent. If the Agent is the only eligible target, the damage is halved.",
     "dialogue": "\"Mom, I'm here. Come back to us. Mom?.\"- Scully",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0379x1",
     "title": "Smart Phone",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "My Struggle",
     "type": "Equipment",
@@ -623,13 +697,16 @@
     ],
     "gameText": "Discard this card to search through your Bureau deck for a Witness card. Shuffle your deck, and immediately play the Witness card at no cost.",
     "dialogue": "\"Scully, listen to me. I've been misled. We've been misled.\"- Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0380x1",
     "title": "Goop-O A-B-C",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 RP",
     "episode": "The Lost Art of Forehead Sweat",
     "type": "Equipment",
@@ -642,13 +719,16 @@
     ],
     "gameText": "Discard this card to add two to any of the Agent's skills. You can have only one of this card in your deck.",
     "dialogue": "But every time I look for Goop-O A-B-C, everyone says... No, you must be thinking about Jell-O 1-2-3.\"- Scully",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0381x1",
     "title": "DNA Vision Goggles",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "6 RP",
     "episode": "My Struggle (I)",
     "type": "Equipment",
@@ -661,13 +741,16 @@
     ],
     "gameText": "Adds 2 to the Agent's MEDICAL and SCIENCES skills. You cannot sell this card during the Briefing phase to gain [CP] points.",
     "dialogue": "\"I don't believe this. There's nothing. There's no alien DNA. I saw it when I sequenced my genome. It was near the centromere on cromosome 17.\"- Scully",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0382x1",
     "title": "A war is never over",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "Kitten",
     "type": "Event",
@@ -681,13 +764,16 @@
     ],
     "gameText": "Place this card on Agent Skinner. While Skinner is in the Field, he gains +1 RES and +1 LRC. Each player may have only one of this card in play.",
     "dialogue": "\"I was following orders, doing what my superiors commanded me to do. I'm not saying it's right. It's not. And I lived with the guilt of that decision every moment since.\" - Skinner",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0383x1",
     "title": "No Witness Left",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "2 CP",
     "episode": "My Struggle",
     "type": "Event",
@@ -702,13 +788,16 @@
     ],
     "gameText": "Place this card on your opponent's Field. If your opponent plays an Agent or Witness card from their hand, that card is abducted and placed under this one. On their next turn, your opponent may play the abducted card as usual at no cost. Then, discard this card.",
     "dialogue": "\"Please, don't quit! No!\" - Sveta Zatylny",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0384x1",
     "title": "Roswell Cover Up",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "6 CP",
     "episode": "My Struggle",
     "type": "Event",
@@ -721,13 +810,16 @@
     ],
     "gameText": "Play this card during the Briefing phase. Force the Active player to remove one [RP] card already in play with the Keyword SITE, EQUIPMENT or RESOURCE from their side of the game (their choice). Then, search your opponent Discard Pile and remove one card of your choice from the game.",
     "dialogue": "\"Damn thing could be dangerous.\" - Man in black",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0385x1",
     "title": "Pillow Talk",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "Mulder and Scully meet the Were-Monster",
     "type": "Event",
@@ -741,13 +833,16 @@
     ],
     "gameText": "Play this card immediately after a Witness card is played. Double the skill value provided by the Witness for the current skill check (i.e.: a Witness with COMPUTER +2 becomes COMPUTER +4).",
     "dialogue": "Mulder: \"You made that up.\"\nGuy Man:All right, you got me. Ever since I became a human, I can't help but lie about my sex life.\"",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0386x1",
     "title": "Langly's Afterlife",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "This",
     "type": "Event",
@@ -760,13 +855,16 @@
     ],
     "gameText": "Force up to two face-down Bluff cards attached to one or different Sites to be discarded .",
     "dialogue": "\"Mulder, it's like I designed heaven. I eat hot dogs and donuts all day long. No one here ever dies of cancer or Alzheimer's. And the Ramones are here, and they don't fight.\" - Langly",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0387x1",
     "title": "The Mandela Effect",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 *P",
     "episode": "The Lost Art of Forehead Sweat",
     "type": "Event",
@@ -779,13 +877,16 @@
     ],
     "gameText": "When a team of Agents contributes to a single skill check this turn, they use the following swapped skills: ALIEN INVESTIGATION ↔ BUREAUCRACY, BEHAVIORAL ↔ OCCULT INVESTIGATION, COMPUTER ↔ SCIENCES, OBSERVATION ↔ MEDICAL. If a skill is missing, its value is 0. Remove this card from play.",
     "dialogue": "\"No, it's called the Mengele Effect.\" - Reggie Something",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0388x1",
     "title": "Answers to Everything",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 RP",
     "episode": "The Lost Art of Forehead Sweat",
     "type": "Event",
@@ -798,13 +899,16 @@
     ],
     "gameText": "Play this card immediately after incorrectly guessing the identity of your opponent's X-File. You may ask one additional question about the same Characteristic (e.g., RESULT)'. Each player may have only one of this card in their deck. Remove this card from the game.",
     "dialogue": "\"They gave us all the answers to everything! Even Sasquatch. No! It's not true!\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0389x1",
     "title": "You see what I want you to see",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "5 RP",
     "episode": "Ghouli",
     "type": "Event",
@@ -817,13 +921,16 @@
     ],
     "gameText": "Discard two cards at random from your hand to negate any [CP] card played by your opponent. Each player may only have one of this card in their deck.",
     "dialogue": "\"It's a false reality, Scully. Just like everything we've seen so far.'\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0390x1",
     "title": "Sister in Arms",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 RP",
     "episode": "My Struggle (II)",
     "type": "Event",
@@ -836,13 +943,16 @@
     ],
     "gameText": "You play an Agent card from your hand at no cost (tokens included). The Agent cannot investigate any Site, but you may use their game effect. At the end of your turn, remove this card and the Agent from the game.",
     "dialogue": "\"I wish this were under better circumstances, but I wish a lot of things were different here today.\" - Monica Reyes",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0391x1",
     "title": "Classified Experiments",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "My Struggle",
     "type": "Event",
@@ -855,13 +965,16 @@
     ],
     "gameText": "Play after one of your Teams successfully investigated a Site with Alien Investigation skill as a prerequisite. Add 7 [RP] to your pool.",
     "dialogue": "\"Advanced extraterrestrial species visiting us, concerned for mankind and the threat of our self-destruction, forestalling or annihilation through their own self-sacrifice. The crashes at Roswell. \" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0392x1",
     "title": "No one is safe",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 CP",
     "episode": "Plus One",
     "type": "Event",
@@ -874,13 +987,16 @@
     ],
     "gameText": "For the remainder of this turn, a Site in the Field (your choice) is considered to have a single Characteristic Characteristic SITE Keyword. You may choose any one Characteristic for the Keyword (i.e., RESULT SITE).",
     "dialogue": "\"Judy! Open the door!\" - Scully",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0393x1",
     "title": "Where is Walter Skinner?",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "Kitten",
     "type": "Event",
@@ -894,13 +1010,16 @@
     ],
     "gameText": "Play this card to allow Assistant Director Walter Skinner to leave the Bureau and join any Team in the Field, unless an Adversary has already forced combat. During your Debriefing Phase, if Skinner remains in the Field, you may move him back to the Bureau.",
     "dialogue": "\"I'm gonna ask you once and only once. Where is he?\" - Kersh",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0394x1",
     "title": "Arlington National Cemetery, Arlington County, Virginia",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "This",
     "type": "Site",
@@ -915,13 +1034,16 @@
     "prerequisite": "BUREAUCRACY 5+ or SUBTERFUGE 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
     "dialogue": "\"I was at Langly's. At the Lone Gunmen's Burial in the Arlington Cemetery.\" - Scully",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0395x1",
     "title": "Saint Elizabeth Hospital, Washington, D.C.",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "Founder's Mutation",
     "type": "Site",
@@ -936,13 +1058,16 @@
     "prerequisite": "BUREAUCRACY 5+ or SCIENCES 5+",
     "question": "You may ask one MOTIVE question or one METHOD question.",
     "dialogue": "\"The government. Augustus worked for them. I couldn't trust anyone. Especially the police. I was so scared. I was going too fast.\" - Mrs. Goldman",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0396x1",
     "title": "Mud Lick, Kentucky",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "Kitten",
     "type": "Site",
@@ -958,13 +1083,16 @@
     "prerequisite": "BUREAUCRACY 3+ and SCIENCES 3+",
     "question": "You may ask one MOTIVE, one METHOD or one RESULT question.",
     "dialogue": "\"Well, the sheriff here in Mud Lick says he's got a body in the morgue minus an ear.\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0397x1",
     "title": "1213, 37th Place, Bethesda, Maryland",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "Rm9sbG93ZXJz",
     "type": "Site",
@@ -979,13 +1107,16 @@
     "prerequisite": "COMPUTER 5+ or SCIENCES 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
     "dialogue": "\"Why is your house much nicer than mine?\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0398x1",
     "title": "Norfolk, VA",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "Ghouli",
     "type": "Site",
@@ -1000,13 +1131,16 @@
     "prerequisite": "EVIDENCE COLLECTION 5+ or OBSERVATION 5+",
     "question": "You may ask one METHOD question or one RESULT question.",
     "dialogue": "\"Dreams are today's answers to tomorrow's questions. That's a quote form Edgar Cayce. He was called the Sleeping Prophet.\" - Mulder",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0399x1",
     "title": "Dr. Augustus Goldman",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "This",
     "type": "Witness",
@@ -1019,13 +1153,16 @@
     ],
     "gameText": "Play to change the Site Prerequisite to SCIENCES 3+.",
     "dialogue": "\"I am searching for the key that was the seed to all of these terrible genetic abnormalities.\" - Dr. Augustus Goldman",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0400x1",
     "title": "Erika Price",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "2 RP",
     "episode": "This",
     "type": "Witness",
@@ -1038,13 +1175,16 @@
     ],
     "gameText": "Play to change the Site Prerequisite to BUREAUCRACY 3+. Your opponent may pay 3 [CP] to negate this Witness.",
     "dialogue": "\"Life on this Earth, all human life, most animal life, is about to be crushed.\" - Erika Price",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0401x1",
     "title": "Sheriff Mac Stenzler",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "Kitten",
     "type": "Witness",
@@ -1057,13 +1197,16 @@
     ],
     "gameText": "Play to change the Site Prerequisite to OBSERVATION 3+. Your opponent may pay 3 [CP] to negate this Witness.",
     "dialogue": "\"The camera is motion activated... so it should take terribly long to find what we're looking for.\" - Sheriff Mac Stenzler",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0402x1",
     "title": "Dr. Karah Hamby",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "This",
     "type": "Witness",
@@ -1076,13 +1219,16 @@
     ],
     "gameText": "Play to change the Site Prerequisite to COMPUTER 3+.",
     "dialogue": "\"They scanned and copied the salient features of our biological brain. They uploaded us into a simulation.\" - Dr. Karah Hamby",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0403x1",
     "title": "Guy Mann",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "3 RP",
     "episode": "Mulder and Scully meet the Were-Monster",
     "type": "Witness",
@@ -1095,13 +1241,16 @@
     ],
     "gameText": "Play to change the Site Prerequisite to SUBTERFUGE 3+.",
     "dialogue": "\"I was myself again. And everything was fine... until the next morning.\" - Guy Mann",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0404x1",
     "title": "Tad O'Malley'",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "4 RP",
     "episode": "My Struggle",
     "type": "Witness",
@@ -1115,13 +1264,16 @@
     ],
     "gameText": "Adds 3 to one Team's ALIEN INVESTIGATION or adds 2 to one Team's BUREAUCRACY skill check.",
     "dialogue": "\"A government that taps your phone, collects your data and monitors your whereabouts with impunity. A government preparing to use that data against you when it strikes, and the final takeover begins.\" - Tad O'Malley",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Basic"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0405x1",
     "title": "Sveta Zatylny",
+    "set": "101357",
+    "rarity": "Community",
     "cost": "1 RP",
     "episode": "My Struggle",
     "type": "Witness",
@@ -1134,8 +1286,9 @@
     ],
     "gameText": "Adds 2 to one Agent's ALIEN INVESTIGATION skill check. Your opponent may pay 3 [CP] to negate this Witness.",
     "dialogue": "\"Tad O'Malley tried to put words in my mouth. He paid me to create stories about alien abductions.\" - Sveta Zatylny",
-    "createdBy": "Alfredo Sánchez, Robert Czepiel",
-    "set": "101357",
-    "rarity": "Community"
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Alfredo Sánchez, Robert Czepiel"
   }
 ]
