@@ -22,7 +22,9 @@
       "Computer"
     ],
     "gameText": "This card may be played in its normal way or on any Team that includes at least one female Agent, ignoring Activator requirements.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -49,9 +51,9 @@
     ],
     "gameText": "All Agents in a Team attacked by this Adversary must discard all attached Keyword ELECTRICAL Equipment immediately. The LONG RANGE COMBAT attack of this Adversary may be split between two opponents.",
     "tags": [
+      "Advanced",
       "Split Damage"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -79,7 +81,9 @@
       "Site"
     ],
     "gameText": "This Card is free if played on a Keyword INSANITY card and Activator requirements are ignored.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -106,7 +110,9 @@
       "Site"
     ],
     "gameText": "This card may be played on a Site at which the \"Terri Roberts\" Adversary card has been played, ignoring Activator requirements. When this occurs, both Adversaries attack simultaneously (treat as one combat) and double both cards' LRC, CRC, and HEALTH. Triple both cards' LRC, CRC and HEALTH if the Agents are using OCCULT INVESTIGATION skill.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -133,7 +139,9 @@
       "Site"
     ],
     "gameText": "Puppet may wait until his opponents declare they have played all of the COMBAT cards that they intend to, then Puppet may play COMBAT cards. No other COMBAT cards may be played after Puppet's. This card is free and Activator requirements are ignored if it is played on a Keyword INSANITY card.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -161,7 +169,9 @@
       "Site"
     ],
     "gameText": "This Adversary is able to use SUBTERFUGE and MARTIAL ARTS cads. If you opponent has correctly guessed two of your X-File's characteristics, the cost to play this card is 3 [CP].",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -187,7 +197,9 @@
       "Agent",
       "Believer"
     ],
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -214,7 +226,9 @@
       "Site"
     ],
     "gameText": "This card may be played on a Site at which the \"Margi Kleinjan\" Adversary card has been played, ignoring Activator requirements. When this occurs, both Adversaries attack simultaneously (treat as one combat) and double both cards' LRC, CRC, and HEALTH. Triple both cards' LRC, CRC and HEALTH if the Agents are using OCCULT INVESTIGATION skill.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -242,9 +256,9 @@
     ],
     "gameText": "List one Agent from the Investigating Team on a piece of paper. Place this card in your opponent's Field with the paper underneath. If the Agent listed Investigates a different Site before this card is negated, reveal the paper with the listed Agent. The Agent must go to the Hospital with zero HEALTH and may not contribute to skill checks this turn. Discard this card.",
     "tags": [
+      "Advanced",
       "Non-combative"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -272,9 +286,9 @@
     ],
     "gameText": "Subtract one from all damage sources applied to this Adversary.",
     "tags": [
+      "Advanced",
       "Reduce Damage"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -302,10 +316,10 @@
     ],
     "gameText": "Subtract one from all damage sources applied to this Adversary. The Long Range Combat Round is skipped.",
     "tags": [
-      "Skip Long Range",
-      "Reduce Damage"
+      "Advanced",
+      "Reduce Damage",
+      "Skip Long Range"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -336,7 +350,9 @@
       "Believer"
     ],
     "gameEffect": "Once per game, Agent Patterson may attack any Team investigating a Site as if he were an Adversary with the appropriate Activators. If a card is played that Negates him he is placed back into his controller's Field. If he is reduced to zero HEALTH, he is removed from the game.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -366,7 +382,9 @@
       "Believer"
     ],
     "gameEffect": "Place three tokens on Agent Pendrell. During a skill check, discard one token to add 1 to Agent Pendrell's COMPUTER, SCIENCES, or MEDICAL skill.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -392,7 +410,9 @@
       "Law"
     ],
     "gameEffect": "Agent Nemhauser's BEHAVIORAL and CRIMINAL INVESTIGATION skills are increased by one if he and Agent Patterson are on the same Team.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -417,9 +437,9 @@
     ],
     "gameEffect": "Place one token on this card. Remove one token to negate a Keyword HEALING card played by your opponent.",
     "tags": [
+      "Advanced",
       "Negate"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -447,9 +467,9 @@
     ],
     "gameEffect": "Place one token on this card. Remove one token to examine an opponent's hand and remove one of the cards in his hand from the game.",
     "tags": [
+      "Advanced",
       "Examine Hand"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -478,7 +498,9 @@
       "Believer"
     ],
     "gameEffect": "If Detective White is in the same Team as Agent Mulder, they both gain a +1 to their cumulative OCCULT INVESTIGATION and CRIMINAL INVESTIGATION skills, and a -1 to their OBSERVATION and BEHAVIORAL skills.",
-    "advanced": true,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -505,9 +527,9 @@
     ],
     "gameEffect": "Place two tokens on Detective Manners. Discard one token to search through your Bureau deck and add a Witness card to your hand. Show the Witness to your opponent and shuffle the deck.",
     "tags": [
+      "Advanced",
       "Search"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -527,9 +549,9 @@
     ],
     "gameText": "Play this card to increase the cost of all [RP] cards played at this Site by 1.",
     "tags": [
+      "Basic",
       "Increase Cost"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -549,9 +571,9 @@
     ],
     "gameText": "Play this card to add X [CP] to your [CP] pool. X = the number of [RP] spent at this Site by the Investigating Player.",
     "tags": [
+      "Basic",
       "Resource"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -571,9 +593,9 @@
     ],
     "gameText": "Play this card to increase the Cost of all [RP] cards played at this Site by 2.",
     "tags": [
+      "Basic",
       "Increase Cost"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -593,9 +615,9 @@
     ],
     "gameText": "Play this card to force your opponent to discard four cards from the top of his Bureau Deck.",
     "tags": [
+      "Basic",
       "Discard"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -615,9 +637,9 @@
     ],
     "gameText": "Pay the listed [CP] cost where X = the number of [CP] paid to gain the desired modifier to one of the following skills: CLOSE RANGE COMBAT, LONG RANGE COMBAT. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
+      "Basic",
       "Decrease Skill"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -637,9 +659,9 @@
     ],
     "gameText": "Play this card to force your opponent to discard the top card of his Bureau Deck.",
     "tags": [
+      "Basic",
       "Discard"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -659,9 +681,9 @@
     ],
     "gameText": "Force an opponent to discard one card from their hand at random.",
     "tags": [
+      "Basic",
       "Discard"
     ],
-    "advanced": true,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -681,9 +703,9 @@
     ],
     "gameText": "Once this card is played, the Investigating Player may not play any Events while investigating this Site except for Events which would specifically negate this card.",
     "tags": [
+      "Basic",
       "Prevent"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -703,9 +725,9 @@
     ],
     "gameText": "Play this card to double the [RP] cost of any Keyword ACTIVE card played at this Site.",
     "tags": [
+      "Basic",
       "Increase Cost"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -725,9 +747,9 @@
     ],
     "gameText": "Once this card is played, the investigating player may not play any COMBAT cards while investigating this Site, except for COMBAT cards which would specifically negate this card.",
     "tags": [
+      "Basic",
       "Prevent"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -747,9 +769,9 @@
     ],
     "gameText": "Play this card to force your opponent to discard two cards from the top of his Bureau Deck.",
     "tags": [
+      "Basic",
       "Discard"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -769,9 +791,9 @@
     ],
     "gameText": "Play this card to immediately add one [CP] to your pool for every two [RP] the Investigating Team uses at this Site.",
     "tags": [
+      "Basic",
       "Resource"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -790,7 +812,9 @@
       "Site"
     ],
     "gameText": "Play this card to choose any three cards from you opponents' discard pile and place them in any order on top of his Bureau Deck.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -809,7 +833,9 @@
       "Site"
     ],
     "gameText": "Play this card to add one to the Site Prerequisite number for each Agent beyond one in the investigating Team.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -829,7 +855,9 @@
       "Site"
     ],
     "gameText": "Play this card on one Agent in the Investigating Team. Remove the Agent from play and place this card on top of the Agent with four tokens. Remove one token during each of the controlling player's Debriefing Phases. When all tokens are removed, place this card on the owning player's Discard pile and move the Agent to the Bureau immediately.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -849,9 +877,9 @@
     ],
     "gameText": "Move up to two Bluffs to a different Site in play. Play this card before any other Bluffs are revealed.",
     "tags": [
+      "Basic",
       "Move"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -870,7 +898,9 @@
       "Site"
     ],
     "gameText": "Play this card to allow you to move one game effect token from any one card to another immediately. This may not take a card above the normal number of tokens allowed.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -890,9 +920,9 @@
     ],
     "gameText": "Force an opponent to discard three cards from his hand at random.",
     "tags": [
+      "Basic",
       "Discard"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -912,9 +942,9 @@
     ],
     "gameText": "Play this card to allow you to look at your opponent's Hand.",
     "tags": [
+      "Basic",
       "Examine Hand"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -934,9 +964,9 @@
     ],
     "gameText": "Once this card is played, the investigating player may not play any Witnesses while investigating this Site, except for Witnesses which would specifically negate this card.",
     "tags": [
+      "Basic",
       "Prevent"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -955,7 +985,9 @@
       "Bureau"
     ],
     "gameText": "Adds two to the Team's SUBTERFUGE skill. This modifier applies even if the Agent to whom this equipment is attached is sent to the Hospital.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -976,10 +1008,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's ALIEN INVESTIGATION skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1000,10 +1032,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's MEDICAL skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1023,10 +1055,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's BEHAVIORAL skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1047,10 +1079,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1070,10 +1102,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's OCCULT INVESTIGATION skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1093,10 +1125,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's COMPUTER skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1117,7 +1149,9 @@
       "Believer"
     ],
     "gameText": "Adds one to the Agent's HEALTH.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1137,10 +1171,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's SCIENCES skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1160,10 +1194,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's CLOSE RANGE COMBAT skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1184,10 +1218,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's OBSERVATION skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1208,10 +1242,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's LONG RANGE COMBAT skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1231,10 +1265,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's EVIDENCE COLLECTION skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1254,10 +1288,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's CRIMINAL INVESTIGATION skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1277,9 +1311,9 @@
     ],
     "gameText": "Discard Queequeg to negate any one PRIMORDIAL or EVOLUTIONARY Adversary. Each player may only have one of this card in their decks.",
     "tags": [
+      "Basic",
       "Negate"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1298,7 +1332,9 @@
       "Bureau"
     ],
     "gameText": "Adds two to the Agent's ALIEN INVESTIGATION skill.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1319,10 +1355,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's BUREAUCRACY skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1342,10 +1378,10 @@
     ],
     "gameText": "Discard this card to add three to the Agent's SUBTERFUGE skill.",
     "tags": [
+      "Basic",
       "Discard",
       "Increase Skill"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1365,7 +1401,9 @@
       "Field"
     ],
     "gameText": "Attach this Equipment to any Agent in the Field. Any ALIEN Adversary damaged by this weapon in CLOSE RANGE COMBAT is discarded prior to dealing damage in the Combat Round. The Alien Stiletto may be voluntarily discarded in the controlling player's Briefing Phase. Add 10 to your [RP] Pool and remove the Alien Stiletto from the game.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1384,7 +1422,9 @@
       "Bureau"
     ],
     "gameText": "Adds two to the Agent's OCCULT INVESTIGATION skill.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1403,7 +1443,9 @@
       "Bureau"
     ],
     "gameText": "Adds two to the Agent's BEHAVIORAL skill.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1423,7 +1465,9 @@
       "Conspiracy"
     ],
     "gameText": "While in play, you may take a second Conspiracy discard after your first (in the Briefing Phase). Discard when an opponent successfully investigates a site (directed at you) using ALIEN INVESTIGATION Skill.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1443,7 +1487,9 @@
       "Conspiracy"
     ],
     "gameText": "Place in an opponent's Field. An OCCULT Adversary may now be played as a Bluff (it is treated as a Bluff for all purposes). When revealed the Adversary may ignore Site Activator restrictions. Discard when a Keyword OCCULT INVESTIGATION Site is directed at you and investigated successfully.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1463,9 +1509,9 @@
     ],
     "gameText": "Play this card when Assistant Director Skinner would be forced to go to the Hospital. Skinner may stay where he is with full HEALTH. Any unwanted game effect tokens are removed.",
     "tags": [
-      "Affect Agent"
+      "Affect Agent",
+      "Basic"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1486,7 +1532,9 @@
       "Conspiracy"
     ],
     "gameText": "Place this card in one of your opponents Fields. Your opponent must subtract 2 from the [RP] he generates each turn while this card is in his Field. Your opponent may pay 7 [RP] to force you to discard this card.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1506,7 +1554,9 @@
       "Conspiracy"
     ],
     "gameText": "Attach this card to any Agent. As long as this card is in play, the controller of the attached Agent must play will all of the [RP] cost cards in his hand face up on the table. Place four counters on this card when it comes into play. Remove one counter each of the attached Agents' Briefing Phases. When the last counter is removed, discard this card.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1526,7 +1576,9 @@
       "Skeptic"
     ],
     "gameText": "Play this card on any Agent with the keyword SKEPTIC to prevent that Agent from contributing their skills at any keyword OCCULT INVESTIGATION or ALIEN INVESTIGATION Site.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1545,7 +1597,9 @@
       "Conspiracy"
     ],
     "gameText": "Place in an Opponent's Field with two tokens on the card. Remove a token in this opponent's Debriefing Phase. While in play, opponent may only investigate Keyword CRIMINAL INVESTIGATION or EVIDENCE COLLECTION Sites. Discard this card when the last token is removed.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1566,9 +1620,9 @@
     ],
     "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permanently add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play.",
     "tags": [
-      "Affect Agent"
+      "Affect Agent",
+      "Basic"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1589,9 +1643,9 @@
     ],
     "gameText": "Negate any Keyword PHENOMENA card.",
     "tags": [
+      "Basic",
       "Negate"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1613,7 +1667,9 @@
       "Conspiracy"
     ],
     "gameText": "Place in an Opponent's Field. Every turn, name one X-File Characteristic (AFFILIATION, METHOD, MOTIVE, or RESULT) during this opponent's Briefing Phase. This Opponent may not ask you this Characteristic question this turn. You may not choose the same characteristic in two consecutive turns. Cards that cause bluffs to be discarded affect this card.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1635,9 +1691,9 @@
     ],
     "gameText": "Play on Agent Krycek when his team fails to successfully investigate a Keyword ALIEN INVESTIGATION Site (discard the Site). Place two tokens on this card. Remove a token to emit a blast of energy that causes 6 points of damage to all opponents during the Long Range Combat Round. Apply the following permanent modifiers: +1 ALIEN INVESTIGATION, +2 SUBTERFUGE, and +1 HEALTH.",
     "tags": [
-      "Affect Agent"
+      "Affect Agent",
+      "Basic"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1658,7 +1714,9 @@
       "Field"
     ],
     "gameText": "Attach this card to an Agent in the Field. The Agent may attack any Team investigating a Site during his opponent's Investigation Phase. If the Agent is Negated, discard this card. If the Agent is reduced to zero HEALTH, remove the Agent from the game.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1683,7 +1741,9 @@
       "Agent"
     ],
     "gameText": "Play this card in the Field and place 2 tokens on it. Any BELIEVER Agent forced to go to the Hospital may be placed under this card instead. During the Healing phase, the owning player may remove a token to heal all damage done to the Agent.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1702,7 +1762,9 @@
       "Active"
     ],
     "gameText": "Play this card when an opponent has played an Adversary card. Immediately move all Agents in that team to your Bureau section and your opponent must discard the Adversary card.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1722,10 +1784,10 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and put into play any Keyword ACTIVE card that specifically effects Skinner at zero Cost.",
     "tags": [
-      "Search",
-      "Affect Agent"
+      "Affect Agent",
+      "Basic",
+      "Search"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1744,7 +1806,9 @@
       "Conspiracy"
     ],
     "gameText": "Play this card in the Field during your opponents' Case Assignment Phase. You may place Bluff cards under this card face down at any time. No more than three cards may be under this card at any one time. During his Case Assignment Phase you may play cards stored under this card on any Site in the Field for 2 [CP] less.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1765,7 +1829,9 @@
       "Conspiracy"
     ],
     "gameText": "Place this card next to your X-File. You may draw one card for free in each of your opponents' Briefing Phases.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1786,9 +1852,9 @@
     ],
     "gameText": "Place this card next to your X-File. Place up to three cards with a set CP cost from your hand under this card. These three cards can be used to negate any [RP] card with identical cost except Agents and Sites. This function requires zero [CP] cost. Discard both the played card and the card used to negate it. Discard this card when all cards underneath have been played.",
     "tags": [
+      "Basic",
       "Negate"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1806,7 +1872,9 @@
       "Conspiracy"
     ],
     "gameText": "Show your opponent this card to retrieve all Conspiracy cards from your Discard Pile and shuffle them back into your Bureau Deck. Discard this card.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1826,9 +1894,9 @@
     ],
     "gameText": "Play this card to cause your opponent to discard all Witness cards in his hand.",
     "tags": [
+      "Basic",
       "Discard"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1848,7 +1916,9 @@
       "Active"
     ],
     "gameText": "You may remove one game effect token or wound token from any cards under your control.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1866,7 +1936,9 @@
       "Active"
     ],
     "gameText": "Play this card to allow you to exchange [RP] Pools with your opponent.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1886,9 +1958,9 @@
     ],
     "gameText": "Played by itself, this card will negate one GOVERNMENT Adversary, discard both. If played on an Agent with the \"Taped Intelligence\" Equipment card attached, remove the \"Taped Intelligence\" card from the game and place this card in your Bureau section. As long as this card is in play, no GOVERNMENT Adversaries may be played on your Agents.",
     "tags": [
+      "Basic",
       "Negate"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1907,7 +1979,9 @@
     ],
     "prerequisite": "BEHAVIORAL 4+",
     "question": "You may ask one METHOD question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1926,7 +2000,9 @@
     ],
     "prerequisite": "BUREAUCRACY 4+",
     "question": "You may ask one MOTIVE question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1945,7 +2021,9 @@
     ],
     "prerequisite": "MEDICAL 4+",
     "question": "You may ask one RESULT question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1964,7 +2042,9 @@
     ],
     "prerequisite": "OCCULT INVESTIGATION 4+",
     "question": "You may ask one METHOD question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -1983,7 +2063,9 @@
     ],
     "prerequisite": "ALIEN INVESTIGATION 4+",
     "question": "You may ask one RESULT question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2004,7 +2086,9 @@
     ],
     "prerequisite": "COMPUTER 5+ or MEDICAL 5+",
     "question": "You may ask one AFFILIATION question or one RESULT question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2023,7 +2107,9 @@
     ],
     "prerequisite": "EVIDENCE COLLECTION 4+",
     "question": "You may ask one AFFILIATION question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2042,7 +2128,9 @@
     ],
     "prerequisite": "Sciences 4+",
     "question": "You may ask one RESULT question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2061,7 +2149,9 @@
     ],
     "prerequisite": "OBSERVATION 4+",
     "question": "You may ask one METHOD question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2080,7 +2170,9 @@
     ],
     "prerequisite": "COMPUTER 4+",
     "question": "You may ask one AFFILIATION question.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2100,7 +2192,9 @@
       "Computer"
     ],
     "gameText": "Adds 3 to one Team's COMPUTER skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2120,7 +2214,9 @@
       "Behavioral"
     ],
     "gameText": "Adds 3 to one Team's BEHAVIORAL skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2140,7 +2236,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION or CRIMINAL INVESTIGATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2160,7 +2258,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's EVIDENCE COLLECTION or adds 1 to one Team's SUBTERFUGE skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2180,7 +2280,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION or OBSERVATION skill check. While this card is in play, the Witness card \"The Stupendous Yappi\" may be played for free.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2200,7 +2302,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BUREAUCRACY or EVIDENCE COLLECTION skill check. May be played for Cost minus 1 RP if Witness \"Detective Cline\" is in play.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2220,7 +2324,9 @@
       "Observation"
     ],
     "gameText": "Adds 3 to one Team's OBSERVATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2240,7 +2346,9 @@
       "Sciences"
     ],
     "gameText": "Adds 3 to one Team's SCIENCES skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2260,7 +2368,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's SCIENCES or add 1 to one Team's BEHAVIORAL skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2280,7 +2390,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's SCIENCES or adds 1 to one Team's MEDICAL skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2300,7 +2412,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's COMPUTER or 1 to one Team's SCIENCES skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2320,7 +2434,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's MEDICAL or EVIDENCE COLLECTION skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2340,7 +2456,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's COMPUTER or adds 1 to one Team's SUBTERFUGE skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2360,7 +2478,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's OBSERVATION or adds 1 to one Team's ALIEN INVESTIGATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2380,7 +2500,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION or MEDICAL skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2400,7 +2522,9 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's BUREAUCRACY or adds 2 to one Team's BEHAVIORAL skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2420,7 +2544,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BEHAVIORAL or MEDICAL skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2440,7 +2566,9 @@
       "Alien Investigation"
     ],
     "gameText": "Adds 3 to one Team's ALIEN INVESTIGATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2461,9 +2589,9 @@
     ],
     "gameText": "Adds 1 to one Team's EVIDENCE COLLECTION or SUBTERFUGE skill check, or play this card to negate the Adversary \"The Walk.\"",
     "tags": [
+      "Basic",
       "Negate"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2483,7 +2611,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's OBSERVATION or adds 1 to one Team's EVIDENCE COLLECTION skill check, or play this card when your opponent is about to remove one of your cards from the game. Remove this card instead.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2504,9 +2634,9 @@
     ],
     "gameText": "Adds 1 to one Team's OCCULT INVESTIGATION or OBSERVATION skill check, or you may play this card to look at all Adversaries in opponent's hand.",
     "tags": [
+      "Basic",
       "Examine Hand"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2526,7 +2656,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's MEDICAL or adds 1 to one Team's OBSERVATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2546,7 +2678,9 @@
       "Occult Investigation"
     ],
     "gameText": "Adds 3 to one Team's OCCULT INVESTIGATION skill check, or return one OCCULT Adversary that is played on your team to the bottom of the owning player's Bureau Deck.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2566,7 +2700,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BUREAUCRACY or SUBTERFUGE skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2586,7 +2722,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's ALIEN INVESTIGATION or SCIENCES skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2606,7 +2744,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's BUREAUCRACY or adds 1 to one Team's OBSERVATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2626,7 +2766,9 @@
       "Active"
     ],
     "gameText": "Adds 1 to one Team's BEHAVIORAL or OCCULT INVESTIGATION skill check, or return one EVOLUTIONARY Adversary that is played on your team to the bottom of the owning player's Bureau Deck.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2646,9 +2788,9 @@
     ],
     "gameText": "As long as this card is in play, Skinner cannot be affected by any CONSPIRACY card that would specifically affect him.",
     "tags": [
-      "Affect Agent"
+      "Affect Agent",
+      "Basic"
     ],
-    "advanced": false,
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2668,7 +2810,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's CRIMINAL INVESTIGATION or adds 1 to one Team's SCIENCES skill check.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2688,7 +2832,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's MEDICAL or adds 1 to one Team's SCIENCES skill check.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2708,7 +2854,9 @@
       "Active"
     ],
     "gameText": "Flip the top card of your Bureau Deck. Discard the revealed card. If the revealed card has the Keyword CONSPIRACY, subtract 1 from the skill check. If not, add 3 to one CRIMINAL INVESTIGATION or OCCULT INVESTIGATION skill check.",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2728,7 +2876,9 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's MEDICAL or adds 2 to one Team's SCIENCES skill check. If your opponent plays a GOVERNMENT Adversary while this card is in play, the Victor Klemper card is negated and removed from the game.",
-    "advanced": false,
+    "tags": [
+      "Advanced"
+    ],
     "createdBy": "NXT Games, USPCC"
   },
   {
@@ -2748,7 +2898,9 @@
       "Active"
     ],
     "gameText": "Adds 2 to one Team's BEHAVIORAL or adds 1 to one Team's CRIMINAL INVESTIGATION skill check. Promo Cards",
-    "advanced": false,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "NXT Games, USPCC"
   }
 ]
