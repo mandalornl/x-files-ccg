@@ -3811,7 +3811,7 @@
       "Conspiracy",
       "Agent"
     ],
-    "gameText": "Play this card to add CANCER to an opposing Agent's Keywords. The Agent's HEALTH is reduced by 1 for each of the opponent's Debriefing Phases that the Agent spends outside of the Hospital. If the Agent's HEALTH is reduced to 0, they must remain in the Hospital until HEALTH is restored. This card is removed when a Healing card is played on the Agent.",
+    "gameText": "Play to add CANCER to an opposing Agent's Keywords. The Agent's HEALTH is reduced by 1 for each of the opponent's Debriefing Phases that the Agent spends outside of the Hospital. If the Agent's HEALTH is reduced to 0, they must remain in the Hospital until HEALTH is restored. This card is removed when a Healing card is played on the Agent.",
     "dialogue": "\"Now what is cancer but normal cells growing rapidly out of control usually caused by some damage to their DNA.\" - Mulder",
     "tags": [
       "Advanced"
@@ -4236,7 +4236,7 @@
     "activators": [
       "Hospital"
     ],
-    "gameText": "While the attached Agent is in the Hospital, discard the Hospital Gown to heal two points of damage or remove two game effect tokens.",
+    "gameText": "Attach this card to an Agent in the Hospital and place two tokens on it. Discard a token to either heal one point of damage or to remove a game effect token from the Agent. Discard the Hospital Gown when both tokens have been removed.",
     "dialogue": "\"Mom, I'm fine. I'm going to be fine, I'm just here for treatment\" - Scully",
     "tags": [
       "Advanced"
@@ -4327,7 +4327,7 @@
     "activators": [
       "Field"
     ],
-    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION and EVIDENCE COLLECTION skills. While this card is in play any Keyword, GOVERNMENT Adversary may ignore Activator requirements when attacking the Agent's Team.",
+    "gameText": "Adds 1 to the Agent's ALIEN INVESTIGATION and EVIDENCE COLLECTION skills. While this card is in play any keyword GOVERNMENT Adversary may ignore Activator requirements when attacking the Agent's Team.",
     "dialogue": "\"It's my sincere belief that what we have here is the complete corpus of an extraterrestrial biological entity.\" - Dr. Arlinsky",
     "tags": [
       "Basic"
