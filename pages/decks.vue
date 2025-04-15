@@ -49,7 +49,7 @@
               <v-btn
                 icon
                 small
-                title="Open in Card List"
+                title="Open in Cards"
                 @click="load(deck)"
               >
                 <v-icon small>
