@@ -11,7 +11,7 @@
         :small="small"
         :class="contentClass"
         icon
-        title="Draw cards"
+        title="Draw opening hand"
         v-bind="attrs"
         @click.prevent="on.click"
       >
@@ -22,7 +22,7 @@
     </template>
     <v-card>
       <v-card-title>
-        Card draw
+        Opening hand
         <v-spacer />
         <v-btn
           icon
