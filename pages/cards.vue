@@ -183,6 +183,7 @@ import {
   costs
 } from '~/config/cards';
 import { sortBy } from '~/assets/sort-by';
+import { decompress } from '~/assets/deflate';
 
 export default {
   name: 'PageCards',
@@ -509,14 +510,15 @@ export default {
       this.search = input?.value ?? '';
     },
 
-    loadDeckFromSignature() {
+    async loadDeckFromSignature() {
       if (!this.$route.query.signature) {
         return;
       }
 
       try {
         const signature = decodeURIComponent(this.$route.query.signature);
-        const deck = JSON.parse(Buffer.from(signature, 'base64').toString());
+        const json = await decompress(signature);
+        const deck = JSON.parse(json);
 
         if (
           this.$store.getters['deckBuilding/deckSize'] > 0
@@ -531,7 +533,7 @@ export default {
       } catch {
         this.$store.commit('snackbar/setError', 'Failed to load deck from signature url.');
 
-        this.$router.replace({
+        await this.$router.replace({
           query: undefined
         });
       }

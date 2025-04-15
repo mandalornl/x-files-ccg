@@ -118,6 +118,10 @@ import shuffle from 'lodash/shuffle';
 import { pool } from '~/config/cards';
 import cube from '~/config/fcu-cube.json';
 import { sortBy } from '~/assets/sort-by';
+import {
+  compress,
+  decompress
+} from '~/assets/deflate';
 
 export default {
   name: 'PageFCUCube',
@@ -125,6 +129,7 @@ export default {
   data() {
     return {
       players: [],
+      signature: null,
       headers: [
         { text: '#', value: 'id', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
         { text: 'Set', value: 'set', class: 'text-no-wrap', cellClass: 'text-no-wrap' },
@@ -145,13 +150,17 @@ export default {
   computed: {
     routeQuery() {
       return {
-        signature: this.createSignature(this.players),
+        signature: this.signature || undefined,
         view: this.view === 'grid' ? undefined: this.view
       };
     }
   },
 
   watch: {
+    async players(value) {
+      this.signature = await this.createSignature(value);
+    },
+
     routeQuery(query) {
       const { route } = this.$router.resolve({
         query
@@ -173,11 +182,11 @@ export default {
     }
   },
 
-  mounted() {
+  async mounted() {
     const [
       player1 = [],
       player2 = []
-    ] = this.loadPlayersFromSignature();
+    ] = await this.loadPlayersFromSignature();
 
     if (player1.length > 0 && player2.length > 0) {
       this.players = [
@@ -240,23 +249,25 @@ export default {
         .sort(sortBy('type', 'id'));
     },
 
-    createSignature(players) {
+    async createSignature(players) {
       if (players.length === 0) {
-        return undefined;
+        return null;
       }
 
-      const data = JSON.stringify(players.map((cards) => cards.map(({ uid }) => uid)));
+      const data = JSON.stringify(players.map((cards) => cards.map((card) => card.uid)));
+      const signature = await compress(data);
 
-      return encodeURIComponent(Buffer.from(data).toString('base64'));
+      return encodeURIComponent(signature);
     },
 
-    loadPlayersFromSignature() {
+    async loadPlayersFromSignature() {
       this.$store.commit('snackbar/setVisible', false);
 
       try {
-        const signature = decodeURIComponent(this.$route.query.signature ?? '[]');
+        const signature = decodeURIComponent(this.$route.query.signature);
+        const json = await decompress(signature);
 
-        return JSON.parse(Buffer.from(signature, 'base64').toString());
+        return JSON.parse(json);
       } catch {
         return [];
       }

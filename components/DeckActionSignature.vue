@@ -13,6 +13,8 @@
 </template>
 
 <script>
+import { compress } from '~/assets/deflate';
+
 export default {
   name: 'DeckActionSignature',
 
@@ -30,19 +32,16 @@ export default {
   },
 
   methods: {
-    createSignature() {
-      const data = JSON.stringify(this.$store.state.deckBuilding.deck);
-
-      return encodeURIComponent(Buffer.from(data).toString('base64'));
-    },
-
     async copyToClipboard() {
       this.$store.commit('snackbar/setVisible', false);
 
       try {
+        const data = JSON.stringify(this.$store.state.deckBuilding.deck);
+        const signature = await compress(data);
+
         const route = this.$router.resolve({
           query: {
-            signature: this.createSignature()
+            signature
           }
         });
 
