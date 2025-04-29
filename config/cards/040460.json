@@ -639,7 +639,7 @@
       "Conspiracy",
       "Evidence Collection"
     ],
-    "gameText": "Any Witness RESOURCE cards are immediately discarded. This Gray-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
+    "gameText": "Any Witness RESOURCE cards are immediately discarded. This Grey-Haired Man may use MARTIAL ARTS and SUBTERFUGE cards. Damage caused by this Adversary during LONG RANGE COMBAT may be split among all opponents (Directed Player's choice).",
     "dialogue": "Frohike: \"The doors work on redundant systems. We're working fast.\"\nMulder: \"Work faster!\"",
     "tags": [
       "Basic"
@@ -1223,7 +1223,7 @@
       "Active"
     ],
     "gameText": "Adds 3 to one Team's SCIENCES or adds 2 to one Team's COMPUTER skill check. Alternately, you may play this card to heal any one Agent damaged by the effects of \"El Chupacabra\".",
-    "dialogue": "Dr. Steen: \"What you're looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\nScully: \"Athlete's foot?\"",
+    "dialogue": "Dr. Steen: \"What you're looking at, Agent Scully, is the most ubiquitous fungal spore known to mankind - dermatophytosis.\"\nScully: \"Athlete's foot?\"",
     "tags": [
       "Basic"
     ],
@@ -1843,7 +1843,7 @@
     ],
     "prerequisite": "CRIMINAL INVESTIGATION 4+",
     "question": "You may ask one AFFILIATION question.",
-    "dialogue": "Skinner: \"What do you got?\"\nScully: \"Roche's old address in the area. Revere. Nine-eight-o-nine Alice Road, apartment number six.\"\nMulder: \"He's there.\"",
+    "dialogue": "Skinner: \"What do you got?\"\nScully: \"Roche's old address in the area. Revere. 9809 Alice Road, apartment number six.\"\nMulder: \"He's there.\"",
     "tags": [
       "Basic"
     ],
