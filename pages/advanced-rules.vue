@@ -837,7 +837,7 @@
       <h2>Game Play and Deck Construction</h2>
       <p>The following two optional rules are designed to make game outcome more centered around game play and deck construction . Both may be used together or separately. These are:</p>
       <ol>
-        <li>Upon successfully investigating a Site card, the Investigating Player may ask a Characteristic Question <b>OR</b> quest the opponent's X-File identity…not both.</li>
+        <li>Upon successfully investigating a Site card, the Investigating Player may ask a Characteristic Question <b>OR</b> guess the opponent's X-File identity…not both.</li>
         <li>A player has only ONE chance to guess the opponent's X-File identity per game. If an incorrect guess is made, your opponent automatically wins.</li>
       </ol>
       <h2>Killer Cards</h2>
