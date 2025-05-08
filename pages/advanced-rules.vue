@@ -835,7 +835,7 @@
       </copy-link>
       <p>The following rules were designed to add fun and intrigue into <b>The X-Files CCG</b> experience. They are not part of the official rules and you may choose to play with any or all of them as desired. In order to use an optional rule, both players must agree. If either player objects, an optional rule may not be used.</p>
       <h2>Game Play and Deck Construction</h2>
-      <p>The following two optional rules are designed to make game outcome more centered around game play and deck construction . Both may be used together or separately. These are:</p>
+      <p>The following two optional rules are designed to make game outcome more centered around game play and deck construction. Both may be used together or separately. These are:</p>
       <ol>
         <li>Upon successfully investigating a Site card, the Investigating Player may ask a Characteristic Question <b>OR</b> guess the opponent's X-File identity…not both.</li>
         <li>A player has only ONE chance to guess the opponent's X-File identity per game. If an incorrect guess is made, your opponent automatically wins.</li>
