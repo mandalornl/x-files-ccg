@@ -201,7 +201,8 @@ import {
 } from '~/config/cards';
 import {
   advancedSkills,
-  basicSkills
+  basicSkills,
+  keywords
 } from '~/config/agents';
 
 export default {
@@ -230,6 +231,11 @@ export default {
             'Premiere',
             'Gen Con'
           ].includes(value)),
+          operation: 'and'
+        },
+        keywords: {
+          label: 'Keywords',
+          items: keywords,
           operation: 'and'
         }
       }).map(([

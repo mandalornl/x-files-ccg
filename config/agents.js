@@ -18,3 +18,12 @@ export const basicSkills = [
   'Health',
   'Resources'
 ];
+
+export const keywords = [
+  'Believer',
+  'FBI',
+  'Independent',
+  'Law',
+  'Neutral',
+  'Skeptic'
+];
