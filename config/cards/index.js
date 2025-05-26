@@ -8,6 +8,7 @@ import gencon from '~/config/cards/gencon.json';
 import delaney from '~/config/cards/100617.json';
 import classified from '~/config/cards/classified.json';
 import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
+import twinPeaks from '~/config/cards/twin-peaks.json';
 import carter from '~/config/cards/101357.json';
 
 export const pool = [
@@ -21,6 +22,7 @@ export const pool = [
   ...delaney,
   ...classified,
   ...iWantToBelieve,
+  ...twinPeaks,
   ...carter
 ].map((card) => ({
   ...card,
