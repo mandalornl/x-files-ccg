@@ -12,7 +12,7 @@
     "lintfix": "yarn lint:js --fix"
   },
   "engines": {
-    "node": "20||22"
+    "node": "22"
   },
   "dependencies": {
     "core-js": "~3.37.0",
@@ -31,6 +31,8 @@
     "eslint-plugin-nuxt": "~4.0.0",
     "eslint-plugin-vue": "~9.25.0",
     "lru-cache": "~7.18.3",
-    "minify-css-string": "~1.0.0"
+    "minify-css-string": "~1.0.0",
+    "sharp": "~0.34.2",
+    "xlsx": "~0.18.5"
   }
 }
