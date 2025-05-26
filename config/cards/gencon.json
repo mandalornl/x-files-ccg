@@ -64,7 +64,7 @@
     "set": "Gen Con",
     "rarity": "Demo",
     "type": "Site",
-    "episode": "Beyond The Sea",
+    "episode": "Beyond the Sea",
     "cost": "1 RP",
     "keywords": [
       "Site",
@@ -301,7 +301,7 @@
     "title": "Henry Trondheim",
     "set": "Gen Con",
     "rarity": "Demo",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "Bluff",
     "cost": "2 CP",
     "keywords": [
@@ -662,7 +662,7 @@
     "title": "Dr. Laskos",
     "set": "Gen Con",
     "rarity": "Demo",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -747,7 +747,7 @@
     "title": "Computer Access Denied",
     "set": "Gen Con",
     "rarity": "Demo",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Event",
     "cost": "2 CP",
     "keywords": [
@@ -1225,7 +1225,7 @@
     "title": "Suppressed Fury",
     "set": "Gen Con",
     "rarity": "Demo",
-    "episode": "Beyond The Sea",
+    "episode": "Beyond the Sea",
     "type": "Adversary",
     "cost": "5 CP",
     "skills": {

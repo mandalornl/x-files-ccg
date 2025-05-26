@@ -175,7 +175,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 RP",
-    "episode": "Apocripha",
+    "episode": "Apocrypha",
     "type": "Combat",
     "keywords": [
       "Combat"
@@ -217,7 +217,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "4 RP",
-    "episode": "The Field where I died",
+    "episode": "The Field Where I Died",
     "type": "Combat",
     "keywords": [
       "Combat"
@@ -495,7 +495,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 *P",
-    "episode": "I want to Believe",
+    "episode": "I Want to Believe",
     "type": "Combat",
     "keywords": [
       "Combat",
@@ -567,7 +567,7 @@
       "Primordial"
     ],
     "activators": [
-      "Cobat"
+      "Combat"
     ],
     "gameText": "Play on any PRIMORDIAL Adversary to reduce damage from all opponent LONG RANGE COMBAT or CLOSE RANGE COMBAT sources by 1 this round.",
     "dialogue": "\"We have an agent alone with a sicko who cutting out women's tongues, a guy known for his vanishing act.\" - Doggett",
@@ -743,7 +743,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "1 RP",
-    "episode": "Out Town",
+    "episode": "Our Town",
     "type": "Site",
     "keywords": [
       "Site",
@@ -957,7 +957,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 RP",
-    "episode": "How the Ghosts stole Christmas",
+    "episode": "How the Ghosts Stole Christmas",
     "type": "Site",
     "keywords": [
       "Site",
@@ -1144,7 +1144,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "1 RP",
-    "episode": "The Sixth Extintion",
+    "episode": "The Sixth Extinction",
     "type": "Site",
     "keywords": [
       "Site",
@@ -1883,7 +1883,7 @@
     "title": "Rigged Lottery",
     "set": "I Want to Believe",
     "rarity": "Community",
-    "cost": "3X",
+    "cost": "3X CP",
     "episode": "Hell Money",
     "type": "Bluff",
     "keywords": [
@@ -2064,7 +2064,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "4 CP",
-    "episode": "Excelsis Dei",
+    "episode": "Excelsius Dei",
     "type": "Bluff",
     "keywords": [
       "Bluff"
@@ -2153,7 +2153,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 CP",
-    "episode": "How the Ghosts stole Christmas",
+    "episode": "How the Ghosts Stole Christmas",
     "type": "Bluff",
     "keywords": [
       "Bluff",
@@ -2201,7 +2201,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "5 CP",
-    "episode": "The Sith Extinction",
+    "episode": "The Sixth Extinction",
     "type": "Bluff",
     "keywords": [
       "Bluff",
@@ -2365,7 +2365,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "1 CP",
-    "episode": "War of the Coprophagues",
+    "episode": "War of the Coprophages",
     "type": "Bluff",
     "keywords": [
       "Bluff",
@@ -2680,7 +2680,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "5 RP",
-    "episode": "Millenium",
+    "episode": "Millennium",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -2890,7 +2890,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "Mind't Eye",
+    "episode": "Mind's Eye",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -2921,7 +2921,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "5 RP",
-    "episode": "Nothing important happened today (II)",
+    "episode": "Nothing Important Happened Today (II)",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -2953,7 +2953,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "4 RP",
-    "episode": "I want to Believe",
+    "episode": "I Want to Believe",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -2984,7 +2984,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "4 RP",
-    "episode": "I want to Believe",
+    "episode": "I Want to Believe",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -3015,7 +3015,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "4 RP",
-    "episode": "I want to Believe",
+    "episode": "I Want to Believe",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -3393,7 +3393,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "6 RP",
-    "episode": "Nothing important happened today",
+    "episode": "Nothing Important Happened Today",
     "type": "Agent",
     "keywords": [
       "Agent",
@@ -4143,7 +4143,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "The Field where I died",
+    "episode": "The Field Where I Died",
     "type": "Witness",
     "keywords": [
       "Witness",
@@ -4399,7 +4399,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Witness",
     "keywords": [
       "Witness",
@@ -5081,7 +5081,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 RP",
-    "episode": "All about Yves",
+    "episode": "All About Yves",
     "type": "Event",
     "keywords": [
       "Event",
@@ -5214,7 +5214,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 CP",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Event",
     "keywords": [
       "Event"
@@ -5236,7 +5236,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 RP",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Event",
     "keywords": [
       "Event"
@@ -5680,7 +5680,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 RP",
-    "episode": "Die Hand die Verletzt",
+    "episode": "Die Hand Die Verletzt",
     "type": "Event",
     "keywords": [
       "Event",
@@ -5767,7 +5767,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "War of the Coprophagues",
+    "episode": "War of the Coprophages",
     "type": "Event",
     "keywords": [
       "Event",
@@ -5996,7 +5996,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "Brand X",
+    "episode": "Brand-X",
     "type": "Event",
     "keywords": [
       "Event"
@@ -6060,7 +6060,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "Dreamland I",
+    "episode": "Dreamland (I)",
     "type": "Event",
     "keywords": [
       "Event",
@@ -6191,7 +6191,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "5 RP",
-    "episode": "Musings of a Cigarette Smoking Man",
+    "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Event",
     "keywords": [
       "Event"
@@ -6636,7 +6636,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 RP",
-    "episode": "Nothing important happened today",
+    "episode": "Nothing Important Happened Today",
     "type": "Event",
     "keywords": [
       "Event"
@@ -7294,7 +7294,7 @@
     "episode": "Avatar",
     "type": "Equipment",
     "keywords": [
-      "Equiment",
+      "Equipment",
       "Electrical",
       "Special"
     ],
@@ -7434,7 +7434,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "6 CP",
-    "episode": "I want to Believe",
+    "episode": "I Want to Believe",
     "type": "Adversary",
     "keywords": [
       "Adversary",
@@ -7787,7 +7787,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "6 CP",
-    "episode": "Travelers",
+    "episode": "Travellers",
     "type": "Adversary",
     "keywords": [
       "Adversary",
@@ -7933,7 +7933,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "6 CP",
-    "episode": "The Field where I died",
+    "episode": "The Field Where I Died",
     "type": "Adversary",
     "keywords": [
       "Adversary",
@@ -8108,7 +8108,7 @@
     "set": "I Want to Believe",
     "rarity": "Community",
     "cost": "2 CP",
-    "episode": "Jose Chung's From Outer Space",
+    "episode": "Jose Chung's \"From Outer Space\"",
     "type": "Adversary",
     "keywords": [
       "Adversary",

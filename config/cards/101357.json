@@ -821,7 +821,7 @@
     "set": "101357",
     "rarity": "Community",
     "cost": "1 RP",
-    "episode": "Mulder and Scully meet the Were-Monster",
+    "episode": "Mulder and Scully Meet the Were-Monster",
     "type": "Event",
     "keywords": [
       "Event",
@@ -1230,7 +1230,7 @@
     "set": "101357",
     "rarity": "Community",
     "cost": "3 RP",
-    "episode": "Mulder and Scully meet the Were-Monster",
+    "episode": "Mulder and Scully Meet the Were-Monster",
     "type": "Witness",
     "keywords": [
       "Witness",
@@ -1256,7 +1256,7 @@
     "type": "Witness",
     "keywords": [
       "Witness",
-      "Alien investigation",
+      "Alien Investigation",
       "Bureaucracy"
     ],
     "activators": [

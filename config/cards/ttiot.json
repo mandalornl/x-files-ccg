@@ -1050,7 +1050,7 @@
     "title": "Central Prison, Raleigh, NC",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Beyond The Sea",
+    "episode": "Beyond the Sea",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -1579,7 +1579,7 @@
     "title": "Sea Off Tildeskan, Norway",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "Site",
     "cost": "2 RP",
     "keywords": [
@@ -1690,7 +1690,7 @@
     "title": "Eurisko Building, Crystal City, VA",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Site",
     "cost": "1 RP",
     "keywords": [
@@ -2071,7 +2071,7 @@
     "title": "Claude Peterson",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Bluff",
     "cost": "X CP",
     "keywords": [
@@ -2139,7 +2139,7 @@
     "title": "Intruder Counter-Measures Program",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -2267,10 +2267,10 @@
   },
   {
     "id": "XF97-0108v2",
-    "title": "Ghost In The Machine",
+    "title": "Ghost in the Machine",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Bluff",
     "cost": "1 CP",
     "keywords": [
@@ -2293,7 +2293,7 @@
     "title": "Unnatural Aging",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "Bluff",
     "cost": "5 CP",
     "keywords": [
@@ -2406,7 +2406,7 @@
     "title": "Henry Trondheim",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "Bluff",
     "cost": "2 CP",
     "keywords": [
@@ -2623,7 +2623,7 @@
     "title": "Lucas Henry, Serial Killer",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Beyond The Sea",
+    "episode": "Beyond the Sea",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Primordial",
@@ -2768,7 +2768,7 @@
     "title": "Central Operating System, Artificial Intelligence",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Evolutionary",
@@ -3017,10 +3017,10 @@
   },
   {
     "id": "XF97-0147v2",
-    "title": "Dod Kalm",
+    "title": "Død Kalm",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "X-File",
     "characteristics": {
       "Affiliation": "Alien",
@@ -3538,7 +3538,7 @@
     "title": "Agent Nancy Spiller",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Agent",
     "cost": "4 RP",
     "keywords": [
@@ -3823,7 +3823,7 @@
     "title": "Agent Jerry Lamana",
     "set": "The Truth is Out There",
     "rarity": "Fixed",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Agent",
     "cost": "3 RP",
     "keywords": [
@@ -4105,7 +4105,7 @@
     "title": "Dr. Laskos",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Dod Kalm",
+    "episode": "Død Kalm",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -4328,7 +4328,7 @@
     "title": "Brad Wilczek",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Witness",
     "cost": "2 RP",
     "keywords": [
@@ -4510,7 +4510,7 @@
     "title": "Luther Lee Boggs",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Beyond The Sea",
+    "episode": "Beyond the Sea",
     "type": "Witness",
     "cost": "3 RP",
     "keywords": [
@@ -5260,7 +5260,7 @@
     "title": "Computer Access Denied",
     "set": "The Truth is Out There",
     "rarity": "Rare",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Event",
     "cost": "2 CP",
     "keywords": [
@@ -7047,7 +7047,7 @@
     "title": "Suppressed Fury",
     "set": "The Truth is Out There",
     "rarity": "Common",
-    "episode": "Beyond The Sea",
+    "episode": "Beyond the Sea",
     "type": "Adversary",
     "cost": "5 CP",
     "skills": {
@@ -7075,7 +7075,7 @@
     "title": "Living Machine",
     "set": "The Truth is Out There",
     "rarity": "Uncommon",
-    "episode": "Ghost In The Machine",
+    "episode": "Ghost in the Machine",
     "type": "Adversary",
     "cost": "6 CP",
     "skills": {
