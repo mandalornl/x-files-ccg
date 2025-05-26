@@ -171,17 +171,16 @@
 <script>
 import { Intersect } from 'vuetify/lib/directives';
 
-import {
-  pool,
-  sets,
-  types,
-  activators,
-  keywords,
-  rarities,
-  tags,
-  episodes,
-  costs
-} from '~/config/cards';
+import sets from '~/config/cards/sets.json';
+import types from '~/config/cards/types.json';
+import activators from '~/config/cards/activators.json';
+import keywords from '~/config/cards/keywords.json';
+import rarities from '~/config/cards/rarities.json';
+import tags from '~/config/cards/tags.json';
+import episodes from '~/config/cards/episodes.json';
+import costs from '~/config/cards/costs.json';
+
+import { pool } from '~/config/cards';
 import { sortBy } from '~/assets/sort-by';
 import { decompress } from '~/assets/deflate';
 

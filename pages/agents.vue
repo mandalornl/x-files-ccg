@@ -195,15 +195,12 @@
 <script>
 import { Intersect } from 'vuetify/lib/directives';
 
-import {
-  pool,
-  sets
-} from '~/config/cards';
-import {
-  advancedSkills,
-  basicSkills,
-  keywords
-} from '~/config/agents';
+import sets from '~/config/cards/sets.json';
+import advancedSkills from '~/config/agents/advanced-skills.json';
+import basicSkills from '~/config/agents/basic-skills.json';
+import keywords from '~/config/agents/keywords.json';
+
+import { pool } from '~/config/cards';
 
 export default {
   name: 'PageAgents',
