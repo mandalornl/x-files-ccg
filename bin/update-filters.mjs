@@ -15,8 +15,8 @@ const pool = await Promise.all([
   '100617',
   'classified',
   'i-want-to-believe',
-  'twin-peaks',
-  '101357'
+  'my-struggle',
+  'fire-walk-with-me'
 ].map(async (name) => {
   const json = await readFile(new URL(`../config/cards/${name}.json`, import.meta.url), 'utf-8');
 

@@ -2,7 +2,7 @@
   {
     "id": "XF08-0406x2",
     "title": "Ike \"The Spike\" Stadtler",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Return (3x06)",
     "type": "Adversary",
@@ -24,12 +24,15 @@
       "Site"
     ],
     "gameText": null,
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0407x2",
     "title": "Hutch & Chantal",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Return (3x16)",
     "type": "Adversary",
@@ -51,12 +54,15 @@
       "Site"
     ],
     "gameText": "During the LONG RANGE COMBAT round, for every two cards discarded from your hand, increase Hutch & Chantal’s LRC by 1.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0408x2",
     "title": "Leland Palmer",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "Fire Walk With Me",
     "type": "Adversary",
@@ -77,12 +83,15 @@
       "Agent"
     ],
     "gameText": "Leland Palmer's LRC and CRC values are each equal to the number of Agents in the Team currently investigating this Site.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0409x2",
     "title": "The Experiment",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Return (3x01)",
     "type": "Adversary",
@@ -103,12 +112,15 @@
       "Agent"
     ],
     "gameText": "The Experiment engages two opposing Agents (your choice) in Combat.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0410x2",
     "title": "The Woodsmen, sentinels of the Black Lodge",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Return (3x08)",
     "type": "Adversary",
@@ -130,12 +142,15 @@
       "Site"
     ],
     "gameText": "At the beginning of each combat round you may discard 2 [CP] from your [CP] pool to heal 1 point of damage to the Woodsmen. The LONG RANGE COMBAT round is skipped.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0411x2",
     "title": "Mr. C, The shadow of Cooper",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Return (3x17)",
     "type": "Adversary",
@@ -157,12 +172,15 @@
       "Site"
     ],
     "gameText": "Mr. C's LRC, CRC and HEALTH values become equal to those of any one Agent in the target Team (your choice), until the end of this Combat. Move that Agent to the Hospital with 0 HEALTH. Mr. C attacks the remaining Agents in a normal Combat sequence that lasts one LRC and one CRC round.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0412x2",
     "title": "Windom Earle, seeker of the Black Lodge",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "Beyond Life and Death",
     "type": "Adversary",
@@ -184,12 +202,15 @@
       "Site"
     ],
     "gameText": "If this Adversary is discarded during Combat, you may play an Adversary card with a cost less than 5 from your discard pile, ignoring Activator requirements but paying its normal cost. That Adversary immediately begins a normal Combat with the Team.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0413x2",
     "title": "Bob, the possessing spirit",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "Lonely Souls",
     "type": "Adversary",
@@ -211,12 +232,15 @@
       "Site"
     ],
     "gameText": "This card does not initiate combat now. Attach Bob to any one Agent in the Team at this Site (your choice). Place both cards next to your X-File. On your next turn as Directed player, that Agent must attack any one of your opponent’s Teams in the Field, ignoring Activator requirements. Remove Bob and return the Agent to opponent's Field after the combat.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0414x2",
     "title": "Jake & Gene, the snippers alliance",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Return (3x03)",
     "type": "Adversary",
@@ -238,12 +262,15 @@
       "Site"
     ],
     "gameText": "The chosen Agent is the only one who may participate in the Combat. Jake & Gene may use MARTIAL ARTS and SUBTERFUGE cards. Your opponent may pay 4 [RP] to force you to discard this card.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0415x2",
     "title": "Josie Packard",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "The Condemned Woman",
     "type": "Adversary",
@@ -264,12 +291,15 @@
       "Agent"
     ],
     "gameText": "Josie Packard may attack only one Agent (your choice) in one round of LONG RANGE and one CLOSE RANGE COMBAT. All other Agents in the Team also participate in the Combat and may assign damage to Josie as normal.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   },
   {
     "id": "XF08-0416x2",
     "title": "Hank Jennings, the Foreign Outlaw",
-    "set": "Twin Peaks",
+    "set": "Fire Walk With Me",
     "rarity": "Community",
     "episode": "Ghouli",
     "type": "Adversary",
@@ -290,6 +320,9 @@
       "Site"
     ],
     "gameText": "At the end of this Combat, if Hank's HEALTH has not been reduced to zero, you may play him at another Site controlled by the same opponent this turn at no cost and ignoring Activator requirements. If no such Site exists, discard this card.",
+    "tags": [
+      "Basic"
+    ],
     "createdBy": "Alfredo Sánchez, Robert Czepiel"
   }
 ]

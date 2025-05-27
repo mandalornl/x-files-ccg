@@ -8,8 +8,8 @@ import gencon from '~/config/cards/gencon.json';
 import delaney from '~/config/cards/100617.json';
 import classified from '~/config/cards/classified.json';
 import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
-import twinPeaks from '~/config/cards/twin-peaks.json';
-import carter from '~/config/cards/101357.json';
+import myStruggle from '~/config/cards/my-struggle.json';
+import fireWalkWithMe from '~/config/cards/fire-walk-with-me.json';
 
 export const pool = [
   ...premiere,
@@ -22,8 +22,8 @@ export const pool = [
   ...delaney,
   ...classified,
   ...iWantToBelieve,
-  ...twinPeaks,
-  ...carter
+  ...myStruggle,
+  ...fireWalkWithMe
 ].map((card) => ({
   ...card,
   image: `images/${card.set}/${card.id}.jpg`
