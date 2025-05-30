@@ -2,7 +2,7 @@ import premiere from '~/config/cards/premiere.json';
 import ttiot from '~/config/cards/ttiot.json';
 import mulder from '~/config/cards/101361.json';
 import scully from '~/config/cards/22364.json';
-import season4 from '~/config/cards/040460.json';
+import believeTheLie from '~/config/cards/believe-the-lie.json';
 import promo from '~/config/cards/promo.json';
 import gencon from '~/config/cards/gencon.json';
 import delaney from '~/config/cards/100617.json';
@@ -16,7 +16,7 @@ export const pool = [
   ...ttiot,
   ...mulder,
   ...scully,
-  ...season4,
+  ...believeTheLie,
   ...promo,
   ...gencon,
   ...delaney,

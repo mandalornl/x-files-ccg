@@ -2,7 +2,7 @@
   {
     "id": "PR22-0001-MUL",
     "title": "Agent Fox Mulder",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Paper Hearts",
     "type": "Agent",
@@ -37,7 +37,7 @@
   {
     "id": "PR22-0002-SCU",
     "title": "Agent Dana Scully",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Never Again",
     "type": "Agent",
@@ -71,7 +71,7 @@
   {
     "id": "PR22-0003-DOG",
     "title": "Agent John Doggett",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": null,
     "type": "Agent",
@@ -103,7 +103,7 @@
   {
     "id": "XF22-0001x3",
     "title": "Deputy Barney Paster",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Agent",
@@ -135,7 +135,7 @@
   {
     "id": "XF22-0002x3",
     "title": "Mike Millar, NTSB",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Agent",
@@ -167,7 +167,7 @@
   {
     "id": "XF22-0003x3",
     "title": "Agent Kautz",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Zero Sum",
     "type": "Agent",
@@ -199,7 +199,7 @@
   {
     "id": "XF22-0004x3",
     "title": "Detective Hudak",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Agent",
@@ -231,7 +231,7 @@
   {
     "id": "XF22-0005x3",
     "title": "Agent Hedin",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Agent",
@@ -261,7 +261,7 @@
   {
     "id": "XF22-0006x3",
     "title": "Detective John Munch",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unusual Suspects",
     "type": "Agent",
@@ -293,7 +293,7 @@
   {
     "id": "XF22-0007x3",
     "title": "The Peacock Brothers",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Adversary",
@@ -322,7 +322,7 @@
   {
     "id": "XF22-0008x3",
     "title": "Samuel Aboah",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Teliko",
     "type": "Adversary",
@@ -351,7 +351,7 @@
   {
     "id": "XF22-0009x3",
     "title": "Gerry Schnauz Senses Your Unrest",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Adversary",
@@ -381,7 +381,7 @@
   {
     "id": "XF22-0010x3",
     "title": "Dr. Jack Franklin",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Sanguinarium",
     "type": "Adversary",
@@ -411,7 +411,7 @@
   {
     "id": "XF22-0011x3",
     "title": "Russian Horsemen",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Adversary",
@@ -441,7 +441,7 @@
   {
     "id": "XF22-0012x3",
     "title": "Gulag Commandant",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Adversary",
@@ -470,7 +470,7 @@
   {
     "id": "XF22-0013x3",
     "title": "Vassily Peskow",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Adversary",
@@ -499,7 +499,7 @@
   {
     "id": "XF22-0014x3",
     "title": "The Mad Hatter",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Paper Hearts",
     "type": "Adversary",
@@ -529,7 +529,7 @@
   {
     "id": "XF22-0015x3",
     "title": "El Chupacabra",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Adversary",
@@ -560,7 +560,7 @@
   {
     "id": "XF22-0016x3",
     "title": "Leonard Betts",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Adversary",
@@ -589,7 +589,7 @@
   {
     "id": "XF22-0017x3",
     "title": "Ed Jerse & His Talking Tattoo",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Never Again",
     "type": "Adversary",
@@ -619,7 +619,7 @@
   {
     "id": "XF22-0018x3",
     "title": "The Grey-Haired Man",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Adversary",
@@ -649,7 +649,7 @@
   {
     "id": "XF22-0019x3",
     "title": "The Golem Exacts Revenge",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Kaddish",
     "type": "Adversary",
@@ -679,7 +679,7 @@
   {
     "id": "XF22-0020x3",
     "title": "Nathaniel Teager",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unrequited",
     "type": "Adversary",
@@ -709,7 +709,7 @@
   {
     "id": "XF22-0021x3",
     "title": "Scott Garrett",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Max",
     "type": "Adversary",
@@ -739,7 +739,7 @@
   {
     "id": "XF22-0022x3",
     "title": "Old Man Nichols",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Adversary",
@@ -770,7 +770,7 @@
   {
     "id": "XF22-0023x3",
     "title": "Small Potatoes",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Small Potatoes",
     "type": "Adversary",
@@ -800,7 +800,7 @@
   {
     "id": "XF22-0024x3",
     "title": "Nurse Innes",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Adversary",
@@ -829,7 +829,7 @@
   {
     "id": "XF22-0025x3",
     "title": "Scott Ostelhoff",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Adversary",
@@ -859,7 +859,7 @@
   {
     "id": "XF22-0026x3",
     "title": "Darlene Morris",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Conduit",
     "type": "Witness",
@@ -882,7 +882,7 @@
   {
     "id": "XF22-0027x3",
     "title": "Sheriff Withers",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Conduit",
     "type": "Witness",
@@ -905,7 +905,7 @@
   {
     "id": "XF22-0028x3",
     "title": "Coroner Glenna",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "The Jersey Devil",
     "type": "Witness",
@@ -928,7 +928,7 @@
   {
     "id": "XF22-0029x3",
     "title": "Denny Murphy, Geologist",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Ice",
     "type": "Witness",
@@ -951,7 +951,7 @@
   {
     "id": "XF22-0030x3",
     "title": "Michel the Clubgoer",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gender Bender",
     "type": "Witness",
@@ -975,7 +975,7 @@
   {
     "id": "XF22-0031x3",
     "title": "Deputy Dennis Tyson",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Miracle Man",
     "type": "Witness",
@@ -999,7 +999,7 @@
   {
     "id": "XF22-0032x3",
     "title": "Lt. Terry Wilmer",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "End Game",
     "type": "Witness",
@@ -1022,7 +1022,7 @@
   {
     "id": "XF22-0033x3",
     "title": "Sheriff Hamilton",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Humbug",
     "type": "Witness",
@@ -1045,7 +1045,7 @@
   {
     "id": "XF22-0034x3",
     "title": "Samantha, Agrarian Clone",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Witness",
@@ -1069,7 +1069,7 @@
   {
     "id": "XF22-0035x3",
     "title": "Sheriff Andy Taylor",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Witness",
@@ -1091,7 +1091,7 @@
   {
     "id": "XF22-0036x3",
     "title": "Minister Diabria",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Teliko",
     "type": "Witness",
@@ -1115,7 +1115,7 @@
   {
     "id": "XF22-0037x3",
     "title": "Inspector Puett",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Witness",
@@ -1138,7 +1138,7 @@
   {
     "id": "XF22-0038x3",
     "title": "Officer Corning",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Witness",
@@ -1162,7 +1162,7 @@
   {
     "id": "XF22-0039x3",
     "title": "Nurse Rebecca Waite",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Sanguinarium",
     "type": "Witness",
@@ -1185,7 +1185,7 @@
   {
     "id": "XF22-0040x3",
     "title": "Dr. Shannon",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Sanguinarium",
     "type": "Witness",
@@ -1208,7 +1208,7 @@
   {
     "id": "XF22-0041x3",
     "title": "Dr. Larry Steen",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Witness",
@@ -1232,7 +1232,7 @@
   {
     "id": "XF22-0042x3",
     "title": "Conrad Lozano",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Witness",
@@ -1255,7 +1255,7 @@
   {
     "id": "XF22-0043x3",
     "title": "Michelle Wilkes",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Witness",
@@ -1278,7 +1278,7 @@
   {
     "id": "XF22-0044x3",
     "title": "Kurt Crawford",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Witness",
@@ -1300,7 +1300,7 @@
   {
     "id": "XF22-0045x3",
     "title": "Ariel Weiss",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Kaddish",
     "type": "Witness",
@@ -1324,7 +1324,7 @@
   {
     "id": "XF22-0046x3",
     "title": "Kenneth Ungar",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Kaddish",
     "type": "Witness",
@@ -1347,7 +1347,7 @@
   {
     "id": "XF22-0047x3",
     "title": "Denny Markham",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unrequited",
     "type": "Witness",
@@ -1370,7 +1370,7 @@
   {
     "id": "XF22-0048x3",
     "title": "Sharon Graffia",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Witness",
@@ -1393,7 +1393,7 @@
   {
     "id": "XF22-0049x3",
     "title": "Sgt. Louis Frisch",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Witness",
@@ -1416,7 +1416,7 @@
   {
     "id": "XF22-0050x3",
     "title": "Jason Nichols",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Witness",
@@ -1439,7 +1439,7 @@
   {
     "id": "XF22-0051x3",
     "title": "Dr. Lisa Ianelli",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Witness",
@@ -1462,7 +1462,7 @@
   {
     "id": "XF22-0052x3",
     "title": "The Niemans",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Small Potatoes",
     "type": "Witness",
@@ -1486,7 +1486,7 @@
   {
     "id": "XF22-0053x3",
     "title": "Misty Nagata",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Zero Sum",
     "type": "Witness",
@@ -1509,7 +1509,7 @@
   {
     "id": "XF22-0054x3",
     "title": "Angie Pintero",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Witness",
@@ -1532,7 +1532,7 @@
   {
     "id": "XF22-0055x3",
     "title": "Martin Alpert",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Witness",
@@ -1555,7 +1555,7 @@
   {
     "id": "XF22-0056x3",
     "title": "Harold Spuller",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Witness",
@@ -1578,7 +1578,7 @@
   {
     "id": "XF22-0057x3",
     "title": "Dr. Arlinsky",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Witness",
@@ -1601,7 +1601,7 @@
   {
     "id": "XF22-0058x3",
     "title": "Dr. Vitagliano",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Witness",
@@ -1624,7 +1624,7 @@
   {
     "id": "XF22-0059x3",
     "title": "14th Precinct House, Buffalo, NY",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Born Again",
     "type": "Site",
@@ -1648,7 +1648,7 @@
   {
     "id": "XF22-0060x3",
     "title": "Bee Husbandry Farm, Alberta, Canada",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Site",
@@ -1672,7 +1672,7 @@
   {
     "id": "XF22-0061x3",
     "title": "Peacock Residence, Home, PA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Site",
@@ -1694,7 +1694,7 @@
   {
     "id": "XF22-0062x3",
     "title": "Liberty Plaza, Philadelphia, PA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Teliko",
     "type": "Site",
@@ -1716,7 +1716,7 @@
   {
     "id": "XF22-0063x3",
     "title": "Gerry Schnauz's RV, Traverse City, MI",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Site",
@@ -1738,7 +1738,7 @@
   {
     "id": "XF22-0064x3",
     "title": "Federal Command Center, Chattanooga, TN",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "The Field Where I Died",
     "type": "Site",
@@ -1760,7 +1760,7 @@
   {
     "id": "XF22-0065x3",
     "title": "Greenwood Memorial Hospital, Chicago, IL",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Sanguinarium",
     "type": "Site",
@@ -1784,7 +1784,7 @@
   {
     "id": "XF22-0066x3",
     "title": "Tunguska, Siberian Forest",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Site",
@@ -1808,7 +1808,7 @@
   {
     "id": "XF22-0067x3",
     "title": "Oil Refinery, Alberta, Canada",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Site",
@@ -1830,7 +1830,7 @@
   {
     "id": "XF22-0068x3",
     "title": "Abandoned Bus Terminal, Revere, MA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Paper Hearts",
     "type": "Site",
@@ -1852,7 +1852,7 @@
   {
     "id": "XF22-0069x3",
     "title": "Migrant Workers Camp, San Joaquin, CA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Site",
@@ -1874,7 +1874,7 @@
   {
     "id": "XF22-0070x3",
     "title": "Monongahela Medical Center, Pittsburgh, PA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Site",
@@ -1898,7 +1898,7 @@
   {
     "id": "XF22-0071x3",
     "title": "Svo's Tattoo Parlor, Philadelphia, PA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Never Again",
     "type": "Site",
@@ -1922,7 +1922,7 @@
   {
     "id": "XF22-0072x3",
     "title": "Lombard Research Facility, Allentown, PA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Site",
@@ -1944,7 +1944,7 @@
   {
     "id": "XF22-0073x3",
     "title": "Ben Zion Cemetery, Brooklyn, NY",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Kaddish",
     "type": "Site",
@@ -1966,7 +1966,7 @@
   {
     "id": "XF22-0074x3",
     "title": "Vietnam War Memorial, Washington, D.C.",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unrequited",
     "type": "Site",
@@ -1988,7 +1988,7 @@
   {
     "id": "XF22-0075x3",
     "title": "Flight 549 Crash Site",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Site",
@@ -2012,7 +2012,7 @@
   {
     "id": "XF22-0076x3",
     "title": "U.F.O. Crash Site, Great Sacandaga Lake, NY",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Site",
@@ -2036,7 +2036,7 @@
   {
     "id": "XF22-0077x3",
     "title": "Hotel James Monroe, Boston, MA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Site",
@@ -2058,7 +2058,7 @@
   {
     "id": "XF22-0078x3",
     "title": "Tablers Community Hospital, Martinsburg, VA",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Small Potatoes",
     "type": "Site",
@@ -2082,7 +2082,7 @@
   {
     "id": "XF22-0079x3",
     "title": "Payson, SC",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Zero Sum",
     "type": "Site",
@@ -2106,7 +2106,7 @@
   {
     "id": "XF22-0080x3",
     "title": "Angie's Midnight Bowl, Washington, D.C.",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Site",
@@ -2128,7 +2128,7 @@
   {
     "id": "XF22-0081x3",
     "title": "Cassandra House, Chepachet, RI",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Demons",
     "type": "Site",
@@ -2152,7 +2152,7 @@
   {
     "id": "XF22-0082x3",
     "title": "Saint Elias Mountains, Yukon Territory, Canada",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Site",
@@ -2176,7 +2176,7 @@
   {
     "id": "XF22-0083x3",
     "title": "Carver's Accommodation",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "3",
     "type": "Event",
@@ -2198,7 +2198,7 @@
   {
     "id": "XF22-0084x3",
     "title": "Agent Nemhauser Found Dismembered",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Grotesque",
     "type": "Event",
@@ -2221,7 +2221,7 @@
   {
     "id": "XF22-0085x3",
     "title": "Serial Ovatypes",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Event",
@@ -2244,7 +2244,7 @@
   {
     "id": "XF22-0086x3",
     "title": "X-Terminated",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Event",
@@ -2268,7 +2268,7 @@
   {
     "id": "XF22-0087x3",
     "title": "Marita's Overture",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Event",
@@ -2291,7 +2291,7 @@
   {
     "id": "XF22-0088x3",
     "title": "Alien Bounty Healer",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Event",
@@ -2314,7 +2314,7 @@
   {
     "id": "XF22-0089x3",
     "title": "Reconnaissance",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Event",
@@ -2336,7 +2336,7 @@
   {
     "id": "XF22-0090x3",
     "title": "Deputy Paster Killed in the Line of Duty",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Event",
@@ -2359,7 +2359,7 @@
   {
     "id": "XF22-0091x3",
     "title": "Postmortem",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Teliko",
     "type": "Event",
@@ -2382,7 +2382,7 @@
   {
     "id": "XF22-0092x3",
     "title": "FBI Special Photographic Unit",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Event",
@@ -2405,7 +2405,7 @@
   {
     "id": "XF22-0093x3",
     "title": "Suspect Booked",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Event",
@@ -2428,7 +2428,7 @@
   {
     "id": "XF22-0094x3",
     "title": "Encore",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "The Field Where I Died",
     "type": "Event",
@@ -2451,7 +2451,7 @@
   {
     "id": "XF22-0095x3",
     "title": "The Goal In Sight Again",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "The Field Where I Died",
     "type": "Event",
@@ -2475,7 +2475,7 @@
   {
     "id": "XF22-0096x3",
     "title": "Next Patient",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Sanguinarium",
     "type": "Event",
@@ -2498,7 +2498,7 @@
   {
     "id": "XF22-0097x3",
     "title": "Symbol of Protection",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Sanguinarium",
     "type": "Event",
@@ -2523,7 +2523,7 @@
   {
     "id": "XF22-0098x3",
     "title": "The Mulder Family Legacy",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Event",
@@ -2544,7 +2544,7 @@
   {
     "id": "XF22-0099x3",
     "title": "A Well-Placed Patsy",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Event",
@@ -2568,7 +2568,7 @@
   {
     "id": "XF22-0100x3",
     "title": "Make History",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Event",
@@ -2593,7 +2593,7 @@
   {
     "id": "XF22-0101x3",
     "title": "Bitter Defeat",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Event",
@@ -2615,7 +2615,7 @@
   {
     "id": "XF22-0102x3",
     "title": "Senate Subcommittee Testimony",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Event",
@@ -2638,7 +2638,7 @@
   {
     "id": "XF22-0103x3",
     "title": "The Cigarette-Smoking Man's Warning",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Event",
@@ -2661,7 +2661,7 @@
   {
     "id": "XF22-0104x3",
     "title": "Cover Credentials",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Event",
@@ -2684,7 +2684,7 @@
   {
     "id": "XF22-0105x3",
     "title": "Early Parole",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Event",
@@ -2706,7 +2706,7 @@
   {
     "id": "XF22-0106x3",
     "title": "Extended Sentence",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Event",
@@ -2728,7 +2728,7 @@
   {
     "id": "XF22-0107x3",
     "title": "Jailbreak",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Event",
@@ -2751,7 +2751,7 @@
   {
     "id": "XF22-0108x3",
     "title": "The Well-Manicured Man's Vendetta",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Event",
@@ -2773,7 +2773,7 @@
   {
     "id": "XF22-0109x3",
     "title": "Krycek Disarmed",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Event",
@@ -2795,7 +2795,7 @@
   {
     "id": "XF22-0110x3",
     "title": "Airlift",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Event",
@@ -2818,7 +2818,7 @@
   {
     "id": "XF22-0111x3",
     "title": "Forensic Excavation",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Paper Hearts",
     "type": "Event",
@@ -2840,7 +2840,7 @@
   {
     "id": "XF22-0112x3",
     "title": "Roche Takes a Hostage",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Paper Hearts",
     "type": "Event",
@@ -2863,7 +2863,7 @@
   {
     "id": "XF22-0113x3",
     "title": "Quarantine Zone",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Event",
@@ -2887,7 +2887,7 @@
   {
     "id": "XF22-0114x3",
     "title": "Regeneration",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Event",
@@ -2910,7 +2910,7 @@
   {
     "id": "XF22-0115x3",
     "title": "Aura Photography",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Event",
@@ -2933,7 +2933,7 @@
   {
     "id": "XF22-0116x3",
     "title": "Chuck's Resources",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Event",
@@ -2955,7 +2955,7 @@
   {
     "id": "XF22-0117x3",
     "title": "Search Warrant",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Event",
@@ -2977,7 +2977,7 @@
   {
     "id": "XF22-0118x3",
     "title": "Exhumation",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Event",
@@ -2998,7 +2998,7 @@
   {
     "id": "XF22-0119x3",
     "title": "Insanity on Rye",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Never Again",
     "type": "Event",
@@ -3023,7 +3023,7 @@
   {
     "id": "XF22-0120x3",
     "title": "Desk Jockey",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Never Again",
     "type": "Event",
@@ -3047,7 +3047,7 @@
   {
     "id": "XF22-0121x3",
     "title": "Cancer Diagnosis",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Event",
@@ -3072,7 +3072,7 @@
   {
     "id": "XF22-0122x3",
     "title": "Chemotherapy",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Event",
@@ -3094,7 +3094,7 @@
   {
     "id": "XF22-0123x3",
     "title": "Tricks of the Trade",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Event",
@@ -3116,7 +3116,7 @@
   {
     "id": "XF22-0124x3",
     "title": "Ariel's Wedding Ring",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Kaddish",
     "type": "Event",
@@ -3142,7 +3142,7 @@
   {
     "id": "XF22-0125x3",
     "title": "Maintain Deniability",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unrequited",
     "type": "Event",
@@ -3163,7 +3163,7 @@
   {
     "id": "XF22-0126x3",
     "title": "Happy Birthday",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Event",
@@ -3184,7 +3184,7 @@
   {
     "id": "XF22-0127x3",
     "title": "Pendrell Killed in D.C. Pub Shootout",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Max",
     "type": "Event",
@@ -3207,7 +3207,7 @@
   {
     "id": "XF22-0128x3",
     "title": "Warning From the Future",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Event",
@@ -3230,7 +3230,7 @@
   {
     "id": "XF22-0129x3",
     "title": "Spontaneous Combustion",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Event",
@@ -3254,7 +3254,7 @@
   {
     "id": "XF22-0130x3",
     "title": "Advice From a Loser",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Small Potatoes",
     "type": "Event",
@@ -3280,7 +3280,7 @@
   {
     "id": "XF22-0131x3",
     "title": "Skinner's Deal With the Devil",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Zero Sum",
     "type": "Event",
@@ -3303,7 +3303,7 @@
   {
     "id": "XF22-0132x3",
     "title": "Ghostly Visitations",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Event",
@@ -3327,7 +3327,7 @@
   {
     "id": "XF22-0133x3",
     "title": "Crisis Counseling",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Event",
@@ -3350,7 +3350,7 @@
   {
     "id": "XF22-0134x3",
     "title": "Aggressive Recall Therapy",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Demons",
     "type": "Event",
@@ -3373,7 +3373,7 @@
   {
     "id": "XF22-0135x3",
     "title": "A Scully Family Gathering",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Event",
@@ -3394,7 +3394,7 @@
   {
     "id": "XF22-0136x3",
     "title": "Father McCue",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Event",
@@ -3417,7 +3417,7 @@
   {
     "id": "XF22-0137x3",
     "title": "Mortality Imminent",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Event",
@@ -3441,7 +3441,7 @@
   {
     "id": "XF22-0138x3",
     "title": "Kritschgau's Revelation",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Event",
@@ -3464,7 +3464,7 @@
   {
     "id": "XF22-0139x3",
     "title": "Jason Ludwig",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Firewalker",
     "type": "Bluff",
@@ -3488,7 +3488,7 @@
   {
     "id": "XF22-0140x3",
     "title": "Hanging in the Balance",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Herrenvolk",
     "type": "Bluff",
@@ -3512,7 +3512,7 @@
   {
     "id": "XF22-0141x3",
     "title": "Booby Trap",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Bluff",
@@ -3537,7 +3537,7 @@
   {
     "id": "XF22-0142x3",
     "title": "Mrs. Peacock",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Home",
     "type": "Bluff",
@@ -3560,7 +3560,7 @@
   {
     "id": "XF22-0143x3",
     "title": "She Had a Date",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Teliko",
     "type": "Bluff",
@@ -3584,7 +3584,7 @@
   {
     "id": "XF22-0144x3",
     "title": "In the Crosshairs",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Musings of a Cigarette-Smoking Man",
     "type": "Bluff",
@@ -3607,7 +3607,7 @@
   {
     "id": "XF22-0145x3",
     "title": "Relatively Safe House",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Bluff",
@@ -3630,7 +3630,7 @@
   {
     "id": "XF22-0146x3",
     "title": "Senator Sorenson",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Bluff",
@@ -3655,7 +3655,7 @@
   {
     "id": "XF22-0147x3",
     "title": "Gulag-Bird",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Bluff",
@@ -3678,7 +3678,7 @@
   {
     "id": "XF22-0148x3",
     "title": "Wellhead Explosion",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Bluff",
@@ -3702,7 +3702,7 @@
   {
     "id": "XF22-0149x3",
     "title": "Soledad's Revenge",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Bluff",
@@ -3725,7 +3725,7 @@
   {
     "id": "XF22-0150x3",
     "title": "Nobody Cares",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "El Mundo Gira",
     "type": "Bluff",
@@ -3748,7 +3748,7 @@
   {
     "id": "XF22-0151x3",
     "title": "Grainy Footage",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Bluff",
@@ -3772,7 +3772,7 @@
   {
     "id": "XF22-0152x3",
     "title": "Elaine Tanner",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Bluff",
@@ -3796,7 +3796,7 @@
   {
     "id": "XF22-0153x3",
     "title": "Cancerous Nosebleed",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Bluff",
@@ -3821,7 +3821,7 @@
   {
     "id": "XF22-0154x3",
     "title": "Last Witness",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Bluff",
@@ -3845,7 +3845,7 @@
   {
     "id": "XF22-0155x3",
     "title": "No Trespassing",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unrequited",
     "type": "Bluff",
@@ -3869,7 +3869,7 @@
   {
     "id": "XF22-0156x3",
     "title": "The Death Card",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unrequited",
     "type": "Bluff",
@@ -3892,7 +3892,7 @@
   {
     "id": "XF22-0157x3",
     "title": "Mid-Air Abduction",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Max",
     "type": "Bluff",
@@ -3918,7 +3918,7 @@
   {
     "id": "XF22-0158x3",
     "title": "Skin-Cognito",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Zero Sum",
     "type": "Bluff",
@@ -3942,7 +3942,7 @@
   {
     "id": "XF22-0159x3",
     "title": "Trial Run",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Zero Sum",
     "type": "Bluff",
@@ -3966,7 +3966,7 @@
   {
     "id": "XF22-0160x3",
     "title": "Writing on the Wall",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Bluff",
@@ -3989,7 +3989,7 @@
   {
     "id": "XF22-0161x3",
     "title": "Legal Representation",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Elegy",
     "type": "Bluff",
@@ -4013,7 +4013,7 @@
   {
     "id": "XF22-0162x3",
     "title": "Detective Joe Curtis",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Demons",
     "type": "Bluff",
@@ -4038,7 +4038,7 @@
   {
     "id": "XF22-0163x3",
     "title": "Goldstein's Complicity",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Demons",
     "type": "Bluff",
@@ -4063,7 +4063,7 @@
   {
     "id": "XF22-0164x3",
     "title": "Thoughtographs",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Unruhe",
     "type": "Equipment",
@@ -4085,7 +4085,7 @@
   {
     "id": "XF22-0165x3",
     "title": "S.W.A.T. Tactical Gear",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Equipment",
@@ -4109,7 +4109,7 @@
   {
     "id": "XF22-0166x3",
     "title": "Biohazard Suit",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tunguska",
     "type": "Equipment",
@@ -4131,7 +4131,7 @@
   {
     "id": "XF22-0167x3",
     "title": "Shiv",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Terma",
     "type": "Equipment",
@@ -4155,7 +4155,7 @@
   {
     "id": "XF22-0168x3",
     "title": "Cloth Hearts",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Paper Hearts",
     "type": "Equipment",
@@ -4177,7 +4177,7 @@
   {
     "id": "XF22-0169x3",
     "title": "Epoxy Vat",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Equipment",
@@ -4200,7 +4200,7 @@
   {
     "id": "XF22-0170x3",
     "title": "Defibrillator",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Leonard Betts",
     "type": "Equipment",
@@ -4223,7 +4223,7 @@
   {
     "id": "XF22-0171x3",
     "title": "Hospital Gown",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Memento Mori",
     "type": "Equipment",
@@ -4246,7 +4246,7 @@
   {
     "id": "XF22-0172x3",
     "title": "Underwater Breathing Kit",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Tempus Fugit",
     "type": "Equipment",
@@ -4269,7 +4269,7 @@
   {
     "id": "XF22-0173x3",
     "title": "Apollo 11 Keychain",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Max",
     "type": "Equipment",
@@ -4291,7 +4291,7 @@
   {
     "id": "XF22-0174x3",
     "title": "Composite Sketch",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Synchrony",
     "type": "Equipment",
@@ -4313,7 +4313,7 @@
   {
     "id": "XF22-0175x3",
     "title": "Chimera Man",
-    "set": "040460",
+    "set": "Believe the Lie",
     "rarity": "Preservation Society",
     "episode": "Gethsemane",
     "type": "Equipment",
