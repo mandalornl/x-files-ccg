@@ -1125,7 +1125,7 @@
     "activators": [
       "Active"
     ],
-    "gameText": "Play this card to reveal any face down card by turning it face up (except your opponent's X-Files). If it has the Keyword \"Secret\", it is discarded.",
+    "gameText": "Play this card to reveal any face down card by turning it face up (except your opponent's X-File). If it has the Keyword \"Secret\", it is discarded.",
     "dialogue": "Victor Klemper: \"Progress demands sacrifice, and I… I have confronted my demons. And soon I will die too.\"\nMulder: \" Like my father. They killed him and I believe you know why.\"",
     "tags": [
       "Basic"
