@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {
   readFile,
   writeFile
@@ -6,7 +8,7 @@ import { URL } from 'node:url';
 
 const pool = await Promise.all([
   'premiere',
-  'ttiot',
+  'the-truth-is-out-there',
   '101361',
   '22364',
   'believe-the-lie',

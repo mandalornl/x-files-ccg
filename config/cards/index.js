@@ -1,5 +1,5 @@
 import premiere from '~/config/cards/premiere.json';
-import ttiot from '~/config/cards/ttiot.json';
+import theTruthIsOutThere from '~/config/cards/the-truth-is-out-there.json';
 import mulder from '~/config/cards/101361.json';
 import scully from '~/config/cards/22364.json';
 import believeTheLie from '~/config/cards/believe-the-lie.json';
@@ -13,7 +13,7 @@ import fireWalkWithMe from '~/config/cards/fire-walk-with-me.json';
 
 export const pool = [
   ...premiere,
-  ...ttiot,
+  ...theTruthIsOutThere,
   ...mulder,
   ...scully,
   ...believeTheLie,
