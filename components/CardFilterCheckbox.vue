@@ -84,11 +84,15 @@ export default {
 
   computed: {
     firstItems() {
-      return this.items.map(this.mapItems).slice(0, 5);
+      return this.items
+        .slice(0, 5)
+        .map(this.mapItems);
     },
 
     lastItems() {
-      return this.items.map(this.mapItems).slice(5);
+      return this.items
+        .slice(5)
+        .map(this.mapItems);
     },
 
     expandable() {
