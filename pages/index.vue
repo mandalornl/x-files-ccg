@@ -67,7 +67,7 @@ export default {
       {
         title: 'Alien Investigations',
         subtitle: 'Are you a fan of the long-defunct The X-Files Collectible Card Game (CCG)? Are you interested in watching the game and learning how to play? Then look no further!',
-        href: 'https://www.youtube.com/@alieninvestigations19',
+        href: 'https://www.youtube.com/@AlienInvestigations_xfilesccg',
         icon: 'mdi-youtube',
         color: 'red',
         multiline: true
@@ -83,7 +83,7 @@ export default {
       {
         title: 'Studio Sequim',
         subtitle: 'Anything related to customizable card games, including and not limited to The X-Files CCG.',
-        href: 'https://www.youtube.com/@studiosequim920',
+        href: 'https://www.youtube.com/@studiosequim',
         icon: 'mdi-youtube',
         color: 'red',
         multiline: true
