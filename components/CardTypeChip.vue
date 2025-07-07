@@ -31,7 +31,8 @@ export default {
         'Event': 'pink darken-2',
         'Site': 'blue darken-4',
         'Witness': 'purple darken-1',
-        'X-File': 'yellow'
+        'X-File': 'yellow',
+        'Credits': 'orange darken-2'
       }[this.value];
     },
 
