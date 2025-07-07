@@ -2476,6 +2476,30 @@
     "createdBy": "Stephen Arvidson"
   },
   {
+    "id": "XF23-0091x3v2",
+    "title": "Soul Bond Eternal",
+    "set": "Believe the Lie",
+    "rarity": "Preservation Society",
+    "type": "Event",
+    "episode": "The Field Where I Died",
+    "cost": "4 RP",
+    "keywords": [
+      "Event",
+      "Occult Investigation",
+      "Phenomena",
+      "Resource"
+    ],
+    "activators": [
+      "Active"
+    ],
+    "gameText": "Attach this card to an Agent in the Field. You may place any Witnesses that modify skill checks under this card. No more than three cards may be under this card at any one time. Once per turn, you may play cards stored under this card for 1[RP] less. Discard this Resource and the cards under it when the card is negated or when the Agent's HEALTH is reduced to zero.",
+    "dialogue": "\"We have come together in this life, this time. Only to meet in passing. It is so\nheartbreaking to wait.\" - Melissa Riedal-Ephesian/Sarah Kavanaugh",
+    "tags": [
+      "Advanced"
+    ],
+    "createdBy": "Stephen Arvidson"
+  },
+  {
     "id": "XF23-0092x3v2",
     "title": "Encore",
     "set": "Believe the Lie",
