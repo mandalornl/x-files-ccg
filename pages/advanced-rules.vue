@@ -2323,20 +2323,14 @@ export default {
       return sample(pool.filter(({
         type,
         set
-      }) => type === value && ![
-        'Gen Con',
-        'Dream'
-      ].includes(set)));
+      }) => type === value && set !== 'Gen Con'));
     },
 
     drawCardByCostType(value) {
       return sample(pool.filter(({
         cost,
         set
-      }) => cost?.endsWith?.(value) && ![
-        'Gen Con',
-        'Dream'
-      ].includes(set)));
+      }) => cost?.endsWith?.(value) && set !== 'Gen Con'));
     },
 
     findCardById(value) {
