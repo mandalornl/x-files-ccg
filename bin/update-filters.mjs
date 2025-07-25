@@ -14,7 +14,7 @@ const pool = await Promise.all([
   'believe-the-lie',
   'promo',
   'gencon',
-  '100617',
+  'here-there-be-monsters',
   'classified',
   'i-want-to-believe',
   'my-struggle',

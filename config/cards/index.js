@@ -5,7 +5,7 @@ import scully from '~/config/cards/22364.json';
 import believeTheLie from '~/config/cards/believe-the-lie.json';
 import promo from '~/config/cards/promo.json';
 import gencon from '~/config/cards/gencon.json';
-import delaney from '~/config/cards/100617.json';
+import hereThereBeMonsters from '~/config/cards/here-there-be-monsters.json';
 import classified from '~/config/cards/classified.json';
 import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
 import myStruggle from '~/config/cards/my-struggle.json';
@@ -19,7 +19,7 @@ export const pool = [
   ...believeTheLie,
   ...promo,
   ...gencon,
-  ...delaney,
+  ...hereThereBeMonsters,
   ...classified,
   ...iWantToBelieve,
   ...myStruggle,
