@@ -6,7 +6,7 @@ export const xFiles = [
       method: 'Subterfuge',
       result: 'Abduction'
     },
-    'Artic Worm': {
+    'Arctic Worm': {
       affiliation: 'Alien',
       motive: 'Survival',
       method: 'Possession',
@@ -24,7 +24,7 @@ export const xFiles = [
       method: 'Subterfuge',
       result: 'Abduction'
     },
-    'Dod Kalm': {
+    'Død Kalm': {
       affiliation: 'Alien',
       motive: 'Control',
       method: 'Manipulation',
