@@ -12,6 +12,16 @@ import iWantToBelieve from '~/config/cards/i-want-to-believe.json';
 import myStruggle from '~/config/cards/my-struggle.json';
 import fireWalkWithMe from '~/config/cards/fire-walk-with-me.json';
 
+const getImageUrl = (card) => {
+  if (card.set === 'Classified' || card.set === 'Fight the Future') {
+    return 'images/back.jpg'
+  }
+
+  return `images/${card.set}/${card.id}.jpg`
+    .replaceAll(' ', '-')
+    .toLowerCase();
+};
+
 export const pool = [
   ...premiere,
   ...theTruthIsOutThere,
@@ -28,7 +38,5 @@ export const pool = [
   ...fireWalkWithMe
 ].map((card) => ({
   ...card,
-  image: `images/${card.set}/${card.id}.jpg`
-    .replaceAll(' ', '-')
-    .toLowerCase()
+  image: getImageUrl(card)
 }));
