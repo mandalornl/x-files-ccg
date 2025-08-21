@@ -549,7 +549,7 @@
     ],
     "gameText": "Play this card to increase the cost of all [RP] cards played at this Site by 1.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Increase Cost"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -571,7 +571,7 @@
     ],
     "gameText": "Play this card to add X [CP] to your [CP] pool. X = the number of [RP] spent at this Site by the Investigating Player.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Resource"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -593,7 +593,7 @@
     ],
     "gameText": "Play this card to increase the Cost of all [RP] cards played at this Site by 2.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Increase Cost"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -637,7 +637,7 @@
     ],
     "gameText": "Pay the listed [CP] cost where X = the number of [CP] paid to gain the desired modifier to one of the following skills: CLOSE RANGE COMBAT, LONG RANGE COMBAT. (1) = -1, (3) = -2, (5) = -3, (9) = -4.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Decrease Skill"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -725,7 +725,7 @@
     ],
     "gameText": "Play this card to double the [RP] cost of any Keyword ACTIVE card played at this Site.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Increase Cost"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -747,7 +747,7 @@
     ],
     "gameText": "Once this card is played, the investigating player may not play any COMBAT cards while investigating this Site, except for COMBAT cards which would specifically negate this card.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Prevent"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -791,7 +791,7 @@
     ],
     "gameText": "Play this card to immediately add one [CP] to your pool for every two [RP] the Investigating Team uses at this Site.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Resource"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -877,7 +877,7 @@
     ],
     "gameText": "Move up to two Bluffs to a different Site in play. Play this card before any other Bluffs are revealed.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Move"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -899,7 +899,7 @@
     ],
     "gameText": "Play this card to allow you to move one game effect token from any one card to another immediately. This may not take a card above the normal number of tokens allowed.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1150,7 +1150,7 @@
     ],
     "gameText": "Adds one to the Agent's HEALTH.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1194,7 +1194,7 @@
     ],
     "gameText": "Discard this card to add three to the Agent's CLOSE RANGE COMBAT skill.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Discard",
       "Increase Skill"
     ],
@@ -1242,7 +1242,7 @@
     ],
     "gameText": "Discard this card to add three to the Agent's LONG RANGE COMBAT skill.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Discard",
       "Increase Skill"
     ],
@@ -1402,7 +1402,7 @@
     ],
     "gameText": "Attach this Equipment to any Agent in the Field. Any ALIEN Adversary damaged by this weapon in CLOSE RANGE COMBAT is discarded prior to dealing damage in the Combat Round. The Alien Stiletto may be voluntarily discarded in the controlling player's Briefing Phase. Add 10 to your [RP] Pool and remove the Alien Stiletto from the game.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1466,7 +1466,7 @@
     ],
     "gameText": "While in play, you may take a second Conspiracy discard after your first (in the Briefing Phase). Discard when an opponent successfully investigates a site (directed at you) using ALIEN INVESTIGATION Skill.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1488,7 +1488,7 @@
     ],
     "gameText": "Place in an opponent's Field. An OCCULT Adversary may now be played as a Bluff (it is treated as a Bluff for all purposes). When revealed the Adversary may ignore Site Activator restrictions. Discard when a Keyword OCCULT INVESTIGATION Site is directed at you and investigated successfully.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1533,7 +1533,7 @@
     ],
     "gameText": "Place this card in one of your opponents Fields. Your opponent must subtract 2 from the [RP] he generates each turn while this card is in his Field. Your opponent may pay 7 [RP] to force you to discard this card.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1555,7 +1555,7 @@
     ],
     "gameText": "Attach this card to any Agent. As long as this card is in play, the controller of the attached Agent must play will all of the [RP] cost cards in his hand face up on the table. Place four counters on this card when it comes into play. Remove one counter each of the attached Agents' Briefing Phases. When the last counter is removed, discard this card.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1620,8 +1620,8 @@
     ],
     "gameText": "Play when Agent Fox Mulder is in combat. Assign all damage to Mulder first. After the combat, move Mulder to the Hospital with HEALTH zero. When Mulder leaves that Hospital, permanently add the following: +1 OCCULT INVESTIGATION, +1 ALIEN INVESTIGATION, +1 SCIENCES, +1 LONG RANGE COMBAT. Once per game you may ask an X-Files' identity without incurring a penalty question. Only one of this card may be in play.",
     "tags": [
-      "Affect Agent",
-      "Basic"
+      "Advanced",
+      "Affect Agent"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1691,8 +1691,8 @@
     ],
     "gameText": "Play on Agent Krycek when his team fails to successfully investigate a Keyword ALIEN INVESTIGATION Site (discard the Site). Place two tokens on this card. Remove a token to emit a blast of energy that causes 6 points of damage to all opponents during the Long Range Combat Round. Apply the following permanent modifiers: +1 ALIEN INVESTIGATION, +2 SUBTERFUGE, and +1 HEALTH.",
     "tags": [
-      "Affect Agent",
-      "Basic"
+      "Advanced",
+      "Affect Agent"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1715,7 +1715,7 @@
     ],
     "gameText": "Attach this card to an Agent in the Field. The Agent may attack any Team investigating a Site during his opponent's Investigation Phase. If the Agent is Negated, discard this card. If the Agent is reduced to zero HEALTH, remove the Agent from the game.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1784,8 +1784,8 @@
     ],
     "gameText": "Play this card to search through your Bureau Deck and put into play any Keyword ACTIVE card that specifically effects Skinner at zero Cost.",
     "tags": [
+      "Advanced",
       "Affect Agent",
-      "Basic",
       "Search"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -1807,7 +1807,7 @@
     ],
     "gameText": "Play this card in the Field during your opponents' Case Assignment Phase. You may place Bluff cards under this card face down at any time. No more than three cards may be under this card at any one time. During his Case Assignment Phase you may play cards stored under this card on any Site in the Field for 2 [CP] less.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1830,7 +1830,7 @@
     ],
     "gameText": "Place this card next to your X-File. You may draw one card for free in each of your opponents' Briefing Phases.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
@@ -1852,7 +1852,7 @@
     ],
     "gameText": "Place this card next to your X-File. Place up to three cards with a set CP cost from your hand under this card. These three cards can be used to negate any [RP] card with identical cost except Agents and Sites. This function requires zero [CP] cost. Discard both the played card and the card used to negate it. Discard this card when all cards underneath have been played.",
     "tags": [
-      "Basic",
+      "Advanced",
       "Negate"
     ],
     "createdBy": "NXT Games, USPCC"
@@ -1937,7 +1937,7 @@
     ],
     "gameText": "Play this card to allow you to exchange [RP] Pools with your opponent.",
     "tags": [
-      "Basic"
+      "Advanced"
     ],
     "createdBy": "NXT Games, USPCC"
   },
