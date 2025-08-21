@@ -59,4 +59,4 @@ export default {
 .rotate-n90 {
   transform: rotate(-90deg);
 }
-</style>/
+</style>
