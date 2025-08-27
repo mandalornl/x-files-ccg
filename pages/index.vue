@@ -1,60 +1,77 @@
 <template>
   <layout-default>
-    <h1>The X-Files Collectible Card Game</h1>
-    <p>Is an out-of-print collectible card game based on The X-Files fictional universe. It was developed by NXT Games and published by the US Playing Card Company (USPCC).</p>
-    <h2>Gameplay</h2>
-    <p>A game of The X-Files is played between two players using decks of cards representing characters, equipment, events, and locations from the television show. At the beginning of the game, each player selects an X-File card and places it face down, and the winner of the game is the first player to correctly guess the identity of the opponent's X-File. To gather clues about the X-File card, players play Site cards and move Agent cards to those locations. If they can fulfill the investigation requirements of the Site, they can ask a yes or no question about the opponent's X-File card. Players can attempt to interfere in their opponent's investigations by playing Event, Bluff, and Adversary cards of their own.</p>
-    <h2>History</h2>
-    <p>The Premier Set was released in 1996 and debuted at Gen Con. Initially, 80 million cards were shipped on November 1st, 1996. Over the next year, USPCC would create the first expansion, 101361, a 2nd edition set known as The Truth Is Out There, and a number of promotional cards. The second expansion, 22364 was apparently finished and ready to be produced, when the game was terminated in 1997. Three collector sets were also cancelled.</p>
-    <p class="text-caption">
-      Source:
+    <section class="mb-4">
+      <h1>Head on over to the Preservation Society Facebook page and join now!</h1>
       <a
-        href="https://en.wikipedia.org/wiki/The_X-Files_Collectible_Card_Game"
+        href="https://facebook.com/groups/xfilesccgps"
         target="_blank"
+        class="text-decoration-none"
       >
-        Wiki
+        <v-img
+          src="images/preservation-society-640.jpg"
+          srcset="images/preservation-society-640.jpg 640w,images/preservation-society-768.jpg 768w,images/preservation-society-1024.jpg 1024w,images/preservation-society-1366.jpg 1366w,images/preservation-society-1600.jpg 1600w,images/preservation-society-1920.jpg 1920w,images/preservation-society-1920.jpg"
+          sizes="100vw"
+          alt="Preservation Society"
+        />
       </a>
-    </p>
-    <h2>Links</h2>
-    <v-row>
-      <v-col
-        cols="12"
-        sm="9"
-        md="8"
-        lg="7"
-      >
-        <v-list>
-          <v-list-item
-            v-for="item in links"
-            :key="item.href"
-            :href="item.href"
-            :three-line="item.multiline"
-            target="_blank"
-            color="primary"
-          >
-            <v-list-item-avatar
-              :color="item.inverseColor ? item.color : 'white'"
-              size="28"
+    </section>
+    <section>
+      <h1>The X-Files Collectible Card Game</h1>
+      <p>Is an out-of-print collectible card game based on The X-Files fictional universe. It was developed by NXT Games and published by the US Playing Card Company (USPCC).</p>
+      <h2>Gameplay</h2>
+      <p>A game of The X-Files is played between two players using decks of cards representing characters, equipment, events, and locations from the television show. At the beginning of the game, each player selects an X-File card and places it face down, and the winner of the game is the first player to correctly guess the identity of the opponent's X-File. To gather clues about the X-File card, players play Site cards and move Agent cards to those locations. If they can fulfill the investigation requirements of the Site, they can ask a yes or no question about the opponent's X-File card. Players can attempt to interfere in their opponent's investigations by playing Event, Bluff, and Adversary cards of their own.</p>
+      <h2>History</h2>
+      <p>The Premier Set was released in 1996 and debuted at Gen Con. Initially, 80 million cards were shipped on November 1st, 1996. Over the next year, USPCC would create the first expansion, 101361, a 2nd edition set known as The Truth Is Out There, and a number of promotional cards. The second expansion, 22364 was apparently finished and ready to be produced, when the game was terminated in 1997. Three collector sets were also cancelled.</p>
+      <p class="text-caption">
+        Source:
+        <a
+          href="https://en.wikipedia.org/wiki/The_X-Files_Collectible_Card_Game"
+          target="_blank"
+        >
+          Wiki
+        </a>
+      </p>
+      <h2>Links</h2>
+      <v-row>
+        <v-col
+          cols="12"
+          sm="9"
+          md="8"
+          lg="7"
+        >
+          <v-list>
+            <v-list-item
+              v-for="item in links"
+              :key="item.href"
+              :href="item.href"
+              :three-line="item.multiline"
+              target="_blank"
+              color="primary"
             >
-              <v-icon
-                :color="item.inverseColor ? 'white' : item.color"
-                size="24"
+              <v-list-item-avatar
+                :color="item.inverseColor ? item.color : 'white'"
+                size="28"
               >
-                {{ item.icon }}
-              </v-icon>
-            </v-list-item-avatar>
-            <v-list-item-content>
-              <v-list-item-title>
-                {{ item.title }}
-              </v-list-item-title>
-              <v-list-item-subtitle>
-                {{ item.subtitle }}
-              </v-list-item-subtitle>
-            </v-list-item-content>
-          </v-list-item>
-        </v-list>
-      </v-col>
-    </v-row>
+                <v-icon
+                  :color="item.inverseColor ? 'white' : item.color"
+                  size="24"
+                >
+                  {{ item.icon }}
+                </v-icon>
+              </v-list-item-avatar>
+              <v-list-item-content>
+                <v-list-item-title>
+                  {{ item.title }}
+                </v-list-item-title>
+                <v-list-item-subtitle>
+                  {{ item.subtitle }}
+                </v-list-item-subtitle>
+              </v-list-item-content>
+            </v-list-item>
+          </v-list>
+        </v-col>
+      </v-row>
+    </section>
   </layout-default>
 </template>
 
