@@ -1,7 +1,7 @@
 <template>
   <layout-default>
     <section class="mb-4">
-      <h1>Head on over to the The X-Files CCG Preservation Society Facebook page and join now!</h1>
+      <h1>Head on over to the <span>The X-Files CCG Preservation Society</span> Facebook page and join now!</h1>
       <a
         href="https://facebook.com/groups/xfilesccgps"
         target="_blank"
@@ -148,3 +148,9 @@ export default {
   })
 }
 </script>
+
+<style lang="scss" scoped>
+h1 span {
+  color: var(--v-primary-base);
+}
+</style>
