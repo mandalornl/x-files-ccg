@@ -79,17 +79,6 @@ export default {
           label,
           count
         }));
-    },
-
-    labels() {
-      return Object.entries(this.stats).map(([
-        label,
-        count
-      ]) => `${label} (${count})`);
-    },
-
-    values() {
-      return Object.values(this.stats);
     }
   }
 }
