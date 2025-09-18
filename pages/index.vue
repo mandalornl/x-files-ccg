@@ -9,7 +9,7 @@
       >
         <v-img
           src="images/preservation-society-640.jpg"
-          srcset="images/preservation-society-640.jpg 640w,images/preservation-society-768.jpg 768w,images/preservation-society-1024.jpg 1024w,images/preservation-society-1366.jpg 1366w,images/preservation-society-1600.jpg 1600w,images/preservation-society-1920.jpg 1920w,images/preservation-society-1920.jpg"
+          srcset="images/preservation-society-640.jpg 640w,images/preservation-society-768.jpg 768w,images/preservation-society-1024.jpg 1024w,images/preservation-society-1366.jpg 1366w,images/preservation-society-1600.jpg 1600w,images/preservation-society-1920.jpg 1920w"
           sizes="100vw"
           alt="Preservation Society"
         />
