@@ -7,6 +7,7 @@ import {
 } from 'url';
 import XLSX, { utils } from 'xlsx';
 
+// TODO: Change values before running!
 const sheetName = '';
 const set = '';
 const rarity = '';
@@ -99,7 +100,7 @@ const getEpisode = (value, type) => {
   }
 
   if (episode.endsWith('"')) {
-    episode = episode.slice(-1);
+    episode = episode.slice(0, -1);
   }
 
   return {
