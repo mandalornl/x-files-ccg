@@ -3,6 +3,7 @@ import theTruthIsOutThere from '~/config/cards/the-truth-is-out-there.json';
 import mulder from '~/config/cards/101361.json';
 import scully from '~/config/cards/22364.json';
 import believeTheLie from '~/config/cards/believe-the-lie.json';
+import resistOrServe from '~/config/cards/resist-or-serve.json';
 import promo from '~/config/cards/promo.json';
 import gencon from '~/config/cards/gencon.json';
 import fightTheFuture from '~/config/cards/fight-the-future.json';
@@ -28,6 +29,7 @@ export const pool = [
   ...mulder,
   ...scully,
   ...believeTheLie,
+  ...resistOrServe,
   ...promo,
   ...gencon,
   ...fightTheFuture,
