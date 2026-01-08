@@ -1,11 +1,25 @@
 <template>
-  <v-container :fluid="fluid">
-    <v-row justify="center">
+  <v-container class="fill-height">
+    <v-row
+      justify="center"
+      align="center"
+    >
       <v-col
-        :lg="large ? 12 : 11"
-        :xl="large ? 10 : 9"
+        cols="12"
+        sm="10"
+        md="8"
+        lg="6"
+        xl="4"
       >
-        <slot />
+        <div class="text-center">
+          <img
+            src="/logo.svg"
+            alt="The X-Files CCG"
+            width="240"
+            height="48"
+          >
+          <slot />
+        </div>
       </v-col>
     </v-row>
   </v-container>
@@ -14,16 +28,5 @@
 <script>
 export default {
   name: 'LayoutDefault',
-
-  props: {
-    fluid: {
-      type: Boolean,
-      default: false
-    },
-    large: {
-      type: Boolean,
-      default: false
-    }
-  }
-}
+};
 </script>

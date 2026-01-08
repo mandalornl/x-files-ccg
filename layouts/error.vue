@@ -18,26 +18,31 @@ export default {
   props: {
     error: {
       type: Object,
-      default: () => ({})
-    }
+      default: () => ({}),
+    },
   },
 
   head() {
     return {
-      title: this.message
+      title: this.message,
     };
   },
 
   computed: {
     message() {
       switch (this.error.statusCode) {
-        case 400: return 'Bad request';
-        case 401: return 'Unauthorized';
-        case 403: return 'Access denied';
-        case 404: return 'Not found';
-        default: return 'An error occurred';
+        case 400:
+          return 'Bad request';
+        case 401:
+          return 'Unauthorized';
+        case 403:
+          return 'Access denied';
+        case 404:
+          return 'Not found';
+        default:
+          return 'An error occurred';
       }
-    }
-  }
-}
+    },
+  },
+};
 </script>
