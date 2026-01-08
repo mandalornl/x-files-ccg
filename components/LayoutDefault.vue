@@ -13,7 +13,7 @@
       >
         <div class="text-center">
           <img
-            src="/logo.svg"
+            src="logo.svg"
             alt="The X-Files CCG"
             width="240"
             height="48"
